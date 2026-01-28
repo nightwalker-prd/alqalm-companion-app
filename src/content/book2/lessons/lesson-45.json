@@ -1,0 +1,141 @@
+{
+  "id": "b2-l45",
+  "book": 2,
+  "lesson": 45,
+  "title": "عَطْف الْبَيَان",
+  "titleEn": "Explicative Apposition",
+  "description": "Learn about عَطْف الْبَيَان (explicative apposition), how it differs from البدل, and its use in clarifying nouns.",
+  "vocabulary": ["word-b2-347", "word-b2-348", "word-b2-349", "word-b2-350", "word-b2-351", "word-b2-352"],
+  "grammarPoints": ["gp-b2-057", "gp-b2-058"],
+  "notes": [
+    {
+      "title": "What is عطف البيان?",
+      "titleArabic": "تعريف عطف البيان",
+      "content": [
+        "عطف البيان is a tābic (follower) that clarifies the word before it, like how a proper noun clarifies a common noun.",
+        "For example: جَاءَ الْخَلِيفَةُ عُمَرُ (The caliph, Umar, came). Here عُمَرُ clarifies الْخَلِيفَةُ."
+      ],
+      "keyPoints": [
+        "Clarifies the word it follows (متبوع)",
+        "Must agree in case with the word it follows",
+        "Often uses a proper noun to clarify a common noun",
+        "Similar to البدل but has subtle differences"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْخَلِيفَةُ عُمَرُ", "english": "The caliph Umar came" },
+        { "arabic": "رَأَيْتُ الشَّاعِرَ الْمُتَنَبِّيَ", "english": "I saw the poet Al-Mutanabbi" },
+        { "arabic": "قَرَأْتُ سُورَةَ الْفَاتِحَةِ", "english": "I read Surat Al-Fatiha" },
+        { "arabic": "زُرْتُ الإِمَامَ أَحْمَدَ", "english": "I visited Imam Ahmad" }
+      ]
+    },
+    {
+      "title": "Difference from البدل",
+      "titleArabic": "الفرق بين عطف البيان والبدل",
+      "content": [
+        "Both عطف البيان and البدل involve a following noun that relates to the first, but they differ in their relationship.",
+        "In البدل, the second noun can replace the first in meaning. In عطف البيان, the second simply clarifies without replacement."
+      ],
+      "keyPoints": [
+        "البدل: The second can stand alone replacing the first",
+        "عطف البيان: The second only clarifies, cannot replace",
+        "عطف البيان often has جنس + proper noun structure",
+        "Test: Can you remove the first word? If no → عطف البيان"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ أَخُوكَ زَيْدٌ (بدل)", "english": "Your brother Zaid came (بدل - Zaid can replace)" },
+        { "arabic": "جَاءَ الْخَلِيفَةُ عُمَرُ (عطف بيان)", "english": "The caliph Umar came (عطف بيان - الخليفة needed)" },
+        { "arabic": "هَذَا الصَّحَابِيُّ بِلَالٌ", "english": "This companion is Bilal" },
+        { "arabic": "حَضَرَ الْمَلِكُ فَهْدٌ", "english": "King Fahd attended" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l45-ex01",
+      "type": "fill-blank",
+      "prompt": "جَاءَ الْخَلِيفَةُ _____",
+      "promptEn": "The caliph _____ came",
+      "answer": "عُمَرُ",
+      "itemIds": ["word-b2-347"]
+    },
+    {
+      "id": "b2-l45-ex02",
+      "type": "fill-blank",
+      "prompt": "قَرَأْتُ سُورَةَ _____",
+      "promptEn": "I read Surat _____",
+      "answer": "الْفَاتِحَةِ",
+      "itemIds": ["word-b2-348"]
+    },
+    {
+      "id": "b2-l45-ex03",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ الشَّاعِرَ _____",
+      "promptEn": "I saw the poet _____",
+      "answer": "الْمُتَنَبِّيَ",
+      "itemIds": ["word-b2-349"]
+    },
+    {
+      "id": "b2-l45-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "I visited Imam Ahmad",
+      "answer": "زُرْتُ الإِمَامَ أَحْمَدَ",
+      "itemIds": ["word-b2-350"]
+    },
+    {
+      "id": "b2-l45-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "The companion Bilal was present",
+      "answer": "حَضَرَ الصَّحَابِيُّ بِلَالٌ",
+      "itemIds": ["word-b2-351"]
+    },
+    {
+      "id": "b2-l45-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I met the scholar Ibn Taymiyyah",
+      "answer": "قَابَلْتُ الْعَالِمَ ابْنَ تَيْمِيَّةَ",
+      "itemIds": ["word-b2-352"]
+    },
+    {
+      "id": "b2-l45-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The poet Al-Mutanabbi is famous",
+      "answer": "الشَّاعِرُ الْمُتَنَبِّي مَشْهُورٌ",
+      "itemIds": ["word-b2-349"]
+    },
+    {
+      "id": "b2-l45-ex08",
+      "type": "word-to-meaning",
+      "prompt": "خَلِيفَة",
+      "answer": "caliph / successor",
+      "itemIds": ["word-b2-347"]
+    },
+    {
+      "id": "b2-l45-ex09",
+      "type": "word-to-meaning",
+      "prompt": "صَحَابِيّ",
+      "answer": "companion (of the Prophet)",
+      "itemIds": ["word-b2-351"]
+    },
+    {
+      "id": "b2-l45-ex10",
+      "type": "word-to-meaning",
+      "prompt": "سُورَة",
+      "answer": "chapter (of Quran)",
+      "itemIds": ["word-b2-348"]
+    },
+    {
+      "id": "b2-l45-ex11",
+      "type": "meaning-to-word",
+      "prompt": "poet",
+      "answer": "شَاعِرٌ",
+      "itemIds": ["word-b2-349"]
+    },
+    {
+      "id": "b2-l45-ex12",
+      "type": "meaning-to-word",
+      "prompt": "imam / leader",
+      "answer": "إِمَامٌ",
+      "itemIds": ["word-b2-350"]
+    }
+  ]
+}

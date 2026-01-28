@@ -1,0 +1,141 @@
+{
+  "id": "b2-l41",
+  "book": 2,
+  "lesson": 41,
+  "title": "الصِّفَة الْمُشَبَّهَة (١)",
+  "titleEn": "Resembling Adjective - Patterns",
+  "description": "Learn the patterns of الصِّفَة الْمُشَبَّهَة (resembling adjective) including فَعِيل، فَعِل، فَعْلَان، and أَفْعَل.",
+  "vocabulary": ["word-b2-323", "word-b2-324", "word-b2-325", "word-b2-326", "word-b2-327", "word-b2-328"],
+  "grammarPoints": ["gp-b2-049", "gp-b2-050"],
+  "notes": [
+    {
+      "title": "What is الصفة المشبهة?",
+      "titleArabic": "تعريف الصفة المشبهة",
+      "content": [
+        "الصفة المشبهة (the resembling adjective) is derived from intransitive verbs and indicates a permanent quality or characteristic.",
+        "Unlike اسم الفاعل which indicates a temporary action, الصفة المشبهة describes inherent, lasting qualities."
+      ],
+      "keyPoints": [
+        "Derived from intransitive (لازم) verbs",
+        "Indicates permanent qualities (صفات ثابتة)",
+        "Examples: كَرِيمٌ (generous), حَسَنٌ (good), عَطْشَانٌ (thirsty)",
+        "Different from اسم الفاعل which is temporary"
+      ],
+      "examples": [
+        { "arabic": "هُوَ رَجُلٌ كَرِيمٌ", "english": "He is a generous man" },
+        { "arabic": "الْوَلَدُ حَسَنُ الْخُلُقِ", "english": "The boy is good in character" },
+        { "arabic": "هِيَ جَمِيلَةٌ", "english": "She is beautiful" },
+        { "arabic": "الْبَابُ ضَيِّقٌ", "english": "The door is narrow" }
+      ]
+    },
+    {
+      "title": "Common Patterns",
+      "titleArabic": "الأوزان الشائعة",
+      "content": [
+        "الصفة المشبهة has several common patterns: فَعِيل (كَرِيم)، فَعِل (حَسَن)، فَعْلَان (عَطْشَان)، أَفْعَل (أَحْمَر).",
+        "Each pattern often has a particular meaning or category of qualities it describes."
+      ],
+      "keyPoints": [
+        "فَعِيل: كَرِيم (generous), عَظِيم (great), جَمِيل (beautiful)",
+        "فَعِل: حَسَن (good), بَطَل (hero), حَذِر (cautious)",
+        "فَعْلَان: عَطْشَان (thirsty), جَوْعَان (hungry), غَضْبَان (angry)",
+        "أَفْعَل: أَحْمَر (red), أَسْوَد (black), أَعْرَج (lame)"
+      ],
+      "examples": [
+        { "arabic": "الرَّجُلُ عَظِيمٌ", "english": "The man is great" },
+        { "arabic": "الطِّفْلُ عَطْشَانُ", "english": "The child is thirsty" },
+        { "arabic": "الْوَرْدُ أَحْمَرُ", "english": "The rose is red" },
+        { "arabic": "هُوَ حَذِرٌ جِدًّا", "english": "He is very cautious" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l41-ex01",
+      "type": "fill-blank",
+      "prompt": "الرَّجُلُ _____ بِأَمْوَالِهِ",
+      "promptEn": "The man is _____ with his money",
+      "answer": "كَرِيمٌ",
+      "itemIds": ["word-b2-323"]
+    },
+    {
+      "id": "b2-l41-ex02",
+      "type": "fill-blank",
+      "prompt": "الطِّفْلُ _____ يُرِيدُ الْمَاءَ",
+      "promptEn": "The child is _____, he wants water",
+      "answer": "عَطْشَانُ",
+      "itemIds": ["word-b2-325"]
+    },
+    {
+      "id": "b2-l41-ex03",
+      "type": "fill-blank",
+      "prompt": "هَذَا الْعَمَلُ _____",
+      "promptEn": "This work is _____",
+      "answer": "عَظِيمٌ",
+      "itemIds": ["word-b2-324"]
+    },
+    {
+      "id": "b2-l41-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The boy is good-natured",
+      "answer": "الْوَلَدُ حَسَنُ الْخُلُقِ",
+      "itemIds": ["word-b2-326", "word-b2-328"]
+    },
+    {
+      "id": "b2-l41-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "She is beautiful and generous",
+      "answer": "هِيَ جَمِيلَةٌ وَكَرِيمَةٌ",
+      "itemIds": ["word-b2-327", "word-b2-323"]
+    },
+    {
+      "id": "b2-l41-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The man is hungry",
+      "answer": "الرَّجُلُ جَوْعَانُ",
+      "itemIds": ["word-b2-325"]
+    },
+    {
+      "id": "b2-l41-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "This is a great deed",
+      "answer": "هَذَا عَمَلٌ عَظِيمٌ",
+      "itemIds": ["word-b2-324"]
+    },
+    {
+      "id": "b2-l41-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كَرِيمٌ",
+      "answer": "generous",
+      "itemIds": ["word-b2-323"]
+    },
+    {
+      "id": "b2-l41-ex09",
+      "type": "word-to-meaning",
+      "prompt": "عَطْشَانُ",
+      "answer": "thirsty",
+      "itemIds": ["word-b2-325"]
+    },
+    {
+      "id": "b2-l41-ex10",
+      "type": "word-to-meaning",
+      "prompt": "حَسَنٌ",
+      "answer": "good / beautiful",
+      "itemIds": ["word-b2-326"]
+    },
+    {
+      "id": "b2-l41-ex11",
+      "type": "meaning-to-word",
+      "prompt": "great / magnificent",
+      "answer": "عَظِيمٌ",
+      "itemIds": ["word-b2-324"]
+    },
+    {
+      "id": "b2-l41-ex12",
+      "type": "meaning-to-word",
+      "prompt": "beautiful (fem.)",
+      "answer": "جَمِيلَةٌ",
+      "itemIds": ["word-b2-327"]
+    }
+  ]
+}

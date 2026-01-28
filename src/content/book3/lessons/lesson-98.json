@@ -1,0 +1,224 @@
+{
+  "id": "b3-l98",
+  "book": 3,
+  "lesson": 98,
+  "title": "الأَعْدَادُ التَّرْتِيبِيَّةُ",
+  "titleEn": "Ordinal Numbers",
+  "description": "Learn about الأعداد الترتيبية (ordinal numbers) - first, second, third, etc. - their patterns, gender agreement, and usage in Arabic.",
+  "vocabulary": ["word-b3-618", "word-b3-619", "word-b3-620", "word-b3-621", "word-b3-622"],
+  "grammarPoints": ["gp-b3-158", "gp-b3-159"],
+  "notes": [
+    {
+      "title": "What are Ordinal Numbers?",
+      "titleArabic": "مَا هِيَ الأَعْدَادُ التَّرْتِيبِيَّةُ؟",
+      "content": [
+        "الأَعْدَاد التَّرْتِيبِيَّة (ordinal numbers) indicate position in a sequence: first, second, third, etc. They answer 'which number in order?' rather than 'how many?'",
+        "Unlike cardinal numbers (أَعْدَاد أَصْلِيَّة) which count quantity, ordinals show rank or sequence. They behave grammatically like adjectives (صِفَات) and follow the noun they describe."
+      ],
+      "keyPoints": [
+        "Indicate position in sequence",
+        "الأَوَّل، الثَّانِي، الثَّالِث...",
+        "Function as adjectives",
+        "Follow the described noun"
+      ],
+      "examples": [
+        { "arabic": "الْكِتَابُ الأَوَّلُ", "english": "The first book" },
+        { "arabic": "الطَّالِبَةُ الثَّانِيَةُ", "english": "The second (female) student" },
+        { "arabic": "الْفَصْلُ الثَّالِثُ", "english": "The third chapter" },
+        { "arabic": "السَّنَةُ الرَّابِعَةُ", "english": "The fourth year" }
+      ]
+    },
+    {
+      "title": "Ordinals 1-10",
+      "titleArabic": "التَّرْتِيبِيَّةُ مِنْ 1-10",
+      "content": [
+        "The ordinals 1-10 follow the pattern فَاعِل (for 1-10 masculine): أَوَّل، ثَانٍ، ثَالِث، رَابِع، خَامِس، سَادِس، سَابِع، ثَامِن، تَاسِع، عَاشِر.",
+        "For feminine, add ة: أُولَى، ثَانِيَة، ثَالِثَة، رَابِعَة، خَامِسَة، سَادِسَة، سَابِعَة، ثَامِنَة، تَاسِعَة، عَاشِرَة. Note: أَوَّل becomes أُولَى (not *أَوَّلَة)."
+      ],
+      "keyPoints": [
+        "Masculine: فَاعِل pattern",
+        "Feminine: add ة (except أُولَى)",
+        "ثَانٍ: deficient noun (الاسم المنقوص)",
+        "Agree with described noun in gender"
+      ],
+      "examples": [
+        { "arabic": "أَوَّل / أُولَى", "english": "First (m/f)" },
+        { "arabic": "ثَانٍ / ثَانِيَة", "english": "Second (m/f)" },
+        { "arabic": "ثَالِث / ثَالِثَة", "english": "Third (m/f)" },
+        { "arabic": "رَابِع، خَامِس، سَادِس، سَابِع، ثَامِن، تَاسِع، عَاشِر", "english": "4th, 5th, 6th, 7th, 8th, 9th, 10th (masc)" }
+      ]
+    },
+    {
+      "title": "Ordinals 11-19",
+      "titleArabic": "التَّرْتِيبِيَّةُ مِنْ 11-19",
+      "content": [
+        "For 11-19, the first part uses ordinal form and the second is عَشَر (m) or عَشْرَة (f). Both parts agree with the noun in gender (unlike cardinals!).",
+        "Masculine: الْحَادِي عَشَرَ، الثَّانِي عَشَرَ، الثَّالِثَ عَشَرَ... الْعِشْرِينَ. Feminine: الْحَادِيَةَ عَشْرَةَ، الثَّانِيَةَ عَشْرَةَ... These are مَبْنِيّ on فَتْح."
+      ],
+      "keyPoints": [
+        "Both parts agree in gender",
+        "Masculine: الثَّالِثَ عَشَرَ",
+        "Feminine: الثَّالِثَةَ عَشْرَةَ",
+        "مَبْنِيّ على فتح الجزأين"
+      ],
+      "examples": [
+        { "arabic": "الْكِتَابُ الْحَادِي عَشَرَ", "english": "The eleventh book" },
+        { "arabic": "الصَّفْحَةُ الثَّانِيَةَ عَشْرَةَ", "english": "The twelfth page" },
+        { "arabic": "الْقَرْنُ الْخَامِسَ عَشَرَ", "english": "The fifteenth century" },
+        { "arabic": "السَّنَةُ التَّاسِعَةَ عَشْرَةَ", "english": "The nineteenth year" }
+      ]
+    },
+    {
+      "title": "Ordinals 20 and Above",
+      "titleArabic": "التَّرْتِيبِيَّةُ مِنْ 20 فَأَكْثَر",
+      "content": [
+        "For tens (20, 30, etc.), the cardinal form is used as ordinal: الْعِشْرُونَ، الثَّلَاثُونَ، الأَرْبَعُونَ... These don't have separate ordinal forms.",
+        "For compounds (21, 22, etc.), the units are ordinal and the tens are cardinal: الْحَادِي وَالْعِشْرُونَ، الثَّانِي وَالْعِشْرُونَ. The unit's ordinal agrees in gender with the noun."
+      ],
+      "keyPoints": [
+        "Tens: same as cardinal form",
+        "الْعِشْرُونَ، الثَّلَاثُونَ...",
+        "Compounds: ordinal + cardinal",
+        "الْحَادِي وَالْعِشْرُونَ (21st)"
+      ],
+      "examples": [
+        { "arabic": "الْقَرْنُ الْعِشْرُونَ", "english": "The twentieth century" },
+        { "arabic": "الْيَوْمُ الْحَادِي وَالْعِشْرُونَ", "english": "The twenty-first day" },
+        { "arabic": "السَّنَةُ الثَّانِيَةُ وَالْعِشْرُونَ", "english": "The twenty-second year" },
+        { "arabic": "الصَّفْحَةُ الْمِائَةُ", "english": "The hundredth page" }
+      ]
+    },
+    {
+      "title": "Gender Agreement",
+      "titleArabic": "الْمُطَابَقَةُ فِي الْجِنْسِ",
+      "content": [
+        "Ordinal numbers AGREE with their noun in gender (unlike cardinal numbers 3-10 which reverse). This is because ordinals function as adjectives (صفات), not as counted nouns.",
+        "Masculine noun = masculine ordinal: الْبَابُ الثَّالِثُ. Feminine noun = feminine ordinal: السَّاعَةُ الثَّالِثَةُ. This agreement is consistent throughout."
+      ],
+      "keyPoints": [
+        "Ordinals AGREE in gender",
+        "Like adjectives, not cardinals",
+        "Masculine: الثَّالِثُ",
+        "Feminine: الثَّالِثَةُ"
+      ],
+      "examples": [
+        { "arabic": "الْوَلَدُ الثَّالِثُ (مذكر + مذكر)", "english": "The third boy (masc + masc)" },
+        { "arabic": "الْبِنْتُ الثَّالِثَةُ (مؤنث + مؤنث)", "english": "The third girl (fem + fem)" },
+        { "arabic": "الدَّرْسُ الْخَامِسُ", "english": "The fifth lesson (masc)" },
+        { "arabic": "الْمُحَاضَرَةُ الْخَامِسَةُ", "english": "The fifth lecture (fem)" }
+      ]
+    },
+    {
+      "title": "Case and Usage",
+      "titleArabic": "الإِعْرَابُ وَالاسْتِعْمَالُ",
+      "content": [
+        "Ordinals decline like regular adjectives - they take the case of the noun they describe: الْكِتَابُ الأَوَّلُ (nom.), الْكِتَابَ الأَوَّلَ (acc.), الْكِتَابِ الأَوَّلِ (gen.).",
+        "They can be used predicatively: هَذَا هُوَ الأَوَّلُ (This is the first). Or independently: جَاءَ الأَوَّلُ (The first came). When definite, they require أَلْ or إِضَافَة."
+      ],
+      "keyPoints": [
+        "Decline like adjectives",
+        "Match noun in case",
+        "Can be attributive or predicative",
+        "Need أَلْ or إضافة for definiteness"
+      ],
+      "examples": [
+        { "arabic": "قَرَأْتُ الْفَصْلَ الثَّالِثَ (نصب)", "english": "I read the third chapter (accusative)" },
+        { "arabic": "فِي الصَّفِّ الْخَامِسِ (جر)", "english": "In the fifth class (genitive)" },
+        { "arabic": "هُوَ ثَالِثُ ثَلَاثَةٍ", "english": "He is the third of three (إضافة)" },
+        { "arabic": "أَوَّلُ مَنْ جَاءَ", "english": "The first who came (إضافة)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l98-ex01",
+      "type": "fill-blank",
+      "prompt": "الأَعْدَادُ التَّرْتِيبِيَّةُ تَدُلُّ عَلَى _____ فِي سِلْسِلَة",
+      "promptEn": "Ordinal numbers indicate _____ in a sequence",
+      "answer": "التَّرْتِيبِ",
+      "itemIds": ["word-b3-618"]
+    },
+    {
+      "id": "b3-l98-ex02",
+      "type": "fill-blank",
+      "prompt": "الْكِتَابُ _____، الصَّفْحَةُ الأُولَى",
+      "promptEn": "The _____ book, the first page",
+      "answer": "الأَوَّلُ",
+      "itemIds": ["word-b3-619"]
+    },
+    {
+      "id": "b3-l98-ex03",
+      "type": "fill-blank",
+      "prompt": "الأَعْدَادُ التَّرْتِيبِيَّةُ تُطَابِقُ الاسْمَ فِي _____ (الجنس/العدد)",
+      "promptEn": "Ordinal numbers agree with the noun in _____ (gender/number)",
+      "answer": "الْجِنْسِ",
+      "itemIds": ["word-b3-620"]
+    },
+    {
+      "id": "b3-l98-ex04",
+      "type": "fill-blank",
+      "prompt": "الْقَرْنُ الْحَادِي _____",
+      "promptEn": "The twenty-first century = الْقَرْنُ الْحَادِي _____",
+      "answer": "وَالْعِشْرُونَ",
+      "itemIds": ["word-b3-621"]
+    },
+    {
+      "id": "b3-l98-ex05",
+      "type": "fill-blank",
+      "prompt": "السَّنَةُ الثَّانِيَةَ _____ (12th - feminine)",
+      "promptEn": "The twelfth year = السَّنَةُ الثَّانِيَةَ _____",
+      "answer": "عَشْرَةَ",
+      "itemIds": ["word-b3-622"]
+    },
+    {
+      "id": "b3-l98-ex06",
+      "type": "fill-blank",
+      "prompt": "الْمُؤَنَّثُ مِنْ 'أَوَّل' هُوَ: _____",
+      "promptEn": "The feminine of 'أَوَّل' is: _____",
+      "answer": "أُولَى",
+      "itemIds": ["word-b3-619"]
+    },
+    {
+      "id": "b3-l98-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الأَعْدَادُ التَّرْتِيبِيَّةُ",
+      "answer": "Ordinal numbers (first, second, third, etc.)",
+      "itemIds": ["word-b3-618"]
+    },
+    {
+      "id": "b3-l98-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الثَّالِثُ / الثَّالِثَةُ",
+      "answer": "Third (masculine / feminine)",
+      "itemIds": ["word-b3-620"]
+    },
+    {
+      "id": "b3-l98-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْحَادِي عَشَرَ",
+      "answer": "Eleventh (masculine)",
+      "itemIds": ["word-b3-621"]
+    },
+    {
+      "id": "b3-l98-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Fourth (masculine)",
+      "answer": "الرَّابِعُ",
+      "itemIds": ["word-b3-618"]
+    },
+    {
+      "id": "b3-l98-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The fifteenth page (feminine)",
+      "answer": "الصَّفْحَةُ الْخَامِسَةَ عَشْرَةَ",
+      "itemIds": ["word-b3-622"]
+    },
+    {
+      "id": "b3-l98-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Tenth (masculine)",
+      "answer": "الْعَاشِرُ",
+      "itemIds": ["word-b3-618"]
+    }
+  ]
+}

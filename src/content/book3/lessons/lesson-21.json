@@ -1,0 +1,168 @@
+{
+  "id": "b3-l21",
+  "book": 3,
+  "lesson": 21,
+  "title": "أَعْلَمَ وَأَخَوَاتُهَا",
+  "titleEn": "Verbs Taking Three Objects",
+  "notes": [
+    {
+      "title": "Verbs Taking Three Objects",
+      "titleArabic": "أفعال تنصب ثلاثة مفاعيل",
+      "content": [
+        "Some verbs can take three objects in the accusative case. These include أَعْلَمَ (to inform), أَرَى (to show), and حَدَّثَ (to tell). The three objects represent the person informed, the thing informed about, and its description."
+      ],
+      "keyPoints": [
+        "أَعْلَمَ: أَعْلَمْتُهُ الأَمْرَ سَهْلًا (I informed him the matter [is] easy)",
+        "أَرَى: أَرَانِي الطَّرِيقَ وَاضِحًا (He showed me the path clear)",
+        "These are causative forms of verbs taking two objects"
+      ],
+      "examples": [
+        { "arabic": "أَعْلَمَ الْمُعَلِّمُ الطَّالِبَ الدَّرْسَ سَهْلًا", "english": "The teacher informed the student the lesson is easy" },
+        { "arabic": "أَنْبَأْتُهُ الْخَبَرَ صَحِيحًا", "english": "I informed him the news is true" }
+      ]
+    },
+    {
+      "title": "Particle لَيْتَ (Wish)",
+      "titleArabic": "حرف التمني لَيْتَ",
+      "content": [
+        "لَيْتَ is a particle expressing wish or desire, often for something impossible or difficult to achieve. It behaves like إِنَّ, taking a noun in the accusative."
+      ],
+      "keyPoints": [
+        "Expresses wishes (often unattainable)",
+        "Takes ism (accusative) and khabar like إِنَّ",
+        "يَا لَيْتَ adds emphasis to the wish",
+        "لَيْتَنِي = I wish that I..."
+      ],
+      "examples": [
+        { "arabic": "لَيْتَ الشَّبَابَ يَعُودُ يَوْمًا", "english": "Would that youth returns one day" },
+        { "arabic": "يَا لَيْتَنِي كُنْتُ مَعَهُمْ", "english": "Oh, how I wish I was with them" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-113",
+    "word-b3-114",
+    "word-b3-115",
+    "word-b3-116",
+    "word-b3-117"
+  ],
+  "grammarPoints": [
+    "gp-b3-021"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l21-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ المُعَلِّمُ الطَّالِبَ الدَّرْسَ سَهْلاً (أَعْلَمَ)",
+      "answer": "أَعْلَمَ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I informed him (that) the matter (is) easy",
+      "answer": "أَنْبَأْتُهُ الأَمْرَ سَهْلاً",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ اللهُ إِبْرَاهِيمَ الحَقَّ (أَرَى)",
+      "answer": "أَرَى",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex04",
+      "type": "word-to-meaning",
+      "prompt": "أَعْلَمَ",
+      "answer": "to inform (someone of something)",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to show/make see",
+      "answer": "أَرَى",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He informed us (that) the news (is) true",
+      "answer": "أَنْبَأَنَا الخَبَرَ صَحِيحًا",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex07",
+      "type": "fill-blank",
+      "prompt": "_____ الأُسْتَاذُ الطُّلاَّبَ القِصَّةَ عَجِيبَةً (حَدَّثَ)",
+      "answer": "حَدَّثَ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَنْبَأَ",
+      "answer": "to inform/notify",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "Show me the path clear",
+      "answer": "أَرِنِي الطَّرِيقَ وَاضِحًا",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ الرَّجُلُ وَلَدَهُ العِلْمَ نَافِعًا (أَعْلَمَ)",
+      "answer": "أَعْلَمَ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-114"
+      ]
+    },
+    {
+      "id": "b3-l21-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher informed the students that the exam is difficult",
+      "answer": "أَعْلَمَ الْمُدَرِّسُ الطُّلَّابَ الِامْتِحَانَ صَعْبًا",
+      "itemIds": ["word-b3-113", "word-004", "word-b2-019"]
+    },
+    {
+      "id": "b3-l21-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He told us the story amazing",
+      "answer": "حَدَّثَنَا الْقِصَّةَ عَجِيبَةً",
+      "itemIds": ["word-b3-117"]
+    }
+  ]
+}

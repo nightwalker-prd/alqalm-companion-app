@@ -1,0 +1,168 @@
+{
+  "id": "b2-l33",
+  "book": 2,
+  "lesson": 33,
+  "title": "مُرَاجَعَة",
+  "titleEn": "Comprehensive Review",
+  "vocabulary": [
+    "word-b2-101",
+    "word-b2-116",
+    "word-b2-126",
+    "word-b2-141",
+    "word-b2-161"
+  ],
+  "grammarPoints": ["gp-b2-019", "gp-b2-022", "gp-b2-024", "gp-b2-027", "gp-b2-031"],
+  "notes": [
+    {
+      "title": "Comprehensive Review of Book 2",
+      "titleArabic": "مراجعة شاملة للكتاب الثاني",
+      "content": [
+        "Book 2 covers essential Arabic grammar concepts including weak verbs, derived verb forms, and various noun forms. This lesson reviews all major topics covered.",
+        "Mastering these concepts is essential before progressing to Book 3."
+      ],
+      "keyPoints": [
+        "Weak verbs: Hamzated (مهموز), Hollow (أجوف), Defective (ناقص), Assimilated (مثال), Doubled (مضعف), Doubly Weak (لفيف)",
+        "Derived forms: Forms VII (اِنْفَعَلَ), VIII (اِفْتَعَلَ), IX (اِفْعَلَّ), X (اِسْتَفْعَلَ)",
+        "Noun forms: Diminutive (تصغير), Sound masculine plural (جمع المذكر السالم)",
+        "Masdars: Verbal nouns from all forms"
+      ]
+    },
+    {
+      "title": "Summary of Weak Verb Types",
+      "titleArabic": "ملخص أنواع الأفعال الضعيفة",
+      "content": [
+        "Review the six types of weak verbs studied in Book 2."
+      ],
+      "keyPoints": [
+        "مهموز (Hamzated): Has hamza as a radical - أَكَلَ، سَأَلَ، قَرَأَ",
+        "مثال (Assimilated): و or ي as first radical - وَعَدَ، وَجَدَ",
+        "أجوف (Hollow): و or ي as middle radical - قَالَ، زَارَ، نَامَ",
+        "ناقص (Defective): و or ي as final radical - دَعَا، رَمَى، مَشَى",
+        "مضعف (Doubled): Identical 2nd and 3rd radicals - مَدَّ، رَدَّ",
+        "لفيف (Doubly Weak): Two weak radicals - وَفَى، طَوَى"
+      ],
+      "examples": [
+        { "arabic": "أَكَلَ الطَّعَامَ", "english": "He ate the food (Hamzated)" },
+        { "arabic": "قَالَ الْحَقَّ", "english": "He said the truth (Hollow)" },
+        { "arabic": "دَعَا رَبَّهُ", "english": "He called upon his Lord (Defective)" },
+        { "arabic": "اِسْتَغْفَرَ اللهَ", "english": "He sought forgiveness from Allah (Form X)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l33-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّالِبُ الكِتَابَ (أَخَذَ - hamzated)",
+      "answer": "أَخَذَ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He said the truth (hollow verb)",
+      "answer": "قَالَ الحَقَّ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الوَلَدُ إِلَى المَدْرَسَةِ (مَشَى - defective)",
+      "answer": "مَشَى",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِنْكَسَرَ",
+      "answer": "to be broken (Form VII)",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to seek forgiveness (Form X)",
+      "answer": "اِسْتَغْفَرَ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The door opened (Form VII)",
+      "answer": "اِنْفَتَحَ البَابُ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ الحَاسُوبَ (يَسْتَخْدِمُ - Form X)",
+      "answer": "يَسْتَخْدِمُ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كِتَابَة",
+      "answer": "writing (masdar)",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "The leaves turned yellow (Form IX)",
+      "answer": "اِصْفَرَّتِ الأَوْرَاقُ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex10",
+      "type": "fill-blank",
+      "prompt": "كِتَاب → _____ (diminutive)",
+      "answer": "كُتَيِّب",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-116"
+      ]
+    },
+    {
+      "id": "b2-l33-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I seek forgiveness from Allah and repent to Him",
+      "answer": "أَسْتَغْفِرُ اللهَ وَأَتُوبُ إِلَيْهِ",
+      "itemIds": ["word-b2-161", "word-048"]
+    },
+    {
+      "id": "b2-l33-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The students gathered to study the lesson together",
+      "answer": "اِجْتَمَعَ الطُّلَّابُ لِيَدْرُسُوا الدَّرْسَ مَعًا",
+      "itemIds": ["word-b2-151", "word-b2-019", "word-b2-065", "word-050"]
+    }
+  ]
+}

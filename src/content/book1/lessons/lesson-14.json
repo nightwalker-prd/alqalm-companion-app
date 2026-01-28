@@ -1,0 +1,118 @@
+{
+  "id": "b1-l14",
+  "book": 1,
+  "lesson": 14,
+  "title": "الْمُثَنَّى",
+  "titleEn": "The Dual Form",
+  "description": "Learn the dual form in Arabic for two of something: كِتَابَانِ (two books), طَالِبَانِ (two students).",
+  "vocabulary": ["word-084", "word-085", "word-086", "word-087", "word-088", "word-089"],
+  "grammarPoints": ["gp-019"],
+  "notes": [
+    {
+      "title": "The Dual Form (المثنى)",
+      "titleArabic": "الْمُثَنَّى",
+      "content": [
+        "Arabic has a special form for exactly two of something, called the dual (المثنى). This is distinct from singular and plural.",
+        "To form the dual, add انِ to masculine nouns and تَانِ to feminine nouns (replacing ة). The dual ending changes to ـَيْنِ in the genitive/accusative case."
+      ],
+      "keyPoints": [
+        "Dual masculine: كِتَابٌ → كِتَابَانِ (two books)",
+        "Dual feminine: طَالِبَةٌ → طَالِبَتَانِ (two female students)",
+        "Demonstratives also have dual: هَذَانِ (these two, masc.), هَاتَانِ (these two, fem.)",
+        "In genitive/accusative: كِتَابَيْنِ (two books)"
+      ],
+      "examples": [
+        { "arabic": "كِتَابَانِ", "english": "two books" },
+        { "arabic": "طَالِبَانِ", "english": "two (male) students" },
+        { "arabic": "طَالِبَتَانِ", "english": "two (female) students" },
+        { "arabic": "هَذَانِ كِتَابَانِ جَدِيدَانِ", "english": "These are two new books" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l14-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "two books",
+      "answer": "كِتَابَانِ",
+      "itemIds": ["word-084"]
+    },
+    {
+      "id": "b1-l14-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "two students (m.)",
+      "answer": "طَالِبَانِ",
+      "itemIds": ["word-085"]
+    },
+    {
+      "id": "b1-l14-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "two pens",
+      "answer": "قَلَمَانِ",
+      "itemIds": ["word-086"]
+    },
+    {
+      "id": "b1-l14-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "two houses",
+      "answer": "بَيْتَانِ",
+      "itemIds": ["word-087"]
+    },
+    {
+      "id": "b1-l14-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كِتَابَانِ",
+      "answer": "two books",
+      "itemIds": ["word-084"]
+    },
+    {
+      "id": "b1-l14-ex06",
+      "type": "word-to-meaning",
+      "prompt": "طَالِبَانِ",
+      "answer": "two students (m.)",
+      "itemIds": ["word-085"]
+    },
+    {
+      "id": "b1-l14-ex07",
+      "type": "word-to-meaning",
+      "prompt": "قَلَمَانِ",
+      "answer": "two pens",
+      "itemIds": ["word-086"]
+    },
+    {
+      "id": "b1-l14-ex08",
+      "type": "word-to-meaning",
+      "prompt": "بَيْتَانِ",
+      "answer": "two houses",
+      "itemIds": ["word-087"]
+    },
+    {
+      "id": "b1-l14-ex09",
+      "type": "meaning-to-word",
+      "prompt": "two students (f.)",
+      "answer": "طَالِبَتَانِ",
+      "itemIds": ["word-088"]
+    },
+    {
+      "id": "b1-l14-ex10",
+      "type": "meaning-to-word",
+      "prompt": "two teachers (m.)",
+      "answer": "مُدَرِّسَانِ",
+      "itemIds": ["word-089"]
+    },
+    {
+      "id": "b1-l14-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "These are two new books",
+      "answer": "هَذَانِ كِتَابَانِ جَدِيدَانِ",
+      "itemIds": ["word-001", "word-084", "word-052"]
+    },
+    {
+      "id": "b1-l14-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The two students went to the mosque",
+      "answer": "ذَهَبَ الطَّالِبَانِ إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-068", "word-085", "word-048", "word-007"]
+    }
+  ]
+}

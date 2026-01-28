@@ -1,0 +1,187 @@
+{
+  "id": "b2-l51",
+  "book": 2,
+  "lesson": 51,
+  "title": "الاشْتِغَالُ",
+  "titleEn": "Occupation",
+  "description": "Learn about الاشتغال, a grammatical construction where a verb is 'occupied' with a pronoun while its logical object appears earlier in the sentence.",
+  "vocabulary": ["word-b2-383", "word-b2-384", "word-b2-385", "word-b2-386", "word-b2-387", "word-b2-388"],
+  "grammarPoints": ["gp-b2-069", "gp-b2-070"],
+  "notes": [
+    {
+      "title": "What is الاشتغال?",
+      "titleArabic": "تعريف الاشتغال",
+      "content": [
+        "الاشتغال (Occupation) is a grammatical phenomenon where a noun appears before a verb, and the verb is 'occupied' with a pronoun that refers back to that noun.",
+        "For example: زَيْدًا ضَرَبْتُهُ (Zaid, I hit him). Here, زيدًا appears before the verb ضربته, and the ه in ضربته refers back to زيد.",
+        "The verb is said to be 'occupied' (مشغول) with the pronoun, preventing it from directly governing the fronted noun. This raises the question: what governs the fronted noun?"
+      ],
+      "keyPoints": [
+        "The noun (المشغول عنه) appears before the verb",
+        "The verb contains a pronoun referring to that noun",
+        "The verb is 'occupied' with governing the pronoun",
+        "The fronted noun needs a grammatical explanation"
+      ],
+      "examples": [
+        { "arabic": "زَيْدًا ضَرَبْتُهُ", "english": "Zaid, I hit him" },
+        { "arabic": "الْكِتَابَ قَرَأْتُهُ", "english": "The book, I read it" },
+        { "arabic": "مُحَمَّدًا أَكْرَمْتُهُ", "english": "Muhammad, I honored him" },
+        { "arabic": "الدَّرْسَ فَهِمْتُهُ", "english": "The lesson, I understood it" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis",
+      "titleArabic": "الإعراب في الاشتغال",
+      "content": [
+        "There are two main views on parsing the fronted noun in الاشتغال. The Basrans say it is منصوب بفعل محذوف (accusative by a deleted verb).",
+        "According to this view, زَيْدًا ضَرَبْتُهُ is originally: ضَرَبْتُ زَيْدًا ضَرَبْتُهُ, with the first verb deleted to avoid repetition.",
+        "The Kufans allow the noun to be governed by the visible verb despite the pronoun. Both analyses yield the same surface form but differ in underlying structure."
+      ],
+      "keyPoints": [
+        "البصريون: The noun is governed by a deleted verb",
+        "The deleted verb is understood from the visible one",
+        "The visible verb governs only the pronoun",
+        "This analysis maintains the principle: one verb, one object"
+      ],
+      "examples": [
+        { "arabic": "زَيْدًا ضَرَبْتُهُ = ضَرَبْتُ زَيْدًا ضَرَبْتُهُ", "english": "Zaid I hit him = I hit Zaid, I hit him (deleted verb analysis)" },
+        { "arabic": "الْقُرْآنَ حَفِظْتُهُ", "english": "The Quran, I memorized it" },
+        { "arabic": "الْعَرَبِيَّةَ تَعَلَّمْتُهَا", "english": "Arabic, I learned it" },
+        { "arabic": "الْمَالَ أَنْفَقْتُهُ", "english": "The wealth, I spent it" }
+      ]
+    },
+    {
+      "title": "Cases of Obligatory and Preferred Accusative",
+      "titleArabic": "وجوب النصب ورجحانه",
+      "content": [
+        "The fronted noun must be accusative (منصوب) when it follows particles that require a verb after them, such as أدوات الشرط (conditional particles) or أدوات التحضيض (urging particles).",
+        "The accusative is preferred (but not obligatory) when the context suggests action, such as answering a question like 'What did you do?'",
+        "In neutral contexts, both nominative (as مبتدأ) and accusative (by a deleted verb) are acceptable."
+      ],
+      "keyPoints": [
+        "وجوب النصب: After إنْ، هَلَّا، أَلَّا، لَوْلَا (urging)",
+        "رجحان النصب: When answering 'what did you do?'",
+        "The context determines the preferred case",
+        "After interrogative أَ, either case is acceptable"
+      ],
+      "examples": [
+        { "arabic": "إِنْ زَيْدًا لَقِيتَهُ فَأَكْرِمْهُ", "english": "If you meet Zaid, honor him (obligatory accusative)" },
+        { "arabic": "هَلَّا الْوَاجِبَ أَدَّيْتَهُ", "english": "Why didn't you fulfill the duty? (obligatory accusative)" },
+        { "arabic": "مَاذَا صَنَعْتَ؟ الدَّرْسَ كَتَبْتُهُ", "english": "What did you do? The lesson, I wrote it (preferred accusative)" },
+        { "arabic": "أَزَيْدًا ضَرَبْتَهُ أَمْ عَمْرًا", "english": "Did you hit Zaid or Amr? (accusative preferred)" }
+      ]
+    },
+    {
+      "title": "Cases of Obligatory and Preferred Nominative",
+      "titleArabic": "وجوب الرفع ورجحانه",
+      "content": [
+        "The fronted noun must be nominative (مرفوع) as a مبتدأ when the verb cannot govern it, such as when the verb is جامد (non-derived) or when there is a barrier between them.",
+        "The nominative is preferred when the context suggests description rather than action, such as answering 'Who is the student?'",
+        "When إذا الفجائية (sudden إذا) precedes the noun, nominative is obligatory as it can only introduce مبتدأ."
+      ],
+      "keyPoints": [
+        "وجوب الرفع: When verb cannot govern (جامد or barrier)",
+        "وجوب الرفع: After إذا الفجائية",
+        "رجحان الرفع: When answering 'who is X?'",
+        "The noun becomes مبتدأ and the verbal sentence is its خبر"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ نِعْمَ الرَّجُلُ هُوَ", "english": "Zaid, what an excellent man he is (obligatory nominative)" },
+        { "arabic": "خَرَجْتُ فَإِذَا زَيْدٌ يَضْرِبُهُ عَمْرٌو", "english": "I went out, and suddenly Zaid - Amr was hitting him" },
+        { "arabic": "مَنِ الْفَائِزُ؟ زَيْدٌ كَافَأْتُهُ", "english": "Who is the winner? Zaid, I rewarded him (preferred nominative)" },
+        { "arabic": "الطَّالِبُ عَرَفْتُهُ مُجْتَهِدًا", "english": "The student, I knew him to be diligent" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l51-ex01",
+      "type": "fill-blank",
+      "prompt": "زَيْدًا _____",
+      "promptEn": "Zaid, I _____ him",
+      "answer": "ضَرَبْتُهُ",
+      "itemIds": ["word-b2-383"]
+    },
+    {
+      "id": "b2-l51-ex02",
+      "type": "fill-blank",
+      "prompt": "الْكِتَابَ _____",
+      "promptEn": "The book, I _____ it",
+      "answer": "قَرَأْتُهُ",
+      "itemIds": ["word-b2-384"]
+    },
+    {
+      "id": "b2-l51-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ أَكْرَمْتُهُ",
+      "promptEn": "_____, I honored him",
+      "answer": "مُحَمَّدًا",
+      "itemIds": ["word-b2-385"]
+    },
+    {
+      "id": "b2-l51-ex04",
+      "type": "fill-blank",
+      "prompt": "إِنْ زَيْدًا _____ فَأَكْرِمْهُ",
+      "promptEn": "If you _____ Zaid, honor him",
+      "answer": "لَقِيتَهُ",
+      "itemIds": ["word-b2-386"]
+    },
+    {
+      "id": "b2-l51-ex05",
+      "type": "fill-blank",
+      "prompt": "هَلَّا الْوَاجِبَ _____",
+      "promptEn": "Why didn't you _____ the duty?",
+      "answer": "أَدَّيْتَهُ",
+      "itemIds": ["word-b2-387"]
+    },
+    {
+      "id": "b2-l51-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The Quran, I memorized it",
+      "answer": "الْقُرْآنَ حَفِظْتُهُ",
+      "itemIds": ["word-b2-383"]
+    },
+    {
+      "id": "b2-l51-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Arabic, I learned it",
+      "answer": "الْعَرَبِيَّةَ تَعَلَّمْتُهَا",
+      "itemIds": ["word-b2-384"]
+    },
+    {
+      "id": "b2-l51-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "The lesson, I understood it",
+      "answer": "الدَّرْسَ فَهِمْتُهُ",
+      "itemIds": ["word-b2-385"]
+    },
+    {
+      "id": "b2-l51-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "If you meet Zaid, honor him",
+      "answer": "إِنْ زَيْدًا لَقِيتَهُ فَأَكْرِمْهُ",
+      "itemIds": ["word-b2-386"]
+    },
+    {
+      "id": "b2-l51-ex10",
+      "type": "word-to-meaning",
+      "prompt": "الاشْتِغَالُ",
+      "answer": "occupation (verb occupied with pronoun while logical object is fronted)",
+      "itemIds": ["word-b2-383"]
+    },
+    {
+      "id": "b2-l51-ex11",
+      "type": "word-to-meaning",
+      "prompt": "الْمَشْغُولُ عَنْهُ",
+      "answer": "the element the verb is occupied from (the fronted noun)",
+      "itemIds": ["word-b2-388"]
+    },
+    {
+      "id": "b2-l51-ex12",
+      "type": "meaning-to-word",
+      "prompt": "urging particles (هَلَّا، أَلَّا، لَوْلَا)",
+      "answer": "أَدَوَاتُ التَّحْضِيضِ",
+      "itemIds": ["word-b2-387"]
+    }
+  ]
+}

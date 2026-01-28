@@ -1,0 +1,133 @@
+{
+  "id": "b3-l04",
+  "book": 3,
+  "lesson": 4,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب أَفْعَلَ",
+  "titleEn": "Derived Form IV (أَفْعَلَ)",
+  "description": "Learn Form IV verbs with hamza prefix: أَرْسَلَ (to send), أَخْرَجَ (to take out), أَسْلَمَ (to submit/become Muslim).",
+  "vocabulary": ["word-b3-017", "word-b3-018", "word-b3-019", "word-b3-020", "word-b3-021"],
+  "grammarPoints": ["gp-b3-004"],
+  "notes": [
+    {
+      "title": "Active and Passive Participles",
+      "titleArabic": "اسم الفاعل واسم المفعول",
+      "content": [
+        "The active participle (ism al-fā'il) describes the doer of an action, while the passive participle (ism al-maf'ūl) describes the recipient. Form IV has distinct patterns for both."
+      ],
+      "keyPoints": [
+        "Active participle Form IV: مُفْعِل (muf'il)",
+        "Passive participle Form IV: مُفْعَل (muf'al)",
+        "Ḥijāzī mā can act like laysa (making the predicate manṣūb)"
+      ],
+      "examples": [
+        { "arabic": "مُرْسِل", "english": "sender (active participle)" },
+        { "arabic": "مُرْسَل", "english": "sent/messenger (passive participle)" }
+      ]
+    },
+    {
+      "title": "Form IV Verbs (أَفْعَلَ)",
+      "titleArabic": "باب أَفْعَلَ",
+      "content": [
+        "Form IV verbs are formed by prefixing hamza to the root and making the first radical sukūn. This pattern commonly makes intransitive verbs transitive or indicates causation."
+      ],
+      "keyPoints": [
+        "Pattern: أَفْعَلَ (af'ala) with hamza prefix",
+        "Maṣdar pattern: إِفْعَال (if'āl)",
+        "Often causative: خَرَجَ (to go out) → أَخْرَجَ (to take out)",
+        "Can indicate entering a state: صْبَحَ (morning) → أَصْبَحَ (to become/enter morning)"
+      ],
+      "examples": [
+        { "arabic": "أَرْسَلَ", "english": "to send" },
+        { "arabic": "أَخْرَجَ", "english": "to take out / extract" },
+        { "arabic": "أَسْلَمَ", "english": "to submit / become Muslim" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l04-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He sent the letter",
+      "answer": "أَرْسَلَ الرِّسَالَةَ",
+      "itemIds": ["word-b3-017", "word-b3-022"]
+    },
+    {
+      "id": "b3-l04-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She took out the book from the bag",
+      "answer": "أَخْرَجَتِ الْكِتَابَ مِنَ الْحَقِيبَةِ",
+      "itemIds": ["word-b3-018", "word-002"]
+    },
+    {
+      "id": "b3-l04-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الرَّجُلُ وَدَخَلَ الإِسْلَامَ",
+      "promptEn": "The man submitted and entered Islam",
+      "answer": "أَسْلَمَ",
+      "itemIds": ["word-b3-019"]
+    },
+    {
+      "id": "b3-l04-ex04",
+      "type": "word-to-meaning",
+      "prompt": "أَرْسَلَ",
+      "answer": "to send",
+      "itemIds": ["word-b3-017"]
+    },
+    {
+      "id": "b3-l04-ex05",
+      "type": "word-to-meaning",
+      "prompt": "أَخْرَجَ",
+      "answer": "to take out / extract",
+      "itemIds": ["word-b3-018"]
+    },
+    {
+      "id": "b3-l04-ex06",
+      "type": "word-to-meaning",
+      "prompt": "أَسْلَمَ",
+      "answer": "to submit / become Muslim",
+      "itemIds": ["word-b3-019"]
+    },
+    {
+      "id": "b3-l04-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَحْسَنَ",
+      "answer": "to do well / be good",
+      "itemIds": ["word-b3-020"]
+    },
+    {
+      "id": "b3-l04-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَكْرَمَ",
+      "answer": "to honor / be generous to",
+      "itemIds": ["word-b3-021"]
+    },
+    {
+      "id": "b3-l04-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to send (Form IV)",
+      "answer": "أَرْسَلَ",
+      "itemIds": ["word-b3-017"]
+    },
+    {
+      "id": "b3-l04-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to honor (Form IV)",
+      "answer": "أَكْرَمَ",
+      "itemIds": ["word-b3-021"]
+    },
+    {
+      "id": "b3-l04-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "Allah sent the messengers to guide the people",
+      "answer": "أَرْسَلَ اللهُ الرُّسُلَ لِيَهْدُوا النَّاسَ",
+      "itemIds": ["word-b3-017"]
+    },
+    {
+      "id": "b3-l04-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The host honored his guests with delicious food",
+      "answer": "أَكْرَمَ الْمُضِيفُ ضُيُوفَهُ بِطَعَامٍ لَذِيذٍ",
+      "itemIds": ["word-b3-021"]
+    }
+  ]
+}

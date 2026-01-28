@@ -1,0 +1,169 @@
+{
+  "id": "b3-l32",
+  "book": 3,
+  "lesson": 32,
+  "title": "النَّوَاسِخ",
+  "titleEn": "Sentence Modifiers (Nawasikh)",
+  "notes": [
+    {
+      "title": "Exception Constructions (الاستثناء)",
+      "titleArabic": "الاستثناء",
+      "content": [
+        "Exception (istithnā') constructs include a general statement, an exception particle (usually إِلَّا), and the excepted noun. Different types have different grammatical rules."
+      ],
+      "keyPoints": [
+        "Muttaṣil: excepted is from the same category as the general",
+        "Munqaṭi': excepted is from different category",
+        "Mufarragh: general statement is negative/question",
+        "إِلَّا, غَيْر, سِوَى are exception tools"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الطُّلَّابُ إِلَّا زَيْدًا", "english": "The students came except Zaid" },
+        { "arabic": "مَا جَاءَ إِلَّا زَيْدٌ", "english": "Only Zaid came (mufarragh)" }
+      ]
+    },
+    {
+      "title": "Sentence Modifiers (النواسخ)",
+      "titleArabic": "النواسخ",
+      "content": [
+        "Nawāsikh are particles and verbs that enter upon nominal sentences and change the grammatical case of mubtada' and khabar. They include kāna and its sisters, and inna and its sisters."
+      ],
+      "keyPoints": [
+        "Kāna: ism remains raf', khabar becomes naṣb",
+        "Inna: ism becomes naṣb, khabar remains raf'",
+        "Sisters of kāna: أَصْبَحَ, أَمْسَى, صَارَ, ظَلَّ, لَيْسَ",
+        "Sisters of inna: إِنَّ, أَنَّ, لَكِنَّ, لَيْتَ, لَعَلَّ, كَأَنَّ"
+      ],
+      "examples": [
+        { "arabic": "كَانَ الطَّالِبُ مُجْتَهِدًا", "english": "The student was diligent (kāna)" },
+        { "arabic": "إِنَّ الْحَقَّ وَاضِحٌ", "english": "Indeed the truth is clear (inna)" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-168",
+    "word-b3-169",
+    "word-b3-170",
+    "word-b3-171",
+    "word-b3-172"
+  ],
+  "grammarPoints": [
+    "gp-b3-032"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l32-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّالِبُ مُجْتَهِدًا (كَانَ)",
+      "answer": "كَانَ",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Indeed the truth is clear",
+      "answer": "إِنَّ الحَقَّ وَاضِحٌ",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ اللهَ غَفُورٌ (إِنَّ)",
+      "answer": "إِنَّ",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex04",
+      "type": "word-to-meaning",
+      "prompt": "ظَلَّ نَائِمًا",
+      "answer": "he remained sleeping",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex05",
+      "type": "meaning-to-word",
+      "prompt": "he became a teacher",
+      "answer": "صَارَ مُعَلِّمًا",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Perhaps he is sick",
+      "answer": "لَعَلَّهُ مَرِيضٌ",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex07",
+      "type": "fill-blank",
+      "prompt": "_____ الجَوُّ بَارِدًا (أَصْبَحَ)",
+      "answer": "أَصْبَحَ",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَيْتَ الشَّبَابَ",
+      "answer": "if only youth (were...)",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "He is not lazy",
+      "answer": "لَيْسَ كَسُولاً",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ الوَلَدَ نَائِمًا (ظَنَنْتُ)",
+      "answer": "ظَنَنْتُ",
+      "itemIds": [
+        "word-b3-168",
+        "word-b3-169"
+      ]
+    },
+    {
+      "id": "b3-l32-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The weather became cold in the winter",
+      "answer": "صَارَ الطَّقْسُ بَارِدًا فِي الشِّتَاءِ",
+      "itemIds": ["word-b3-168", "word-b3-169"]
+    },
+    {
+      "id": "b3-l32-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Perhaps the test is easy",
+      "answer": "لَعَلَّ الِامْتِحَانَ سَهْلٌ",
+      "itemIds": ["word-b3-168", "word-b3-169"]
+    }
+  ]
+}

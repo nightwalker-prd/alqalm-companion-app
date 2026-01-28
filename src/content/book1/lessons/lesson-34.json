@@ -1,0 +1,142 @@
+{
+  "id": "b1-l34",
+  "book": 1,
+  "lesson": 34,
+  "title": "الْمَنْقُوص",
+  "titleEn": "Deficient Nouns (ending in ya)",
+  "description": "Learn about nouns ending in ya preceded by kasra like القَاضِي and الدَّاعِي, and their special behaviors with case endings and tanween.",
+  "vocabulary": ["word-281", "word-282", "word-283", "word-284", "word-285", "word-286"],
+  "grammarPoints": ["gp-055", "gp-056"],
+  "notes": [
+    {
+      "title": "What is الاسم المنقوص?",
+      "titleArabic": "تعريف الاسم المنقوص",
+      "content": [
+        "الاسم المنقوص is a noun ending in ya (ي) preceded by kasra, like القَاضِي (the judge) and الدَّاعِي (the caller).",
+        "In the nominative and genitive cases, the ya takes an estimated vowel. In the accusative, it takes a visible fatha."
+      ],
+      "keyPoints": [
+        "Ends in ي preceded by kasra (ـِي)",
+        "Common examples: القَاضِي، الرَّامِي، الدَّاعِي، الْهَادِي",
+        "Nominative: estimated damma (الْقَاضِي)",
+        "Genitive: estimated kasra (الْقَاضِي)",
+        "Accusative: visible fatha (الْقَاضِيَ)"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْقَاضِي", "english": "The judge came (nom. estimated)" },
+        { "arabic": "رَأَيْتُ الْقَاضِيَ", "english": "I saw the judge (acc. visible fatha)" },
+        { "arabic": "سَلَّمْتُ عَلَى الْقَاضِي", "english": "I greeted the judge (gen. estimated)" },
+        { "arabic": "الدَّاعِي إِلَى الْخَيْرِ", "english": "The caller to goodness" }
+      ]
+    },
+    {
+      "title": "Tanween with المنقوص",
+      "titleArabic": "التنوين مع الاسم المنقوص",
+      "content": [
+        "When the noun is indefinite (with tanween), the ya is dropped in the nominative and genitive, but kept in the accusative.",
+        "We say قَاضٍ (a judge) in nominative/genitive, but قَاضِيًا in accusative."
+      ],
+      "keyPoints": [
+        "Nominative indefinite: قَاضٍ (ya dropped, tanween kasra)",
+        "Genitive indefinite: قَاضٍ (ya dropped, tanween kasra)",
+        "Accusative indefinite: قَاضِيًا (ya kept, tanween fatha)",
+        "The tanween replaces the dropped ya in nom/gen"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ قَاضٍ عَادِلٌ", "english": "A just judge came" },
+        { "arabic": "مَرَرْتُ بِقَاضٍ", "english": "I passed by a judge" },
+        { "arabic": "رَأَيْتُ قَاضِيًا", "english": "I saw a judge" },
+        { "arabic": "هُوَ رَاعٍ لِلْغَنَمِ", "english": "He is a shepherd of sheep" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l34-ex01",
+      "type": "fill-blank",
+      "prompt": "جَاءَ _____ إِلَى الْمَحْكَمَةِ",
+      "promptEn": "The judge came to the court",
+      "answer": "الْقَاضِي",
+      "itemIds": ["word-281"]
+    },
+    {
+      "id": "b1-l34-ex02",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ _____ عَادِلًا",
+      "promptEn": "I saw a just _____",
+      "answer": "قَاضِيًا",
+      "itemIds": ["word-281"]
+    },
+    {
+      "id": "b1-l34-ex03",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ إِلَى اللهِ",
+      "promptEn": "He is a _____ to Allah",
+      "answer": "دَاعٍ",
+      "itemIds": ["word-282"]
+    },
+    {
+      "id": "b1-l34-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The judge is just",
+      "answer": "الْقَاضِي عَادِلٌ",
+      "itemIds": ["word-281", "word-284"]
+    },
+    {
+      "id": "b1-l34-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I passed by a shepherd",
+      "answer": "مَرَرْتُ بِرَاعٍ",
+      "itemIds": ["word-283"]
+    },
+    {
+      "id": "b1-l34-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "A just judge came",
+      "answer": "جَاءَ قَاضٍ عَادِلٌ",
+      "itemIds": ["word-281", "word-284"]
+    },
+    {
+      "id": "b1-l34-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The court is near",
+      "answer": "الْمَحْكَمَةُ قَرِيبَةٌ",
+      "itemIds": ["word-285", "word-209"]
+    },
+    {
+      "id": "b1-l34-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْقَاضِي",
+      "answer": "the judge",
+      "itemIds": ["word-281"]
+    },
+    {
+      "id": "b1-l34-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الدَّاعِي",
+      "answer": "the caller / one who calls",
+      "itemIds": ["word-282"]
+    },
+    {
+      "id": "b1-l34-ex10",
+      "type": "word-to-meaning",
+      "prompt": "الرَّاعِي",
+      "answer": "the shepherd",
+      "itemIds": ["word-283"]
+    },
+    {
+      "id": "b1-l34-ex11",
+      "type": "meaning-to-word",
+      "prompt": "just / fair",
+      "answer": "عَادِلٌ",
+      "itemIds": ["word-284"]
+    },
+    {
+      "id": "b1-l34-ex12",
+      "type": "meaning-to-word",
+      "prompt": "court",
+      "answer": "مَحْكَمَةٌ",
+      "itemIds": ["word-285"]
+    }
+  ]
+}

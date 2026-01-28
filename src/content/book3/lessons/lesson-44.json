@@ -1,0 +1,141 @@
+{
+  "id": "b3-l44",
+  "book": 3,
+  "lesson": 44,
+  "title": "الْجُمْلَةُ الْمُرَكَّبَة",
+  "titleEn": "Complex Sentences",
+  "description": "Learn about complex sentences (الجملة المركبة) containing multiple clauses and their grammatical relationships.",
+  "vocabulary": ["word-b3-315", "word-b3-316", "word-b3-317", "word-b3-318", "word-b3-319", "word-b3-320"],
+  "grammarPoints": ["gp-b3-050", "gp-b3-051"],
+  "notes": [
+    {
+      "title": "Complex Sentences (الجملة المركبة)",
+      "titleArabic": "الجملة المركبة",
+      "content": [
+        "Complex sentences contain a main clause and one or more subordinate clauses.",
+        "Subordinate clauses can function as subject, predicate, adjective (صفة), or adverb (حال)."
+      ],
+      "keyPoints": [
+        "جملة في محل رفع خبر - sentence as predicate",
+        "جملة في محل نصب حال - sentence as circumstantial",
+        "جملة في محل جر صفة - sentence as adjective",
+        "جملة صلة الموصول - relative clause"
+      ],
+      "examples": [
+        { "arabic": "الطَّالِبُ يَدْرُسُ فِي الْغُرْفَةِ", "english": "The student is studying in the room (sentence predicate)" },
+        { "arabic": "جَاءَ وَهُوَ يَضْحَكُ", "english": "He came while laughing (circumstantial clause)" },
+        { "arabic": "رَأَيْتُ رَجُلًا يَقْرَأُ", "english": "I saw a man reading (adjectival clause)" },
+        { "arabic": "الَّذِي نَجَحَ مُجْتَهِدٌ", "english": "The one who succeeded is diligent (relative clause)" }
+      ]
+    },
+    {
+      "title": "Grammatical Position of Clauses",
+      "titleArabic": "الموقع الإعرابي للجمل",
+      "content": [
+        "Clauses take grammatical positions within sentences based on their function.",
+        "Understanding clause positions is essential for advanced Arabic analysis."
+      ],
+      "keyPoints": [
+        "الجملة الخبرية - predicate clause (في محل رفع)",
+        "الجملة الحالية - circumstantial clause (في محل نصب)",
+        "الجملة الوصفية - adjectival clause (تابعة لما قبلها)",
+        "جملة جواب الشرط - answer to conditional"
+      ],
+      "examples": [
+        { "arabic": "أَبُوهُ سَافَرَ", "english": "His father traveled (sentence as predicate)" },
+        { "arabic": "خَرَجَ وَالشَّمْسُ طَالِعَةٌ", "english": "He went out while the sun was rising" },
+        { "arabic": "مَرَرْتُ بِرَجُلٍ يُصَلِّي", "english": "I passed by a man praying" },
+        { "arabic": "إِنْ تَدْرُسْ تَنْجَحْ", "english": "If you study, you will succeed" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l44-ex01",
+      "type": "fill-blank",
+      "prompt": "الطَّالِبُ _____ فِي الْغُرْفَةِ",
+      "promptEn": "The student _____ in the room",
+      "answer": "يَدْرُسُ",
+      "itemIds": ["word-b3-315"]
+    },
+    {
+      "id": "b3-l44-ex02",
+      "type": "fill-blank",
+      "prompt": "جَاءَ _____ يَضْحَكُ",
+      "promptEn": "He came _____ he was laughing",
+      "answer": "وَهُوَ",
+      "itemIds": ["word-b3-316"]
+    },
+    {
+      "id": "b3-l44-ex03",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ رَجُلًا _____",
+      "promptEn": "I saw a man _____",
+      "answer": "يَقْرَأُ",
+      "itemIds": ["word-104"]
+    },
+    {
+      "id": "b3-l44-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "He came while he was crying",
+      "answer": "جَاءَ وَهُوَ يَبْكِي",
+      "itemIds": ["word-b3-316"]
+    },
+    {
+      "id": "b3-l44-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I saw a woman praying",
+      "answer": "رَأَيْتُ امْرَأَةً تُصَلِّي",
+      "itemIds": ["word-b3-317"]
+    },
+    {
+      "id": "b3-l44-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "If you work, you will succeed",
+      "answer": "إِنْ تَعْمَلْ تَنْجَحْ",
+      "itemIds": ["word-b3-318"]
+    },
+    {
+      "id": "b3-l44-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The one who studies will succeed",
+      "answer": "الَّذِي يَدْرُسُ يَنْجَحُ",
+      "itemIds": ["word-b2-011"]
+    },
+    {
+      "id": "b3-l44-ex08",
+      "type": "word-to-meaning",
+      "prompt": "جُمْلَة مُرَكَّبَة",
+      "answer": "complex sentence",
+      "itemIds": ["word-b3-315"]
+    },
+    {
+      "id": "b3-l44-ex09",
+      "type": "word-to-meaning",
+      "prompt": "حَال",
+      "answer": "circumstantial clause",
+      "itemIds": ["word-b3-319"]
+    },
+    {
+      "id": "b3-l44-ex10",
+      "type": "word-to-meaning",
+      "prompt": "صِفَة",
+      "answer": "adjective / descriptive clause",
+      "itemIds": ["word-b3-320"]
+    },
+    {
+      "id": "b3-l44-ex11",
+      "type": "meaning-to-word",
+      "prompt": "main clause",
+      "answer": "جُمْلَة رَئِيسِيَّة",
+      "itemIds": ["word-b3-315"]
+    },
+    {
+      "id": "b3-l44-ex12",
+      "type": "meaning-to-word",
+      "prompt": "subordinate clause",
+      "answer": "جُمْلَة تَابِعَة",
+      "itemIds": ["word-b3-316"]
+    }
+  ]
+}

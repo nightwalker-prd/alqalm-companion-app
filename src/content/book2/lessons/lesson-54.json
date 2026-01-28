@@ -1,0 +1,183 @@
+{
+  "id": "b2-l54",
+  "book": 2,
+  "lesson": 54,
+  "title": "لَام الجُحُود",
+  "titleEn": "Lam of Denial",
+  "description": "Learn about لام الجحود (Lam of Denial), the lam that follows a negated form of كان and causes the subjunctive mood on the following verb, used to strongly deny capability or intention.",
+  "vocabulary": ["word-b2-400", "word-b2-401", "word-b2-402", "word-b2-403", "word-b2-404"],
+  "grammarPoints": ["gp-b2-075", "gp-b2-076"],
+  "notes": [
+    {
+      "title": "What is لام الجحود?",
+      "titleArabic": "تعريف لام الجحود",
+      "content": [
+        "لام الجحود (Lam of Denial) is a lam particle that intensifies negation and causes the imperfect verb (المضارع) after it to be in the subjunctive mood (منصوب). It is called لام الجحود because جحود means denial or rejection.",
+        "This lam must be preceded by a negated form of كان: either مَا كَانَ (it was not) or لَمْ يَكُنْ (it was not). It expresses emphatic denial of an action."
+      ],
+      "keyPoints": [
+        "لام الجحود intensifies negation - strong denial",
+        "Must be preceded by مَا كَانَ or لَمْ يَكُنْ",
+        "Causes the following verb to be منصوب (subjunctive)",
+        "There is an implied أَنْ after the لام"
+      ],
+      "examples": [
+        { "arabic": "مَا كَانَ اللهُ لِيُعَذِّبَهُمْ", "english": "Allah would never punish them (Quran)" },
+        { "arabic": "لَمْ يَكُنْ لِيَفْعَلَ ذَلِكَ", "english": "He would never do that" },
+        { "arabic": "مَا كُنْتُ لِأَكْذِبَ", "english": "I would never lie" },
+        { "arabic": "لَمْ أَكُنْ لِأَتْرُكَ الصَّلَاةَ", "english": "I would never abandon prayer" }
+      ]
+    },
+    {
+      "title": "The Condition: Negated كان",
+      "titleArabic": "شرط لام الجحود: كان المنفية",
+      "content": [
+        "لام الجحود only functions when preceded by كان in a negated form. The negation can be with مَا (ما كان) or with لَمْ (لم يكن). Without this negated كان, the لام is not لام الجحود.",
+        "This distinguishes it from لام التعليل (lam of reason/purpose), which can appear in affirmative sentences."
+      ],
+      "keyPoints": [
+        "مَا كَانَ + لام الجحود + فعل مضارع منصوب",
+        "لَمْ يَكُنْ + لام الجحود + فعل مضارع منصوب",
+        "The كان must be complete (تامة) or deficient (ناقصة)",
+        "Without negated كان, it becomes لام التعليل instead"
+      ],
+      "examples": [
+        { "arabic": "مَا كَانَ الْمُؤْمِنُ لِيَخُونَ", "english": "A believer would never betray" },
+        { "arabic": "لَمْ يَكُنِ الْعَالِمُ لِيَجْهَلَ", "english": "A scholar would never be ignorant" },
+        { "arabic": "مَا كَانَتْ لِتَتْرُكَ وَاجِبَهَا", "english": "She would never abandon her duty" },
+        { "arabic": "لَمْ نَكُنْ لِنُخَالِفَ الْأَمْرَ", "english": "We would never disobey the command" }
+      ]
+    },
+    {
+      "title": "Quranic Examples of لام الجحود",
+      "titleArabic": "شواهد قرآنية على لام الجحود",
+      "content": [
+        "لام الجحود appears frequently in the Quran to emphasize Allah's justice and to deny any wrongdoing on His part or on the part of His prophets. These verses beautifully illustrate the emphatic denial expressed by this construction.",
+        "The construction وَمَا كَانَ اللهُ لِـ... (Allah would never...) is particularly common in the Quran."
+      ],
+      "keyPoints": [
+        "وَمَا كَانَ اللهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ - Al-Anfal 8:33",
+        "وَمَا كَانَ اللهُ لِيُضِلَّ قَوْمًا بَعْدَ إِذْ هَدَاهُمْ - At-Tawbah 9:115",
+        "وَمَا كَانَ لِنَفْسٍ أَنْ تَمُوتَ إِلَّا بِإِذْنِ اللهِ - Aal Imran 3:145",
+        "مَا كَانَ لِبَشَرٍ أَنْ يُؤْتِيَهُ اللهُ - Aal Imran 3:79"
+      ],
+      "examples": [
+        { "arabic": "وَمَا كَانَ اللهُ لِيُعَذِّبَهُمْ وَأَنْتَ فِيهِمْ", "english": "Allah would not punish them while you are among them (8:33)" },
+        { "arabic": "وَمَا كَانَ اللهُ لِيُضِلَّ قَوْمًا", "english": "Allah would never mislead a people (9:115)" },
+        { "arabic": "مَا كَانَ لِنَبِيٍّ أَنْ يَغُلَّ", "english": "It is not for a prophet to deceive (3:161)" },
+        { "arabic": "وَمَا كَانَ اللهُ لِيَظْلِمَهُمْ", "english": "Allah would never wrong them (29:40)" }
+      ]
+    },
+    {
+      "title": "Difference: لام الجحود vs لام التعليل",
+      "titleArabic": "الفرق بين لام الجحود ولام التعليل",
+      "content": [
+        "Both لام الجحود and لام التعليل cause the following verb to be منصوب, but they differ in context and meaning. لام الجحود requires negated كان and expresses denial, while لام التعليل expresses purpose/reason and can appear in any context.",
+        "Compare: جِئْتُ لِأَتَعَلَّمَ (I came to learn - لام التعليل) vs مَا كُنْتُ لِأَكْذِبَ (I would never lie - لام الجحود)."
+      ],
+      "keyPoints": [
+        "لام الجحود: requires مَا كَانَ or لَمْ يَكُنْ, expresses emphatic denial",
+        "لام التعليل: can appear anywhere, expresses purpose/reason",
+        "Both cause نصب on the following verb",
+        "Context determines which لام is being used"
+      ],
+      "examples": [
+        { "arabic": "جِئْتُ لِأَتَعَلَّمَ", "english": "I came to learn (لام التعليل - purpose)" },
+        { "arabic": "مَا جِئْتُ لِأَلْعَبَ", "english": "I did not come to play (لام التعليل - purpose)" },
+        { "arabic": "مَا كُنْتُ لِأَلْعَبَ", "english": "I would never play (لام الجحود - denial)" },
+        { "arabic": "لَمْ يَكُنْ لِيَكْذِبَ", "english": "He would never lie (لام الجحود - denial)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l54-ex01",
+      "type": "fill-blank",
+      "prompt": "مَا كَانَ اللهُ لِـ_____ (عذّب)",
+      "promptEn": "Allah would never _____ them (punish)",
+      "answer": "يُعَذِّبَهُمْ",
+      "itemIds": ["word-b2-400"]
+    },
+    {
+      "id": "b2-l54-ex02",
+      "type": "fill-blank",
+      "prompt": "لَمْ يَكُنْ لِـ_____ ذَلِكَ (فعل)",
+      "promptEn": "He would never _____ that (do)",
+      "answer": "يَفْعَلَ",
+      "itemIds": ["word-b2-401"]
+    },
+    {
+      "id": "b2-l54-ex03",
+      "type": "fill-blank",
+      "prompt": "مَا كُنْتُ لِـ_____ (كذب)",
+      "promptEn": "I would never _____ (lie)",
+      "answer": "أَكْذِبَ",
+      "itemIds": ["word-b2-402"]
+    },
+    {
+      "id": "b2-l54-ex04",
+      "type": "fill-blank",
+      "prompt": "لَمْ أَكُنْ لِـ_____ الصَّلَاةَ (ترك)",
+      "promptEn": "I would never _____ the prayer (abandon)",
+      "answer": "أَتْرُكَ",
+      "itemIds": ["word-b2-403"]
+    },
+    {
+      "id": "b2-l54-ex05",
+      "type": "fill-blank",
+      "prompt": "مَا كَانَ الْمُؤْمِنُ لِـ_____ (خان)",
+      "promptEn": "A believer would never _____ (betray)",
+      "answer": "يَخُونَ",
+      "itemIds": ["word-b2-404"]
+    },
+    {
+      "id": "b2-l54-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Allah would never wrong them",
+      "answer": "مَا كَانَ اللهُ لِيَظْلِمَهُمْ",
+      "itemIds": ["word-b2-400"]
+    },
+    {
+      "id": "b2-l54-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "A scholar would never be ignorant",
+      "answer": "لَمْ يَكُنِ الْعَالِمُ لِيَجْهَلَ",
+      "itemIds": ["word-b2-401"]
+    },
+    {
+      "id": "b2-l54-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "We would never disobey the command",
+      "answer": "لَمْ نَكُنْ لِنُخَالِفَ الْأَمْرَ",
+      "itemIds": ["word-b2-402"]
+    },
+    {
+      "id": "b2-l54-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "She would never abandon her duty",
+      "answer": "مَا كَانَتْ لِتَتْرُكَ وَاجِبَهَا",
+      "itemIds": ["word-b2-403"]
+    },
+    {
+      "id": "b2-l54-ex10",
+      "type": "word-to-meaning",
+      "prompt": "لَام الجُحُود",
+      "answer": "lam of denial / emphatic negation lam",
+      "itemIds": ["word-b2-400"]
+    },
+    {
+      "id": "b2-l54-ex11",
+      "type": "word-to-meaning",
+      "prompt": "جُحُود",
+      "answer": "denial / rejection / disavowal",
+      "itemIds": ["word-b2-401"]
+    },
+    {
+      "id": "b2-l54-ex12",
+      "type": "meaning-to-word",
+      "prompt": "lam of purpose/reason",
+      "answer": "لَام التَّعْلِيل",
+      "itemIds": ["word-b2-404"]
+    }
+  ]
+}

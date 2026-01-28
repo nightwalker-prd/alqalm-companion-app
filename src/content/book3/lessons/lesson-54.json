@@ -1,0 +1,182 @@
+{
+  "id": "b3-l54",
+  "book": 3,
+  "lesson": 54,
+  "title": "إِعْرَاب الجُمَل",
+  "titleEn": "Sentence-Level I'rab (Parsing Sentences)",
+  "description": "Learn about إعراب الجمل, how entire sentences can occupy grammatical positions like خبر، حال، صفة، and when sentences have محل من الإعراب.",
+  "vocabulary": ["word-b3-375", "word-b3-376", "word-b3-377", "word-b3-378", "word-b3-379", "word-b3-380"],
+  "grammarPoints": ["gp-b3-070", "gp-b3-071"],
+  "notes": [
+    {
+      "title": "Sentences with Grammatical Position",
+      "titleArabic": "الجمل التي لها محل من الإعراب",
+      "content": [
+        "In Arabic, entire sentences can occupy grammatical positions. When a sentence stands in place of a noun, it has محل من الإعراب (a grammatical position).",
+        "Seven types of sentences have محل: خبرية، حالية، مفعولية، مضاف إليه، جواب الشرط المقترن بالفاء، التابعة لما له محل، والمحكية."
+      ],
+      "keyPoints": [
+        "Sentences can function as nouns in grammar",
+        "These sentences have محل (position) - رفع، نصب، or جر",
+        "The sentence replaces what would be a single noun",
+        "Not all sentences have محل - some have لا محل لها"
+      ],
+      "examples": [
+        { "arabic": "الطَّالِبُ يَدْرُسُ (خبرية)", "english": "The student studies (predicate sentence - محل رفع)" },
+        { "arabic": "جَاءَ وَهُوَ يَضْحَكُ (حالية)", "english": "He came while laughing (circumstantial - محل نصب)" },
+        { "arabic": "قَالَ إِنِّي ذَاهِبٌ (مقول القول)", "english": "He said, 'I am going' (object of saying - محل نصب)" },
+        { "arabic": "جِئْتُ يَوْمَ سَافَرْتَ (مضاف إليه)", "english": "I came the day you traveled (genitive - محل جر)" }
+      ]
+    },
+    {
+      "title": "Predicate Sentences (الجملة الخبرية)",
+      "titleArabic": "الجملة الخبرية",
+      "content": [
+        "When a sentence serves as the خبر (predicate) of a مبتدأ, إنّ, or كان, it occupies the position of خبر.",
+        "الطَّالِبُ يَجْتَهِدُ - the sentence يَجْتَهِدُ is the خبر of الطَّالِبُ, so it's في محل رفع خبر المبتدأ."
+      ],
+      "keyPoints": [
+        "خبر المبتدأ: الطَّالِبُ يَدْرُسُ → في محل رفع",
+        "خبر إنّ: إِنَّ الطَّالِبَ يَدْرُسُ → في محل رفع",
+        "خبر كان: كَانَ الطَّالِبُ يَدْرُسُ → في محل نصب",
+        "Can be verbal or nominal sentence"
+      ],
+      "examples": [
+        { "arabic": "الْعِلْمُ نُورٌ يُضِيءُ الطَّرِيقَ", "english": "Knowledge is a light that illuminates the path" },
+        { "arabic": "إِنَّ الصِّدْقَ يَنْجِي", "english": "Indeed, honesty saves" },
+        { "arabic": "كَانَ الْوَلَدُ يَلْعَبُ", "english": "The boy was playing" },
+        { "arabic": "الْمُؤْمِنُ يُحِبُّ الْخَيْرَ", "english": "The believer loves good" }
+      ]
+    },
+    {
+      "title": "Circumstantial Sentences (الجملة الحالية)",
+      "titleArabic": "الجملة الحالية",
+      "content": [
+        "A sentence that describes the state/condition of the subject or object is called الجملة الحالية. It's في محل نصب حال.",
+        "جَاءَ الطَّالِبُ وَهُوَ يَبْتَسِمُ (The student came while smiling) - وَهُوَ يَبْتَسِمُ describes his state."
+      ],
+      "keyPoints": [
+        "Describes the state of صاحب الحال",
+        "Often connected with وَ (واو الحال)",
+        "في محل نصب حال",
+        "Answers: كَيْفَ جَاءَ؟ (How did he come?)"
+      ],
+      "examples": [
+        { "arabic": "رَأَيْتُهُ يَقْرَأُ", "english": "I saw him reading (state of him)" },
+        { "arabic": "جَاءَ وَالشَّمْسُ طَالِعَةٌ", "english": "He came while the sun was rising" },
+        { "arabic": "خَرَجَ وَهُوَ غَاضِبٌ", "english": "He left while angry" },
+        { "arabic": "سَمِعْتُ الْمُؤَذِّنَ يُنَادِي", "english": "I heard the muezzin calling" }
+      ]
+    },
+    {
+      "title": "Adjectival Sentences (الجملة الواقعة صفة)",
+      "titleArabic": "الجملة الواقعة صفة",
+      "content": [
+        "A sentence can describe an indefinite noun, functioning as an adjective (صفة/نعت). It follows the noun's case.",
+        "مَرَرْتُ بِرَجُلٍ يَقْرَأُ (I passed by a man reading) - يَقْرَأُ describes رَجُل and is في محل جر صفة."
+      ],
+      "keyPoints": [
+        "Describes an indefinite noun (نكرة)",
+        "Takes the case of the described noun",
+        "رَأَيْتُ رَجُلًا يَكْتُبُ → في محل نصب صفة",
+        "جَاءَ طَالِبٌ يَسْأَلُ → في محل رفع صفة"
+      ],
+      "examples": [
+        { "arabic": "رَأَيْتُ طَالِبًا يَجْتَهِدُ", "english": "I saw a student who strives" },
+        { "arabic": "مَرَرْتُ بِبَيْتٍ أَبْوَابُهُ مَفْتُوحَةٌ", "english": "I passed by a house whose doors were open" },
+        { "arabic": "جَاءَ رَجُلٌ يَحْمِلُ كِتَابًا", "english": "A man carrying a book came" },
+        { "arabic": "هَذَا كِتَابٌ أَنْزَلْنَاهُ", "english": "This is a book We revealed" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l54-ex01",
+      "type": "fill-blank",
+      "prompt": "الطَّالِبُ يَدْرُسُ - جملة يدرس في محل _____ خبر",
+      "promptEn": "The student studies - the sentence 'studies' is in the position of _____ (predicate)",
+      "answer": "رَفْع",
+      "itemIds": ["word-b3-375"]
+    },
+    {
+      "id": "b3-l54-ex02",
+      "type": "fill-blank",
+      "prompt": "جَاءَ وَهُوَ يَضْحَكُ - جملة الحال في محل _____",
+      "promptEn": "He came laughing - the circumstantial sentence is in the position of _____",
+      "answer": "نَصْب",
+      "itemIds": ["word-b3-376"]
+    },
+    {
+      "id": "b3-l54-ex03",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ رَجُلًا يَكْتُبُ - جملة الصفة في محل _____",
+      "promptEn": "I saw a man writing - the adjectival sentence is in the position of _____",
+      "answer": "نَصْب",
+      "itemIds": ["word-b3-377"]
+    },
+    {
+      "id": "b3-l54-ex04",
+      "type": "fill-blank",
+      "prompt": "جِئْتُ يَوْمَ سَافَرْتَ - جملة سافرت في محل _____ مضاف إليه",
+      "promptEn": "I came the day you traveled - the sentence is in the position of _____ (genitive)",
+      "answer": "جَرّ",
+      "itemIds": ["word-b3-378"]
+    },
+    {
+      "id": "b3-l54-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "The believer loves good (predicate sentence)",
+      "answer": "الْمُؤْمِنُ يُحِبُّ الْخَيْرَ",
+      "itemIds": ["word-b3-375"]
+    },
+    {
+      "id": "b3-l54-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I saw him reading (circumstantial)",
+      "answer": "رَأَيْتُهُ يَقْرَأُ",
+      "itemIds": ["word-b3-376"]
+    },
+    {
+      "id": "b3-l54-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "He left while angry",
+      "answer": "خَرَجَ وَهُوَ غَاضِبٌ",
+      "itemIds": ["word-b3-379"]
+    },
+    {
+      "id": "b3-l54-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "A man carrying a book came",
+      "answer": "جَاءَ رَجُلٌ يَحْمِلُ كِتَابًا",
+      "itemIds": ["word-b3-380"]
+    },
+    {
+      "id": "b3-l54-ex09",
+      "type": "word-to-meaning",
+      "prompt": "محل من الإعراب",
+      "answer": "grammatical position",
+      "itemIds": ["word-b3-375"]
+    },
+    {
+      "id": "b3-l54-ex10",
+      "type": "word-to-meaning",
+      "prompt": "الجملة الحالية",
+      "answer": "circumstantial sentence",
+      "itemIds": ["word-b3-376"]
+    },
+    {
+      "id": "b3-l54-ex11",
+      "type": "meaning-to-word",
+      "prompt": "predicate sentence",
+      "answer": "الجُمْلَة الخَبَرِيَّة",
+      "itemIds": ["word-b3-377"]
+    },
+    {
+      "id": "b3-l54-ex12",
+      "type": "meaning-to-word",
+      "prompt": "adjectival sentence",
+      "answer": "الجُمْلَة الوَاقِعَة صِفَة",
+      "itemIds": ["word-b3-378"]
+    }
+  ]
+}

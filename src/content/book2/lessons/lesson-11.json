@@ -1,0 +1,130 @@
+{
+  "id": "b2-l11",
+  "book": 2,
+  "lesson": 11,
+  "title": "الْفِعْلُ الْمَجْهُول",
+  "titleEn": "Passive Voice",
+  "description": "Learn passive verb forms: كُتِبَ (was written), فُتِحَ (was opened), قُرِئَ (was read).",
+  "vocabulary": ["word-b2-059", "word-b2-060", "word-b2-061", "word-b2-062", "word-b2-063", "word-b2-064"],
+  "grammarPoints": ["gp-b2-011"],
+  "notes": [
+    {
+      "title": "The Passive Voice (الفعل المجهول)",
+      "titleArabic": "الفعل المجهول",
+      "content": [
+        "The passive voice (المبني للمجهول) is used when the doer of the action is unknown or unimportant. In Arabic, the verb form changes by modifying its vowels.",
+        "For the past tense Form I verb (فَعَلَ), the passive pattern is فُعِلَ - the first vowel becomes dammah and the second becomes kasrah."
+      ],
+      "keyPoints": [
+        "Past tense: فَعَلَ → فُعِلَ (e.g., كَتَبَ → كُتِبَ)",
+        "Present tense: يَفْعَلُ → يُفْعَلُ (e.g., يَكْتُبُ → يُكْتَبُ)",
+        "The subject of a passive verb is called نائب الفاعل (deputy of the subject)",
+        "نائب الفاعل is always مرفوع (nominative case)"
+      ],
+      "examples": [
+        { "arabic": "كُتِبَ الْكِتَابُ", "english": "The book was written" },
+        { "arabic": "فُتِحَ الْبَابُ", "english": "The door was opened" },
+        { "arabic": "يُقْرَأُ الْقُرْآنُ", "english": "The Quran is read" }
+      ]
+    },
+    {
+      "title": "Passive with Feminine and Plural Subjects",
+      "titleArabic": "المبني للمجهول مع المؤنث والجمع",
+      "content": [
+        "The passive verb agrees with its subject (نائب الفاعل) in gender and number, just like active verbs."
+      ],
+      "keyPoints": [
+        "Feminine: أُرْسِلَتِ الرِّسَالَةُ (The letter was sent)",
+        "Plural: كُتِبَتِ الْكُتُبُ (The books were written)",
+        "The original object becomes the subject in the passive"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l11-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The book was written",
+      "answer": "كُتِبَ الْكِتَابُ",
+      "itemIds": ["word-b2-059", "word-002"]
+    },
+    {
+      "id": "b2-l11-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The door was opened",
+      "answer": "فُتِحَ الْبَابُ",
+      "itemIds": ["word-b2-060", "word-044"]
+    },
+    {
+      "id": "b2-l11-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The lesson was read",
+      "answer": "قُرِئَ الدَّرْسُ",
+      "itemIds": ["word-b2-061", "word-b2-065"]
+    },
+    {
+      "id": "b2-l11-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ الرِّسَالَةُ",
+      "promptEn": "The letter _____ sent",
+      "answer": "أُرْسِلَتْ",
+      "itemIds": ["word-b2-062"]
+    },
+    {
+      "id": "b2-l11-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كُتِبَ",
+      "answer": "was written",
+      "itemIds": ["word-b2-059"]
+    },
+    {
+      "id": "b2-l11-ex06",
+      "type": "word-to-meaning",
+      "prompt": "فُتِحَ",
+      "answer": "was opened",
+      "itemIds": ["word-b2-060"]
+    },
+    {
+      "id": "b2-l11-ex07",
+      "type": "word-to-meaning",
+      "prompt": "قُرِئَ",
+      "answer": "was read",
+      "itemIds": ["word-b2-061"]
+    },
+    {
+      "id": "b2-l11-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أُرْسِلَ",
+      "answer": "was sent",
+      "itemIds": ["word-b2-062"]
+    },
+    {
+      "id": "b2-l11-ex09",
+      "type": "meaning-to-word",
+      "prompt": "was broken",
+      "answer": "كُسِرَ",
+      "itemIds": ["word-b2-063"]
+    },
+    {
+      "id": "b2-l11-ex10",
+      "type": "meaning-to-word",
+      "prompt": "was closed",
+      "answer": "أُغْلِقَ",
+      "itemIds": ["word-b2-064"]
+    },
+    {
+      "id": "b2-l11-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The letter was sent to the teacher",
+      "answer": "أُرْسِلَتِ الرِّسَالَةُ إِلَى الْمُدَرِّسِ",
+      "itemIds": ["word-b2-062", "word-b2-043", "word-048", "word-004"]
+    },
+    {
+      "id": "b2-l11-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The Quran is read in the mosque",
+      "answer": "يُقْرَأُ الْقُرْآنُ فِي الْمَسْجِدِ",
+      "itemIds": ["word-b2-061", "word-099", "word-046", "word-007"]
+    }
+  ]
+}

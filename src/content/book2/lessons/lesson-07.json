@@ -1,0 +1,131 @@
+{
+  "id": "b2-l07",
+  "book": 2,
+  "lesson": 7,
+  "title": "اسْمُ الْفَاعِل",
+  "titleEn": "Active Participle",
+  "description": "Learn active participles (doer nouns): كَاتِبٌ (writer), ذَاهِبٌ (going), جَالِسٌ (sitting).",
+  "vocabulary": ["word-b2-031", "word-b2-032", "word-b2-033", "word-b2-034", "word-b2-035", "word-b2-036"],
+  "grammarPoints": ["gp-b2-007"],
+  "notes": [
+    {
+      "title": "Active Participle (اسم الفاعل)",
+      "titleArabic": "اسم الفاعل",
+      "content": [
+        "The active participle (اسم الفاعل) is a noun derived from a verb that describes the doer of an action. For Form I verbs (فَعَلَ), the pattern is فَاعِل.",
+        "Active participles can function as nouns (a writer, a teacher) or as adjectives describing a state (sitting, standing, going)."
+      ],
+      "keyPoints": [
+        "Form I pattern: فَاعِلٌ (e.g., كَاتِب from كَتَبَ)",
+        "Feminine form: فَاعِلَة (e.g., كَاتِبَة)",
+        "Plural patterns vary: كُتَّاب (writers), جَالِسُونَ (sitting ones)",
+        "Can be used as a noun or adjective"
+      ],
+      "examples": [
+        { "arabic": "كَاتِبٌ", "english": "writer / writing (m.)" },
+        { "arabic": "ذَاهِبٌ", "english": "going (m.)" },
+        { "arabic": "جَالِسٌ", "english": "sitting (m.)" },
+        { "arabic": "وَاقِفٌ", "english": "standing (m.)" }
+      ]
+    },
+    {
+      "title": "Active Participle as Predicate",
+      "titleArabic": "اسم الفاعل كخبر",
+      "content": [
+        "When used as a predicate (خبر), the active participle describes the current state of the subject. It must agree in gender and number with the subject."
+      ],
+      "keyPoints": [
+        "الطَّالِبُ جَالِسٌ (The student is sitting) - masculine",
+        "الطَّالِبَةُ جَالِسَةٌ (The student is sitting) - feminine",
+        "The active participle often indicates an ongoing or present state"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l07-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The student is sitting",
+      "answer": "الطَّالِبُ جَالِسٌ",
+      "itemIds": ["word-005", "word-b2-033"]
+    },
+    {
+      "id": "b2-l07-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "a writer",
+      "answer": "كَاتِبٌ",
+      "itemIds": ["word-b2-031"]
+    },
+    {
+      "id": "b2-l07-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher is standing",
+      "answer": "الْمُدَرِّسُ وَاقِفٌ",
+      "itemIds": ["word-004", "word-b2-034"]
+    },
+    {
+      "id": "b2-l07-ex04",
+      "type": "fill-blank",
+      "prompt": "الرَّجُلُ _____ إِلَى الْمَسْجِدِ",
+      "promptEn": "The man is _____ to the mosque",
+      "answer": "ذَاهِبٌ",
+      "itemIds": ["word-b2-032"]
+    },
+    {
+      "id": "b2-l07-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كَاتِبٌ",
+      "answer": "writer / writing",
+      "itemIds": ["word-b2-031"]
+    },
+    {
+      "id": "b2-l07-ex06",
+      "type": "word-to-meaning",
+      "prompt": "ذَاهِبٌ",
+      "answer": "going",
+      "itemIds": ["word-b2-032"]
+    },
+    {
+      "id": "b2-l07-ex07",
+      "type": "word-to-meaning",
+      "prompt": "جَالِسٌ",
+      "answer": "sitting",
+      "itemIds": ["word-b2-033"]
+    },
+    {
+      "id": "b2-l07-ex08",
+      "type": "word-to-meaning",
+      "prompt": "وَاقِفٌ",
+      "answer": "standing",
+      "itemIds": ["word-b2-034"]
+    },
+    {
+      "id": "b2-l07-ex09",
+      "type": "meaning-to-word",
+      "prompt": "entering",
+      "answer": "دَاخِلٌ",
+      "itemIds": ["word-b2-035"]
+    },
+    {
+      "id": "b2-l07-ex10",
+      "type": "meaning-to-word",
+      "prompt": "exiting",
+      "answer": "خَارِجٌ",
+      "itemIds": ["word-b2-036"]
+    },
+    {
+      "id": "b2-l07-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "He is a famous writer",
+      "answer": "هُوَ كَاتِبٌ مَشْهُورٌ",
+      "itemIds": ["word-027", "word-b2-031", "word-053"]
+    },
+    {
+      "id": "b2-l07-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I saw the student sitting in the classroom",
+      "answer": "رَأَيْتُ الطَّالِبَ جَالِسًا فِي الْفَصْلِ",
+      "itemIds": ["word-b2-005", "word-005", "word-b2-033", "word-046", "word-b2-001"]
+    }
+  ]
+}

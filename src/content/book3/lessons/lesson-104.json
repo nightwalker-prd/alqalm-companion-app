@@ -1,0 +1,224 @@
+{
+  "id": "b3-l104",
+  "book": 3,
+  "lesson": 104,
+  "title": "أَفْعَالُ الْقُلُوبِ - الإِلْغَاءُ وَالتَّعْلِيقُ",
+  "titleEn": "Verbs of Heart - Cancellation and Suspension",
+  "description": "Learn about الإِلغاء (cancellation) and التعليق (suspension) - two phenomena that affect the governance of أفعال القلوب (verbs of heart/mind) like ظنّ، حسب، علم.",
+  "vocabulary": ["word-b3-648", "word-b3-649", "word-b3-650", "word-b3-651", "word-b3-652"],
+  "grammarPoints": ["gp-b3-170", "gp-b3-171"],
+  "notes": [
+    {
+      "title": "Review: Verbs of Heart",
+      "titleArabic": "مُرَاجَعَةٌ: أَفْعَالُ الْقُلُوبِ",
+      "content": [
+        "أَفْعَال الْقُلُوب are verbs that express mental activities: thinking, believing, knowing, finding, etc. They typically take two objects (مَفْعُولَان): ظَنَنْتُ زَيْدًا صَادِقًا.",
+        "These verbs include: ظَنَّ، حَسِبَ، خَالَ، زَعَمَ، عَلِمَ، وَجَدَ، رَأَى (when meaning 'to consider'), and others. Two special phenomena affect them: الإِلْغَاء and التَّعْلِيق."
+      ],
+      "keyPoints": [
+        "Express mental activities",
+        "Normally take two objects (مفعولان)",
+        "ظننتُ زيدًا صادقًا",
+        "Subject to إلغاء and تعليق"
+      ],
+      "examples": [
+        { "arabic": "ظَنَنْتُ الْأَمْرَ سَهْلًا", "english": "I thought the matter easy (two objects)" },
+        { "arabic": "حَسِبْتُ زَيْدًا قَادِمًا", "english": "I assumed Zayd was coming" },
+        { "arabic": "عَلِمْتُ الْحَقَّ وَاضِحًا", "english": "I knew the truth to be clear" },
+        { "arabic": "وَجَدْتُ الْعِلْمَ نَافِعًا", "english": "I found knowledge beneficial" }
+      ]
+    },
+    {
+      "title": "What is الإِلغاء?",
+      "titleArabic": "مَا هُوَ الإِلْغَاءُ؟",
+      "content": [
+        "الإِلْغاء means 'cancellation' - when a verb of heart loses its grammatical governance over two objects, and the sentence following it becomes an independent nominal sentence.",
+        "This happens when the verb is placed in the middle or at the end of the sentence (تَوَسُّط أَوْ تَأَخُّر). The mubtada' and khabar retain their normal case (raf')."
+      ],
+      "keyPoints": [
+        "Verb loses governance (عمل)",
+        "Happens with middle/end position",
+        "Following clause = independent sentence",
+        "Mubtada' and khabar both مرفوع"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ ظَنَنْتُ قَائِمٌ (إلغاء)", "english": "Zayd, I think, is standing (verb cancelled)" },
+        { "arabic": "زَيْدٌ قَائِمٌ ظَنَنْتُ", "english": "Zayd is standing, I think (end position)" },
+        { "arabic": "الْأَمْرُ حَسِبْتُ سَهْلٌ", "english": "The matter, I assumed, is easy" },
+        { "arabic": "الْعِلْمُ عَلِمْتُ نُورٌ", "english": "Knowledge, I know, is light" }
+      ]
+    },
+    {
+      "title": "Conditions for الإِلغاء",
+      "titleArabic": "شُرُوطُ الإِلْغَاءِ",
+      "content": [
+        "الإِلْغاء is optional (جَائِز) when the verb is in the middle of the sentence, and preferred (رَاجِح) when at the end. When the verb is at the beginning, governance is obligatory.",
+        "The verb must be from أَفْعَال الْقُلُوب. The two objects must originally be مبتدأ وخبر in meaning."
+      ],
+      "keyPoints": [
+        "Middle position: إلغاء optional",
+        "End position: إلغاء preferred",
+        "Beginning position: governance required",
+        "زيدًا ظننتُ قائمًا (still valid)"
+      ],
+      "examples": [
+        { "arabic": "ظَنَنْتُ زَيْدًا قَائِمًا (أول - إعمال)", "english": "Beginning: governance active" },
+        { "arabic": "زَيْدًا ظَنَنْتُ قَائِمًا / زَيْدٌ ظَنَنْتُ قَائِمٌ", "english": "Middle: both valid" },
+        { "arabic": "زَيْدٌ قَائِمٌ ظَنَنْتُ (آخر - إلغاء راجح)", "english": "End: cancellation preferred" },
+        { "arabic": "الْحَقُّ عَلِمْتُ وَاضِحٌ", "english": "The truth, I know, is clear" }
+      ]
+    },
+    {
+      "title": "What is التَّعْلِيق?",
+      "titleArabic": "مَا هُوَ التَّعْلِيقُ؟",
+      "content": [
+        "التَّعْلِيق means 'suspension' - when a specific particle intervenes between the verb and its objects, suspending the verb's governance. The verb is 'grammatically blocked' but semantically active.",
+        "This happens with particles like: لام الابتداء، ما النافية، إنْ النافية، لا النافية، and interrogative particles (هل، أ، etc.)."
+      ],
+      "keyPoints": [
+        "Particle blocks governance",
+        "Verb semantically active, grammatically blocked",
+        "Specific particles cause تعليق",
+        "لام الابتداء، ما، إن، لا، هل..."
+      ],
+      "examples": [
+        { "arabic": "عَلِمْتُ لَزَيْدٌ قَائِمٌ", "english": "I knew that Zayd is indeed standing (لام الابتداء)" },
+        { "arabic": "ظَنَنْتُ مَا زَيْدٌ قَائِمٌ", "english": "I thought Zayd was not standing (ما النافية)" },
+        { "arabic": "حَسِبْتُ إِنْ زَيْدٌ قَائِمٌ", "english": "I assumed Zayd was not standing (إن النافية)" },
+        { "arabic": "سَأَلْتُ هَلْ زَيْدٌ قَائِمٌ", "english": "I asked whether Zayd is standing" }
+      ]
+    },
+    {
+      "title": "Particles that Cause التعليق",
+      "titleArabic": "الأَدَوَاتُ الَّتِي تُسَبِّبُ التَّعْلِيقَ",
+      "content": [
+        "Several particles 'block' the verb of heart from governing its objects: 1) لام الابتداء (emphasis), 2) ما النافية, 3) إنْ النافية, 4) لا النافية, 5) Interrogative particles.",
+        "When these particles appear, the clause after them becomes grammatically independent (like a mubtada'-khabar sentence), though the verb of heart still affects the meaning."
+      ],
+      "keyPoints": [
+        "لام الابتداء - emphatic",
+        "ما، إن، لا - negation particles",
+        "هل، أ، من، ما - interrogatives",
+        "Clause becomes جملة في محل نصب"
+      ],
+      "examples": [
+        { "arabic": "عَلِمْتُ لَأَنْتَ صَادِقٌ", "english": "I knew you are indeed truthful (لام)" },
+        { "arabic": "ظَنَنْتُ مَا هُوَ كَاذِبٌ", "english": "I thought he was not lying (ما)" },
+        { "arabic": "عَرَفْتُ أَزَيْدٌ قَائِمٌ أَمْ عَمْرٌو", "english": "I knew whether Zayd or Amr was standing" },
+        { "arabic": "أَخْبِرْنِي مَنْ حَضَرَ", "english": "Tell me who attended (interrogative من)" }
+      ]
+    },
+    {
+      "title": "Difference: إِلغاء vs. تعليق",
+      "titleArabic": "الْفَرْقُ بَيْنَ الإِلْغَاءِ وَالتَّعْلِيقِ",
+      "content": [
+        "In إِلْغاء, the verb loses governance due to its POSITION (middle or end). In تَعْليق, governance is blocked by an INTERVENING PARTICLE.",
+        "Both result in the following clause being nominative (مبتدأ وخبر), but the grammatical analysis differs: إلغاء = completely cancelled; تعليق = suspended (الجملة في محل نصب)."
+      ],
+      "keyPoints": [
+        "إلغاء: due to position",
+        "تعليق: due to intervening particle",
+        "إلغاء: verb completely cancelled",
+        "تعليق: الجملة في محل نصب"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ ظَنَنْتُ قَائِمٌ (إلغاء)", "english": "Cancellation - verb in middle" },
+        { "arabic": "ظَنَنْتُ لَزَيْدٌ قَائِمٌ (تعليق)", "english": "Suspension - لام intervenes" },
+        { "arabic": "الْعِلْمُ حَسِبْتُ نَافِعٌ (إلغاء)", "english": "Cancellation - independent sentence" },
+        { "arabic": "حَسِبْتُ مَا الْجَهْلُ نَافِعٌ (تعليق)", "english": "Suspension - ما blocks" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l104-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ هُوَ إِبْطَالُ عَمَلِ الْفِعْلِ بِسَبَبِ مَوْقِعِهِ",
+      "promptEn": "_____ is cancelling the verb's governance due to its position",
+      "answer": "الإِلْغَاءُ",
+      "itemIds": ["word-b3-648"]
+    },
+    {
+      "id": "b3-l104-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ هُوَ تَعْطِيلُ عَمَلِ الْفِعْلِ بِسَبَبِ أَدَاةٍ",
+      "promptEn": "_____ is suspending the verb's governance due to a particle",
+      "answer": "التَّعْلِيقُ",
+      "itemIds": ["word-b3-649"]
+    },
+    {
+      "id": "b3-l104-ex03",
+      "type": "fill-blank",
+      "prompt": "زَيْدٌ ظَنَنْتُ قَائِمٌ - هٰذَا مِثَالٌ عَلَى _____",
+      "promptEn": "زيدٌ ظننتُ قائمٌ - this is an example of _____",
+      "answer": "الإِلْغَاءِ",
+      "itemIds": ["word-b3-648"]
+    },
+    {
+      "id": "b3-l104-ex04",
+      "type": "fill-blank",
+      "prompt": "عَلِمْتُ لَزَيْدٌ قَائِمٌ - اللَّامُ هُنَا تُسَمَّى لَامَ _____",
+      "promptEn": "علمتُ لَزيدٌ قائمٌ - the لام here is called لام _____",
+      "answer": "الابْتِدَاءِ",
+      "itemIds": ["word-b3-650"]
+    },
+    {
+      "id": "b3-l104-ex05",
+      "type": "fill-blank",
+      "prompt": "فِي التَّعْلِيقِ، الْجُمْلَةُ بَعْدَ أَدَاةِ التَّعْلِيقِ فِي مَحَلِّ _____",
+      "promptEn": "In suspension, the clause after the particle is in position of _____",
+      "answer": "نَصْبٍ",
+      "itemIds": ["word-b3-651"]
+    },
+    {
+      "id": "b3-l104-ex06",
+      "type": "fill-blank",
+      "prompt": "الإِلْغَاءُ رَاجِحٌ إِذَا كَانَ الْفِعْلُ فِي _____ الْجُمْلَةِ",
+      "promptEn": "Cancellation is preferred when the verb is at the _____ of the sentence",
+      "answer": "آخِرِ",
+      "itemIds": ["word-b3-652"]
+    },
+    {
+      "id": "b3-l104-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الإِلْغَاءُ",
+      "answer": "Cancellation (verb loses governance due to position)",
+      "itemIds": ["word-b3-648"]
+    },
+    {
+      "id": "b3-l104-ex08",
+      "type": "word-to-meaning",
+      "prompt": "التَّعْلِيقُ",
+      "answer": "Suspension (governance blocked by intervening particle)",
+      "itemIds": ["word-b3-649"]
+    },
+    {
+      "id": "b3-l104-ex09",
+      "type": "word-to-meaning",
+      "prompt": "لَامُ الابْتِدَاءِ",
+      "answer": "Emphatic لام at beginning of nominal sentence",
+      "itemIds": ["word-b3-650"]
+    },
+    {
+      "id": "b3-l104-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Verbs of heart/mind (ظنّ، علم، etc.)",
+      "answer": "أَفْعَالُ الْقُلُوبِ",
+      "itemIds": ["word-b3-651"]
+    },
+    {
+      "id": "b3-l104-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The verb's ability to give grammatical cases",
+      "answer": "الْعَمَلُ / الإِعْمَالُ",
+      "itemIds": ["word-b3-652"]
+    },
+    {
+      "id": "b3-l104-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Making the verb inactive/cancelled",
+      "answer": "إِلْغَاءٌ",
+      "itemIds": ["word-b3-648"]
+    }
+  ]
+}

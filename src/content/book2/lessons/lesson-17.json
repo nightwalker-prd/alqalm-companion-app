@@ -1,0 +1,132 @@
+{
+  "id": "b2-l17",
+  "book": 2,
+  "lesson": 17,
+  "title": "ظَرْفُ الزَّمَانِ وَالْمَكَان",
+  "titleEn": "Adverbs of Time and Place",
+  "description": "Learn time/place adverbs: قَبْلَ (before), بَعْدَ (after), فَوْقَ (above), تَحْتَ (under).",
+  "vocabulary": ["word-b2-090", "word-b2-091", "word-b2-092", "word-b2-093", "word-b2-094", "word-b2-095"],
+  "grammarPoints": ["gp-b2-017"],
+  "notes": [
+    {
+      "title": "Adverbs of Time and Place (ظرف الزمان والمكان)",
+      "titleArabic": "ظرف الزمان والمكان",
+      "content": [
+        "Adverbs of time (ظرف الزمان) and place (ظرف المكان) are nouns that indicate when or where an action occurs. They are always in the accusative case (منصوب).",
+        "These adverbs often function as مضاف, with the following noun in the genitive case (مجرور)."
+      ],
+      "keyPoints": [
+        "Time adverbs: قَبْلَ (before), بَعْدَ (after), عِنْدَ (at the time of)",
+        "Place adverbs: فَوْقَ (above), تَحْتَ (below), أَمَامَ (in front of), وَرَاءَ (behind)",
+        "Always منصوب (accusative) as adverbs",
+        "Followed by مجرور noun when used as مضاف"
+      ],
+      "examples": [
+        { "arabic": "قَبْلَ الدَّرْسِ", "english": "before the lesson" },
+        { "arabic": "بَعْدَ الصَّلَاةِ", "english": "after the prayer" },
+        { "arabic": "الْكِتَابُ فَوْقَ الطَّاوِلَةِ", "english": "The book is above the table" },
+        { "arabic": "جَلَسَ أَمَامَ الْمُدَرِّسِ", "english": "He sat in front of the teacher" }
+      ]
+    },
+    {
+      "title": "Common Spatial Adverbs",
+      "titleArabic": "الظروف المكانية الشائعة",
+      "content": [
+        "Memorize these commonly used spatial adverbs that indicate position and direction."
+      ],
+      "keyPoints": [
+        "فَوْقَ (above) ↔ تَحْتَ (below)",
+        "أَمَامَ (in front of) ↔ وَرَاءَ/خَلْفَ (behind)",
+        "يَمِينَ (right of) ↔ يَسَارَ/شِمَالَ (left of)",
+        "بَيْنَ (between) - requires two objects"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l17-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "before the lesson",
+      "answer": "قَبْلَ الدَّرْسِ",
+      "itemIds": ["word-b2-090", "word-b2-065"]
+    },
+    {
+      "id": "b2-l17-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "after the prayer",
+      "answer": "بَعْدَ الصَّلَاةِ",
+      "itemIds": ["word-b2-091", "word-b2-096"]
+    },
+    {
+      "id": "b2-l17-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The book is above the table",
+      "answer": "الْكِتَابُ فَوْقَ الطَّاوِلَةِ",
+      "itemIds": ["word-002", "word-b2-092", "word-033"]
+    },
+    {
+      "id": "b2-l17-ex04",
+      "type": "fill-blank",
+      "prompt": "الْقَلَمُ _____ الْكِتَابِ",
+      "promptEn": "The pen is _____ the book",
+      "answer": "تَحْتَ",
+      "itemIds": ["word-b2-093"]
+    },
+    {
+      "id": "b2-l17-ex05",
+      "type": "word-to-meaning",
+      "prompt": "قَبْلَ",
+      "answer": "before",
+      "itemIds": ["word-b2-090"]
+    },
+    {
+      "id": "b2-l17-ex06",
+      "type": "word-to-meaning",
+      "prompt": "بَعْدَ",
+      "answer": "after",
+      "itemIds": ["word-b2-091"]
+    },
+    {
+      "id": "b2-l17-ex07",
+      "type": "word-to-meaning",
+      "prompt": "فَوْقَ",
+      "answer": "above / over",
+      "itemIds": ["word-b2-092"]
+    },
+    {
+      "id": "b2-l17-ex08",
+      "type": "word-to-meaning",
+      "prompt": "تَحْتَ",
+      "answer": "under / below",
+      "itemIds": ["word-b2-093"]
+    },
+    {
+      "id": "b2-l17-ex09",
+      "type": "meaning-to-word",
+      "prompt": "in front of",
+      "answer": "أَمَامَ",
+      "itemIds": ["word-b2-094"]
+    },
+    {
+      "id": "b2-l17-ex10",
+      "type": "meaning-to-word",
+      "prompt": "behind",
+      "answer": "وَرَاءَ",
+      "itemIds": ["word-b2-095"]
+    },
+    {
+      "id": "b2-l17-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "He sat in front of the teacher",
+      "answer": "جَلَسَ أَمَامَ الْمُدَرِّسِ",
+      "itemIds": ["word-071", "word-b2-094", "word-004"]
+    },
+    {
+      "id": "b2-l17-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I went after the prayer",
+      "answer": "ذَهَبْتُ بَعْدَ الصَّلَاةِ",
+      "itemIds": ["word-068", "word-b2-091", "word-b2-096"]
+    }
+  ]
+}

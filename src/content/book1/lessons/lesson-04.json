@@ -1,0 +1,134 @@
+{
+  "id": "b1-l04",
+  "book": 1,
+  "lesson": 4,
+  "title": "هُوَ",
+  "titleEn": "He (Pronoun)",
+  "description": "Learn the masculine pronoun هُوَ (he) and practice identifying people with new vocabulary for male relationships and professions.",
+  "vocabulary": ["word-021", "word-022", "word-023", "word-024", "word-025", "word-026"],
+  "grammarPoints": ["gp-006"],
+  "notes": [
+    {
+      "title": "The Masculine Pronoun هُوَ",
+      "titleArabic": "الضمير المذكر",
+      "content": [
+        "The pronoun هُوَ (huwa) means 'he' and is used for masculine singular nouns, including people and things. In Arabic, all nouns have grammatical gender.",
+        "When referring to a masculine noun mentioned earlier in the conversation, use هُوَ. This includes objects like 'the book' (الكِتَابُ) which is grammatically masculine."
+      ],
+      "keyPoints": [
+        "هُوَ (he/it) is used for all masculine singular nouns",
+        "Arabic nouns are either masculine or feminine - there is no neutral gender",
+        "Use هُوَ to refer back to masculine nouns, including objects"
+      ],
+      "examples": [
+        { "arabic": "هُوَ طَالِبٌ", "english": "He is a student" },
+        { "arabic": "هُوَ مُدَرِّسٌ", "english": "He is a teacher" },
+        { "arabic": "مَنْ هُوَ؟ هُوَ طَبِيبٌ", "english": "Who is he? He is a doctor" },
+        { "arabic": "هَذَا رَجُلٌ وَهُوَ مُهَنْدِسٌ", "english": "This is a man and he is an engineer" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l04-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ طَالِبٌ",
+      "promptEn": "_____ is a student",
+      "answer": "هُوَ",
+      "itemIds": ["word-021", "word-017"]
+    },
+    {
+      "id": "b1-l04-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ مُدَرِّسٌ",
+      "promptEn": "_____ is a teacher",
+      "answer": "هُوَ",
+      "itemIds": ["word-021", "word-018"]
+    },
+    {
+      "id": "b1-l04-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ أَخٌ",
+      "promptEn": "_____ is a brother",
+      "answer": "هُوَ",
+      "itemIds": ["word-021", "word-022"]
+    },
+    {
+      "id": "b1-l04-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "He is a man",
+      "answer": "هُوَ رَجُلٌ",
+      "itemIds": ["word-021", "word-024"]
+    },
+    {
+      "id": "b1-l04-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "He is an imam",
+      "answer": "هُوَ إِمَامٌ",
+      "itemIds": ["word-021", "word-025"]
+    },
+    {
+      "id": "b1-l04-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He is an engineer",
+      "answer": "هُوَ مُهَنْدِسٌ",
+      "itemIds": ["word-021", "word-026"]
+    },
+    {
+      "id": "b1-l04-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَخٌ",
+      "answer": "brother",
+      "itemIds": ["word-022"]
+    },
+    {
+      "id": "b1-l04-ex08",
+      "type": "word-to-meaning",
+      "prompt": "وَلَدٌ",
+      "answer": "boy",
+      "itemIds": ["word-023"]
+    },
+    {
+      "id": "b1-l04-ex09",
+      "type": "word-to-meaning",
+      "prompt": "رَجُلٌ",
+      "answer": "man",
+      "itemIds": ["word-024"]
+    },
+    {
+      "id": "b1-l04-ex10",
+      "type": "meaning-to-word",
+      "prompt": "he",
+      "answer": "هُوَ",
+      "itemIds": ["word-021"]
+    },
+    {
+      "id": "b1-l04-ex11",
+      "type": "meaning-to-word",
+      "prompt": "engineer",
+      "answer": "مُهَنْدِسٌ",
+      "itemIds": ["word-026"]
+    },
+    {
+      "id": "b1-l04-ex12",
+      "type": "meaning-to-word",
+      "prompt": "imam",
+      "answer": "إِمَامٌ",
+      "itemIds": ["word-025"]
+    },
+    {
+      "id": "b1-l04-ex13",
+      "type": "translate-to-arabic",
+      "prompt": "Who is he? He is a teacher",
+      "answer": "مَنْ هُوَ؟ هُوَ مُدَرِّسٌ",
+      "itemIds": ["word-016", "word-021", "word-004"]
+    },
+    {
+      "id": "b1-l04-ex14",
+      "type": "translate-to-arabic",
+      "prompt": "This is a man and he is a doctor",
+      "answer": "هَذَا رَجُلٌ وَهُوَ طَبِيبٌ",
+      "itemIds": ["word-001", "word-009", "word-021", "word-017"]
+    }
+  ]
+}

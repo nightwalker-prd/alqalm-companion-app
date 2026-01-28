@@ -1,0 +1,183 @@
+{
+  "id": "b3-l66",
+  "book": 3,
+  "lesson": 66,
+  "title": "المَوْصُول الحَرْفِيّ",
+  "titleEn": "Particle-like Relatives",
+  "description": "Learn about المَوْصُول الحَرْفِيّ, particles that function like relative pronouns and form interpreted masdars: أَنْ، أَنَّ، كَيْ، لَوْ، مَا.",
+  "vocabulary": ["word-b3-444", "word-b3-445", "word-b3-446", "word-b3-447", "word-b3-448", "word-b3-449"],
+  "grammarPoints": ["gp-b3-094", "gp-b3-095"],
+  "notes": [
+    {
+      "title": "What is المَوْصُول الحَرْفِيّ?",
+      "titleArabic": "تَعْرِيفُ المَوْصُولِ الحَرْفِيِّ",
+      "content": [
+        "المَوْصُول الحَرْفِيّ (particle-like relative) refers to particles that, together with the clause following them, form a complete meaning equivalent to a masdar. Unlike الموصول الاسمي (الَّذِي، الَّتِي, etc.) which are nouns, these are particles (حروف).",
+        "The main الموصولات الحرفية are: أَنْ (that), أَنَّ (that - with emphasis), كَيْ (in order to), لَوْ (if/that), and مَا المصدرية (what/the fact that). Each combines with what follows to create a مصدر مؤول."
+      ],
+      "keyPoints": [
+        "الموصول الحرفي = particles that form masdar مؤول",
+        "Different from الموصول الاسمي (الذي، التي)",
+        "Five main particles: أَنْ، أَنَّ، كَيْ، لَوْ، مَا",
+        "Each particle + clause = مصدر مؤول"
+      ],
+      "examples": [
+        { "arabic": "أُرِيدُ أَنْ أَتَعَلَّمَ ← أَنْ أَتَعَلَّمَ = التَّعَلُّمَ", "english": "I want to learn -> 'to learn' = learning" },
+        { "arabic": "عَلِمْتُ أَنَّكَ نَاجِحٌ ← أَنَّكَ نَاجِحٌ = نَجَاحَكَ", "english": "I knew you succeeded -> 'that you succeeded' = your success" },
+        { "arabic": "جِئْتُ كَيْ أَتَعَلَّمَ ← كَيْ أَتَعَلَّمَ = لِلتَّعَلُّمِ", "english": "I came to learn -> 'to learn' = for learning" },
+        { "arabic": "وَدِدْتُ لَوْ تَزُورُنِي ← لَوْ تَزُورُنِي = زِيَارَتَكَ", "english": "I wished you would visit -> 'that you visit' = your visiting" }
+      ]
+    },
+    {
+      "title": "أَنْ المَصْدَرِيَّة",
+      "titleArabic": "أَنْ المَصْدَرِيَّةُ وَاسْتِعْمَالُهَا",
+      "content": [
+        "أَنْ المصدرية is the most common موصول حرفي. It is followed by a فِعْل مُضَارِع which becomes مَنْصُوب (accusative). The combination أَنْ + الفعل المضارع المنصوب forms a مصدر مؤول.",
+        "أَنْ can come after certain verbs (أَفْعَال القُلُوب وَغَيْرُها) and expressions: أُرِيدُ أَنْ (I want to), يَجِبُ أَنْ (it is necessary to), أَتَمَنَّى أَنْ (I wish to), يُمْكِنُ أَنْ (it is possible to)."
+      ],
+      "keyPoints": [
+        "أَنْ المصدرية + مضارع منصوب",
+        "تَنْصِبُ الفِعْلَ المُضَارِعَ",
+        "المصدر المؤول = أَنْ + الفعل",
+        "Common after: أُرِيدُ، يَجِبُ، أَتَمَنَّى، يُمْكِنُ"
+      ],
+      "examples": [
+        { "arabic": "أُرِيدُ أَنْ أَذْهَبَ إِلَى المَسْجِدِ", "english": "I want to go to the mosque" },
+        { "arabic": "يَجِبُ أَنْ نَصْدُقَ فِي القَوْلِ", "english": "We must be truthful in speech" },
+        { "arabic": "يَسُرُّنِي أَنْ أَرَاكَ", "english": "It pleases me to see you" },
+        { "arabic": "عَسَى أَنْ تَكْرَهُوا شَيْئًا وَهُوَ خَيْرٌ لَكُمْ (القرآن)", "english": "Perhaps you dislike something and it is good for you (Quran 2:216)" }
+      ]
+    },
+    {
+      "title": "أَنَّ المُشَدَّدَة وكَيْ",
+      "titleArabic": "أَنَّ المُشَدَّدَةُ وكَيْ المَصْدَرِيَّةُ",
+      "content": [
+        "أَنَّ المشددة is followed by its اسْم (in accusative) and خَبَر. The entire clause forms a مصدر مؤول: عَلِمْتُ أَنَّكَ مُسَافِرٌ = عَلِمْتُ سَفَرَكَ (I knew your traveling). This is very common in Arabic.",
+        "كَيْ المصدرية indicates purpose and is followed by a فِعْل مُضَارِع مَنْصُوب. It means 'in order to' or 'so that': جِئْتُ كَيْ أَتَعَلَّمَ = جِئْتُ لِلتَّعَلُّمِ (I came for learning)."
+      ],
+      "keyPoints": [
+        "أَنَّ + اسمها المنصوب + خبرها",
+        "أَنَّكَ نَاجِحٌ = نَجَاحُكَ",
+        "كَيْ + مضارع منصوب = للمصدر",
+        "كَيْ تُفِيدُ التَّعْلِيل (purpose)"
+      ],
+      "examples": [
+        { "arabic": "بَلَغَنِي أَنَّكَ مَرِيضٌ", "english": "It reached me that you are sick" },
+        { "arabic": "أَعْلَمُ أَنَّ اللهَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ (القرآن)", "english": "I know that Allah is capable of all things (Quran 2:259)" },
+        { "arabic": "جِئْتُ كَيْ أُسَاعِدَكَ", "english": "I came in order to help you" },
+        { "arabic": "ادْرُسْ كَيْ تَنْجَحَ", "english": "Study so that you succeed" }
+      ]
+    },
+    {
+      "title": "لَوْ المَصْدَرِيَّة ومَا المَصْدَرِيَّة",
+      "titleArabic": "لَوْ وَمَا المَصْدَرِيَّتَانِ",
+      "content": [
+        "لَوْ المصدرية comes after verbs of wishing (وَدَّ، تَمَنَّى، أَحَبَّ) and means 'that' or 'if only'. It forms a مصدر مؤول: وَدُّوا لَوْ تَكْفُرُونَ (They wished that you would disbelieve). Here لَوْ تَكْفُرُونَ = كُفْرَكُمْ.",
+        "مَا المصدرية can be ظرفية (temporal) or غير ظرفية. When temporal, it means 'as long as': أُكْرِمُكَ مَا دُمْتَ صَادِقًا (I honor you as long as you are truthful). مَا دُمْتَ صَادِقًا = مُدَّةَ دَوَامِكَ صَادِقًا."
+      ],
+      "keyPoints": [
+        "لَوْ المصدرية بعد أفعال التمني",
+        "وَدَّ لَوْ = تَمَنَّى أَنْ",
+        "مَا المصدرية الظرفية = as long as",
+        "مَا دُمْتَ = مُدَّةَ دَوَامِكَ"
+      ],
+      "examples": [
+        { "arabic": "وَدُّوا لَوْ تُدْهِنُ فَيُدْهِنُونَ (القرآن)", "english": "They wish you would compromise so they would compromise (Quran 68:9)" },
+        { "arabic": "يَوَدُّ أَحَدُهُمْ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ (القرآن)", "english": "One of them wishes to live a thousand years (Quran 2:96)" },
+        { "arabic": "أُكْرِمُكَ مَا دُمْتَ مُجْتَهِدًا", "english": "I honor you as long as you are diligent" },
+        { "arabic": "وَأَوْصَانِي بِالصَّلَاةِ وَالزَّكَاةِ مَا دُمْتُ حَيًّا (القرآن)", "english": "And He enjoined on me prayer and charity as long as I live (Quran 19:31)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l66-ex01",
+      "type": "fill-blank",
+      "prompt": "الموصولات الحرفية الخمسة هي: أَنْ، أَنَّ، كَيْ، _____، مَا",
+      "promptEn": "The five particle relatives are: أَنْ، أَنَّ، كَيْ، _____، مَا",
+      "answer": "لَوْ",
+      "itemIds": ["word-b3-444"]
+    },
+    {
+      "id": "b3-l66-ex02",
+      "type": "fill-blank",
+      "prompt": "جِئْتُ _____ أَتَعَلَّمَ (للتعليل)",
+      "promptEn": "I came _____ learn (for purpose)",
+      "answer": "كَيْ",
+      "itemIds": ["word-b3-445"]
+    },
+    {
+      "id": "b3-l66-ex03",
+      "type": "fill-blank",
+      "prompt": "عَلِمْتُ _____ نَاجِحٌ (أَنَّ + ضمير)",
+      "promptEn": "I knew _____ (you are) successful (anna + pronoun)",
+      "answer": "أَنَّكَ",
+      "itemIds": ["word-b3-446"]
+    },
+    {
+      "id": "b3-l66-ex04",
+      "type": "fill-blank",
+      "prompt": "وَدِدْتُ _____ تَزُورُنِي (تمنٍّ)",
+      "promptEn": "I wished _____ you would visit me (wishing)",
+      "answer": "لَوْ",
+      "itemIds": ["word-b3-447"]
+    },
+    {
+      "id": "b3-l66-ex05",
+      "type": "fill-blank",
+      "prompt": "أُحِبُّكَ _____ دُمْتَ صَادِقًا (ما الظرفية)",
+      "promptEn": "I love you _____ you remain truthful (temporal ma)",
+      "answer": "مَا",
+      "itemIds": ["word-b3-448"]
+    },
+    {
+      "id": "b3-l66-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I came in order to help you",
+      "answer": "جِئْتُ كَيْ أُسَاعِدَكَ",
+      "itemIds": ["word-b3-444"]
+    },
+    {
+      "id": "b3-l66-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I knew that you are a student",
+      "answer": "عَلِمْتُ أَنَّكَ طَالِبٌ",
+      "itemIds": ["word-b3-445"]
+    },
+    {
+      "id": "b3-l66-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "I honor you as long as you are truthful",
+      "answer": "أُكْرِمُكَ مَا دُمْتَ صَادِقًا",
+      "itemIds": ["word-b3-446"]
+    },
+    {
+      "id": "b3-l66-ex09",
+      "type": "word-to-meaning",
+      "prompt": "المَوْصُول الحَرْفِيّ",
+      "answer": "particle-like relative (forms masdar with following clause)",
+      "itemIds": ["word-b3-447"]
+    },
+    {
+      "id": "b3-l66-ex10",
+      "type": "word-to-meaning",
+      "prompt": "كَيْ المَصْدَرِيَّة",
+      "answer": "the masdariyya 'kay' (in order to / so that)",
+      "itemIds": ["word-b3-448"]
+    },
+    {
+      "id": "b3-l66-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The particle used after verbs of wishing to form a masdar",
+      "answer": "لَوْ المَصْدَرِيَّة",
+      "itemIds": ["word-b3-449"]
+    },
+    {
+      "id": "b3-l66-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The temporal particle meaning 'as long as'",
+      "answer": "مَا المَصْدَرِيَّة الظَّرْفِيَّة",
+      "itemIds": ["word-b3-449"]
+    }
+  ]
+}

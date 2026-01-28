@@ -1,0 +1,224 @@
+{
+  "id": "b3-l90",
+  "book": 3,
+  "lesson": 90,
+  "title": "ضَمِيرُ الْفَصْلِ",
+  "titleEn": "The Separating Pronoun",
+  "description": "Learn about ضمير الفصل - the pronoun inserted between subject and predicate for emphasis and to prevent misreading the predicate as an adjective.",
+  "vocabulary": ["word-b3-578", "word-b3-579", "word-b3-580", "word-b3-581", "word-b3-582"],
+  "grammarPoints": ["gp-b3-142", "gp-b3-143"],
+  "notes": [
+    {
+      "title": "What is ضمير الفصل?",
+      "titleArabic": "مَا هُوَ ضَمِيرُ الْفَصْلِ؟",
+      "content": [
+        "ضَمِير الْفَصْل (the separating pronoun) is a pronoun inserted between الْمُبْتَدَأ (subject) and الْخَبَر (predicate) in a nominal sentence. It serves to separate and emphasize, preventing the predicate from being misread as an adjective.",
+        "It is called 'separating' because it فَصَلَ (separates) between subject and predicate. It matches the subject in person, number, and gender: هُوَ, هِيَ, هُمَا, هُمْ, هُنَّ, أَنْتَ, أَنَا, نَحْنُ, etc."
+      ],
+      "keyPoints": [
+        "Inserted between مُبْتَدَأ and خَبَر",
+        "Matches subject in person/number/gender",
+        "Separates and emphasizes",
+        "Prevents predicate from being read as adjective"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ هُوَ الْعَالِمُ", "english": "Zayd - he is - the scholar" },
+        { "arabic": "اللهُ هُوَ الْغَفُورُ", "english": "Allah - He is - the Forgiving" },
+        { "arabic": "هِنْدٌ هِيَ الْفَاضِلَةُ", "english": "Hind - she is - the virtuous one" },
+        { "arabic": "أَنْتَ أَنْتَ الصَّادِقُ", "english": "You - you are - the truthful one" }
+      ]
+    },
+    {
+      "title": "Functions of ضمير الفصل",
+      "titleArabic": "وَظَائِفُ ضَمِيرِ الْفَصْلِ",
+      "content": [
+        "ضمير الفصل has three main functions: 1) التَّوْكِيد (emphasis): strengthening the statement, 2) الْفَصْل (separation): distinguishing خَبَر from صِفَة, 3) الْحَصْر (restriction): implying exclusivity.",
+        "Without the separating pronoun, زَيْدٌ الْعَالِمُ could mean 'Zayd the scholar' (adjective). With it, زَيْدٌ هُوَ الْعَالِمُ clearly means 'Zayd is the scholar' (predicate)."
+      ],
+      "keyPoints": [
+        "التَّوْكِيد: emphasis",
+        "الْفَصْل: separating خَبَر from صِفَة",
+        "الْحَصْر: restriction/exclusivity",
+        "Clarifies sentence structure"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ الْعَالِمُ (صفة)", "english": "Zayd the scholar (adjective - incomplete)" },
+        { "arabic": "زَيْدٌ هُوَ الْعَالِمُ (خبر)", "english": "Zayd is the scholar (predicate - complete)" },
+        { "arabic": "كُنْتَ أَنْتَ الرَّقِيبَ (حصر)", "english": "You were the Watcher (restriction)" },
+        { "arabic": "إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ (توكيد)", "english": "Indeed You are the Knowing, Wise (emphasis)" }
+      ]
+    },
+    {
+      "title": "Conditions for ضمير الفصل",
+      "titleArabic": "شُرُوطُ ضَمِيرِ الْفَصْلِ",
+      "content": [
+        "For a pronoun to be ضمير فصل, certain conditions must be met: 1) It must come between مُبْتَدَأ/خَبَر or their equivalents (اسم وخبر إنّ، اسم وخبر كان), 2) Both the preceding and following elements must be مَعْرِفَة (definite).",
+        "If the conditions aren't met, the pronoun is not فَصْل but rather تَوْكِيد (emphasis) or مُبْتَدَأ ثَانٍ (second subject). The pronoun must match what precedes in person, number, and gender."
+      ],
+      "keyPoints": [
+        "Between مُبْتَدَأ/خَبَر or equivalents",
+        "Both elements must be مَعْرِفَة",
+        "Must match in person/number/gender",
+        "Otherwise it's توكيد or مبتدأ ثان"
+      ],
+      "examples": [
+        { "arabic": "إِنَّ زَيْدًا هُوَ الْفَائِزُ (بين اسم إنّ وخبرها)", "english": "Indeed Zayd is the winner (between ism and khabar of إنّ)" },
+        { "arabic": "كَانَ زَيْدٌ هُوَ الْمُجْتَهِدَ (بين اسم كان وخبرها)", "english": "Zayd was the diligent one (between ism and khabar of كان)" },
+        { "arabic": "زَيْدٌ هُوَ كَرِيمٌ (خطأ - كريم نكرة)", "english": "Zayd he generous - INCORRECT (كريم is indefinite)" },
+        { "arabic": "الطَّالِبَانِ هُمَا النَّاجِحَانِ (صحيح)", "english": "The two students are the successful ones (correct)" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis (الإعراب)",
+      "titleArabic": "إِعْرَابُ ضَمِيرِ الْفَصْلِ",
+      "content": [
+        "Grammarians differ on the i'rab of ضمير الفصل. The Basran view: it has no i'rab position (لَا مَحَلَّ لَهُ) - it is purely for separation. The Kufan view: it can be مُبْتَدَأ and what follows is its خَبَر.",
+        "The majority view (Basran) treats it as a particle-like element with no grammatical position. In analysis, we say: ضَمِير فَصْل لَا مَحَلَّ لَهُ مِنَ الإِعْرَاب."
+      ],
+      "keyPoints": [
+        "Basran view: لَا مَحَلَّ لَهُ (no position)",
+        "Kufan view: مُبْتَدَأ ثَانٍ",
+        "Majority: no grammatical position",
+        "ضَمِير فَصْل لَا مَحَلَّ لَهُ"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ: مُبْتَدَأ مَرْفُوع", "english": "زَيْدٌ: subject, nominative" },
+        { "arabic": "هُوَ: ضَمِير فَصْل لَا مَحَلَّ لَهُ", "english": "هُوَ: separating pronoun, no position" },
+        { "arabic": "الْعَالِمُ: خَبَر مَرْفُوع", "english": "الْعَالِمُ: predicate, nominative" },
+        { "arabic": "إِنَّ زَيْدًا هُوَ الْفَائِزُ: هُوَ ضمير فصل", "english": "إِنَّ زَيْدًا هُوَ الْفَائِزُ: هُوَ is separating pronoun" }
+      ]
+    },
+    {
+      "title": "Quranic Examples",
+      "titleArabic": "أَمْثِلَةٌ قُرْآنِيَّةٌ",
+      "content": [
+        "ضمير الفصل is abundant in the Quran, particularly in verses about Allah's attributes. It adds emphasis and clarity to theological statements. Examples include: إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ, وَأَنَّ اللهَ هُوَ التَّوَّابُ الرَّحِيمُ.",
+        "Recognizing ضمير الفصل is essential for proper Quranic tafsir and i'rab. Without understanding it, one might misparse sentences or miss the emphasis intended."
+      ],
+      "keyPoints": [
+        "Abundant in Quran",
+        "Common with Allah's attributes",
+        "Essential for tafsir",
+        "Adds emphasis to theological statements"
+      ],
+      "examples": [
+        { "arabic": "إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ (البقرة: ٣٢)", "english": "Indeed, You are the Knowing, the Wise (2:32)" },
+        { "arabic": "إِنَّهُ هُوَ التَّوَّابُ الرَّحِيمُ (البقرة: ٣٧)", "english": "Indeed, He is the Accepting of repentance, Merciful (2:37)" },
+        { "arabic": "كُنْتَ أَنْتَ الرَّقِيبَ عَلَيْهِمْ (المائدة: ١١٧)", "english": "You were the Observer over them (5:117)" },
+        { "arabic": "وَهُوَ هُوَ بِالأُفُقِ الأَعْلَى (النجم: ٧)", "english": "And he was on the highest horizon (53:7) - different usage" }
+      ]
+    },
+    {
+      "title": "Difference from توكيد (Emphasis)",
+      "titleArabic": "الْفَرْقُ بَيْنَ ضَمِيرِ الْفَصْلِ وَالتَّوْكِيدِ",
+      "content": [
+        "ضمير الفصل differs from ضمير التوكيد (emphatic pronoun): 1) ضمير الفصل comes between two definite nouns (مُبْتَدَأ/خَبَر), while توكيد directly follows what it emphasizes, 2) ضمير الفصل has no i'rab position, while توكيد follows the i'rab of the emphasized word.",
+        "Compare: زَيْدٌ هُوَ نَفْسُهُ جَاءَ (himself - توكيد) vs. زَيْدٌ هُوَ الْفَائِزُ (فصل). In the first, هُوَ نَفْسُهُ emphasizes زَيْد; in the second, هُوَ separates subject from predicate."
+      ],
+      "keyPoints": [
+        "فصل: between مُبْتَدَأ and خَبَر",
+        "توكيد: directly follows emphasized word",
+        "فصل: no i'rab position",
+        "توكيد: follows i'rab of emphasized"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ هُوَ الْعَالِمُ (فصل)", "english": "Zayd is the scholar (separating pronoun)" },
+        { "arabic": "زَيْدٌ نَفْسُهُ جَاءَ (توكيد)", "english": "Zayd himself came (emphatic)" },
+        { "arabic": "جَاءَ زَيْدٌ هُوَ (توكيد)", "english": "Zayd himself came (emphatic after verb)" },
+        { "arabic": "إِنَّ زَيْدًا هُوَ هُوَ (فصل + توكيد)", "english": "Indeed Zayd is he himself (both can combine)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l90-ex01",
+      "type": "fill-blank",
+      "prompt": "زَيْدٌ هُوَ الْعَالِمُ - 'هُوَ' هُنَا يُسَمَّى: ضَمِيرَ _____",
+      "promptEn": "زَيْدٌ هُوَ الْعَالِمُ - 'هُوَ' here is called: the _____ pronoun",
+      "answer": "الْفَصْلِ",
+      "itemIds": ["word-b3-578"]
+    },
+    {
+      "id": "b3-l90-ex02",
+      "type": "fill-blank",
+      "prompt": "ضَمِيرُ الْفَصْلِ يَفْصِلُ بَيْنَ الْمُبْتَدَأِ وَ_____",
+      "promptEn": "The separating pronoun separates between the subject and _____",
+      "answer": "الْخَبَرِ",
+      "itemIds": ["word-b3-579"]
+    },
+    {
+      "id": "b3-l90-ex03",
+      "type": "fill-blank",
+      "prompt": "مِنْ وَظَائِفِ ضَمِيرِ الْفَصْلِ: التَّوْكِيدُ وَالْفَصْلُ وَ_____",
+      "promptEn": "Among functions of ضمير الفصل: emphasis, separation, and _____",
+      "answer": "الْحَصْرُ",
+      "itemIds": ["word-b3-580"]
+    },
+    {
+      "id": "b3-l90-ex04",
+      "type": "fill-blank",
+      "prompt": "ضَمِيرُ الْفَصْلِ عِنْدَ الْبَصْرِيِّينَ _____ مِنَ الإِعْرَابِ",
+      "promptEn": "The separating pronoun according to Basrans has no _____ in i'rab",
+      "answer": "لَا مَحَلَّ لَهُ",
+      "itemIds": ["word-b3-581"]
+    },
+    {
+      "id": "b3-l90-ex05",
+      "type": "fill-blank",
+      "prompt": "شَرْطُ ضَمِيرِ الْفَصْلِ أَنْ يَقَعَ بَيْنَ _____ (معرفتين/نكرتين)",
+      "promptEn": "The condition for ضمير الفصل is that it occurs between two _____ (definite/indefinite) nouns",
+      "answer": "مَعْرِفَتَيْنِ",
+      "itemIds": ["word-b3-582"]
+    },
+    {
+      "id": "b3-l90-ex06",
+      "type": "fill-blank",
+      "prompt": "إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ - 'أَنْتَ' هُنَا ضَمِيرُ _____ لِأَنَّهُ بَيْنَ اسْمِ إِنَّ وَخَبَرِهَا",
+      "promptEn": "إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ - 'أَنْتَ' here is _____ because it's between ism and khabar of إنّ",
+      "answer": "فَصْلٍ",
+      "itemIds": ["word-b3-578"]
+    },
+    {
+      "id": "b3-l90-ex07",
+      "type": "word-to-meaning",
+      "prompt": "ضَمِيرُ الْفَصْلِ",
+      "answer": "The separating pronoun (inserted between subject and predicate)",
+      "itemIds": ["word-b3-578"]
+    },
+    {
+      "id": "b3-l90-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَا مَحَلَّ لَهُ مِنَ الإِعْرَابِ",
+      "answer": "Has no grammatical position (said of ضمير الفصل)",
+      "itemIds": ["word-b3-581"]
+    },
+    {
+      "id": "b3-l90-ex09",
+      "type": "word-to-meaning",
+      "prompt": "زَيْدٌ هُوَ الْعَالِمُ",
+      "answer": "Zayd is the scholar (with separating pronoun for emphasis)",
+      "itemIds": ["word-b3-578"]
+    },
+    {
+      "id": "b3-l90-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The pronoun that separates subject from predicate to prevent confusion with an adjective",
+      "answer": "ضَمِيرُ الْفَصْلِ",
+      "itemIds": ["word-b3-578"]
+    },
+    {
+      "id": "b3-l90-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The function of ضمير الفصل that implies exclusivity",
+      "answer": "الْحَصْرُ",
+      "itemIds": ["word-b3-580"]
+    },
+    {
+      "id": "b3-l90-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The Quranic verse 'Indeed You are the Knowing, the Wise' containing ضمير الفصل",
+      "answer": "إِنَّكَ أَنْتَ الْعَلِيمُ الْحَكِيمُ",
+      "itemIds": ["word-b3-578"]
+    }
+  ]
+}

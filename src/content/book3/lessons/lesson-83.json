@@ -1,0 +1,224 @@
+{
+  "id": "b3-l83",
+  "book": 3,
+  "lesson": 83,
+  "title": "التَّقْدِيمُ وَالتَّأْخِيرُ",
+  "titleEn": "Word Order (Fronting and Delaying)",
+  "description": "Learn about التقديم والتأخير - the rules governing word order in Arabic, including obligatory and permissible fronting of subjects, objects, predicates, and other sentence elements.",
+  "vocabulary": ["word-b3-543", "word-b3-544", "word-b3-545", "word-b3-546", "word-b3-547"],
+  "grammarPoints": ["gp-b3-128", "gp-b3-129"],
+  "notes": [
+    {
+      "title": "Introduction to Word Order",
+      "titleArabic": "مُقَدِّمَةٌ فِي التَّقْدِيمِ وَالتَّأْخِيرِ",
+      "content": [
+        "Arabic has relatively flexible word order compared to many languages, but this flexibility follows specific rules. التَّقْدِيم (fronting/advancing) moves an element earlier in the sentence, while التَّأْخِير (delaying) moves it later.",
+        "Word order changes can be وَاجِب (obligatory), جَائِز (permissible), or مُمْتَنِع (prohibited). Understanding these rules is essential for both correct grammar and proper rhetorical effect."
+      ],
+      "keyPoints": [
+        "التَّقْدِيم: moving element earlier (fronting)",
+        "التَّأْخِير: moving element later (delaying)",
+        "وَاجِب: obligatory change",
+        "جَائِز: permissible / مُمْتَنِع: prohibited"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبَ زَيْدٌ عَمْرًا (الأصل)", "english": "Zayd hit Amr (normal order: verb-subject-object)" },
+        { "arabic": "زَيْدٌ ضَرَبَ عَمْرًا (تقديم الفاعل)", "english": "Zayd hit Amr (subject fronted)" },
+        { "arabic": "عَمْرًا ضَرَبَ زَيْدٌ (تقديم المفعول)", "english": "Amr, Zayd hit (object fronted)" },
+        { "arabic": "فِي الدَّارِ زَيْدٌ (تقديم الخبر)", "english": "In the house is Zayd (predicate fronted)" }
+      ]
+    },
+    {
+      "title": "Obligatory Fronting of Predicate (تقديم الخبر وجوبًا)",
+      "titleArabic": "تَقْدِيمُ الْخَبَرِ وُجُوبًا",
+      "content": [
+        "The predicate (خَبَر) must be fronted before the subject (مُبْتَدَأ) in several cases: 1) When the predicate is a prepositional phrase and the subject is indefinite (نكرة), 2) When the subject has a pronoun referring back to the predicate, 3) When the predicate is a question word (أَيْنَ، مَتَى، كَيْفَ).",
+        "These rules prevent ambiguity and maintain Arabic grammatical principles like the requirement that مُبْتَدَأ generally be definite (معرفة)."
+      ],
+      "keyPoints": [
+        "Predicate = prepositional, subject = نكرة: front predicate",
+        "Subject has pronoun referring to predicate: front predicate",
+        "Predicate is question word: front predicate",
+        "Prevents ambiguity, maintains grammar"
+      ],
+      "examples": [
+        { "arabic": "فِي الدَّارِ رَجُلٌ (وجوبًا)", "english": "In the house is a man (must front predicate - subject is نكرة)" },
+        { "arabic": "عِنْدِي كِتَابٌ (وجوبًا)", "english": "I have a book (prepositional predicate + indefinite subject)" },
+        { "arabic": "فِي الْقَفَصِ طَيْرُهُ (وجوبًا)", "english": "In the cage is its bird (pronoun in subject refers to predicate)" },
+        { "arabic": "أَيْنَ زَيْدٌ؟ (وجوبًا)", "english": "Where is Zayd? (question word must be first)" }
+      ]
+    },
+    {
+      "title": "Obligatory Fronting of Subject (تقديم المبتدأ وجوبًا)",
+      "titleArabic": "تَقْدِيمُ الْمُبْتَدَأِ وُجُوبًا",
+      "content": [
+        "The subject (مُبْتَدَأ) must come before the predicate (خَبَر) in certain cases: 1) When the subject is a question word (مَنْ، مَا), 2) When the subject has لام الابتداء, 3) When subject and predicate are equally definite and no context distinguishes them.",
+        "These rules ensure proper grammatical structure and clear communication."
+      ],
+      "keyPoints": [
+        "Subject is question word: must be first",
+        "Subject has لام الابتداء: must be first",
+        "Both equally definite: subject first",
+        "Ensures clarity and correct structure"
+      ],
+      "examples": [
+        { "arabic": "مَنْ فِي الدَّارِ؟ (وجوبًا)", "english": "Who is in the house? (مَنْ must be مبتدأ first)" },
+        { "arabic": "لَزَيْدٌ قَائِمٌ (وجوبًا)", "english": "Indeed Zayd is standing (لام الابتداء requires subject first)" },
+        { "arabic": "اللهُ رَبُّنَا (وجوبًا)", "english": "Allah is our Lord (both definite - subject first)" },
+        { "arabic": "مَا الْعِلْمُ؟ (وجوبًا)", "english": "What is knowledge? (مَا question = subject)" }
+      ]
+    },
+    {
+      "title": "Obligatory Fronting of Object (تقديم المفعول وجوبًا)",
+      "titleArabic": "تَقْدِيمُ الْمَفْعُولِ وُجُوبًا",
+      "content": [
+        "The object (مَفْعُول بِهِ) must be fronted before the verb in several cases: 1) When the object is a question word (مَنْ رَأَيْتَ؟), 2) When the object is كَمْ or أَيّ in interrogative use, 3) When the object has a pronoun that refers to the subject.",
+        "Fronting the object often adds emphasis or is required by the nature of question words which must appear first."
+      ],
+      "keyPoints": [
+        "Object is question word: must front",
+        "Object is كَمْ/أَيّ interrogative: must front",
+        "Object has pronoun referring to subject: must front",
+        "Question words have صَدَارَة (priority)"
+      ],
+      "examples": [
+        { "arabic": "مَنْ رَأَيْتَ؟ (وجوبًا)", "english": "Whom did you see? (مَنْ must be first)" },
+        { "arabic": "كَمْ كِتَابًا قَرَأْتَ؟ (وجوبًا)", "english": "How many books did you read? (كَمْ must be first)" },
+        { "arabic": "أَيَّ رَجُلٍ قَابَلْتَ؟ (وجوبًا)", "english": "Which man did you meet? (أَيّ must be first)" },
+        { "arabic": "إِيَّاكَ نَعْبُدُ (تقديم للحصر)", "english": "You alone we worship (Quran - object fronted for restriction)" }
+      ]
+    },
+    {
+      "title": "Permissible Word Order Changes",
+      "titleArabic": "التَّقْدِيمُ وَالتَّأْخِيرُ الْجَائِزَانِ",
+      "content": [
+        "In many cases, word order changes are جَائِز (permissible) but not obligatory. These changes are often made for بَلَاغَة (rhetoric), emphasis, or stylistic variety.",
+        "Common permissible changes include: fronting the object for emphasis, fronting adverbs (ظروف) for focus, and rearranging elements in compound sentences. The default order is verb-subject-object, but variation is common."
+      ],
+      "keyPoints": [
+        "جَائِز: permissible but not required",
+        "For emphasis, rhetoric, or style",
+        "Default: verb-subject-object (VSO)",
+        "Variation common in eloquent speech"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبَ زَيْدٌ عَمْرًا / عَمْرًا ضَرَبَ زَيْدٌ", "english": "Zayd hit Amr / Amr, Zayd hit (permissible change for emphasis)" },
+        { "arabic": "أَمْسِ جَاءَ زَيْدٌ (تقديم الظرف)", "english": "Yesterday Zayd came (adverb fronted for focus)" },
+        { "arabic": "الْكِتَابَ قَرَأْتُ (تقديم للتخصيص)", "english": "The book I read (object fronted for specification)" },
+        { "arabic": "بِسْمِ اللهِ أَبْدَأُ", "english": "In the name of Allah I begin (prepositional phrase fronted)" }
+      ]
+    },
+    {
+      "title": "Prohibited Word Order Changes",
+      "titleArabic": "التَّقْدِيمُ وَالتَّأْخِيرُ الْمُمْتَنِعَانِ",
+      "content": [
+        "Some word order changes are مُمْتَنِع (prohibited) because they would cause ambiguity, grammatical error, or loss of meaning. The prohibition ensures Arabic maintains its logical structure.",
+        "Examples of prohibited changes: separating جَارّ وَمَجْرُور (preposition and its noun), separating مُضَاف وَمُضَاف إِلَيْهِ (construct state), fronting a governed element before its governor when it would cause confusion."
+      ],
+      "keyPoints": [
+        "مُمْتَنِع: prohibited change",
+        "Cannot separate جار ومجرور",
+        "Cannot separate مضاف ومضاف إليه",
+        "Cannot cause ambiguity or error"
+      ],
+      "examples": [
+        { "arabic": "ذَهَبْتُ إِلَى الْمَسْجِدِ ✓ / ذَهَبْتُ الْمَسْجِدِ إِلَى ✗", "english": "I went to the mosque (cannot separate preposition from noun)" },
+        { "arabic": "كِتَابُ زَيْدٍ ✓ / زَيْدٍ كِتَابُ ✗", "english": "Zayd's book (cannot separate construct state)" },
+        { "arabic": "رَأَيْتُ غُلَامَ زَيْدٍ ✓", "english": "I saw Zayd's servant (مضاف إليه follows مضاف)" },
+        { "arabic": "مُنْذُ سَنَةٍ ✓ / سَنَةٍ مُنْذُ ✗", "english": "Since a year (preposition must precede noun)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l83-ex01",
+      "type": "fill-blank",
+      "prompt": "نَقْلُ عُنْصُرٍ إِلَى مَوْضِعٍ سَابِقٍ فِي الْجُمْلَةِ يُسَمَّى _____",
+      "promptEn": "Moving an element to an earlier position in the sentence is called _____",
+      "answer": "التَّقْدِيمَ",
+      "itemIds": ["word-b3-543"]
+    },
+    {
+      "id": "b3-l83-ex02",
+      "type": "fill-blank",
+      "prompt": "فِي الدَّارِ رَجُلٌ - تَقْدِيمُ الْخَبَرِ هُنَا _____ لِأَنَّ الْمُبْتَدَأَ نَكِرَة",
+      "promptEn": "In the house is a man - fronting the predicate here is _____ because the subject is indefinite",
+      "answer": "وَاجِبٌ",
+      "itemIds": ["word-b3-544"]
+    },
+    {
+      "id": "b3-l83-ex03",
+      "type": "fill-blank",
+      "prompt": "مَنْ رَأَيْتَ؟ - تَقْدِيمُ مَنْ وَاجِبٌ لِأَنَّ أَدَاةَ الاِسْتِفْهَامِ لَهَا _____",
+      "promptEn": "Whom did you see? - Fronting مَنْ is obligatory because question words have _____",
+      "answer": "الصَّدَارَةُ",
+      "itemIds": ["word-b3-545"]
+    },
+    {
+      "id": "b3-l83-ex04",
+      "type": "fill-blank",
+      "prompt": "تَقْدِيمُ الْمَفْعُولِ بِهِ لِلتَّأْكِيدِ أَوِ التَّخْصِيصِ يَكُونُ _____، لَيْسَ وَاجِبًا",
+      "promptEn": "Fronting the object for emphasis or specification is _____, not obligatory",
+      "answer": "جَائِزًا",
+      "itemIds": ["word-b3-546"]
+    },
+    {
+      "id": "b3-l83-ex05",
+      "type": "fill-blank",
+      "prompt": "الْفَصْلُ بَيْنَ الْمُضَافِ وَالْمُضَافِ إِلَيْهِ _____",
+      "promptEn": "Separating the مُضَاف and مُضَاف إِلَيْهِ is _____",
+      "answer": "مُمْتَنِعٌ",
+      "itemIds": ["word-b3-547"]
+    },
+    {
+      "id": "b3-l83-ex06",
+      "type": "fill-blank",
+      "prompt": "إِيَّاكَ نَعْبُدُ - قُدِّمَ الْمَفْعُولُ بِهِ هُنَا لِإِفَادَةِ _____",
+      "promptEn": "You alone we worship - the object is fronted here to convey _____",
+      "answer": "الْحَصْرِ",
+      "itemIds": ["word-b3-543"]
+    },
+    {
+      "id": "b3-l83-ex07",
+      "type": "word-to-meaning",
+      "prompt": "التَّقْدِيمُ",
+      "answer": "Fronting / moving an element earlier in the sentence",
+      "itemIds": ["word-b3-543"]
+    },
+    {
+      "id": "b3-l83-ex08",
+      "type": "word-to-meaning",
+      "prompt": "التَّأْخِيرُ",
+      "answer": "Delaying / moving an element later in the sentence",
+      "itemIds": ["word-b3-544"]
+    },
+    {
+      "id": "b3-l83-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الصَّدَارَةُ",
+      "answer": "Priority / the right to come first (for question words etc.)",
+      "itemIds": ["word-b3-545"]
+    },
+    {
+      "id": "b3-l83-ex10",
+      "type": "meaning-to-word",
+      "prompt": "An obligatory word order change that must be made",
+      "answer": "تَقْدِيمٌ/تَأْخِيرٌ وَاجِبٌ",
+      "itemIds": ["word-b3-544"]
+    },
+    {
+      "id": "b3-l83-ex11",
+      "type": "meaning-to-word",
+      "prompt": "A permissible word order change for emphasis or style",
+      "answer": "تَقْدِيمٌ/تَأْخِيرٌ جَائِزٌ",
+      "itemIds": ["word-b3-546"]
+    },
+    {
+      "id": "b3-l83-ex12",
+      "type": "meaning-to-word",
+      "prompt": "A prohibited word order change that would cause error",
+      "answer": "تَقْدِيمٌ/تَأْخِيرٌ مُمْتَنِعٌ",
+      "itemIds": ["word-b3-547"]
+    }
+  ]
+}

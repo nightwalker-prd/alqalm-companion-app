@@ -1,0 +1,131 @@
+{
+  "id": "b2-l02",
+  "book": 2,
+  "lesson": 2,
+  "title": "الضَّمَائِرُ الْمُتَّصِلَة (الْمَفْعُول)",
+  "titleEn": "Attached Object Pronouns",
+  "description": "Learn pronouns that attach to verbs as objects: رَآنِي (he saw me), أَخَذَهُ (he took it).",
+  "vocabulary": ["word-b2-005", "word-b2-006", "word-b2-007", "word-b2-008", "word-b2-009", "word-b2-010"],
+  "grammarPoints": ["gp-b2-002"],
+  "notes": [
+    {
+      "title": "Attached Object Pronouns",
+      "titleArabic": "الضمائر المتصلة (المفعول به)",
+      "content": [
+        "Object pronouns attach directly to verbs to indicate the receiver of the action. These pronouns are in the accusative case (منصوب) since they function as the object.",
+        "The attached pronoun changes form based on what precedes it. When attached to a verb ending in a vowel, the pronoun joins smoothly."
+      ],
+      "keyPoints": [
+        "ـنِي (me) - first person singular",
+        "ـهُ (him/it) - third person masculine singular",
+        "ـهَا (her/it) - third person feminine singular",
+        "ـكَ (you, m.) - second person masculine singular",
+        "ـكِ (you, f.) - second person feminine singular"
+      ],
+      "examples": [
+        { "arabic": "رَآنِي", "english": "He saw me" },
+        { "arabic": "رَأَيْتُهُ", "english": "I saw him" },
+        { "arabic": "سَاعَدَهَا", "english": "He helped her" },
+        { "arabic": "سَأَلَتْنِي", "english": "She asked me" }
+      ]
+    },
+    {
+      "title": "Verb-Pronoun Combinations",
+      "titleArabic": "اتصال الضمائر بالأفعال",
+      "content": [
+        "When combining verbs with object pronouns, pay attention to the voweling changes that occur for smooth pronunciation."
+      ],
+      "keyPoints": [
+        "The verb's final vowel may change when a pronoun is attached",
+        "First person pronoun ـنِي always has kasrah before ya",
+        "Third person pronouns ـهُ/ـهَا have dammah/fathah respectively"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l02-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He saw me",
+      "answer": "رَآنِي",
+      "itemIds": ["word-b2-005"]
+    },
+    {
+      "id": "b2-l02-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I saw him",
+      "answer": "رَأَيْتُهُ",
+      "itemIds": ["word-b2-005"]
+    },
+    {
+      "id": "b2-l02-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "He helped her",
+      "answer": "سَاعَدَهَا",
+      "itemIds": ["word-b2-006"]
+    },
+    {
+      "id": "b2-l02-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "She asked me",
+      "answer": "سَأَلَتْنِي",
+      "itemIds": ["word-b2-007"]
+    },
+    {
+      "id": "b2-l02-ex05",
+      "type": "word-to-meaning",
+      "prompt": "رَأَى",
+      "answer": "he saw",
+      "itemIds": ["word-b2-005"]
+    },
+    {
+      "id": "b2-l02-ex06",
+      "type": "word-to-meaning",
+      "prompt": "سَاعَدَ",
+      "answer": "he helped",
+      "itemIds": ["word-b2-006"]
+    },
+    {
+      "id": "b2-l02-ex07",
+      "type": "word-to-meaning",
+      "prompt": "سَأَلَ",
+      "answer": "he asked",
+      "itemIds": ["word-b2-007"]
+    },
+    {
+      "id": "b2-l02-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَخَذَ",
+      "answer": "he took",
+      "itemIds": ["word-b2-008"]
+    },
+    {
+      "id": "b2-l02-ex09",
+      "type": "meaning-to-word",
+      "prompt": "he gave",
+      "answer": "أَعْطَى",
+      "itemIds": ["word-b2-009"]
+    },
+    {
+      "id": "b2-l02-ex10",
+      "type": "meaning-to-word",
+      "prompt": "he found",
+      "answer": "وَجَدَ",
+      "itemIds": ["word-b2-010"]
+    },
+    {
+      "id": "b2-l02-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher helped me in the classroom",
+      "answer": "سَاعَدَنِي الْمُدَرِّسُ فِي الْفَصْلِ",
+      "itemIds": ["word-b2-006", "word-004", "word-046", "word-b2-001"]
+    },
+    {
+      "id": "b2-l02-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I found him in the mosque",
+      "answer": "وَجَدْتُهُ فِي الْمَسْجِدِ",
+      "itemIds": ["word-b2-010", "word-046", "word-007"]
+    }
+  ]
+}

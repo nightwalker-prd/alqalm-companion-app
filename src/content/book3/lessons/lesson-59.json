@@ -1,0 +1,183 @@
+{
+  "id": "b3-l59",
+  "book": 3,
+  "lesson": 59,
+  "title": "التَّرْخِيم",
+  "titleEn": "Shortening in Vocative (Tarkhim)",
+  "description": "Learn about التَّرْخِيم, the practice of dropping letters from the end of a name in the vocative for affection or ease: يَا فَاطِمُ (from فَاطِمَة)، يَا حَارِ (from حَارِث).",
+  "vocabulary": ["word-b3-405", "word-b3-406", "word-b3-407", "word-b3-408", "word-b3-409"],
+  "grammarPoints": ["gp-b3-080", "gp-b3-081"],
+  "notes": [
+    {
+      "title": "What is التَّرْخِيم?",
+      "titleArabic": "تعريف التَّرْخِيم",
+      "content": [
+        "التَّرْخِيم is the practice of shortening a name in the vocative by dropping one or more letters from its end. It is used to express affection, tenderness, or simply for ease of pronunciation.",
+        "The word comes from the root رَخُمَ meaning 'to be soft/gentle.' When we use ترخيم, we're softening the name, often showing endearment."
+      ],
+      "keyPoints": [
+        "التَّرْخِيم = shortening/softening names in vocative",
+        "حذف حرف أو أكثر من آخر الاسم",
+        "Used for affection or ease",
+        "Only applies to مُنَادَى (vocative)"
+      ],
+      "examples": [
+        { "arabic": "يَا فَاطِمُ! (من فَاطِمَة)", "english": "O Fatim! (from Fatimah)" },
+        { "arabic": "يَا عَائِشُ! (من عَائِشَة)", "english": "O Aish! (from Aishah)" },
+        { "arabic": "يَا حَارِ! (من حَارِث)", "english": "O Hari! (from Harith)" },
+        { "arabic": "يَا مَالِ! (من مَالِك)", "english": "O Mali! (from Malik)" }
+      ]
+    },
+    {
+      "title": "Conditions for التَّرْخِيم",
+      "titleArabic": "شروط التَّرْخِيم",
+      "content": [
+        "Not every name can undergo ترخيم. The name must meet certain conditions: it should be a proper noun (عَلَم), have more than three letters, and be in the vocative case.",
+        "Names ending in تاء التأنيث (ة) are the most common candidates. Names like فَاطِمَة، عَائِشَة، حَمْزَة undergo ترخيم by dropping the ة."
+      ],
+      "keyPoints": [
+        "Must be a proper noun (عَلَم) or described noun",
+        "Must have more than 3 letters",
+        "Must be in vocative (مُنَادَى)",
+        "Names with تاء التأنيث: just drop ة"
+      ],
+      "examples": [
+        { "arabic": "فَاطِمَة → يَا فَاطِمُ", "english": "Fatimah → O Fatim" },
+        { "arabic": "عَائِشَة → يَا عَائِشُ", "english": "Aishah → O Aish" },
+        { "arabic": "خَدِيجَة → يَا خَدِيجُ", "english": "Khadijah → O Khadij" },
+        { "arabic": "حَمْزَة → يَا حَمْزُ", "english": "Hamzah → O Hamz" }
+      ]
+    },
+    {
+      "title": "Two Methods of التَّرْخِيم",
+      "titleArabic": "لغتان في الترخيم",
+      "content": [
+        "After dropping the final letter(s), there are two schools of thought on how to treat the remaining form. These are called لُغَة مَنْ يَنْتَظِر and لُغَة مَنْ لَا يَنْتَظِر.",
+        "لغة من ينتظر: keep the original vowel on the new final letter (يَا حَارِ - keeping the kasra). لغة من لا ينتظر: put damma on the new final letter (يَا حَارُ)."
+      ],
+      "keyPoints": [
+        "لغة من ينتظر: keep original vowel (يَا فَاطِمِ or يَا حَارِ)",
+        "لغة من لا ينتظر: use damma (يَا فَاطِمُ or يَا حَارُ)",
+        "Both are acceptable in classical Arabic",
+        "The damma method (لا ينتظر) is more common"
+      ],
+      "examples": [
+        { "arabic": "يَا حَارِثُ → يَا حَارِ (ينتظر) / يَا حَارُ (لا ينتظر)", "english": "O Harith → O Hari (both valid)" },
+        { "arabic": "يَا مَالِكُ → يَا مَالِ / يَا مَالُ", "english": "O Malik → O Mali (both valid)" },
+        { "arabic": "يَا جَعْفَرُ → يَا جَعْفَ / يَا جَعْفُ", "english": "O Ja'far → O Ja'f (both valid)" },
+        { "arabic": "يَا مَنْصُورُ → يَا مَنْصُو / يَا مَنْصُ", "english": "O Mansur → O Mansu (both valid)" }
+      ]
+    },
+    {
+      "title": "Classical Examples from Hadith and Poetry",
+      "titleArabic": "شواهد من الحديث والشعر",
+      "content": [
+        "التَّرْخِيم appears frequently in hadith literature. The Prophet (peace be upon him) addressed عائشة as يَا عَائِشُ showing affection. This is recorded in authentic hadiths.",
+        "Classical poetry also uses ترخيم extensively for metrical purposes and to express closeness or tenderness toward the one being addressed."
+      ],
+      "keyPoints": [
+        "يَا عَائِشُ - from Prophet's hadith to Aishah",
+        "Shows intimacy and affection in address",
+        "Common in classical poetry for meter",
+        "Grammatically: المرخم مبني على الضم"
+      ],
+      "examples": [
+        { "arabic": "يَا عَائِشُ، هَذَا جِبْرِيلُ (الحديث)", "english": "O Aish, this is Jibril (hadith)" },
+        { "arabic": "يَا ثُمَا! (من ثُمَامَة)", "english": "O Thuma! (from Thumamah)" },
+        { "arabic": "يَا صَاحِ! (من صَاحِب)", "english": "O friend! (from Sahib - in poetry)" },
+        { "arabic": "يَا سَعَا! (من سَعَاد)", "english": "O Sa'a! (from Su'ad - in poetry)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l59-ex01",
+      "type": "fill-blank",
+      "prompt": "يَا _____! (ترخيم فاطمة)",
+      "promptEn": "O _____! (tarkhim of Fatimah)",
+      "answer": "فَاطِمُ",
+      "itemIds": ["word-b3-405"]
+    },
+    {
+      "id": "b3-l59-ex02",
+      "type": "fill-blank",
+      "prompt": "يَا _____! (ترخيم عائشة)",
+      "promptEn": "O _____! (tarkhim of Aishah)",
+      "answer": "عَائِشُ",
+      "itemIds": ["word-b3-406"]
+    },
+    {
+      "id": "b3-l59-ex03",
+      "type": "fill-blank",
+      "prompt": "يَا _____! (ترخيم حارث)",
+      "promptEn": "O _____! (tarkhim of Harith)",
+      "answer": "حَارِ",
+      "itemIds": ["word-b3-407"]
+    },
+    {
+      "id": "b3-l59-ex04",
+      "type": "fill-blank",
+      "prompt": "التَّرْخِيم هو حذف حرف أو أكثر من _____ الاسم",
+      "promptEn": "الترخيم is dropping letter(s) from the _____ of the name",
+      "answer": "آخِر",
+      "itemIds": ["word-b3-408"]
+    },
+    {
+      "id": "b3-l59-ex05",
+      "type": "fill-blank",
+      "prompt": "لغة من لا ينتظر: يُبنى المرخم على _____",
+      "promptEn": "In the 'not waiting' method: the shortened name takes _____",
+      "answer": "الضَّمّ",
+      "itemIds": ["word-b3-409"]
+    },
+    {
+      "id": "b3-l59-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "O Khadij! (shortened from Khadijah)",
+      "answer": "يَا خَدِيجُ!",
+      "itemIds": ["word-b3-405"]
+    },
+    {
+      "id": "b3-l59-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "O Hamz! (shortened from Hamzah)",
+      "answer": "يَا حَمْزُ!",
+      "itemIds": ["word-b3-406"]
+    },
+    {
+      "id": "b3-l59-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "O Mali! (shortened from Malik)",
+      "answer": "يَا مَالِ!",
+      "itemIds": ["word-b3-407"]
+    },
+    {
+      "id": "b3-l59-ex09",
+      "type": "word-to-meaning",
+      "prompt": "التَّرْخِيم",
+      "answer": "shortening/softening in vocative",
+      "itemIds": ["word-b3-405"]
+    },
+    {
+      "id": "b3-l59-ex10",
+      "type": "word-to-meaning",
+      "prompt": "المُرَخَّم",
+      "answer": "the shortened/softened name",
+      "itemIds": ["word-b3-408"]
+    },
+    {
+      "id": "b3-l59-ex11",
+      "type": "meaning-to-word",
+      "prompt": "method that keeps original vowel after shortening",
+      "answer": "لُغَة مَنْ يَنْتَظِر",
+      "itemIds": ["word-b3-407"]
+    },
+    {
+      "id": "b3-l59-ex12",
+      "type": "meaning-to-word",
+      "prompt": "method that uses damma after shortening",
+      "answer": "لُغَة مَنْ لَا يَنْتَظِر",
+      "itemIds": ["word-b3-409"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "b3-l92",
+  "book": 3,
+  "lesson": 92,
+  "title": "الْمَصْدَرُ الْمُؤَوَّلُ",
+  "titleEn": "The Interpreted Masdar",
+  "description": "Learn about المصدر المؤول - when أنْ + verb or أنَّ + clause is interpreted as a verbal noun (masdar) and takes the grammatical position of a noun.",
+  "vocabulary": ["word-b3-588", "word-b3-589", "word-b3-590", "word-b3-591", "word-b3-592"],
+  "grammarPoints": ["gp-b3-146", "gp-b3-147"],
+  "notes": [
+    {
+      "title": "What is المصدر المؤول?",
+      "titleArabic": "مَا هُوَ الْمَصْدَرُ الْمُؤَوَّلُ؟",
+      "content": [
+        "الْمَصْدَر الْمُؤَوَّل (interpreted/derived masdar) is a construction of أَنْ + فِعْل (verb) or أَنَّ + جُمْلَة (clause) that is interpreted as a single noun (masdar) and fills a noun position in the sentence.",
+        "It differs from الْمَصْدَر الصَّرِيح (explicit masdar) which is a single word. Example: أُرِيدُ أَنْ أَذْهَبَ = أُرِيدُ الذَّهَابَ (I want to go = I want going). The أَنْ أَذْهَبَ is مَصْدَر مُؤَوَّل."
+      ],
+      "keyPoints": [
+        "أَنْ + فِعْل = مَصْدَر مُؤَوَّل",
+        "أَنَّ + جُمْلَة = مَصْدَر مُؤَوَّل",
+        "Functions as a noun in the sentence",
+        "Differs from explicit masdar (single word)"
+      ],
+      "examples": [
+        { "arabic": "أُرِيدُ أَنْ أَتَعَلَّمَ = أُرِيدُ التَّعَلُّمَ", "english": "I want to learn = I want learning" },
+        { "arabic": "يَسُرُّنِي أَنَّكَ نَجَحْتَ = يَسُرُّنِي نَجَاحُكَ", "english": "It pleases me that you succeeded = Your success pleases me" },
+        { "arabic": "عَلِمْتُ أَنَّ الْعِلْمَ نَافِعٌ", "english": "I knew that knowledge is beneficial" },
+        { "arabic": "سَمِعْتُ أَنَّكَ مُسَافِرٌ", "english": "I heard that you are traveling" }
+      ]
+    },
+    {
+      "title": "Forms of المصدر المؤول",
+      "titleArabic": "صِيَغُ الْمَصْدَرِ الْمُؤَوَّلِ",
+      "content": [
+        "The interpreted masdar is formed with: 1) أَنْ + الْفِعْل الْمُضَارِع الْمَنْصُوب, 2) أَنَّ + اسْمُهَا وَخَبَرُهَا, 3) مَا + الْفِعْل (less common), 4) أَنْ + الْفِعْل الْمَاضِي (rare).",
+        "The most common are أَنْ + مُضَارِع and أَنَّ + جُمْلَة. Each can fill any noun position: subject, object, mubtada, khabar, etc."
+      ],
+      "keyPoints": [
+        "أَنْ + مُضَارِع مَنْصُوب: most common",
+        "أَنَّ + اسم وخبر: very common",
+        "مَا + فِعْل: أَعْجَبَنِي مَا صَنَعْتَ",
+        "Can fill any noun position"
+      ],
+      "examples": [
+        { "arabic": "أَنْ تَصُومُوا خَيْرٌ لَكُمْ (أَنْ + مضارع = مبتدأ)", "english": "That you fast is better for you (subject)" },
+        { "arabic": "أُحِبُّ أَنْ أَقْرَأَ (أَنْ + مضارع = مفعول)", "english": "I love to read (object)" },
+        { "arabic": "عَلِمْتُ أَنَّكَ فَاضِلٌ (أَنَّ + جملة = مفعول)", "english": "I knew that you are virtuous (object)" },
+        { "arabic": "أَعْجَبَنِي مَا فَعَلْتَ (ما + فعل = فاعل)", "english": "What you did impressed me (subject)" }
+      ]
+    },
+    {
+      "title": "Grammatical Positions",
+      "titleArabic": "الْمَوَاقِعُ الإِعْرَابِيَّةُ",
+      "content": [
+        "المصدر المؤول can occupy all noun positions: 1) مُبْتَدَأ: أَنْ تَصُومُوا خَيْرٌ, 2) خَبَر: الظُّلْمُ أَنْ تَأْخُذَ حَقَّ غَيْرِكَ, 3) فَاعِل: يَسُرُّنِي أَنْ تَنْجَحَ, 4) مَفْعُول بِهِ: أُرِيدُ أَنْ أَذْهَبَ.",
+        "Also: 5) مَجْرُور: عَجِبْتُ مِنْ أَنَّكَ فَعَلْتَ, 6) مُضَاف إِلَيْهِ: جِئْتُ قَبْلَ أَنْ تَخْرُجَ. The entire أَنْ + فِعْل or أَنَّ + جُمْلَة is treated as one unit."
+      ],
+      "keyPoints": [
+        "مُبْتَدَأ: أَنْ تَصُومُوا خَيْرٌ",
+        "فَاعِل: يَسُرُّنِي أَنْ تَنْجَحَ",
+        "مَفْعُول بِهِ: أُرِيدُ أَنْ أَذْهَبَ",
+        "مَجْرُور: قَبْلَ أَنْ تَخْرُجَ"
+      ],
+      "examples": [
+        { "arabic": "أَنْ تَصُومُوا خَيْرٌ لَكُمْ: المصدر المؤول في محل رفع مبتدأ", "english": "That you fast is better: interpreted masdar as subject" },
+        { "arabic": "يَسُرُّنِي أَنْ تَنْجَحَ: المصدر المؤول في محل رفع فاعل", "english": "Your success pleases me: interpreted masdar as doer" },
+        { "arabic": "أُرِيدُ أَنْ أَتَعَلَّمَ: المصدر المؤول في محل نصب مفعول به", "english": "I want to learn: interpreted masdar as object" },
+        { "arabic": "جِئْتُ قَبْلَ أَنْ تَخْرُجَ: المصدر المؤول في محل جر بالإضافة", "english": "I came before you left: interpreted masdar as genitive" }
+      ]
+    },
+    {
+      "title": "Converting to Explicit Masdar",
+      "titleArabic": "التَّحْوِيلُ إِلَى الْمَصْدَرِ الصَّرِيحِ",
+      "content": [
+        "Every مَصْدَر مُؤَوَّل can be converted to مَصْدَر صَرِيح (explicit masdar). For أَنْ + فِعْل: use the verb's masdar with appropriate additions. For أَنَّ + جُمْلَة: use masdar + possessive.",
+        "Example: أُرِيدُ أَنْ أَسَافِرَ → أُرِيدُ السَّفَرَ. يَسُرُّنِي أَنَّكَ نَجَحْتَ → يَسُرُّنِي نَجَاحُكَ. The grammatical position remains the same."
+      ],
+      "keyPoints": [
+        "أَنْ + فِعْل → مَصْدَر الفعل",
+        "أَنَّ + ضَمِير + فِعْل → مَصْدَر + ضَمِير",
+        "Same grammatical position",
+        "Useful for understanding structure"
+      ],
+      "examples": [
+        { "arabic": "أَنْ أَسَافِرَ → السَّفَرَ", "english": "to travel → traveling" },
+        { "arabic": "أَنْ تَصُومُوا → صِيَامُكُمْ", "english": "that you fast → your fasting" },
+        { "arabic": "أَنَّكَ نَجَحْتَ → نَجَاحُكَ", "english": "that you succeeded → your success" },
+        { "arabic": "أَنَّ الْعِلْمَ نَافِعٌ → نَفْعُ الْعِلْمِ", "english": "that knowledge is beneficial → benefit of knowledge" }
+      ]
+    },
+    {
+      "title": "I'rab of المصدر المؤول",
+      "titleArabic": "إِعْرَابُ الْمَصْدَرِ الْمُؤَوَّلِ",
+      "content": [
+        "When analyzing المصدر المؤول, we say: 'الْمَصْدَر الْمُؤَوَّل مِنْ أَنْ وَالْفِعْل فِي مَحَلِّ...' (the interpreted masdar from أَنْ and the verb is in the position of...). The internal i'rab is done separately.",
+        "Internal analysis: أَنْ is حَرْف نَصْب and the verb is فِعْل مُضَارِع مَنْصُوب. But as a unit, the whole phrase occupies one grammatical slot."
+      ],
+      "keyPoints": [
+        "المصدر المؤول مِن أَنْ والفعل في محل...",
+        "Internal: أَنْ حرف نصب، الفعل منصوب",
+        "As unit: fills one grammatical slot",
+        "تَقْدِير: estimated as explicit masdar"
+      ],
+      "examples": [
+        { "arabic": "أُرِيدُ أَنْ أَذْهَبَ: أَنْ حرف نصب، أَذْهَبَ فعل منصوب", "english": "أَنْ: subjunctive particle, أَذْهَبَ: subjunctive verb" },
+        { "arabic": "والمصدر المؤول في محل نصب مفعول به", "english": "The interpreted masdar is in accusative position as object" },
+        { "arabic": "أَنَّ: حرف توكيد ونصب، والاسم والخبر بعدها", "english": "أَنَّ: emphatic particle, with its ism and khabar" },
+        { "arabic": "المصدر المؤول من أَنَّ ومعموليها في محل...", "english": "The interpreted masdar from أَنَّ and its complements is in position of..." }
+      ]
+    },
+    {
+      "title": "Quranic Examples",
+      "titleArabic": "أَمْثِلَةٌ قُرْآنِيَّةٌ",
+      "content": [
+        "المصدر المؤول appears frequently in the Quran. وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ (Fasting is better for you - 2:184). أَلَمْ يَعْلَمْ بِأَنَّ اللهَ يَرَى (Does he not know that Allah sees? - 96:14).",
+        "Understanding مصدر مؤول is essential for Quranic tafsir and i'rab, as it helps identify the grammatical structure of complex verses."
+      ],
+      "keyPoints": [
+        "Frequent in Quran",
+        "وَأَنْ تَصُومُوا خَيْرٌ: masdar as subject",
+        "Essential for tafsir",
+        "Helps parse complex verses"
+      ],
+      "examples": [
+        { "arabic": "وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ (البقرة: ١٨٤)", "english": "And that you fast is better for you (2:184)" },
+        { "arabic": "أَلَمْ يَعْلَمْ بِأَنَّ اللهَ يَرَى (العلق: ١٤)", "english": "Does he not know that Allah sees? (96:14)" },
+        { "arabic": "قُلْ إِنِّي أُمِرْتُ أَنْ أَعْبُدَ اللهَ (الزمر: ١١)", "english": "Say: I am commanded to worship Allah (39:11)" },
+        { "arabic": "يُرِيدُ اللهُ أَنْ يُخَفِّفَ عَنْكُمْ (النساء: ٢٨)", "english": "Allah wants to lighten for you (4:28)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l92-ex01",
+      "type": "fill-blank",
+      "prompt": "أُرِيدُ أَنْ أَتَعَلَّمَ - 'أَنْ أَتَعَلَّمَ' هَذَا يُسَمَّى: الْمَصْدَرَ _____",
+      "promptEn": "أُرِيدُ أَنْ أَتَعَلَّمَ - 'أَنْ أَتَعَلَّمَ' is called: the _____ masdar",
+      "answer": "الْمُؤَوَّلَ",
+      "itemIds": ["word-b3-588"]
+    },
+    {
+      "id": "b3-l92-ex02",
+      "type": "fill-blank",
+      "prompt": "أُرِيدُ أَنْ أَذْهَبَ = أُرِيدُ _____ (المصدر الصريح)",
+      "promptEn": "أُرِيدُ أَنْ أَذْهَبَ = أُرِيدُ _____ (explicit masdar)",
+      "answer": "الذَّهَابَ",
+      "itemIds": ["word-b3-589"]
+    },
+    {
+      "id": "b3-l92-ex03",
+      "type": "fill-blank",
+      "prompt": "يَسُرُّنِي أَنَّكَ نَجَحْتَ = يَسُرُّنِي _____ (المصدر الصريح)",
+      "promptEn": "يَسُرُّنِي أَنَّكَ نَجَحْتَ = يَسُرُّنِي _____ (explicit masdar)",
+      "answer": "نَجَاحُكَ",
+      "itemIds": ["word-b3-590"]
+    },
+    {
+      "id": "b3-l92-ex04",
+      "type": "fill-blank",
+      "prompt": "وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ - الْمَصْدَرُ الْمُؤَوَّلُ هُنَا فِي مَحَلِّ رَفْعٍ _____",
+      "promptEn": "وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ - the interpreted masdar here is in nominative position as _____",
+      "answer": "مُبْتَدَأٌ",
+      "itemIds": ["word-b3-591"]
+    },
+    {
+      "id": "b3-l92-ex05",
+      "type": "fill-blank",
+      "prompt": "جِئْتُ قَبْلَ أَنْ تَخْرُجَ - الْمَصْدَرُ الْمُؤَوَّلُ فِي مَحَلِّ جَرٍّ بِـ_____",
+      "promptEn": "جِئْتُ قَبْلَ أَنْ تَخْرُجَ - the interpreted masdar is in genitive position by _____",
+      "answer": "الإِضَافَةِ",
+      "itemIds": ["word-b3-592"]
+    },
+    {
+      "id": "b3-l92-ex06",
+      "type": "fill-blank",
+      "prompt": "الْمَصْدَرُ الْمُؤَوَّلُ يَتَكَوَّنُ مِنْ أَنْ + _____ أَوْ أَنَّ + جُمْلَة",
+      "promptEn": "The interpreted masdar is formed from أَنْ + _____ or أَنَّ + clause",
+      "answer": "فِعْلٍ",
+      "itemIds": ["word-b3-588"]
+    },
+    {
+      "id": "b3-l92-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْمَصْدَرُ الْمُؤَوَّلُ",
+      "answer": "The interpreted masdar (أَنْ + verb or أَنَّ + clause acting as noun)",
+      "itemIds": ["word-b3-588"]
+    },
+    {
+      "id": "b3-l92-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْمَصْدَرُ الصَّرِيحُ",
+      "answer": "The explicit masdar (a single word verbal noun)",
+      "itemIds": ["word-b3-589"]
+    },
+    {
+      "id": "b3-l92-ex09",
+      "type": "word-to-meaning",
+      "prompt": "أُرِيدُ أَنْ أَتَعَلَّمَ",
+      "answer": "I want to learn (with interpreted masdar)",
+      "itemIds": ["word-b3-588"]
+    },
+    {
+      "id": "b3-l92-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The grammatical term for أَنْ + verb interpreted as a noun",
+      "answer": "الْمَصْدَرُ الْمُؤَوَّلُ",
+      "itemIds": ["word-b3-588"]
+    },
+    {
+      "id": "b3-l92-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Convert 'يَسُرُّنِي أَنَّكَ حَضَرْتَ' to explicit masdar",
+      "answer": "يَسُرُّنِي حُضُورُكَ",
+      "itemIds": ["word-b3-590"]
+    },
+    {
+      "id": "b3-l92-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The Quranic phrase 'And that you fast is better for you' in Arabic",
+      "answer": "وَأَنْ تَصُومُوا خَيْرٌ لَكُمْ",
+      "itemIds": ["word-b3-591"]
+    }
+  ]
+}

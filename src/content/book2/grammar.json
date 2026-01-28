@@ -1,0 +1,961 @@
+[
+  {
+    "id": "gp-b2-001",
+    "title": "مُرَاجَعَةٌ",
+    "titleEn": "Review of Book 1 Concepts",
+    "explanation": "Review of key grammatical concepts from Book 1 including demonstratives (هَذَا/هَذِهِ), question particles (مَا/مَنْ/أَيْنَ), possession (الإِضَافَة), prepositions, and basic verb conjugations.",
+    "examples": [
+      { "arabic": "هَذَا كِتَابُ الطَّالِبِ", "english": "This is the student's book" },
+      { "arabic": "أَيْنَ ذَهَبَ الْمُدَرِّسُ؟", "english": "Where did the teacher go?" }
+    ],
+    "lesson": "b2-l01"
+  },
+  {
+    "id": "gp-b2-002",
+    "title": "الضَّمَائِرُ الْمُتَّصِلَةُ (الْمَفْعُول)",
+    "titleEn": "Attached Object Pronouns",
+    "explanation": "Object pronouns attach directly to verbs. They include: ـهُ (him), ـهَا (her), ـهُمْ (them m.), ـهُنَّ (them f.), ـكَ (you m.), ـكِ (you f.), ـكُمْ (you pl.), ـنِي (me), ـنَا (us).",
+    "examples": [
+      { "arabic": "رَأَيْتُهُ", "english": "I saw him" },
+      { "arabic": "سَأَلْتُهَا", "english": "I asked her" },
+      { "arabic": "سَاعَدْنَاهُمْ", "english": "We helped them" }
+    ],
+    "lesson": "b2-l02"
+  },
+  {
+    "id": "gp-b2-003",
+    "title": "الاسْمُ الْمَوْصُول",
+    "titleEn": "Relative Pronouns",
+    "explanation": "Relative pronouns connect a noun to a descriptive clause. الَّذِي (who/which, m. sing.), الَّتِي (who/which, f. sing.), الَّذِينَ (who/which, m. pl.), اللَّاتِي/اللَّوَاتِي (who/which, f. pl.).",
+    "examples": [
+      { "arabic": "الرَّجُلُ الَّذِي جَاءَ", "english": "The man who came" },
+      { "arabic": "الْمَرْأَةُ الَّتِي ذَهَبَتْ", "english": "The woman who went" },
+      { "arabic": "الطُّلَّابُ الَّذِينَ نَجَحُوا", "english": "The students who succeeded" }
+    ],
+    "lesson": "b2-l03"
+  },
+  {
+    "id": "gp-b2-004",
+    "title": "أَسْمَاءُ الإِشَارَةِ لِلْجَمْع",
+    "titleEn": "Plural Demonstrative Pronouns",
+    "explanation": "هَؤُلَاءِ means 'these' for both masculine and feminine plurals referring to people. أُولَئِكَ means 'those' for both masculine and feminine plurals referring to people.",
+    "examples": [
+      { "arabic": "هَؤُلَاءِ طُلَّابٌ", "english": "These are students" },
+      { "arabic": "أُولَئِكَ مُدَرِّسُونَ", "english": "Those are teachers" },
+      { "arabic": "مَنْ هَؤُلَاءِ؟", "english": "Who are these?" }
+    ],
+    "lesson": "b2-l04"
+  },
+  {
+    "id": "gp-b2-005",
+    "title": "فِعْلُ الأَمْر",
+    "titleEn": "The Imperative (Command Form)",
+    "explanation": "The imperative is formed from the present tense by removing the prefix and adding a hamzat al-wasl if needed. اُكْتُبْ (write!), اِقْرَأْ (read!), اِذْهَبْ (go!). For feminine: اُكْتُبِي, اِقْرَئِي, اِذْهَبِي.",
+    "examples": [
+      { "arabic": "اُكْتُبْ وَاجِبَكَ", "english": "Write your homework!" },
+      { "arabic": "اِقْرَأْ هَذَا الْكِتَابَ", "english": "Read this book!" },
+      { "arabic": "اِذْهَبِي إِلَى الْبَيْتِ", "english": "Go to the house! (to female)" }
+    ],
+    "lesson": "b2-l05"
+  },
+  {
+    "id": "gp-b2-006",
+    "title": "النَّهْي",
+    "titleEn": "Prohibition (Negative Command)",
+    "explanation": "Prohibition is formed using لَا + the jussive (مَجْزُوم) form of the present tense verb. لَا تَكْتُبْ (don't write), لَا تَقْرَأْ (don't read), لَا تَذْهَبْ (don't go).",
+    "examples": [
+      { "arabic": "لَا تَكْتُبْ هُنَا", "english": "Don't write here!" },
+      { "arabic": "لَا تَذْهَبْ الْآنَ", "english": "Don't go now!" },
+      { "arabic": "لَا تَنْسَ وَاجِبَكَ", "english": "Don't forget your homework!" }
+    ],
+    "lesson": "b2-l06"
+  },
+  {
+    "id": "gp-b2-007",
+    "title": "اسْمُ الْفَاعِل",
+    "titleEn": "The Active Participle",
+    "explanation": "The active participle describes the doer of an action. For Form I verbs, the pattern is فَاعِل: كَاتِب (writer), قَارِئ (reader), جَالِس (sitting). It functions as an adjective or noun.",
+    "examples": [
+      { "arabic": "هُوَ كَاتِبٌ مَشْهُورٌ", "english": "He is a famous writer" },
+      { "arabic": "رَأَيْتُهُ جَالِسًا", "english": "I saw him sitting" },
+      { "arabic": "الطَّالِبُ الْقَارِئُ", "english": "The reading student" }
+    ],
+    "lesson": "b2-l07"
+  },
+  {
+    "id": "gp-b2-008",
+    "title": "اسْمُ الْمَفْعُول",
+    "titleEn": "The Passive Participle",
+    "explanation": "The passive participle describes what receives the action. For Form I verbs, the pattern is مَفْعُول: مَكْتُوب (written), مَفْتُوح (opened), مَعْرُوف (known).",
+    "examples": [
+      { "arabic": "هَذَا مَكْتُوبٌ بِالْعَرَبِيَّةِ", "english": "This is written in Arabic" },
+      { "arabic": "الْبَابُ مَفْتُوحٌ", "english": "The door is open" },
+      { "arabic": "هُوَ رَجُلٌ مَعْرُوفٌ", "english": "He is a known man" }
+    ],
+    "lesson": "b2-l08"
+  },
+  {
+    "id": "gp-b2-009",
+    "title": "الْمَصْدَر",
+    "titleEn": "The Verbal Noun (Masdar)",
+    "explanation": "The verbal noun (masdar) expresses the abstract meaning of a verb. Common patterns for Form I include فَعْل (كَتْب - writing), فِعَالَة (قِرَاءَة - reading), فُعُول (دُخُول - entering).",
+    "examples": [
+      { "arabic": "الْقِرَاءَةُ مُفِيدَةٌ", "english": "Reading is beneficial" },
+      { "arabic": "أُحِبُّ الْكِتَابَةَ", "english": "I love writing" },
+      { "arabic": "بَعْدَ الدُّخُولِ", "english": "After entering" }
+    ],
+    "lesson": "b2-l09"
+  },
+  {
+    "id": "gp-b2-010",
+    "title": "اسْمُ التَّفْضِيل",
+    "titleEn": "Comparative and Superlative",
+    "explanation": "The comparative/superlative is formed on the pattern أَفْعَل: أَكْبَر (bigger/biggest), أَصْغَر (smaller/smallest), أَحْسَن (better/best). With مِنْ it's comparative; with الـ or إِضَافَة it's superlative.",
+    "examples": [
+      { "arabic": "هُوَ أَكْبَرُ مِنِّي", "english": "He is bigger than me" },
+      { "arabic": "هِيَ الْأَحْسَنُ", "english": "She is the best" },
+      { "arabic": "أَكْبَرُ طَالِبٍ", "english": "The biggest student" }
+    ],
+    "lesson": "b2-l10"
+  },
+  {
+    "id": "gp-b2-011",
+    "title": "الْمَبْنِيُّ لِلْمَجْهُول",
+    "titleEn": "The Passive Voice",
+    "explanation": "The passive voice is formed by changing vowel patterns. Past passive: فُعِلَ (كُتِبَ - was written). Present passive: يُفْعَلُ (يُكْتَبُ - is being written). The subject becomes نَائِب الْفَاعِل.",
+    "examples": [
+      { "arabic": "كُتِبَ الدَّرْسُ", "english": "The lesson was written" },
+      { "arabic": "يُقْرَأُ الْقُرْآنُ", "english": "The Quran is being read" },
+      { "arabic": "فُتِحَ الْبَابُ", "english": "The door was opened" }
+    ],
+    "lesson": "b2-l11"
+  },
+  {
+    "id": "gp-b2-012",
+    "title": "الْفِعْلُ الْمُضَارِعُ الْمَنْصُوب",
+    "titleEn": "The Subjunctive Mood",
+    "explanation": "The subjunctive (مَنْصُوب) is used after أَنْ, لَنْ, كَيْ, لِـ. The final ضَمَّة changes to فَتْحَة: يَكْتُبَ, يَذْهَبَ. With لَنْ it negates the future.",
+    "examples": [
+      { "arabic": "أُرِيدُ أَنْ أَذْهَبَ", "english": "I want to go" },
+      { "arabic": "لَنْ أَنْسَى", "english": "I will never forget" },
+      { "arabic": "جِئْتُ لِأَتَعَلَّمَ", "english": "I came to learn" }
+    ],
+    "lesson": "b2-l12"
+  },
+  {
+    "id": "gp-b2-013",
+    "title": "الْفِعْلُ الْمُضَارِعُ الْمَجْزُوم",
+    "titleEn": "The Jussive Mood",
+    "explanation": "The jussive (مَجْزُوم) is used after لَمْ (didn't), لَا النَّاهِيَة (don't), لِـ الأَمْر (let), and conditional particles. The ending becomes sukun: لَمْ يَكْتُبْ, لَمْ يَذْهَبْ.",
+    "examples": [
+      { "arabic": "لَمْ يَذْهَبْ", "english": "He did not go" },
+      { "arabic": "لَمْ أَفْهَمْ", "english": "I did not understand" },
+      { "arabic": "لِيَكْتُبْ الدَّرْسَ", "english": "Let him write the lesson" }
+    ],
+    "lesson": "b2-l13"
+  },
+  {
+    "id": "gp-b2-014",
+    "title": "الْجُمْلَةُ الشَّرْطِيَّة",
+    "titleEn": "Conditional Sentences",
+    "explanation": "Conditional sentences use إِنْ or إِذَا for 'if'. إِنْ is for uncertain conditions, إِذَا for likely conditions. Both are followed by jussive or past tense verbs.",
+    "examples": [
+      { "arabic": "إِنْ تَدْرُسْ تَنْجَحْ", "english": "If you study, you will succeed" },
+      { "arabic": "إِذَا جَاءَ أَخْبِرْنِي", "english": "If he comes, tell me" },
+      { "arabic": "إِنْ شَاءَ اللهُ", "english": "If Allah wills" }
+    ],
+    "lesson": "b2-l14"
+  },
+  {
+    "id": "gp-b2-015",
+    "title": "الاسْتِثْنَاء",
+    "titleEn": "Exception",
+    "explanation": "Exception uses إِلَّا (except), غَيْر (other than), or سِوَى (except). After إِلَّا in a complete affirmative sentence, the excepted noun takes نَصْب. In negative sentences, it may follow the case of the noun before إِلَّا.",
+    "examples": [
+      { "arabic": "جَاءَ الطُّلَّابُ إِلَّا مُحَمَّدًا", "english": "The students came except Muhammad" },
+      { "arabic": "مَا جَاءَ أَحَدٌ إِلَّا عَلِيٌّ", "english": "No one came except Ali" },
+      { "arabic": "كُلُّهُمْ غَيْرَ وَاحِدٍ", "english": "All of them except one" }
+    ],
+    "lesson": "b2-l15"
+  },
+  {
+    "id": "gp-b2-016",
+    "title": "الْعَدَد وَالْمَعْدُود (11-99)",
+    "titleEn": "Numbers and Counted Nouns (11-99)",
+    "explanation": "Numbers 11-12 agree with the counted noun in gender. Numbers 13-19 show inverse gender agreement in the first part. Numbers 20-99 have the counted noun singular and accusative (تَمْيِيز).",
+    "examples": [
+      { "arabic": "أَحَدَ عَشَرَ كِتَابًا", "english": "Eleven books" },
+      { "arabic": "عِشْرُونَ طَالِبًا", "english": "Twenty students" },
+      { "arabic": "خَمْسَةٌ وَعِشْرُونَ يَوْمًا", "english": "Twenty-five days" }
+    ],
+    "lesson": "b2-l16"
+  },
+  {
+    "id": "gp-b2-017",
+    "title": "ظَرْفُ الزَّمَانِ وَالْمَكَان",
+    "titleEn": "Adverbs of Time and Place",
+    "explanation": "Adverbs of time (ظَرْف الزَّمَان): قَبْلَ (before), بَعْدَ (after), الْآنَ (now). Adverbs of place (ظَرْف الْمَكَان): فَوْقَ (above), تَحْتَ (under), أَمَامَ (in front), وَرَاءَ (behind). They take فَتْحَة as they are مَنْصُوب.",
+    "examples": [
+      { "arabic": "جَلَسَ أَمَامَ الْبَيْتِ", "english": "He sat in front of the house" },
+      { "arabic": "الْكِتَابُ فَوْقَ الطَّاوِلَةِ", "english": "The book is on the table" },
+      { "arabic": "قَبْلَ الدَّرْسِ", "english": "Before the lesson" }
+    ],
+    "lesson": "b2-l17"
+  },
+  {
+    "id": "gp-b2-018",
+    "title": "الْحَال",
+    "titleEn": "The Circumstantial Accusative (Haal)",
+    "explanation": "الْحَال describes the state of the subject or object when the action occurs. It is indefinite (نَكِرَة), accusative (مَنْصُوب), and answers 'how?' or 'in what state?'. Often an active participle.",
+    "examples": [
+      { "arabic": "جَاءَ رَاكِبًا", "english": "He came riding" },
+      { "arabic": "خَرَجَتْ مُسْرِعَةً", "english": "She went out hurrying" },
+      { "arabic": "رَأَيْتُهُ جَالِسًا", "english": "I saw him sitting" }
+    ],
+    "lesson": "b2-l18"
+  },
+  {
+    "id": "gp-b2-019",
+    "title": "الفِعْل المَهْمُوز",
+    "titleEn": "Hamzated Verbs",
+    "explanation": "Hamzated verbs have hamza (ء) as one of their root letters. They can have hamza at the beginning (أَخَذَ), middle (سَأَلَ), or end (قَرَأَ). Their conjugation generally follows regular verb patterns, but hamza may undergo spelling changes.",
+    "examples": [
+      { "arabic": "أَخَذَ الكِتَابَ", "english": "He took the book" },
+      { "arabic": "سَأَلَ المُعَلِّمَ", "english": "He asked the teacher" },
+      { "arabic": "قَرَأَ القُرْآنَ", "english": "He read the Quran" }
+    ],
+    "lesson": "b2-l19"
+  },
+  {
+    "id": "gp-b2-020",
+    "title": "الفِعْل المُضَعَّف",
+    "titleEn": "Doubled Verbs",
+    "explanation": "Doubled verbs (الفِعْل المُضَعَّف) have identical second and third root letters (like مَدَّ from م-د-د). The two identical letters merge with a shadda. In certain conjugations, they may separate: مَدَدْتُ (I extended).",
+    "examples": [
+      { "arabic": "مَدَّ يَدَهُ", "english": "He extended his hand" },
+      { "arabic": "رَدَّ عَلَيْهِ", "english": "He replied to him" },
+      { "arabic": "ظَلَّ فِي البَيْتِ", "english": "He remained in the house" }
+    ],
+    "lesson": "b2-l20"
+  },
+  {
+    "id": "gp-b2-021",
+    "title": "الفِعْل المِثَال",
+    "titleEn": "Assimilated Verbs",
+    "explanation": "Assimilated verbs (الفِعْل المِثَال) have waw (و) or ya (ي) as their first root letter. In the present tense, the waw often drops: وَعَدَ → يَعِدُ (he promises), وَجَدَ → يَجِدُ (he finds).",
+    "examples": [
+      { "arabic": "وَعَدَ اللهُ المُؤْمِنِينَ", "english": "Allah promised the believers" },
+      { "arabic": "وَجَدَ الكَنْزَ", "english": "He found the treasure" },
+      { "arabic": "يَصِلُ غَدًا", "english": "He arrives tomorrow" }
+    ],
+    "lesson": "b2-l21"
+  },
+  {
+    "id": "gp-b2-022",
+    "title": "الفِعْل الأَجْوَف",
+    "titleEn": "Hollow Verbs",
+    "explanation": "Hollow verbs (الفِعْل الأَجْوَف) have waw or ya as their middle root letter. The middle vowel changes: قَالَ (root ق-و-ل) becomes يَقُولُ in present, قُلْتُ in past 1st person. Examples: زَارَ → يَزُورُ, نَامَ → يَنَامُ.",
+    "examples": [
+      { "arabic": "قَالَ الحَقَّ", "english": "He said the truth" },
+      { "arabic": "زَارَ صَدِيقَهُ", "english": "He visited his friend" },
+      { "arabic": "كَانُوا مُسْلِمِينَ", "english": "They were Muslims" }
+    ],
+    "lesson": "b2-l22"
+  },
+  {
+    "id": "gp-b2-023",
+    "title": "جَمْع المُذَكَّر السَّالِم",
+    "titleEn": "Sound Masculine Plural",
+    "explanation": "Sound masculine plural is formed by adding ـُونَ (nominative) or ـِينَ (accusative/genitive) to nouns referring to male rational beings. مُعَلِّمُونَ (teachers, nom.), مُعَلِّمِينَ (teachers, acc./gen.). Used with numbers 20-90.",
+    "examples": [
+      { "arabic": "جَاءَ المُعَلِّمُونَ", "english": "The teachers came" },
+      { "arabic": "رَأَيْتُ المُهَنْدِسِينَ", "english": "I saw the engineers" },
+      { "arabic": "عِشْرُونَ طَالِبًا", "english": "Twenty students" }
+    ],
+    "lesson": "b2-l23"
+  },
+  {
+    "id": "gp-b2-024",
+    "title": "الفِعْل النَّاقِص",
+    "titleEn": "Defective Verbs",
+    "explanation": "Defective verbs (الفِعْل النَّاقِص) have waw or ya as their final root letter. The final letter often changes or drops: دَعَا → يَدْعُو, رَمَى → يَرْمِي, مَشَى → يَمْشِي. In the past with attached pronouns: دَعَوْتُ.",
+    "examples": [
+      { "arabic": "دَعَا رَبَّهُ", "english": "He called upon his Lord" },
+      { "arabic": "رَمَى الكُرَةَ", "english": "He threw the ball" },
+      { "arabic": "مَشَى إِلَى المَسْجِدِ", "english": "He walked to the mosque" }
+    ],
+    "lesson": "b2-l24"
+  },
+  {
+    "id": "gp-b2-025",
+    "title": "الفِعْل اللَّفِيف",
+    "titleEn": "Doubly Weak Verbs",
+    "explanation": "Doubly weak verbs (الفِعْل اللَّفِيف) have two weak letters in their root. They can be: لَفِيف مَفْرُوق (separated: وَقَى و-ق-ي) or لَفِيف مَقْرُون (adjacent: رَوَى ر-و-ي, طَوَى ط-و-ي).",
+    "examples": [
+      { "arabic": "وَفَى بِوَعْدِهِ", "english": "He fulfilled his promise" },
+      { "arabic": "رَوَى الحَدِيثَ", "english": "He narrated the hadith" },
+      { "arabic": "طَوَى الثَّوْبَ", "english": "He folded the garment" }
+    ],
+    "lesson": "b2-l25"
+  },
+  {
+    "id": "gp-b2-026",
+    "title": "اسْم التَّصْغِير",
+    "titleEn": "Diminutive Nouns",
+    "explanation": "Diminutive nouns express smallness or endearment. Common patterns: فُعَيْل (كِتَاب → كُتَيِّب booklet), فُعَيْعِل (عُصْفُور → عُصَيْفِير little bird). They can indicate small size, youth, or affection.",
+    "examples": [
+      { "arabic": "كُتَيِّب صَغِير", "english": "A small booklet" },
+      { "arabic": "أُخَيّ الصَّغِير", "english": "My little brother" },
+      { "arabic": "نُهَيْر جَمِيل", "english": "A beautiful little river" }
+    ],
+    "lesson": "b2-l26"
+  },
+  {
+    "id": "gp-b2-027",
+    "title": "البَاب السَّابِع (اِنْفَعَلَ)",
+    "titleEn": "Form VII Verbs",
+    "explanation": "Form VII verbs follow the pattern اِنْفَعَلَ - يَنْفَعِلُ. They typically express reflexive or passive meaning from Form I verbs. فَتَحَ (he opened) → اِنْفَتَحَ (it was opened), كَسَرَ (he broke) → اِنْكَسَرَ (it broke).",
+    "examples": [
+      { "arabic": "اِنْفَتَحَ البَابُ", "english": "The door opened" },
+      { "arabic": "اِنْكَسَرَ الزُّجَاجُ", "english": "The glass broke" },
+      { "arabic": "اِنْقَطَعَ الحَبْلُ", "english": "The rope was cut" }
+    ],
+    "lesson": "b2-l27"
+  },
+  {
+    "id": "gp-b2-028",
+    "title": "الأَفْعَال الضَّعِيفَة فِي السِّيَاق",
+    "titleEn": "Weak Verbs in Context",
+    "explanation": "Weak verbs appear frequently in religious and classical texts. Recognizing their patterns is essential for Quranic and hadith study. Common examples: قَالَ (hollow), دَعَا (defective), هَدَى (defective), رَضِيَ (defective).",
+    "examples": [
+      { "arabic": "قَالَ النَّبِيُّ ﷺ", "english": "The Prophet ﷺ said" },
+      { "arabic": "هَدَاهُ اللهُ", "english": "Allah guided him" },
+      { "arabic": "رَضِيَ اللهُ عَنْهُ", "english": "May Allah be pleased with him" }
+    ],
+    "lesson": "b2-l28"
+  },
+  {
+    "id": "gp-b2-029",
+    "title": "البَاب الثَّامِن (اِفْتَعَلَ)",
+    "titleEn": "Form VIII Verbs",
+    "explanation": "Form VIII verbs follow the pattern اِفْتَعَلَ - يَفْتَعِلُ. They often express reflexive meaning or effort. جَمَعَ (he gathered) → اِجْتَمَعَ (they gathered/met), سَمِعَ (he heard) → اِسْتَمَعَ (he listened carefully).",
+    "examples": [
+      { "arabic": "اِجْتَمَعَ النَّاسُ", "english": "The people gathered" },
+      { "arabic": "اِسْتَمَعَ إِلَى المُعَلِّمِ", "english": "He listened to the teacher" },
+      { "arabic": "اِخْتَارَ الأَحْسَنَ", "english": "He chose the best" }
+    ],
+    "lesson": "b2-l29"
+  },
+  {
+    "id": "gp-b2-030",
+    "title": "البَاب التَّاسِع (اِفْعَلَّ)",
+    "titleEn": "Form IX Verbs",
+    "explanation": "Form IX verbs follow the pattern اِفْعَلَّ - يَفْعَلُّ. This form is used almost exclusively for colors and physical defects. أَحْمَر (red) → اِحْمَرَّ (became red), أَصْفَر (yellow) → اِصْفَرَّ (became yellow).",
+    "examples": [
+      { "arabic": "اِحْمَرَّ وَجْهُهُ", "english": "His face turned red" },
+      { "arabic": "اِصْفَرَّتِ الأَوْرَاقُ", "english": "The leaves turned yellow" },
+      { "arabic": "اِبْيَضَّ شَعْرُهُ", "english": "His hair turned white" }
+    ],
+    "lesson": "b2-l30"
+  },
+  {
+    "id": "gp-b2-031",
+    "title": "البَاب العَاشِر (اِسْتَفْعَلَ)",
+    "titleEn": "Form X Verbs",
+    "explanation": "Form X verbs follow the pattern اِسْتَفْعَلَ - يَسْتَفْعِلُ. They typically express seeking, requesting, or considering something. غَفَرَ (he forgave) → اِسْتَغْفَرَ (he sought forgiveness), أَذِنَ (he permitted) → اِسْتَأْذَنَ (he asked permission).",
+    "examples": [
+      { "arabic": "اِسْتَغْفَرَ اللهَ", "english": "He sought forgiveness from Allah" },
+      { "arabic": "اِسْتَأْذَنَ قَبْلَ الدُّخُولِ", "english": "He asked permission before entering" },
+      { "arabic": "اِسْتَخْدَمَ الحَاسُوبَ", "english": "He used the computer" }
+    ],
+    "lesson": "b2-l31"
+  },
+  {
+    "id": "gp-b2-032",
+    "title": "المَصَادِر لِجَمِيع الأَوْزَان",
+    "titleEn": "Verbal Nouns for All Forms",
+    "explanation": "Each verb form has specific masdar patterns. Form II: تَفْعِيل, Form III: مُفَاعَلَة/فِعَال, Form IV: إِفْعَال, Form V: تَفَعُّل, Form VI: تَفَاعُل, Form VII: اِنْفِعَال, Form VIII: اِفْتِعَال, Form X: اِسْتِفْعَال.",
+    "examples": [
+      { "arabic": "تَعَلُّم - تَعَلَّمَ", "english": "learning - he learned (Form V)" },
+      { "arabic": "اِسْتِغْفَار - اِسْتَغْفَرَ", "english": "seeking forgiveness - he sought forgiveness (Form X)" },
+      { "arabic": "تَعَاوُن - تَعَاوَنَ", "english": "cooperation - they cooperated (Form VI)" }
+    ],
+    "lesson": "b2-l32"
+  },
+  {
+    "id": "gp-b2-033",
+    "title": "اسْم الزَّمَان وَالْمَكَان",
+    "titleEn": "Nouns of Time and Place",
+    "explanation": "Nouns of time and place indicate where or when an action occurs. For Form I verbs, the pattern is مَفْعَل or مَفْعِل: مَكْتَب (office/place of writing), مَدْرَسَة (school), مَطْبَخ (kitchen). Derived forms use م + present stem.",
+    "examples": [
+      { "arabic": "الْمَكْتَبُ مَفْتُوحٌ", "english": "The office is open" },
+      { "arabic": "ذَهَبَ إِلَى الْمَدْرَسَةِ", "english": "He went to the school" },
+      { "arabic": "الطَّعَامُ فِي الْمَطْبَخِ", "english": "The food is in the kitchen" }
+    ],
+    "lesson": "b2-l08"
+  },
+  {
+    "id": "gp-b2-034",
+    "title": "اسْم الآلَة",
+    "titleEn": "Nouns of Instrument",
+    "explanation": "Nouns of instrument indicate the tool used to perform an action. Common patterns: مِفْعَل (مِفْتَاح - key), مِفْعَلَة (مِكْنَسَة - broom), مِفْعَال (مِنْشَار - saw). Modern words often use فَعَّالَة (ثَلَّاجَة - refrigerator).",
+    "examples": [
+      { "arabic": "فَتَحَ الْبَابَ بِالْمِفْتَاحِ", "english": "He opened the door with the key" },
+      { "arabic": "الْمِكْنَسَةُ فِي الْغُرْفَةِ", "english": "The broom is in the room" },
+      { "arabic": "الثَّلَّاجَةُ جَدِيدَةٌ", "english": "The refrigerator is new" }
+    ],
+    "lesson": "b2-l08"
+  },
+  {
+    "id": "gp-b2-035",
+    "title": "الْمُثَنَّى",
+    "titleEn": "The Dual Form",
+    "explanation": "The dual indicates exactly two of something. It adds ـَانِ (nominative) or ـَيْنِ (accusative/genitive) to the singular. Verbs agree with dual subjects: الطَّالِبَانِ ذَهَبَا (the two students went).",
+    "examples": [
+      { "arabic": "طَالِبَانِ مُجْتَهِدَانِ", "english": "Two diligent students (nom.)" },
+      { "arabic": "رَأَيْتُ طَالِبَيْنِ", "english": "I saw two students (acc.)" },
+      { "arabic": "مَرَرْتُ بِطَالِبَيْنِ", "english": "I passed by two students (gen.)" }
+    ],
+    "lesson": "b2-l23"
+  },
+  {
+    "id": "gp-b2-036",
+    "title": "جَمْع الْمُؤَنَّث السَّالِم",
+    "titleEn": "Sound Feminine Plural",
+    "explanation": "Sound feminine plural is formed by adding ـَاتٌ to nouns. Works for feminine nouns ending in ة: طَالِبَة → طَالِبَاتٌ, and some masculine/inanimate nouns. The accusative and genitive share the form ـَاتٍ.",
+    "examples": [
+      { "arabic": "جَاءَتِ الطَّالِبَاتُ", "english": "The female students came" },
+      { "arabic": "رَأَيْتُ الْمُعَلِّمَاتِ", "english": "I saw the female teachers" },
+      { "arabic": "السَّيَّارَاتُ جَدِيدَةٌ", "english": "The cars are new" }
+    ],
+    "lesson": "b2-l23"
+  },
+  {
+    "id": "gp-b2-037",
+    "title": "جَمْع التَّكْسِير",
+    "titleEn": "Broken Plural Patterns",
+    "explanation": "Broken plurals change the internal pattern of the singular. Common patterns: أَفْعَال (قَلَم/أَقْلَام), فُعُول (بَيْت/بُيُوت), فِعَال (كِتَاب/كُتُب). These must be memorized as they're unpredictable.",
+    "examples": [
+      { "arabic": "كِتَابٌ → كُتُبٌ", "english": "book → books" },
+      { "arabic": "رَجُلٌ → رِجَالٌ", "english": "man → men" },
+      { "arabic": "وَلَدٌ → أَوْلَادٌ", "english": "boy → boys" }
+    ],
+    "lesson": "b2-l24"
+  },
+  {
+    "id": "gp-b2-038",
+    "title": "الْمَمْنُوع مِنَ الصَّرْف",
+    "titleEn": "Diptotes (Nouns that Don't Take Tanween)",
+    "explanation": "Certain nouns don't take tanween and use fatha instead of kasra for genitive. Categories: proper names (أَحْمَدُ), colors (أَحْمَرُ), comparative/superlative (أَكْبَرُ), patterns like مَفَاعِل (مَسَاجِد).",
+    "examples": [
+      { "arabic": "ذَهَبَ أَحْمَدُ", "english": "Ahmad went" },
+      { "arabic": "قَمِيصٌ أَحْمَرُ", "english": "A red shirt" },
+      { "arabic": "فِي مَسَاجِدَ كَثِيرَةٍ", "english": "In many mosques" }
+    ],
+    "lesson": "b2-l25"
+  },
+  {
+    "id": "gp-b2-039",
+    "title": "الْمُبْتَدَأ وَالْخَبَر",
+    "titleEn": "Subject and Predicate in Nominal Sentences",
+    "explanation": "Nominal sentences begin with a noun (مُبْتَدَأ) followed by a predicate (خَبَر). Both are nominative in basic form. The predicate can be a noun, adjective, prepositional phrase, or sentence.",
+    "examples": [
+      { "arabic": "الطَّالِبُ مُجْتَهِدٌ", "english": "The student is diligent (adj. predicate)" },
+      { "arabic": "الْكِتَابُ عَلَى الطَّاوِلَةِ", "english": "The book is on the table (prep. predicate)" },
+      { "arabic": "مُحَمَّدٌ أَبُوهُ طَبِيبٌ", "english": "Muhammad - his father is a doctor (sentence predicate)" }
+    ],
+    "lesson": "b2-l01"
+  },
+  {
+    "id": "gp-b2-040",
+    "title": "تَقْدِيم الْخَبَر",
+    "titleEn": "Fronting the Predicate",
+    "explanation": "The predicate normally follows the subject, but can be fronted for emphasis or necessity. Mandatory when predicate is a question word or when subject is indefinite with prepositional predicate: عِنْدِي كِتَابٌ.",
+    "examples": [
+      { "arabic": "أَيْنَ الْكِتَابُ؟", "english": "Where is the book?" },
+      { "arabic": "عِنْدِي سَيَّارَةٌ", "english": "I have a car" },
+      { "arabic": "فِي الْبَيْتِ رَجُلٌ", "english": "In the house is a man" }
+    ],
+    "lesson": "b2-l02"
+  },
+  {
+    "id": "gp-b2-041",
+    "title": "الْفِعْل اللَّازِم وَالْمُتَعَدِّي",
+    "titleEn": "Intransitive and Transitive Verbs",
+    "explanation": "Intransitive verbs (لَازِم) don't take a direct object: ذَهَبَ (went), جَلَسَ (sat). Transitive verbs (مُتَعَدٍّ) take one or more objects: كَتَبَ الدَّرْسَ, أَعْطَى الطَّالِبَ كِتَابًا.",
+    "examples": [
+      { "arabic": "ذَهَبَ الْوَلَدُ", "english": "The boy went (intransitive)" },
+      { "arabic": "كَتَبَ الدَّرْسَ", "english": "He wrote the lesson (transitive)" },
+      { "arabic": "أَعْطَيْتُهُ كِتَابًا", "english": "I gave him a book (ditransitive)" }
+    ],
+    "lesson": "b2-l03"
+  },
+  {
+    "id": "gp-b2-042",
+    "title": "الْمَفْعُول بِهِ",
+    "titleEn": "The Direct Object",
+    "explanation": "The direct object (الْمَفْعُول بِهِ) receives the action of transitive verbs. It is always in the accusative case (مَنْصُوب). With attached pronouns: رَأَيْتُهُ (I saw him).",
+    "examples": [
+      { "arabic": "قَرَأَ الطَّالِبُ الْكِتَابَ", "english": "The student read the book" },
+      { "arabic": "أَكَلْتُ التُّفَّاحَةَ", "english": "I ate the apple" },
+      { "arabic": "سَمِعْتُهُمْ", "english": "I heard them" }
+    ],
+    "lesson": "b2-l03"
+  },
+  {
+    "id": "gp-b2-043",
+    "title": "اسْمُ الْمَرَّة",
+    "titleEn": "Noun of Single Instance",
+    "explanation": "The noun of single instance (اسم المرة) indicates that an action occurred once. For Form I verbs, the pattern is فَعْلَة: ضَرْبَة (one strike), جَلْسَة (one sitting), نَظْرَة (one glance).",
+    "examples": [
+      { "arabic": "ضَرَبَهُ ضَرْبَةً وَاحِدَةً", "english": "He hit him one strike" },
+      { "arabic": "نَظَرْتُ إِلَيْهِ نَظْرَةً", "english": "I glanced at him once" },
+      { "arabic": "جَلَسْنَا جَلْسَةً طَوِيلَةً", "english": "We sat for one long session" }
+    ],
+    "lesson": "b2-l38"
+  },
+  {
+    "id": "gp-b2-044",
+    "title": "اسْمُ الْمَرَّة لِلأَفْعَال الْمَزِيدَة",
+    "titleEn": "Noun of Single Instance for Derived Forms",
+    "explanation": "For derived verb forms (II-X), add ة to the masdar to form the noun of single instance. If the masdar already ends in ة, add وَاحِدَة for clarification.",
+    "examples": [
+      { "arabic": "عَلَّمَهُ تَعْلِيمَةً مُفِيدَةً", "english": "He taught him one useful lesson" },
+      { "arabic": "سَاعَدْتُهُ مُسَاعَدَةً وَاحِدَةً", "english": "I helped him once" },
+      { "arabic": "أَرْسَلَ إِرْسَالَةً وَاحِدَةً", "english": "He sent one message" }
+    ],
+    "lesson": "b2-l38"
+  },
+  {
+    "id": "gp-b2-045",
+    "title": "اسْمُ الْهَيْئَة",
+    "titleEn": "Noun of Manner",
+    "explanation": "The noun of manner (اسم الهيئة) describes how an action is performed. For Form I verbs, the pattern is فِعْلَة: جِلْسَة (manner of sitting), مِشْيَة (manner of walking).",
+    "examples": [
+      { "arabic": "جَلَسَ جِلْسَةَ الْعَالِمِ", "english": "He sat in the manner of a scholar" },
+      { "arabic": "مَشَتْ مِشْيَةَ الْمُتَكَبِّرِ", "english": "She walked the walk of an arrogant person" },
+      { "arabic": "وَقَفَ وِقْفَةَ الْبَطَلِ", "english": "He stood like a hero" }
+    ],
+    "lesson": "b2-l39"
+  },
+  {
+    "id": "gp-b2-046",
+    "title": "الْفَرْق بَيْنَ اسْم الْمَرَّة وَاسْم الْهَيْئَة",
+    "titleEn": "Difference Between Noun of Instance and Manner",
+    "explanation": "اسم المرة (فَعْلَة with fatha) indicates ONE occurrence. اسم الهيئة (فِعْلَة with kasra) describes HOW the action was performed. Note the kasra vs fatha on the first letter.",
+    "examples": [
+      { "arabic": "جَلْسَة (فَعْلَة) - وَاحِدَة", "english": "one sitting (instance)" },
+      { "arabic": "جِلْسَة (فِعْلَة) - حَسَنَة", "english": "good manner of sitting" },
+      { "arabic": "ضَرْبَة vs ضِرْبَة", "english": "one hit vs manner of hitting" }
+    ],
+    "lesson": "b2-l39"
+  },
+  {
+    "id": "gp-b2-047",
+    "title": "مُرَاجَعَة: الأَوْزَان الْمُشْتَقَّة",
+    "titleEn": "Review: Derived Patterns",
+    "explanation": "Book 2 covered derived patterns: اسم الفاعل (فَاعِل), اسم المفعول (مَفْعُول), اسم الزمان والمكان (مَفْعَل), and اسم الآلة (مِفْعَل/مِفْعَلَة/مِفْعَال).",
+    "examples": [
+      { "arabic": "كَاتِب - مَكْتُوب", "english": "writer - written" },
+      { "arabic": "مَكْتَب - مَطْبَخ", "english": "office - kitchen" },
+      { "arabic": "مِفْتَاح - مِكْنَسَة", "english": "key - broom" }
+    ],
+    "lesson": "b2-l40"
+  },
+  {
+    "id": "gp-b2-048",
+    "title": "مُرَاجَعَة: أَنْوَاع الأَفْعَال",
+    "titleEn": "Review: Verb Types",
+    "explanation": "Book 2 covered various verb types: الصحيح (sound), المهموز (hamzated), الأجوف (hollow), الناقص (defective), and المضعف (doubled).",
+    "examples": [
+      { "arabic": "كَتَبَ (صحيح)", "english": "he wrote (sound)" },
+      { "arabic": "قَالَ (أجوف)", "english": "he said (hollow)" },
+      { "arabic": "دَعَا (ناقص)", "english": "he called (defective)" }
+    ],
+    "lesson": "b2-l40"
+  },
+  {
+    "id": "gp-b2-049",
+    "title": "الصِّفَة الْمُشَبَّهَة - تَعْرِيف",
+    "titleEn": "Resembling Adjective - Definition",
+    "explanation": "الصفة المشبهة is derived from intransitive verbs and indicates a permanent quality. Unlike اسم الفاعل (temporary), it describes inherent, lasting characteristics like كَرِيم (generous) and حَسَن (good).",
+    "examples": [
+      { "arabic": "هُوَ رَجُلٌ كَرِيمٌ", "english": "He is a generous man" },
+      { "arabic": "الْوَلَدُ حَسَنُ الْخُلُقِ", "english": "The boy is good in character" },
+      { "arabic": "هِيَ جَمِيلَةٌ", "english": "She is beautiful" }
+    ],
+    "lesson": "b2-l41"
+  },
+  {
+    "id": "gp-b2-050",
+    "title": "الصِّفَة الْمُشَبَّهَة - الأَوْزَان",
+    "titleEn": "Resembling Adjective - Patterns",
+    "explanation": "Common patterns: فَعِيل (كَرِيم), فَعِل (حَسَن), فَعْلَان (عَطْشَان), and أَفْعَل (أَحْمَر). Each pattern often describes a particular category of qualities.",
+    "examples": [
+      { "arabic": "الرَّجُلُ عَظِيمٌ", "english": "The man is great (فَعِيل)" },
+      { "arabic": "الطِّفْلُ عَطْشَانُ", "english": "The child is thirsty (فَعْلَان)" },
+      { "arabic": "الْوَرْدُ أَحْمَرُ", "english": "The rose is red (أَفْعَل)" }
+    ],
+    "lesson": "b2-l41"
+  },
+  {
+    "id": "gp-b2-051",
+    "title": "الصِّفَة الْمُشَبَّهَة vs اسْم الْفَاعِل",
+    "titleEn": "Resembling Adjective vs Active Participle",
+    "explanation": "اسم الفاعل indicates temporary action (ضَارِب - hitting now), while الصفة المشبهة indicates permanent quality (كَرِيم - inherently generous). The distinction is about duration.",
+    "examples": [
+      { "arabic": "الرَّجُلُ ضَارِبٌ الآنَ", "english": "The man is hitting now (temporary)" },
+      { "arabic": "الرَّجُلُ كَرِيمٌ دَائِمًا", "english": "The man is always generous (permanent)" },
+      { "arabic": "هُوَ شُجَاعٌ فِي الْحَرْبِ", "english": "He is brave in war" }
+    ],
+    "lesson": "b2-l42"
+  },
+  {
+    "id": "gp-b2-052",
+    "title": "الصِّفَة الْمُشَبَّهَة - السُّلُوك النَّحْوِيّ",
+    "titleEn": "Resembling Adjective - Grammatical Behavior",
+    "explanation": "الصفة المشبهة can govern a noun in genitive case, showing what the quality relates to. Example: حَسَنُ الْوَجْهِ (beautiful of face), طَيِّبُ الْقَلْبِ (good-hearted).",
+    "examples": [
+      { "arabic": "هُوَ طَيِّبُ الْقَلْبِ", "english": "He is good-hearted" },
+      { "arabic": "الْمَرْأَةُ كَبِيرَةُ السِّنِّ", "english": "The woman is old (big of age)" },
+      { "arabic": "هُمْ طِوَالُ الْقَامَةِ", "english": "They are tall (tall of stature)" }
+    ],
+    "lesson": "b2-l42"
+  },
+  {
+    "id": "gp-b2-053",
+    "title": "النِّسْبَة - تَعْرِيف",
+    "titleEn": "Relative Adjectives - Definition",
+    "explanation": "النسبة forms relative adjectives by adding يّ to nouns to show attribution. For example: مِصْر → مِصْرِيّ (Egyptian), إِسْلَام → إِسْلَامِيّ (Islamic). Feminine adds ـة.",
+    "examples": [
+      { "arabic": "هُوَ رَجُلٌ مِصْرِيٌّ", "english": "He is an Egyptian man" },
+      { "arabic": "هَذَا كِتَابٌ عَرَبِيٌّ", "english": "This is an Arabic book" },
+      { "arabic": "اللُّغَةُ الْعَرَبِيَّةُ جَمِيلَةٌ", "english": "The Arabic language is beautiful" }
+    ],
+    "lesson": "b2-l43"
+  },
+  {
+    "id": "gp-b2-054",
+    "title": "النِّسْبَة - قَوَاعِد التَّكْوِين",
+    "titleEn": "Relative Adjectives - Formation Rules",
+    "explanation": "When the noun ends in ة, drop it before adding يّ: مَكَّة → مَكِّيّ. The kasra before يّ is standard. For cities: المَدِينَة → مَدَنِيّ.",
+    "examples": [
+      { "arabic": "هُوَ مَكِّيٌّ", "english": "He is Meccan" },
+      { "arabic": "هِيَ مَدَنِيَّةٌ", "english": "She is Medinan" },
+      { "arabic": "الشَّايُ الصِّينِيُّ لَذِيذٌ", "english": "Chinese tea is delicious" }
+    ],
+    "lesson": "b2-l43"
+  },
+  {
+    "id": "gp-b2-055",
+    "title": "النِّسْبَة - الْكَلِمَات الْمُنْتَهِيَة بِالْيَاء",
+    "titleEn": "Relative Adjectives - Words Ending in Ya",
+    "explanation": "Words ending in ي require special rules. المقصور nouns often change: الدُّنْيَا → دُنْيَوِيّ (worldly), الْمَعْنَى → مَعْنَوِيّ (semantic).",
+    "examples": [
+      { "arabic": "هَذَا أَمْرٌ دُنْيَوِيٌّ", "english": "This is a worldly matter" },
+      { "arabic": "الْجَانِبُ الْمَعْنَوِيُّ مُهِمٌّ", "english": "The spiritual aspect is important" },
+      { "arabic": "قَضِيَّةٌ يَمَنِيَّةٌ", "english": "A Yemeni issue" }
+    ],
+    "lesson": "b2-l44"
+  },
+  {
+    "id": "gp-b2-056",
+    "title": "النِّسْبَة - التَّكْوِينَات الشَّاذَّة",
+    "titleEn": "Relative Adjectives - Irregular Forms",
+    "explanation": "Some relative adjectives have irregular forms: يَد → يَدَوِيّ (manual), قَبِيلَة → قَبَلِيّ (tribal), طَبِيعَة → طَبِيعِيّ (natural), رُوح → رُوحَانِيّ (spiritual).",
+    "examples": [
+      { "arabic": "هَذَا عَمَلٌ يَدَوِيٌّ", "english": "This is manual work" },
+      { "arabic": "النِّظَامُ الْقَبَلِيُّ قَدِيمٌ", "english": "The tribal system is ancient" },
+      { "arabic": "الْجَمَالُ الطَّبِيعِيُّ", "english": "Natural beauty" }
+    ],
+    "lesson": "b2-l44"
+  },
+  {
+    "id": "gp-b2-057",
+    "title": "عَطْف الْبَيَان - تَعْرِيف",
+    "titleEn": "Explicative Apposition - Definition",
+    "explanation": "عطف البيان is a follower that clarifies the word before it, often a proper noun clarifying a common noun. Example: جَاءَ الْخَلِيفَةُ عُمَرُ (The caliph, Umar, came).",
+    "examples": [
+      { "arabic": "جَاءَ الْخَلِيفَةُ عُمَرُ", "english": "The caliph Umar came" },
+      { "arabic": "رَأَيْتُ الشَّاعِرَ الْمُتَنَبِّيَ", "english": "I saw the poet Al-Mutanabbi" },
+      { "arabic": "قَرَأْتُ سُورَةَ الْفَاتِحَةِ", "english": "I read Surat Al-Fatiha" }
+    ],
+    "lesson": "b2-l45"
+  },
+  {
+    "id": "gp-b2-058",
+    "title": "عَطْف الْبَيَان vs الْبَدَل",
+    "titleEn": "Explicative Apposition vs Badal",
+    "explanation": "In البدل, the second noun can replace the first. In عطف البيان, the second only clarifies without replacing. Test: Can you remove the first word? If no → عطف البيان.",
+    "examples": [
+      { "arabic": "جَاءَ أَخُوكَ زَيْدٌ (بدل)", "english": "Your brother Zaid came (Zaid can replace)" },
+      { "arabic": "جَاءَ الْخَلِيفَةُ عُمَرُ (عطف بيان)", "english": "The caliph Umar came (الخليفة needed)" },
+      { "arabic": "حَضَرَ الْمَلِكُ فَهْدٌ", "english": "King Fahd attended" }
+    ],
+    "lesson": "b2-l45"
+  },
+  {
+    "id": "gp-b2-059",
+    "title": "التَّوْكِيد اللَّفْظِيّ",
+    "titleEn": "Verbal Emphasis (Repetition)",
+    "explanation": "التوكيد اللفظي emphasizes by repeating the exact word. Can repeat nouns, verbs, particles, or sentences: جَاءَ جَاءَ الضَّيْفُ (The guest came, came).",
+    "examples": [
+      { "arabic": "جَاءَ جَاءَ الضَّيْفُ", "english": "The guest came, came" },
+      { "arabic": "نَعَمْ نَعَمْ", "english": "Yes, yes" },
+      { "arabic": "اكْتُبْ اكْتُبْ", "english": "Write, write" }
+    ],
+    "lesson": "b2-l46"
+  },
+  {
+    "id": "gp-b2-060",
+    "title": "التَّوْكِيد الْمَعْنَوِيّ",
+    "titleEn": "Semantic Emphasis",
+    "explanation": "التوكيد المعنوي uses specific words: نَفْس/عَيْن (self), كِلَا/كِلْتَا (both), كُلّ/جَمِيع (all). Must have a pronoun matching the emphasized word: جَاءَ الرَّجُلُ نَفْسُهُ.",
+    "examples": [
+      { "arabic": "حَضَرَ الْمُدِيرُ نَفْسُهُ", "english": "The director himself attended" },
+      { "arabic": "نَجَحَ الطَّالِبَانِ كِلَاهُمَا", "english": "Both students passed" },
+      { "arabic": "قَرَأْتُ الْكِتَابَ كُلَّهُ", "english": "I read the entire book" }
+    ],
+    "lesson": "b2-l46"
+  },
+  {
+    "id": "gp-b2-061",
+    "title": "حُرُوف الْعَطْف - الْجَمْع وَالتَّرْتِيب",
+    "titleEn": "Conjunction Particles - Addition and Sequence",
+    "explanation": "وَ adds without order. فَ implies immediate sequence. ثُمَّ implies sequence with delay. حَتَّى means 'even' or 'until'.",
+    "examples": [
+      { "arabic": "قَرَأْتُ وَكَتَبْتُ", "english": "I read and wrote" },
+      { "arabic": "دَخَلَ فَسَلَّمَ", "english": "He entered then immediately greeted" },
+      { "arabic": "تَعَلَّمَ ثُمَّ عَمِلَ", "english": "He learned, then (later) worked" }
+    ],
+    "lesson": "b2-l47"
+  },
+  {
+    "id": "gp-b2-062",
+    "title": "حُرُوف الْعَطْف - الاخْتِيَار وَالتَّصْحِيح",
+    "titleEn": "Conjunction Particles - Choice and Correction",
+    "explanation": "أَوْ for choice/doubt. أَمْ for exclusive choice in questions. بَلْ for correction. لَكِنْ for contrast. لَا negates the second.",
+    "examples": [
+      { "arabic": "اشْتَرِ تُفَّاحًا أَوْ بُرْتُقَالًا", "english": "Buy apples or oranges" },
+      { "arabic": "أَتُرِيدُ شَايًا أَمْ قَهْوَةً؟", "english": "Do you want tea or coffee?" },
+      { "arabic": "مَا هَذَا قَلَمٌ بَلْ مِفْتَاحٌ", "english": "This is not a pen, rather a key" }
+    ],
+    "lesson": "b2-l47"
+  },
+  {
+    "id": "gp-b2-063",
+    "title": "الْبَدَل - الأَنْوَاع",
+    "titleEn": "Substitution - Types",
+    "explanation": "Four types: بدل كل من كل (complete), بدل بعض من كل (partial), بدل اشتمال (inclusion), بدل غلط (correction). البدل takes the case of المبدل منه.",
+    "examples": [
+      { "arabic": "جَاءَ الْخَلِيفَةُ عُمَرُ", "english": "The caliph Umar came (complete)" },
+      { "arabic": "قَرَأْتُ الْكِتَابَ نِصْفَهُ", "english": "I read the book, half of it (partial)" },
+      { "arabic": "أَعْجَبَنِي الطَّالِبُ ذَكَاؤُهُ", "english": "The student impressed me, his intelligence (inclusion)" }
+    ],
+    "lesson": "b2-l48"
+  },
+  {
+    "id": "gp-b2-064",
+    "title": "الْبَدَل - الإِعْرَاب",
+    "titleEn": "Substitution - Case Agreement",
+    "explanation": "البدل follows المبدل منه in case. Partial and inclusion types require a pronoun suffix referring back to المبدل منه: أَكَلْتُ التُّفَّاحَةَ نِصْفَهَا.",
+    "examples": [
+      { "arabic": "زُرْتُ مَدِينَةَ دِمَشْقَ", "english": "I visited the city of Damascus" },
+      { "arabic": "سَمِعْتُ الْمُغَنِّيَ صَوْتَهُ", "english": "I heard the singer, his voice" },
+      { "arabic": "أَحْبَبْتُ زَيْدًا أَخْلَاقَهُ", "english": "I loved Zaid, his manners" }
+    ],
+    "lesson": "b2-l48"
+  },
+  {
+    "id": "gp-b2-065",
+    "title": "ظَنَّ وَأَخَوَاتُهَا - أَفْعَال الشَّكّ",
+    "titleEn": "Verbs of Thinking - Doubt Verbs",
+    "explanation": "Verbs of doubt take two accusative objects: ظَنَّ (think), حَسِبَ (reckon), خَالَ (imagine), زَعَمَ (claim). They convert مبتدأ + خبر to مفعولين.",
+    "examples": [
+      { "arabic": "ظَنَنْتُ الْأَمْرَ سَهْلًا", "english": "I thought the matter easy" },
+      { "arabic": "حَسِبْتُهُ صَادِقًا", "english": "I reckoned him truthful" },
+      { "arabic": "زَعَمُوهُ كَاذِبًا", "english": "They claimed he was a liar" }
+    ],
+    "lesson": "b2-l49"
+  },
+  {
+    "id": "gp-b2-066",
+    "title": "ظَنَّ وَأَخَوَاتُهَا - أَفْعَال الْيَقِين وَالتَّحْوِيل",
+    "titleEn": "Verbs of Thinking - Certainty and Transformation",
+    "explanation": "Certainty verbs: عَلِمَ (know), رَأَى (realize), وَجَدَ (find). Transformation verbs: جَعَلَ (make), صَيَّرَ (turn into), اتَّخَذَ (take as). All take two accusatives.",
+    "examples": [
+      { "arabic": "عَلِمْتُ الصِّدْقَ نَجَاةً", "english": "I knew honesty to be salvation" },
+      { "arabic": "وَجَدْتُ الصَّبْرَ مُفِيدًا", "english": "I found patience useful" },
+      { "arabic": "جَعَلَ اللهُ الْأَرْضَ مَهْدًا", "english": "Allah made the earth a cradle" }
+    ],
+    "lesson": "b2-l49"
+  },
+  {
+    "id": "gp-b2-067",
+    "title": "التَّنَازُع - التَّعْرِيف",
+    "titleEn": "Conflict in Governance - Definition",
+    "explanation": "التنازع occurs when two verbs (or verb-like words) precede a single noun, each requiring it as an object. The grammarian must decide which verb governs the shared element.",
+    "examples": [
+      { "arabic": "قَامَ وَقَعَدَ زَيْدٌ", "english": "Zaid stood and sat (both verbs 'compete' for زيد)" },
+      { "arabic": "ضَرَبْتُ وَأَكْرَمْتُ خَالِدًا", "english": "I hit and honored Khalid" },
+      { "arabic": "سَافَرَ وَعَادَ الْمُسَافِرُ", "english": "The traveler traveled and returned" }
+    ],
+    "lesson": "b2-l50"
+  },
+  {
+    "id": "gp-b2-068",
+    "title": "التَّنَازُع - الإِعْمَال",
+    "titleEn": "Conflict in Governance - Assigning Governance",
+    "explanation": "Basrans prefer giving governance to the second (closer) verb; Kufans prefer the first. The non-governing verb gets a pronoun referent: ضَرَبْتُهُ وَأَكْرَمْتُ زَيْدًا.",
+    "examples": [
+      { "arabic": "ضَرَبْتُهُ وَأَكْرَمْتُ زَيْدًا", "english": "I hit him and honored Zaid (Basran)" },
+      { "arabic": "ضَرَبْتُ وَأَكْرَمْتُهُ زَيْدًا", "english": "I hit Zaid and honored him (Kufan)" },
+      { "arabic": "آتُونِي أُفْرِغْ عَلَيْهِ قِطْرًا", "english": "Bring me, I will pour on it molten metal (Quran)" }
+    ],
+    "lesson": "b2-l50"
+  },
+  {
+    "id": "gp-b2-069",
+    "title": "الاشْتِغَال - التَّعْرِيف",
+    "titleEn": "Occupation - Definition",
+    "explanation": "الاشتغال is when a noun precedes a verb that is 'occupied' with a pronoun referring to that noun: زَيْدًا ضَرَبْتُهُ. The fronted noun is governed by a deleted verb.",
+    "examples": [
+      { "arabic": "زَيْدًا ضَرَبْتُهُ", "english": "Zaid, I hit him" },
+      { "arabic": "الْكِتَابَ قَرَأْتُهُ", "english": "The book, I read it" },
+      { "arabic": "مُحَمَّدًا أَكْرَمْتُهُ", "english": "Muhammad, I honored him" }
+    ],
+    "lesson": "b2-l51"
+  },
+  {
+    "id": "gp-b2-070",
+    "title": "الاشْتِغَال - أَحْكَام الإِعْرَاب",
+    "titleEn": "Occupation - Case Rules",
+    "explanation": "The fronted noun can be accusative (منصوب) or nominative (مرفوع as مبتدأ). Accusative is obligatory after conditional/urging particles. Nominative is obligatory after إذا الفجائية.",
+    "examples": [
+      { "arabic": "إِنْ زَيْدًا لَقِيتَهُ فَأَكْرِمْهُ", "english": "If you meet Zaid, honor him (obligatory accusative)" },
+      { "arabic": "هَلَّا الْوَاجِبَ أَدَّيْتَهُ", "english": "Why didn't you fulfill the duty? (obligatory accusative)" },
+      { "arabic": "زَيْدٌ نِعْمَ الرَّجُلُ هُوَ", "english": "Zaid, what an excellent man he is (obligatory nominative)" }
+    ],
+    "lesson": "b2-l51"
+  },
+  {
+    "id": "gp-b2-071",
+    "title": "حَتَّى - الْجَارَّة وَالْعَاطِفَة",
+    "titleEn": "Hatta - Preposition and Conjunction",
+    "explanation": "حتى الجارة takes a genitive noun meaning 'until': نِمْتُ حَتَّى الصَّبَاحِ. حتى العاطفة connects nouns meaning 'even': أَكَلْتُ السَّمَكَةَ حَتَّى رَأْسَهَا.",
+    "examples": [
+      { "arabic": "سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ", "english": "It is peace until the emergence of dawn" },
+      { "arabic": "أَكَلْتُ السَّمَكَةَ حَتَّى رَأْسَهَا", "english": "I ate the fish, even its head" },
+      { "arabic": "مَاتَ النَّاسُ حَتَّى الْأَنْبِيَاءُ", "english": "People died, even the prophets" }
+    ],
+    "lesson": "b2-l52"
+  },
+  {
+    "id": "gp-b2-072",
+    "title": "حَتَّى - النَّاصِبَة وَالابْتِدَائِيَّة",
+    "titleEn": "Hatta - Subjunctive and Initial",
+    "explanation": "حتى الناصبة causes subjunctive meaning 'so that': سِرْتُ حَتَّى أَدْخُلَ. حتى الابتدائية introduces indicative expressing achieved result: سِرْتُ حَتَّى أَدْخُلُ.",
+    "examples": [
+      { "arabic": "كُلُوا وَاشْرَبُوا حَتَّى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ", "english": "Eat and drink until the white thread becomes distinct" },
+      { "arabic": "سِرْتُ حَتَّى أَدْخُلَ الْمَدِينَةَ", "english": "I walked so that I may enter the city" },
+      { "arabic": "مَرِضَ حَتَّى لَا يَرْجُونَهُ", "english": "He became so sick they had no hope for him" }
+    ],
+    "lesson": "b2-l52"
+  },
+  {
+    "id": "gp-b2-073",
+    "title": "فَاء السَّبَبِيَّة - التَّعْرِيف",
+    "titleEn": "Fa of Causation - Definition",
+    "explanation": "فاء السببية indicates cause-effect and causes the following verb to be subjunctive. There is an implied أَنْ: لَا تَكْسَلْ فَتَنْدَمَ (Don't be lazy, so you won't regret).",
+    "examples": [
+      { "arabic": "لَا تَكْسَلْ فَتَنْدَمَ", "english": "Do not be lazy, so you will not regret" },
+      { "arabic": "ذَاكِرْ فَتَنْجَحَ", "english": "Study so that you may succeed" },
+      { "arabic": "لَيْتَنِي أَمْلِكُ مَالًا فَأُنْفِقَ", "english": "I wish I had wealth so I could spend" }
+    ],
+    "lesson": "b2-l53"
+  },
+  {
+    "id": "gp-b2-074",
+    "title": "فَاء السَّبَبِيَّة - الشُّرُوط",
+    "titleEn": "Fa of Causation - Conditions",
+    "explanation": "فاء السببية requires being preceded by: negation (نفي), command (أمر), prohibition (نهي), wish (تمني), hope (رجاء), or question (استفهام).",
+    "examples": [
+      { "arabic": "لَا تَأْكُلْ كَثِيرًا فَتَمْرَضَ", "english": "Do not eat too much, lest you become sick" },
+      { "arabic": "هَلْ تَزُورُنِي فَأُكْرِمَكَ؟", "english": "Will you visit me so I may honor you?" },
+      { "arabic": "لَعَلِّي أَجْتَهِدُ فَأَفُوزَ", "english": "Perhaps I will strive so that I may win" }
+    ],
+    "lesson": "b2-l53"
+  },
+  {
+    "id": "gp-b2-075",
+    "title": "لَام الْجُحُود - التَّعْرِيف",
+    "titleEn": "Lam of Denial - Definition",
+    "explanation": "لام الجحود intensifies negation and causes the following verb to be subjunctive. It must be preceded by negated كان: مَا كَانَ or لَمْ يَكُنْ.",
+    "examples": [
+      { "arabic": "مَا كَانَ اللهُ لِيُعَذِّبَهُمْ", "english": "Allah would never punish them" },
+      { "arabic": "لَمْ يَكُنْ لِيَفْعَلَ ذَلِكَ", "english": "He would never do that" },
+      { "arabic": "مَا كُنْتُ لِأَكْذِبَ", "english": "I would never lie" }
+    ],
+    "lesson": "b2-l54"
+  },
+  {
+    "id": "gp-b2-076",
+    "title": "لَام الْجُحُود vs لَام التَّعْلِيل",
+    "titleEn": "Lam of Denial vs Lam of Purpose",
+    "explanation": "لام الجحود requires negated كان and expresses emphatic denial. لام التعليل can appear anywhere and expresses purpose: جِئْتُ لِأَتَعَلَّمَ (I came to learn).",
+    "examples": [
+      { "arabic": "جِئْتُ لِأَتَعَلَّمَ", "english": "I came to learn (لام التعليل - purpose)" },
+      { "arabic": "مَا كُنْتُ لِأَلْعَبَ", "english": "I would never play (لام الجحود - denial)" },
+      { "arabic": "وَمَا كَانَ اللهُ لِيَظْلِمَهُمْ", "english": "Allah would never wrong them (Quran)" }
+    ],
+    "lesson": "b2-l54"
+  },
+  {
+    "id": "gp-b2-077",
+    "title": "كَمْ الاسْتِفْهَامِيَّة",
+    "titleEn": "Interrogative Kam (How Many?)",
+    "explanation": "كم الاستفهامية asks about quantity. Its تمييز (specifier) must be singular (مفرد) and accusative (منصوب): كَمْ كِتَابًا قَرَأْتَ؟",
+    "examples": [
+      { "arabic": "كَمْ كِتَابًا قَرَأْتَ؟", "english": "How many books did you read?" },
+      { "arabic": "كَمْ يَوْمًا صُمْتَ؟", "english": "How many days did you fast?" },
+      { "arabic": "كَمْ سَاعَةً دَرَسْتَ؟", "english": "How many hours did you study?" }
+    ],
+    "lesson": "b2-l55"
+  },
+  {
+    "id": "gp-b2-078",
+    "title": "كَمْ الْخَبَرِيَّة",
+    "titleEn": "Informative Kam (So Many!)",
+    "explanation": "كم الخبرية expresses abundance/exclamation. Its تمييز is genitive (مجرور), can be singular or plural: كَمْ كِتَابٍ قَرَأْتُ! (So many books I read!).",
+    "examples": [
+      { "arabic": "كَمْ كِتَابٍ قَرَأْتُ!", "english": "So many books I have read!" },
+      { "arabic": "كَمْ مِنْ نِعْمَةٍ لِلَّهِ عَلَيْنَا!", "english": "How many blessings Allah has bestowed upon us!" },
+      { "arabic": "كَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا", "english": "How many towns We have destroyed (Quran)" }
+    ],
+    "lesson": "b2-l55"
+  },
+  {
+    "id": "gp-b2-079",
+    "title": "صِيَغ الْمُبَالَغَة - الأَوْزَان الشَّائِعَة",
+    "titleEn": "Intensive Forms - Common Patterns",
+    "explanation": "صيغ المبالغة express intensity/frequency. Main patterns: فَعَّال (غَفَّار), فَعُول (صَبُور), فَعِيل (عَلِيم). Common in Allah's names.",
+    "examples": [
+      { "arabic": "اللهُ غَفَّارٌ", "english": "Allah is Ever-Forgiving (فَعَّال)" },
+      { "arabic": "هُوَ رَجُلٌ صَبُورٌ", "english": "He is a very patient man (فَعُول)" },
+      { "arabic": "اللهُ عَلِيمٌ", "english": "Allah is All-Knowing (فَعِيل)" }
+    ],
+    "lesson": "b2-l56"
+  },
+  {
+    "id": "gp-b2-080",
+    "title": "صِيَغ الْمُبَالَغَة - الأَوْزَان الأُخْرَى",
+    "titleEn": "Intensive Forms - Other Patterns",
+    "explanation": "Additional patterns: مِفْعَال (مِقْدَام - very courageous), فَعِل (حَذِر - very cautious). These express inherent or habitual characteristics.",
+    "examples": [
+      { "arabic": "هُوَ قَائِدٌ مِقْدَامٌ", "english": "He is a very courageous leader (مِفْعَال)" },
+      { "arabic": "الْمُؤْمِنُ حَذِرٌ", "english": "The believer is very cautious (فَعِل)" },
+      { "arabic": "الطَّالِبُ فَطِنٌ", "english": "The student is very perceptive (فَعِل)" }
+    ],
+    "lesson": "b2-l56"
+  }
+]

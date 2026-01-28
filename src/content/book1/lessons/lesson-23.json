@@ -1,0 +1,126 @@
+{
+  "id": "b1-l23",
+  "book": 1,
+  "lesson": 23,
+  "title": "كَانَ وَأَخَوَاتُهَا",
+  "titleEn": "Kana and Its Sisters",
+  "description": "Learn verbs that modify nominal sentences: كَانَ (was), أَصْبَحَ (became), صَارَ (became).",
+  "vocabulary": ["word-128", "word-129", "word-130", "word-131"],
+  "grammarPoints": ["gp-028"],
+  "notes": [
+    {
+      "title": "كَانَ and Its Sisters",
+      "titleArabic": "كَانَ وَأَخَوَاتُهَا",
+      "content": [
+        "كَانَ (was/were) and its 'sisters' are incomplete verbs that enter upon nominal sentences. Unlike إِنَّ, they keep the subject nominative but change the predicate to accusative.",
+        "The main sisters include: كَانَ (was), أَصْبَحَ (became, in morning), أَمْسَى (became, in evening), صَارَ (became), and لَيْسَ (is not)."
+      ],
+      "keyPoints": [
+        "كَانَ (was/were) - for past states: كَانَ الطَّالِبُ مُجْتَهِدًا",
+        "صَارَ/أَصْبَحَ (became) - for change of state",
+        "لَيْسَ (is not) - for present negation",
+        "Subject stays nominative, predicate becomes accusative"
+      ],
+      "examples": [
+        { "arabic": "كَانَ الطَّالِبُ مُجْتَهِدًا", "english": "The student was diligent" },
+        { "arabic": "كَانَ الْبَيْتُ كَبِيرًا", "english": "The house was big" },
+        { "arabic": "أَصْبَحَ الْوَلَدُ طَالِبًا", "english": "The boy became a student" },
+        { "arabic": "لَيْسَ الْبَيْتُ كَبِيرًا", "english": "The house is not big" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l23-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The student was diligent",
+      "answer": "كَانَ الطَّالِبُ مُجْتَهِدًا",
+      "itemIds": ["word-128", "word-005", "word-120"]
+    },
+    {
+      "id": "b1-l23-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The house was big",
+      "answer": "كَانَ الْبَيْتُ كَبِيرًا",
+      "itemIds": ["word-128", "word-006", "word-053"]
+    },
+    {
+      "id": "b1-l23-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The boy became a student",
+      "answer": "أَصْبَحَ الْوَلَدُ طَالِبًا",
+      "itemIds": ["word-129", "word-116", "word-005"]
+    },
+    {
+      "id": "b1-l23-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّقْسُ بَارِدًا",
+      "promptEn": "The weather _____ cold",
+      "answer": "كَانَ",
+      "itemIds": ["word-128"]
+    },
+    {
+      "id": "b1-l23-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كَانَ",
+      "answer": "was/were",
+      "itemIds": ["word-128"]
+    },
+    {
+      "id": "b1-l23-ex06",
+      "type": "word-to-meaning",
+      "prompt": "أَصْبَحَ",
+      "answer": "became (in morning)",
+      "itemIds": ["word-129"]
+    },
+    {
+      "id": "b1-l23-ex07",
+      "type": "word-to-meaning",
+      "prompt": "صَارَ",
+      "answer": "became",
+      "itemIds": ["word-130"]
+    },
+    {
+      "id": "b1-l23-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَيْسَ",
+      "answer": "is not",
+      "itemIds": ["word-131"]
+    },
+    {
+      "id": "b1-l23-ex09",
+      "type": "meaning-to-word",
+      "prompt": "was/were",
+      "answer": "كَانَ",
+      "itemIds": ["word-128"]
+    },
+    {
+      "id": "b1-l23-ex10",
+      "type": "meaning-to-word",
+      "prompt": "became",
+      "answer": "صَارَ",
+      "itemIds": ["word-130"]
+    },
+    {
+      "id": "b1-l23-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The book was on the table",
+      "answer": "كَانَ الْكِتَابُ عَلَى الطَّاوِلَةِ",
+      "itemIds": ["word-128", "word-002", "word-049", "word-033"]
+    },
+    {
+      "id": "b1-l23-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The student was diligent but he became lazy",
+      "answer": "كَانَ الطَّالِبُ مُجْتَهِدًا لَكِنَّهُ صَارَ كَسْلَانَ",
+      "itemIds": ["word-128", "word-005", "word-120", "word-126", "word-130", "word-123"]
+    },
+    {
+      "id": "b1-l23-ex13",
+      "type": "translate-to-arabic",
+      "prompt": "The house is not big",
+      "answer": "لَيْسَ الْبَيْتُ كَبِيرًا",
+      "itemIds": ["word-131", "word-006", "word-053"]
+    }
+  ]
+}

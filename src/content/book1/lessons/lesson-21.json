@@ -1,0 +1,118 @@
+{
+  "id": "b1-l21",
+  "book": 1,
+  "lesson": 21,
+  "title": "الْجُمْلَة الاسْمِيَّة",
+  "titleEn": "Nominal Sentences",
+  "description": "Learn sentences that begin with nouns: الطَّالِبُ ذَهَبَ (The student, he went).",
+  "vocabulary": ["word-120", "word-121", "word-122", "word-123"],
+  "grammarPoints": ["gp-026"],
+  "notes": [
+    {
+      "title": "Nominal Sentences (الجملة الاسمية)",
+      "titleArabic": "الْجُمْلَة الاسْمِيَّة",
+      "content": [
+        "A nominal sentence (جملة اسمية) begins with a noun. It consists of two parts: the subject (مبتدأ/mubtada') and the predicate (خبر/khabar). Both are in the nominative case.",
+        "The predicate can be an adjective, prepositional phrase, adverb, or another noun. There is no verb 'to be' in the present tense - the meaning 'is/are' is implied."
+      ],
+      "keyPoints": [
+        "Nominal sentences start with a noun: الطَّالِبُ مُجْتَهِدٌ",
+        "Subject (مبتدأ) + Predicate (خبر)",
+        "Both parts are nominative (مرفوع) with damma",
+        "No 'is/are' verb needed in present tense Arabic"
+      ],
+      "examples": [
+        { "arabic": "الْكِتَابُ جَدِيدٌ", "english": "The book is new" },
+        { "arabic": "الطَّالِبُ مُجْتَهِدٌ", "english": "The student is diligent" },
+        { "arabic": "الْمُدَرِّسُ فِي الْفَصْلِ", "english": "The teacher is in the classroom" },
+        { "arabic": "الْبَيْتُ كَبِيرٌ وَجَمِيلٌ", "english": "The house is big and beautiful" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l21-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The book is new",
+      "answer": "الْكِتَابُ جَدِيدٌ",
+      "itemIds": ["word-002", "word-052"]
+    },
+    {
+      "id": "b1-l21-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The house is big",
+      "answer": "الْبَيْتُ كَبِيرٌ",
+      "itemIds": ["word-006", "word-053"]
+    },
+    {
+      "id": "b1-l21-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The student is diligent",
+      "answer": "الطَّالِبُ مُجْتَهِدٌ",
+      "itemIds": ["word-005", "word-120"]
+    },
+    {
+      "id": "b1-l21-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher is present",
+      "answer": "الْمُدَرِّسُ حَاضِرٌ",
+      "itemIds": ["word-004", "word-121"]
+    },
+    {
+      "id": "b1-l21-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مُجْتَهِدٌ",
+      "answer": "diligent",
+      "itemIds": ["word-120"]
+    },
+    {
+      "id": "b1-l21-ex06",
+      "type": "word-to-meaning",
+      "prompt": "حَاضِرٌ",
+      "answer": "present",
+      "itemIds": ["word-121"]
+    },
+    {
+      "id": "b1-l21-ex07",
+      "type": "word-to-meaning",
+      "prompt": "غَائِبٌ",
+      "answer": "absent",
+      "itemIds": ["word-122"]
+    },
+    {
+      "id": "b1-l21-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كَسْلَانٌ",
+      "answer": "lazy",
+      "itemIds": ["word-123"]
+    },
+    {
+      "id": "b1-l21-ex09",
+      "type": "meaning-to-word",
+      "prompt": "The student is absent",
+      "answer": "الطَّالِبُ غَائِبٌ",
+      "itemIds": ["word-005", "word-122"]
+    },
+    {
+      "id": "b1-l21-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The boy is lazy",
+      "answer": "الْوَلَدُ كَسْلَانٌ",
+      "itemIds": ["word-116", "word-123"]
+    },
+    {
+      "id": "b1-l21-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student is diligent and the teacher is present",
+      "answer": "الطَّالِبُ مُجْتَهِدٌ وَالْمُدَرِّسُ حَاضِرٌ",
+      "itemIds": ["word-005", "word-120", "word-004", "word-121"]
+    },
+    {
+      "id": "b1-l21-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The new book is on the table",
+      "answer": "الْكِتَابُ الْجَدِيدُ عَلَى الطَّاوِلَةِ",
+      "itemIds": ["word-002", "word-052", "word-049", "word-033"]
+    }
+  ]
+}

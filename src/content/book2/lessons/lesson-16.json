@@ -1,0 +1,132 @@
+{
+  "id": "b2-l16",
+  "book": 2,
+  "lesson": 16,
+  "title": "الْعَدَد وَالْمَعْدُود",
+  "titleEn": "Numbers and Counted Nouns",
+  "description": "Learn number agreement rules for 11-99: أَحَدَ عَشَرَ كِتَابًا (eleven books), عِشْرُونَ طَالِبًا (twenty students).",
+  "vocabulary": ["word-b2-084", "word-b2-085", "word-b2-086", "word-b2-087", "word-b2-088", "word-b2-089"],
+  "grammarPoints": ["gp-b2-016"],
+  "notes": [
+    {
+      "title": "Numbers and Counted Nouns (العدد والمعدود)",
+      "titleArabic": "العدد والمعدود",
+      "content": [
+        "Arabic numbers follow complex rules for agreement with their counted nouns (المعدود). The rules differ based on the number range.",
+        "Numbers 11-19 are compound numbers where both parts agree with the ma'dud in gender for 11-12, but 13-19 show gender polarity."
+      ],
+      "keyPoints": [
+        "Numbers 11-12: Both parts agree with ma'dud (أَحَدَ عَشَرَ, اثنا عشر)",
+        "Numbers 13-19: First part is opposite gender, second part agrees",
+        "Numbers 20-90 (العقود): Same form for both genders, end with ـون/ـين",
+        "المعدود is singular منصوب after 11-99",
+        "After مئة (100), المعدود is singular مجرور"
+      ],
+      "examples": [
+        { "arabic": "أَحَدَ عَشَرَ كِتَابًا", "english": "eleven books" },
+        { "arabic": "اِثْنَتَا عَشْرَةَ اِمْرَأَةً", "english": "twelve women" },
+        { "arabic": "عِشْرُونَ طَالِبًا", "english": "twenty students" },
+        { "arabic": "مِئَةُ كِتَابٍ", "english": "one hundred books" }
+      ]
+    },
+    {
+      "title": "Numbers 20-90 (العقود)",
+      "titleArabic": "العقود",
+      "content": [
+        "The tens (20, 30, 40, etc.) are called العقود. They follow the sound masculine plural pattern."
+      ],
+      "keyPoints": [
+        "عِشْرُونَ (20), ثَلَاثُونَ (30), أَرْبَعُونَ (40)",
+        "خَمْسُونَ (50), سِتُّونَ (60), سَبْعُونَ (70)",
+        "ثَمَانُونَ (80), تِسْعُونَ (90)",
+        "Accusative/Genitive: عِشْرِينَ، ثَلَاثِينَ، etc."
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l16-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "eleven books",
+      "answer": "أَحَدَ عَشَرَ كِتَابًا",
+      "itemIds": ["word-b2-084", "word-002"]
+    },
+    {
+      "id": "b2-l16-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "twenty students",
+      "answer": "عِشْرُونَ طَالِبًا",
+      "itemIds": ["word-b2-086", "word-005"]
+    },
+    {
+      "id": "b2-l16-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "twelve women",
+      "answer": "اِثْنَتَا عَشْرَةَ اِمْرَأَةً",
+      "itemIds": ["word-b2-085", "word-b2-013"]
+    },
+    {
+      "id": "b2-l16-ex04",
+      "type": "word-to-meaning",
+      "prompt": "أَحَدَ عَشَرَ",
+      "answer": "eleven (masc.)",
+      "itemIds": ["word-b2-084"]
+    },
+    {
+      "id": "b2-l16-ex05",
+      "type": "word-to-meaning",
+      "prompt": "اِثْنَا عَشَرَ",
+      "answer": "twelve (masc.)",
+      "itemIds": ["word-b2-085"]
+    },
+    {
+      "id": "b2-l16-ex06",
+      "type": "word-to-meaning",
+      "prompt": "عِشْرُونَ",
+      "answer": "twenty",
+      "itemIds": ["word-b2-086"]
+    },
+    {
+      "id": "b2-l16-ex07",
+      "type": "word-to-meaning",
+      "prompt": "ثَلَاثُونَ",
+      "answer": "thirty",
+      "itemIds": ["word-b2-087"]
+    },
+    {
+      "id": "b2-l16-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مِئَةٌ",
+      "answer": "one hundred",
+      "itemIds": ["word-b2-088"]
+    },
+    {
+      "id": "b2-l16-ex09",
+      "type": "meaning-to-word",
+      "prompt": "fifty",
+      "answer": "خَمْسُونَ",
+      "itemIds": ["word-b2-089"]
+    },
+    {
+      "id": "b2-l16-ex10",
+      "type": "meaning-to-word",
+      "prompt": "one hundred",
+      "answer": "مِئَةٌ",
+      "itemIds": ["word-b2-088"]
+    },
+    {
+      "id": "b2-l16-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "In the classroom there are twenty-five students",
+      "answer": "فِي الْفَصْلِ خَمْسَةٌ وَعِشْرُونَ طَالِبًا",
+      "itemIds": ["word-046", "word-b2-001", "word-b2-086", "word-005"]
+    },
+    {
+      "id": "b2-l16-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I read thirty pages from the book",
+      "answer": "قَرَأْتُ ثَلَاثِينَ صَفْحَةً مِنَ الْكِتَابِ",
+      "itemIds": ["word-070", "word-b2-087", "word-002"]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "id": "b1-l08",
+  "book": 1,
+  "lesson": 8,
+  "title": "حُرُوفُ الْجَرِّ",
+  "titleEn": "Prepositions",
+  "description": "Learn common Arabic prepositions like فِي (in), مِنْ (from), إِلَى (to), and عَلَى (on).",
+  "vocabulary": ["word-046", "word-047", "word-048", "word-049", "word-050", "word-051"],
+  "grammarPoints": ["gp-013"],
+  "notes": [
+    {
+      "title": "Prepositions and the Genitive Case",
+      "titleArabic": "حُرُوفُ الْجَرِّ",
+      "content": [
+        "Arabic prepositions (hurūf al-jarr) are particles that indicate location, direction, or relationship. The noun following a preposition always takes the genitive case (majrūr), marked by kasra (-i).",
+        "Common prepositions include فِي (in), مِنْ (from), إِلَى (to), عَلَى (on), and مَعَ (with). These are essential for describing where things and people are."
+      ],
+      "keyPoints": [
+        "Nouns after prepositions take the genitive case (-i ending)",
+        "فِي (in) - for location inside something",
+        "مِنْ (from) - for origin or source",
+        "إِلَى (to) - for direction or destination",
+        "عَلَى (on) - for being on top of something"
+      ],
+      "examples": [
+        { "arabic": "فِي الْبَيْتِ", "english": "in the house" },
+        { "arabic": "مِنَ الْمَسْجِدِ", "english": "from the mosque" },
+        { "arabic": "إِلَى الْمَدْرَسَةِ", "english": "to the school" },
+        { "arabic": "عَلَى الطَّاوِلَةِ", "english": "on the table" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l08-ex01",
+      "type": "fill-blank",
+      "prompt": "الْكِتَابُ _____ الطَّاوِلَةِ",
+      "promptEn": "The book is _____ the table",
+      "answer": "عَلَى",
+      "itemIds": ["word-049"]
+    },
+    {
+      "id": "b1-l08-ex02",
+      "type": "fill-blank",
+      "prompt": "الطَّالِبُ _____ الْفَصْلِ",
+      "promptEn": "The student is _____ the classroom",
+      "answer": "فِي",
+      "itemIds": ["word-046"]
+    },
+    {
+      "id": "b1-l08-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "from the house",
+      "answer": "مِنَ الْبَيْتِ",
+      "itemIds": ["word-047", "word-006"]
+    },
+    {
+      "id": "b1-l08-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "to the mosque",
+      "answer": "إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-048", "word-007"]
+    },
+    {
+      "id": "b1-l08-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "in the room",
+      "answer": "فِي الْغُرْفَةِ",
+      "itemIds": ["word-046", "word-037"]
+    },
+    {
+      "id": "b1-l08-ex06",
+      "type": "word-to-meaning",
+      "prompt": "فِي",
+      "answer": "in",
+      "itemIds": ["word-046"]
+    },
+    {
+      "id": "b1-l08-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مِنْ",
+      "answer": "from",
+      "itemIds": ["word-047"]
+    },
+    {
+      "id": "b1-l08-ex08",
+      "type": "word-to-meaning",
+      "prompt": "إِلَى",
+      "answer": "to",
+      "itemIds": ["word-048"]
+    },
+    {
+      "id": "b1-l08-ex09",
+      "type": "meaning-to-word",
+      "prompt": "on",
+      "answer": "عَلَى",
+      "itemIds": ["word-049"]
+    },
+    {
+      "id": "b1-l08-ex10",
+      "type": "meaning-to-word",
+      "prompt": "with",
+      "answer": "مَعَ",
+      "itemIds": ["word-050"]
+    },
+    {
+      "id": "b1-l08-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The book is on the table",
+      "answer": "الْكِتَابُ عَلَى الطَّاوِلَةِ",
+      "itemIds": ["word-002", "word-049", "word-033"]
+    },
+    {
+      "id": "b1-l08-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The student is in the room",
+      "answer": "الطَّالِبُ فِي الْغُرْفَةِ",
+      "itemIds": ["word-005", "word-046", "word-037"]
+    },
+    {
+      "id": "b1-l08-ex13",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher is with the student",
+      "answer": "الْمُدَرِّسُ مَعَ الطَّالِبِ",
+      "itemIds": ["word-004", "word-050", "word-005"]
+    }
+  ]
+}

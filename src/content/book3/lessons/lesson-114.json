@@ -1,0 +1,224 @@
+{
+  "id": "b3-l114",
+  "book": 3,
+  "lesson": 114,
+  "title": "الْمُطَابَقَة الْمُتَقَدِّمَة",
+  "titleEn": "Advanced Agreement Rules (المطابقة المتقدمة)",
+  "description": "Learn advanced agreement rules in Arabic: agreement with collective nouns, غير وسوى, كلا وكلتا, and special cases in nominal vs. verbal sentences.",
+  "vocabulary": ["word-b3-698", "word-b3-699", "word-b3-700", "word-b3-701", "word-b3-702"],
+  "grammarPoints": ["gp-b3-190", "gp-b3-191"],
+  "notes": [
+    {
+      "title": "Agreement Basics Review",
+      "titleArabic": "مُرَاجَعَةُ أَسَاسِيَّاتِ الْمُطَابَقَةِ",
+      "content": [
+        "الْمُطَابَقَة (agreement) means the verb, adjective, or pronoun matches its referent in gender and number. Basic rule: فِعْل agrees with فَاعِل, صِفَة agrees with مَوْصُوف.",
+        "However, there are many special cases in classical Arabic where agreement follows different patterns."
+      ],
+      "keyPoints": [
+        "Verb agrees with subject",
+        "Adjective agrees with noun",
+        "Gender and number",
+        "Special cases exist"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الرَّجُلُ / جَاءَتِ الْمَرْأَةُ", "english": "The man came / The woman came" },
+        { "arabic": "رَجُلٌ كَرِيمٌ / امْرَأَةٌ كَرِيمَةٌ", "english": "A generous man / A generous woman" },
+        { "arabic": "الرِّجَالُ جَاءُوا / النِّسَاءُ جِئْنَ", "english": "The men came / The women came" },
+        { "arabic": "الْمُطَابَقَةُ فِي الْجِنْسِ وَالْعَدَدِ", "english": "Agreement in gender and number" }
+      ]
+    },
+    {
+      "title": "Agreement with Collective Nouns",
+      "titleArabic": "الْمُطَابَقَةُ مَعَ اسْمِ الْجَمْعِ",
+      "content": [
+        "اسم الجمع (collective noun) like قَوْم، نَاس، جَيْش can take singular or plural agreement. Singular treats it as a unit, plural treats it as individuals.",
+        "This gives flexibility: قَالَ الْقَوْمُ (as one entity) or قَالُوا الْقَوْمُ (as individuals)."
+      ],
+      "keyPoints": [
+        "قوم، ناس، جيش = collective",
+        "Singular OR plural agreement",
+        "As unit vs. as individuals",
+        "Both valid in Arabic"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْقَوْمُ (كَوَحْدَةٍ)", "english": "The people came (as a unit)" },
+        { "arabic": "جَاءَ الْقَوْمُ فَقَالُوا (كَأَفْرَادٍ)", "english": "The people came and they said (as individuals)" },
+        { "arabic": "قَالَتِ الأَعْرَابُ آمَنَّا (القرآن)", "english": "The Bedouins said: We believe (49:14)" },
+        { "arabic": "النَّاسُ يَخْرُجُونَ / النَّاسُ تَخْرُجُ", "english": "People go out (both valid)" }
+      ]
+    },
+    {
+      "title": "Agreement with غير وسوى",
+      "titleArabic": "الْمُطَابَقَةُ مَعَ غَيْرِ وَسِوَى",
+      "content": [
+        "غَيْر and سِوَى take the gender/number of the مُسْتَثْنَى مِنْهُ (what is excepted from), not the مُسْتَثْنَى (exception) itself.",
+        "جَاءَ الطُّلَّابُ غَيْرُ فَاطِمَةَ - غَيْر is masculine (matching طُلَّاب) even though the exception is feminine."
+      ],
+      "keyPoints": [
+        "Match المستثنى منه",
+        "Not the المستثنى",
+        "غير: flexible in gender",
+        "سوى: same rules"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الطُّلَّابُ غَيْرُ هِنْدٍ", "english": "Students came except Hind (غير = masc)" },
+        { "arabic": "جَاءَتِ الطَّالِبَاتُ غَيْرُ زَيْدٍ", "english": "Female students came except Zayd (غير = fem?)" },
+        { "arabic": "الرِّجَالُ سِوَى فَاطِمَةَ حَضَرُوا", "english": "Men except Fatimah attended (siwaa follows men)" },
+        { "arabic": "غَيْرٌ تَتْبَعُ الْمُسْتَثْنَى مِنْهُ", "english": "غير follows the excepted-from" }
+      ]
+    },
+    {
+      "title": "Agreement with كلا وكلتا",
+      "titleArabic": "الْمُطَابَقَةُ مَعَ كِلَا وَكِلْتَا",
+      "content": [
+        "كِلَا (both - masculine) and كِلْتَا (both - feminine) are dual in meaning but singular in form. They can take singular or dual agreement.",
+        "كِلَا الرَّجُلَيْنِ جَاءَ (singular) or جَاءَا (dual) - both are correct. Same for كِلْتَا."
+      ],
+      "keyPoints": [
+        "كلا = both (masculine)",
+        "كلتا = both (feminine)",
+        "Dual meaning, singular form",
+        "Singular OR dual agreement"
+      ],
+      "examples": [
+        { "arabic": "كِلَا الرَّجُلَيْنِ حَاضِرٌ / حَاضِرَانِ", "english": "Both men are present (sing. or dual adj.)" },
+        { "arabic": "كِلْتَا الْمَرْأَتَيْنِ جَاءَتْ / جَاءَتَا", "english": "Both women came (sing. or dual verb)" },
+        { "arabic": "كِلَاهُمَا قَالَ / قَالَا", "english": "Both of them said (singular or dual)" },
+        { "arabic": "كِلْتَاهُمَا حَضَرَتْ / حَضَرَتَا", "english": "Both of them (f) attended" }
+      ]
+    },
+    {
+      "title": "Verb-Subject Agreement Position",
+      "titleArabic": "مُطَابَقَةُ الْفِعْلِ لِلْفَاعِلِ",
+      "content": [
+        "When verb precedes subject (الجملة الفعلية), verb is singular regardless of subject number: جَاءَ الطُّلَّابُ (not جاءوا الطُّلَّاب).",
+        "When subject precedes verb (الجملة الاسمية), verb agrees fully: الطُّلَّابُ جَاءُوا. This is a key rule in classical Arabic."
+      ],
+      "keyPoints": [
+        "فعل + فاعل: verb is singular",
+        "فاعل + فعل: full agreement",
+        "Classical rule",
+        "جَاءَ الرجالُ ✓"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الرِّجَالُ (الفعل مفرد)", "english": "The men came (verb singular)" },
+        { "arabic": "الرِّجَالُ جَاءُوا (مطابقة تامة)", "english": "The men - they came (full agreement)" },
+        { "arabic": "قَالَتِ الأَعْرَابُ (القرآن)", "english": "The Bedouins said (verb fem. sing.)" },
+        { "arabic": "حَضَرَتِ النِّسَاءُ (الفعل مفرد)", "english": "The women attended (verb singular)" }
+      ]
+    },
+    {
+      "title": "Agreement with Broken Plurals",
+      "titleArabic": "الْمُطَابَقَةُ مَعَ جَمْعِ التَّكْسِيرِ",
+      "content": [
+        "جمع التكسير for non-rational beings (animals, objects) typically takes feminine singular agreement: الْجِبَالُ شَاهِقَةٌ, الْكُتُبُ مُفِيدَةٌ.",
+        "For rational beings (humans), full plural agreement is used: الرِّجَالُ صَالِحُونَ."
+      ],
+      "keyPoints": [
+        "Non-rational: fem. singular",
+        "Rational: plural agreement",
+        "الجبال شاهقة (not شاهقات)",
+        "الرجال صالحون (full plural)"
+      ],
+      "examples": [
+        { "arabic": "الْجِبَالُ شَاهِقَةٌ (مؤنث مفرد)", "english": "The mountains are towering (fem. sing.)" },
+        { "arabic": "الْكُتُبُ مُفِيدَةٌ (مؤنث مفرد)", "english": "The books are useful (fem. sing.)" },
+        { "arabic": "الْكِلَابُ نَبَحَتْ (مؤنث مفرد)", "english": "The dogs barked (fem. sing.)" },
+        { "arabic": "الرِّجَالُ قَائِمُونَ (جمع)", "english": "The men are standing (masc. plural)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l114-ex01",
+      "type": "fill-blank",
+      "prompt": "اسْمُ الْجَمْعِ مِثْلُ «قَوْم» يَجُوزُ فِيهِ الْمُطَابَقَةُ _____ أَوِ الْجَمْعِيَّةُ",
+      "promptEn": "Collective nouns like 'qawm' can take _____ or plural agreement",
+      "answer": "الْمُفْرَدَةُ / الإِفْرَادِيَّةُ",
+      "itemIds": ["word-b3-698"]
+    },
+    {
+      "id": "b3-l114-ex02",
+      "type": "fill-blank",
+      "prompt": "«غَيْر» تَتْبَعُ فِي الْمُطَابَقَةِ _____",
+      "promptEn": "'Ghayr' follows in agreement the _____",
+      "answer": "الْمُسْتَثْنَى مِنْهُ",
+      "itemIds": ["word-b3-699"]
+    },
+    {
+      "id": "b3-l114-ex03",
+      "type": "fill-blank",
+      "prompt": "«كِلَا» وَ«كِلْتَا» يَجُوزُ فِيهِمَا الْمُطَابَقَةُ _____ أَوِ الْمُثَنَّاةُ",
+      "promptEn": "'Kilaa' and 'kiltaa' allow _____ or dual agreement",
+      "answer": "الْمُفْرَدَةُ",
+      "itemIds": ["word-b3-700"]
+    },
+    {
+      "id": "b3-l114-ex04",
+      "type": "fill-blank",
+      "prompt": "إِذَا تَقَدَّمَ الْفِعْلُ عَلَى الْفَاعِلِ يَكُونُ الْفِعْلُ _____ دَائِمًا",
+      "promptEn": "When the verb precedes the subject, the verb is always _____",
+      "answer": "مُفْرَدًا",
+      "itemIds": ["word-b3-701"]
+    },
+    {
+      "id": "b3-l114-ex05",
+      "type": "fill-blank",
+      "prompt": "جَمْعُ التَّكْسِيرِ لِغَيْرِ الْعَاقِلِ يُعَامَلُ مُعَامَلَةَ الْمُؤَنَّثِ _____",
+      "promptEn": "Broken plural for non-rational beings is treated as feminine _____",
+      "answer": "الْمُفْرَدِ",
+      "itemIds": ["word-b3-702"]
+    },
+    {
+      "id": "b3-l114-ex06",
+      "type": "fill-blank",
+      "prompt": "«جَاءَ الرِّجَالُ» الْفِعْلُ هُنَا _____ وَالْفَاعِلُ جَمْعٌ",
+      "promptEn": "'The men came' - the verb here is _____ while the subject is plural",
+      "answer": "مُفْرَدٌ",
+      "itemIds": ["word-b3-701"]
+    },
+    {
+      "id": "b3-l114-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْمُطَابَقَة",
+      "answer": "Agreement (in gender, number between words)",
+      "itemIds": ["word-b3-698"]
+    },
+    {
+      "id": "b3-l114-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اسْمُ الْجَمْعِ",
+      "answer": "Collective noun (قوم، ناس، جيش)",
+      "itemIds": ["word-b3-699"]
+    },
+    {
+      "id": "b3-l114-ex09",
+      "type": "word-to-meaning",
+      "prompt": "كِلَا وَكِلْتَا",
+      "answer": "Both (masc/fem) - dual meaning, flexible agreement",
+      "itemIds": ["word-b3-700"]
+    },
+    {
+      "id": "b3-l114-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Agreement of verb with subject when verb comes first",
+      "answer": "الْفِعْلُ يَكُونُ مُفْرَدًا",
+      "itemIds": ["word-b3-701"]
+    },
+    {
+      "id": "b3-l114-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Broken plurals of non-rational beings treated as...",
+      "answer": "مُؤَنَّث مُفْرَد",
+      "itemIds": ["word-b3-702"]
+    },
+    {
+      "id": "b3-l114-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Word meaning 'both' for masculine dual",
+      "answer": "كِلَا",
+      "itemIds": ["word-b3-700"]
+    }
+  ]
+}

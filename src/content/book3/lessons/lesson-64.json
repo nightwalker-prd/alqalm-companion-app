@@ -1,0 +1,182 @@
+{
+  "id": "b3-l64",
+  "book": 3,
+  "lesson": 64,
+  "title": "أَمَّا الشَّرْطِيَّة",
+  "titleEn": "Conditional Amma",
+  "description": "Learn about أَمَّا الشَّرْطِيَّة, the conditional particle that requires فَ in its response clause, as in أَمَّا زَيْدٌ فَذَهَبَ (As for Zayd, he left).",
+  "vocabulary": ["word-b3-433", "word-b3-434", "word-b3-435", "word-b3-436", "word-b3-437"],
+  "grammarPoints": ["gp-b3-090", "gp-b3-091"],
+  "notes": [
+    {
+      "title": "What is أَمَّا الشَّرْطِيَّة?",
+      "titleArabic": "تعريف أَمَّا الشَّرْطِيَّة",
+      "content": [
+        "أَمَّا is a conditional particle (حرف شرط وتفصيل) that introduces a topic and requires فَ in its response clause. It is translated as 'as for' or 'regarding' in English.",
+        "The structure أَمَّا... فَـ is used to divide and organize topics, emphasize a particular subject, or provide contrastive information. It is extremely common in both classical and modern Arabic."
+      ],
+      "keyPoints": [
+        "أَمَّا = conditional particle meaning 'as for'",
+        "Requires فَ (called فاء الجزاء) in the response",
+        "Used for تفصيل (detailing/organization)",
+        "Very common in Quran and Arabic prose"
+      ],
+      "examples": [
+        { "arabic": "أَمَّا زَيْدٌ فَذَهَبَ", "english": "As for Zayd, he left" },
+        { "arabic": "أَمَّا الْعِلْمُ فَنَافِعٌ", "english": "As for knowledge, it is beneficial" },
+        { "arabic": "أَمَّا بَعْدُ فَإِنَّ خَيْرَ الْكَلَامِ كَلَامُ اللهِ", "english": "To proceed: the best speech is Allah's speech" },
+        { "arabic": "أَمَّا السَّمَاءُ فَصَافِيَةٌ", "english": "As for the sky, it is clear" }
+      ]
+    },
+    {
+      "title": "The Obligatory فَ with أَمَّا",
+      "titleArabic": "وجوب الفاء بعد أَمَّا",
+      "content": [
+        "The فَ after أَمَّا is called فاء الجزاء (the response فَ) or الفاء الواقعة في جواب أَمَّا. It is obligatory and cannot be omitted in standard usage.",
+        "Sibawayhi explained that أَمَّا is derived from مَهْمَا يَكُنْ مِنْ شَيْءٍ (whatever the case may be), which is a conditional structure. This explains why it requires the فَ of condition response."
+      ],
+      "keyPoints": [
+        "فَ is obligatory (واجبة) after أَمَّا",
+        "Called فاء الجزاء or الفاء الرابطة",
+        "Cannot be omitted in standard Arabic",
+        "أَمَّا = مَهْمَا يَكُنْ مِنْ شَيْءٍ (whatever the case)"
+      ],
+      "examples": [
+        { "arabic": "أَمَّا الْيَتِيمَ فَلَا تَقْهَرْ (القرآن)", "english": "As for the orphan, do not oppress (Quran 93:9)" },
+        { "arabic": "أَمَّا السَّائِلَ فَلَا تَنْهَرْ (القرآن)", "english": "As for the petitioner, do not repel (Quran 93:10)" },
+        { "arabic": "أَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ (القرآن)", "english": "As for your Lord's blessing, proclaim it (Quran 93:11)" },
+        { "arabic": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ", "english": "And as for your Lord's blessing, proclaim it" }
+      ]
+    },
+    {
+      "title": "Grammatical Parsing of أَمَّا Sentences",
+      "titleArabic": "إعراب جملة أَمَّا",
+      "content": [
+        "In أَمَّا زَيْدٌ فَكَرِيمٌ, the parsing is: أَمَّا (حرف شرط وتفصيل مبني), زَيْدٌ (مبتدأ مرفوع), فَـ (الفاء رابطة/واقعة في جواب أَمَّا), كَرِيمٌ (خبر المبتدأ مرفوع).",
+        "The noun after أَمَّا is typically مبتدأ (subject), and what comes after فَ is the خبر (predicate). The entire construction forms a جملة اسمية (nominal sentence) with conditional flavor."
+      ],
+      "keyPoints": [
+        "أَمَّا: حرف شرط وتفصيل مبني لا محل له",
+        "The noun after أَمَّا is usually مبتدأ",
+        "What follows فَ is the خبر or جواب الشرط",
+        "The sentence is اسمية (nominal) or فعلية (verbal)"
+      ],
+      "examples": [
+        { "arabic": "أَمَّا زَيْدٌ فَمُجْتَهِدٌ", "english": "زَيْدٌ: مبتدأ، فَمُجْتَهِدٌ: خبر" },
+        { "arabic": "أَمَّا الطُّلَّابُ فَنَجَحُوا", "english": "الطُّلَّابُ: مبتدأ، نَجَحُوا: جملة فعلية خبر" },
+        { "arabic": "أَمَّا فِي الْبَيْتِ فَزَيْدٌ مُقِيمٌ", "english": "شبه جملة + مبتدأ وخبر" },
+        { "arabic": "فَأَمَّا مَنْ أَعْطَى... (القرآن)", "english": "مَنْ: اسم موصول مبتدأ" }
+      ]
+    },
+    {
+      "title": "Quranic and Classical Usage",
+      "titleArabic": "أَمَّا في القرآن والأدب",
+      "content": [
+        "أَمَّا appears extensively in the Quran, often in pairs to present contrasting ideas. In Surah Al-Layl: فَأَمَّا مَنْ أَعْطَى وَاتَّقَى... وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَى (As for he who gives and fears... but as for he who withholds and thinks himself free of need).",
+        "The expression أَمَّا بَعْدُ (to proceed / furthermore) is used to transition from an introduction to the main content of a speech or letter. It is Sunnah in khutbahs."
+      ],
+      "keyPoints": [
+        "Very frequent in Quranic discourse",
+        "Often used in pairs for contrast",
+        "أَمَّا بَعْدُ: classical phrase for transition",
+        "Sunnah to use أَمَّا بَعْدُ in sermons"
+      ],
+      "examples": [
+        { "arabic": "فَأَمَّا مَنْ أَعْطَى وَاتَّقَى وَصَدَّقَ بِالْحُسْنَى فَسَنُيَسِّرُهُ لِلْيُسْرَى", "english": "As for he who gives and fears Allah and believes in the best - We will ease him toward ease (92:5-7)" },
+        { "arabic": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَى وَكَذَّبَ بِالْحُسْنَى فَسَنُيَسِّرُهُ لِلْعُسْرَى", "english": "But as for he who withholds and considers himself free of need and denies the best - We will ease him toward difficulty (92:8-10)" },
+        { "arabic": "أَمَّا بَعْدُ، فَإِنَّ أَصْدَقَ الْحَدِيثِ كِتَابُ اللهِ", "english": "To proceed: the most truthful speech is the Book of Allah" },
+        { "arabic": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ (القرآن)", "english": "As for the ship, it belonged to poor people (18:79)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l64-ex01",
+      "type": "fill-blank",
+      "prompt": "أَمَّا زَيْدٌ _____ ذَهَبَ",
+      "promptEn": "As for Zayd, _____ (he) left",
+      "answer": "فَ",
+      "itemIds": ["word-b3-433"]
+    },
+    {
+      "id": "b3-l64-ex02",
+      "type": "fill-blank",
+      "prompt": "أَمَّا الْيَتِيمَ _____ لَا تَقْهَرْ (القرآن)",
+      "promptEn": "As for the orphan, _____ do not oppress (Quran)",
+      "answer": "فَ",
+      "itemIds": ["word-b3-434"]
+    },
+    {
+      "id": "b3-l64-ex03",
+      "type": "fill-blank",
+      "prompt": "الفاء بعد أَمَّا تُسَمَّى _____",
+      "promptEn": "The فَ after أَمَّا is called _____",
+      "answer": "فاء الجزاء",
+      "itemIds": ["word-b3-435"]
+    },
+    {
+      "id": "b3-l64-ex04",
+      "type": "fill-blank",
+      "prompt": "أَمَّا هي اختصار لـ _____",
+      "promptEn": "أَمَّا is an abbreviation of _____",
+      "answer": "مَهْمَا يَكُنْ مِنْ شَيْءٍ",
+      "itemIds": ["word-b3-436"]
+    },
+    {
+      "id": "b3-l64-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "As for knowledge, it is beneficial",
+      "answer": "أَمَّا الْعِلْمُ فَنَافِعٌ",
+      "itemIds": ["word-b3-433"]
+    },
+    {
+      "id": "b3-l64-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "As for the students, they succeeded",
+      "answer": "أَمَّا الطُّلَّابُ فَنَجَحُوا",
+      "itemIds": ["word-b3-434"]
+    },
+    {
+      "id": "b3-l64-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "As for the petitioner, do not repel (him)",
+      "answer": "أَمَّا السَّائِلَ فَلَا تَنْهَرْ",
+      "itemIds": ["word-b3-435"]
+    },
+    {
+      "id": "b3-l64-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَمَّا",
+      "answer": "as for / regarding (conditional particle)",
+      "itemIds": ["word-b3-433"]
+    },
+    {
+      "id": "b3-l64-ex09",
+      "type": "word-to-meaning",
+      "prompt": "أَمَّا بَعْدُ",
+      "answer": "to proceed / furthermore",
+      "itemIds": ["word-b3-436"]
+    },
+    {
+      "id": "b3-l64-ex10",
+      "type": "word-to-meaning",
+      "prompt": "فاء الجزاء",
+      "answer": "the response فَ (in conditional sentences)",
+      "itemIds": ["word-b3-437"]
+    },
+    {
+      "id": "b3-l64-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The conditional particle meaning 'as for'",
+      "answer": "أَمَّا",
+      "itemIds": ["word-b3-436"]
+    },
+    {
+      "id": "b3-l64-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The phrase used to transition in sermons and letters",
+      "answer": "أَمَّا بَعْدُ",
+      "itemIds": ["word-b3-437"]
+    }
+  ]
+}

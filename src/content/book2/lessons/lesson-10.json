@@ -1,0 +1,133 @@
+{
+  "id": "b2-l10",
+  "book": 2,
+  "lesson": 10,
+  "title": "اسْمُ التَّفْضِيل",
+  "titleEn": "Comparative and Superlative",
+  "description": "Learn comparatives: أَكْبَرُ (bigger/biggest), أَصْغَرُ (smaller/smallest), أَحْسَنُ (better/best).",
+  "vocabulary": ["word-b2-053", "word-b2-054", "word-b2-055", "word-b2-056", "word-b2-057", "word-b2-058"],
+  "grammarPoints": ["gp-b2-010"],
+  "notes": [
+    {
+      "title": "Comparative and Superlative (اسم التفضيل)",
+      "titleArabic": "اسم التفضيل",
+      "content": [
+        "The comparative/superlative form (اسم التفضيل) follows the pattern أَفْعَل. The same form serves for both comparative ('bigger than') and superlative ('biggest').",
+        "The comparative is formed by placing مِنْ (than) after أفعل. The superlative is formed by making أفعل a مضاف (annexed) to the noun."
+      ],
+      "keyPoints": [
+        "Pattern: أَفْعَل (e.g., أَكْبَر from كَبِير)",
+        "Same form for masculine, feminine, singular, and plural in comparative use",
+        "Followed by مِنْ for comparison: أَكْبَرُ مِنْ (bigger than)",
+        "Acts as مُضَاف for superlative: أَكْبَرُ بَيْتٍ (the biggest house)"
+      ],
+      "examples": [
+        { "arabic": "مُحَمَّدٌ أَكْبَرُ مِنْ عَلِيٍّ", "english": "Muhammad is bigger than Ali" },
+        { "arabic": "هَذَا أَكْبَرُ بَيْتٍ", "english": "This is the biggest house" },
+        { "arabic": "الْقُرْآنُ أَحْسَنُ كِتَابٍ", "english": "The Quran is the best book" }
+      ]
+    },
+    {
+      "title": "Common Comparative Forms",
+      "titleArabic": "صيغ التفضيل الشائعة",
+      "content": [
+        "Many comparative forms are derived from common adjectives. Learn these frequently used forms."
+      ],
+      "keyPoints": [
+        "أَكْبَر (bigger/biggest) from كَبِير",
+        "أَصْغَر (smaller/smallest) from صَغِير",
+        "أَحْسَن (better/best) from حَسَن",
+        "أَسْهَل (easier/easiest) from سَهْل",
+        "أَطْوَل (longer/longest) from طَوِيل",
+        "أَجْمَل (more/most beautiful) from جَمِيل"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l10-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "Muhammad is bigger than Ali",
+      "answer": "مُحَمَّدٌ أَكْبَرُ مِنْ عَلِيٍّ",
+      "itemIds": ["word-b2-053"]
+    },
+    {
+      "id": "b2-l10-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "This is the biggest house",
+      "answer": "هَذَا أَكْبَرُ بَيْتٍ",
+      "itemIds": ["word-001", "word-b2-053", "word-006"]
+    },
+    {
+      "id": "b2-l10-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "Arabic is easier than English",
+      "answer": "الْعَرَبِيَّةُ أَسْهَلُ مِنَ الإِنْجِلِيزِيَّةِ",
+      "itemIds": ["word-b2-055"]
+    },
+    {
+      "id": "b2-l10-ex04",
+      "type": "fill-blank",
+      "prompt": "الْقُرْآنُ _____ كِتَابٍ",
+      "promptEn": "The Quran is the _____ book",
+      "answer": "أَحْسَنُ",
+      "itemIds": ["word-b2-056"]
+    },
+    {
+      "id": "b2-l10-ex05",
+      "type": "word-to-meaning",
+      "prompt": "أَكْبَرُ",
+      "answer": "bigger / biggest",
+      "itemIds": ["word-b2-053"]
+    },
+    {
+      "id": "b2-l10-ex06",
+      "type": "word-to-meaning",
+      "prompt": "أَصْغَرُ",
+      "answer": "smaller / smallest",
+      "itemIds": ["word-b2-054"]
+    },
+    {
+      "id": "b2-l10-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَسْهَلُ",
+      "answer": "easier / easiest",
+      "itemIds": ["word-b2-055"]
+    },
+    {
+      "id": "b2-l10-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَحْسَنُ",
+      "answer": "better / best",
+      "itemIds": ["word-b2-056"]
+    },
+    {
+      "id": "b2-l10-ex09",
+      "type": "meaning-to-word",
+      "prompt": "longer / longest",
+      "answer": "أَطْوَلُ",
+      "itemIds": ["word-b2-057"]
+    },
+    {
+      "id": "b2-l10-ex10",
+      "type": "meaning-to-word",
+      "prompt": "more beautiful",
+      "answer": "أَجْمَلُ",
+      "itemIds": ["word-b2-058"]
+    },
+    {
+      "id": "b2-l10-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "This mosque is bigger than that house",
+      "answer": "هَذَا الْمَسْجِدُ أَكْبَرُ مِنْ ذَلِكَ الْبَيْتِ",
+      "itemIds": ["word-001", "word-007", "word-b2-053", "word-003", "word-010"]
+    },
+    {
+      "id": "b2-l10-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "She is the best student in the classroom",
+      "answer": "هِيَ أَحْسَنُ طَالِبَةٍ فِي الْفَصْلِ",
+      "itemIds": ["word-028", "word-b2-056", "word-005", "word-046", "word-b2-001"]
+    }
+  ]
+}

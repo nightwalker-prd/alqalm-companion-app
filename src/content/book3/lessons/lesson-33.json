@@ -1,0 +1,168 @@
+{
+  "id": "b3-l33",
+  "book": 3,
+  "lesson": 33,
+  "title": "الإِعْرَاب التَّقْدِيرِيّ",
+  "titleEn": "Estimated Case Endings",
+  "notes": [
+    {
+      "title": "Emphatic Nūn (نون التوكيد)",
+      "titleArabic": "نون التوكيد",
+      "content": [
+        "The emphatic nūn (nūn al-tawkīd) is attached to present tense and imperative verbs for emphasis. It has two forms: heavy (ثقيلة) with shaddah and light (خفيفة) without."
+      ],
+      "keyPoints": [
+        "Heavy nūn: لَيَكْتُبَنَّ (with shaddah)",
+        "Light nūn: لَيَكْتُبَنْ (sukūn)",
+        "Makes the verb mabnī (indeclinable)",
+        "Used after لَ of oath, with commands/prohibitions"
+      ],
+      "examples": [
+        { "arabic": "وَاللهِ لأَفْعَلَنَّ", "english": "By Allah, I will surely do it" },
+        { "arabic": "لَا تَفْعَلَنَّ ذَلِكَ", "english": "Do not ever do that" }
+      ]
+    },
+    {
+      "title": "Estimated Case Endings (الإعراب التقديري)",
+      "titleArabic": "الإعراب التقديري",
+      "content": [
+        "Some nouns have estimated (latent) case endings because the final letter cannot show the short vowel. These include maqṣūr, manqūṣ, and nouns with attached yā' al-mutakallim."
+      ],
+      "keyPoints": [
+        "Maqṣūr (الْفَتَى): ends in alif - all endings estimated",
+        "Manqūṣ (الْقَاضِي): ends in yā' - raf'/jarr estimated, naṣb apparent",
+        "With yā' al-mutakallim (كِتَابِي): endings estimated"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْفَتَى", "english": "The young man came (estimated ḍammah)" },
+        { "arabic": "رَأَيْتُ الْقَاضِيَ", "english": "I saw the judge (apparent fatḥah)" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-173",
+    "word-b3-174",
+    "word-b3-175",
+    "word-b3-176",
+    "word-b3-177"
+  ],
+  "grammarPoints": [
+    "gp-b3-033"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l33-ex01",
+      "type": "fill-blank",
+      "prompt": "جَاءَ _____ (الفَتَى - indeclinable)",
+      "answer": "الفَتَى",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I saw Musa",
+      "answer": "رَأَيْتُ مُوسَى",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex03",
+      "type": "fill-blank",
+      "prompt": "سَلَّمْتُ عَلَى _____ (القَاضِي)",
+      "answer": "القَاضِي",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex04",
+      "type": "word-to-meaning",
+      "prompt": "الهُدَى",
+      "answer": "guidance (maqsur noun)",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex05",
+      "type": "meaning-to-word",
+      "prompt": "the judge",
+      "answer": "القَاضِي",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The young man came",
+      "answer": "جَاءَ الفَتَى",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex07",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ _____ (العَصَا)",
+      "answer": "العَصَا",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex08",
+      "type": "word-to-meaning",
+      "prompt": "المُصْطَفَى",
+      "answer": "the chosen one (maqsur)",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "I passed by the judge",
+      "answer": "مَرَرْتُ بِالقَاضِي",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex10",
+      "type": "fill-blank",
+      "prompt": "هَذَا _____ (المُسْتَشْفَى)",
+      "answer": "المُسْتَشْفَى",
+      "itemIds": [
+        "word-b3-173",
+        "word-b3-174"
+      ]
+    },
+    {
+      "id": "b3-l33-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I went to the hospital with my father",
+      "answer": "ذَهَبْتُ إِلَى الْمُسْتَشْفَى مَعَ أَبِي",
+      "itemIds": ["word-b3-173", "word-b3-174"]
+    },
+    {
+      "id": "b3-l33-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The guidance of Allah is the true guidance",
+      "answer": "هُدَى اللهِ هُوَ الْهُدَى الْحَقُّ",
+      "itemIds": ["word-b3-173", "word-b3-174"]
+    }
+  ]
+}

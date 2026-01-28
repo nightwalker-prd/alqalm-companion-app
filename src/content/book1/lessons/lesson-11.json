@@ -1,0 +1,125 @@
+{
+  "id": "b1-l11",
+  "book": 1,
+  "lesson": 11,
+  "title": "الْفِعْلُ الْمَاضِي",
+  "titleEn": "Past Tense Verbs",
+  "description": "Introduction to Arabic verbs in the past tense. Learn basic verbs like ذَهَبَ (he went) and كَتَبَ (he wrote).",
+  "vocabulary": ["word-068", "word-069", "word-070", "word-071", "word-072", "word-073"],
+  "grammarPoints": ["gp-016"],
+  "notes": [
+    {
+      "title": "Introduction to Past Tense Verbs",
+      "titleArabic": "الْفِعْلُ الْمَاضِي",
+      "content": [
+        "Arabic verbs in the past tense (al-fi'l al-māḍī) are built from a three-letter root. The basic form (third person masculine singular) adds the pattern فَعَلَ to the root.",
+        "When the subject follows the verb, the sentence structure is: Verb + Subject + Object. This is the default word order for verbal sentences in Arabic."
+      ],
+      "keyPoints": [
+        "Past tense verbs end in فَتْحَة (a-sound): ذَهَبَ, كَتَبَ, قَرَأَ",
+        "The basic form is 'he did' - other forms are derived from this",
+        "Verbal sentences typically start with the verb",
+        "ذَهَبَ الطَّالِبُ - the student went (verb first)"
+      ],
+      "examples": [
+        { "arabic": "ذَهَبَ", "english": "he went" },
+        { "arabic": "كَتَبَ", "english": "he wrote" },
+        { "arabic": "قَرَأَ", "english": "he read" },
+        { "arabic": "ذَهَبَ الطَّالِبُ إِلَى الْمَسْجِدِ", "english": "The student went to the mosque" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l11-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He went",
+      "answer": "ذَهَبَ",
+      "itemIds": ["word-068"]
+    },
+    {
+      "id": "b1-l11-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He wrote",
+      "answer": "كَتَبَ",
+      "itemIds": ["word-069"]
+    },
+    {
+      "id": "b1-l11-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "He read",
+      "answer": "قَرَأَ",
+      "itemIds": ["word-070"]
+    },
+    {
+      "id": "b1-l11-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "He sat",
+      "answer": "جَلَسَ",
+      "itemIds": ["word-071"]
+    },
+    {
+      "id": "b1-l11-ex05",
+      "type": "word-to-meaning",
+      "prompt": "ذَهَبَ",
+      "answer": "he went",
+      "itemIds": ["word-068"]
+    },
+    {
+      "id": "b1-l11-ex06",
+      "type": "word-to-meaning",
+      "prompt": "كَتَبَ",
+      "answer": "he wrote",
+      "itemIds": ["word-069"]
+    },
+    {
+      "id": "b1-l11-ex07",
+      "type": "word-to-meaning",
+      "prompt": "قَرَأَ",
+      "answer": "he read",
+      "itemIds": ["word-070"]
+    },
+    {
+      "id": "b1-l11-ex08",
+      "type": "word-to-meaning",
+      "prompt": "جَلَسَ",
+      "answer": "he sat",
+      "itemIds": ["word-071"]
+    },
+    {
+      "id": "b1-l11-ex09",
+      "type": "meaning-to-word",
+      "prompt": "he entered",
+      "answer": "دَخَلَ",
+      "itemIds": ["word-072"]
+    },
+    {
+      "id": "b1-l11-ex10",
+      "type": "meaning-to-word",
+      "prompt": "he exited",
+      "answer": "خَرَجَ",
+      "itemIds": ["word-073"]
+    },
+    {
+      "id": "b1-l11-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student went to the mosque",
+      "answer": "ذَهَبَ الطَّالِبُ إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-068", "word-005", "word-048", "word-007"]
+    },
+    {
+      "id": "b1-l11-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher wrote in the book",
+      "answer": "كَتَبَ الْمُدَرِّسُ فِي الْكِتَابِ",
+      "itemIds": ["word-069", "word-004", "word-046", "word-002"]
+    },
+    {
+      "id": "b1-l11-ex13",
+      "type": "translate-to-arabic",
+      "prompt": "The man entered the house",
+      "answer": "دَخَلَ الرَّجُلُ الْبَيْتَ",
+      "itemIds": ["word-072", "word-009", "word-006"]
+    }
+  ]
+}

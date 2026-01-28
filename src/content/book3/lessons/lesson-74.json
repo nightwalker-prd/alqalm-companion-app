@@ -1,0 +1,224 @@
+{
+  "id": "b3-l74",
+  "book": 3,
+  "lesson": 74,
+  "title": "الْحُرُوفُ الزَّائِدَةُ",
+  "titleEn": "Extra (Redundant) Particles",
+  "description": "Learn about particles that are added for emphasis without changing meaning: الباء الزائدة، من الزائدة، اللام الزائدة، ما الزائدة. Understanding these is crucial for correct i'rab.",
+  "vocabulary": ["word-b3-498", "word-b3-499", "word-b3-500", "word-b3-501", "word-b3-502"],
+  "grammarPoints": ["gp-b3-110", "gp-b3-111"],
+  "notes": [
+    {
+      "title": "What are Extra Particles?",
+      "titleArabic": "مَا هِيَ الْحُرُوفُ الزَّائِدَةُ؟",
+      "content": [
+        "Extra particles (الحروف الزائدة) are particles added to a sentence for emphasis (التوكيد) or eloquence (الفصاحة) without changing the core meaning. They are called زائدة (extra/redundant) because the sentence would be grammatically complete without them.",
+        "The key rule for i'rab is: the word after a زائد particle takes the case it would have had without the particle in pronunciation (لفظًا), but retains its grammatical function (محلًّا). This is called مجرور لفظًا (genitive in form) but [original case] محلًّا (in grammatical position)."
+      ],
+      "keyPoints": [
+        "زائدة = extra, added for emphasis",
+        "Does not change core meaning",
+        "Word after زائد: مجرور لفظًا, original case محلًّا",
+        "Common in Quran, poetry, and eloquent speech"
+      ],
+      "examples": [
+        { "arabic": "مَا جَاءَنَا مِنْ بَشِيرٍ (من زائدة)", "english": "No warner came to us (مِنْ is extra)" },
+        { "arabic": "كَفَى بِاللهِ شَهِيدًا (الباء زائدة)", "english": "Sufficient is Allah as witness (بِ is extra)" },
+        { "arabic": "فَبِمَا رَحْمَةٍ مِنَ اللهِ (ما زائدة)", "english": "By mercy from Allah (مَا is extra)" },
+        { "arabic": "إِنِّي لَيَحْزُنُنِي (اللام زائدة)", "english": "Indeed it grieves me (لَ is extra)" }
+      ]
+    },
+    {
+      "title": "The Extra ب (الباء الزائدة)",
+      "titleArabic": "الْبَاءُ الزَّائِدَةُ",
+      "content": [
+        "The الباء الزائدة is one of the most common extra particles. It appears in specific grammatical contexts where it adds emphasis without being required for meaning.",
+        "Common locations: after كَفَى (sufficient), with the subject of passive verbs for emphasis, after negation, and in certain fixed expressions. The word after it is مجرور لفظًا but keeps its original grammatical function محلًّا."
+      ],
+      "keyPoints": [
+        "After كَفَى: كَفَى بِاللهِ = Allah is sufficient",
+        "With passive subjects for emphasis",
+        "After لَيْسَ and مَا النافية",
+        "In fixed expressions: أَحْسِنْ بِزَيْدٍ"
+      ],
+      "examples": [
+        { "arabic": "كَفَى بِاللهِ وَكِيلًا", "english": "Allah is sufficient as a disposer (بِاللهِ = فاعل مرفوع محلًّا)" },
+        { "arabic": "وَلَا تُلْقُوا بِأَيْدِيكُمْ إِلَى التَّهْلُكَةِ", "english": "Do not throw yourselves into destruction (بِأَيْدِيكُمْ = مفعول به)" },
+        { "arabic": "أَلَيْسَ اللهُ بِكَافٍ عَبْدَهُ", "english": "Is Allah not sufficient for His servant? (بِكَافٍ = خبر)" },
+        { "arabic": "وَمَا رَبُّكَ بِظَلَّامٍ لِلْعَبِيدِ", "english": "Your Lord is not unjust to servants (بِظَلَّامٍ = خبر)" }
+      ]
+    },
+    {
+      "title": "The Extra مِن (مِن الزائدة)",
+      "titleArabic": "مِنْ الزَّائِدَةُ",
+      "content": [
+        "The مِن الزائدة typically appears after negation (نفي), prohibition (نهي), or interrogation (استفهام). It emphasizes the negation or question by indicating 'not even one' or 'any at all'.",
+        "Conditions for مِن الزائدة: 1) must come after نفي/نهي/استفهام, 2) the word after it must be نكرة (indefinite), 3) removing مِن would leave the sentence grammatically complete."
+      ],
+      "keyPoints": [
+        "Appears after نفي، نهي، استفهام",
+        "Word after must be نكرة (indefinite)",
+        "Emphasizes totality of negation",
+        "مِن بَشِيرٍ = 'any warner at all'"
+      ],
+      "examples": [
+        { "arabic": "مَا جَاءَنَا مِنْ بَشِيرٍ", "english": "No warner came to us at all (بَشِيرٍ = فاعل مرفوع محلًّا)" },
+        { "arabic": "هَلْ مِنْ خَالِقٍ غَيْرُ اللهِ", "english": "Is there any creator other than Allah? (خَالِقٍ = مبتدأ)" },
+        { "arabic": "مَا عِنْدِي مِنْ كِتَابٍ", "english": "I don't have any book at all" },
+        { "arabic": "لَا تَأْكُلْ مِنْ طَعَامٍ حَرَامٍ", "english": "Don't eat any forbidden food at all" }
+      ]
+    },
+    {
+      "title": "The Extra لام (اللام الزائدة)",
+      "titleArabic": "اللَّامُ الزَّائِدَةُ",
+      "content": [
+        "The اللام الزائدة is added for emphasis in specific contexts. The most common is لَ الزائدة after إِنَّ (called لام المزحلقة - the 'sliding lam'), which slides from the subject to the predicate.",
+        "It also appears in certain verbs and expressions for general emphasis. Like other زائد particles, it causes the word after to be مجرور لفظًا while retaining its original grammatical position محلًّا."
+      ],
+      "keyPoints": [
+        "لام المزحلقة: enters on خبر إنّ",
+        "Slides from اسم إنّ to خبر إنّ",
+        "Also for general emphasis in expressions",
+        "Common in Quran and classical texts"
+      ],
+      "examples": [
+        { "arabic": "إِنَّ اللهَ لَغَفُورٌ رَحِيمٌ", "english": "Indeed Allah is certainly Forgiving, Merciful" },
+        { "arabic": "إِنَّ رَبَّكَ لَسَرِيعُ الْعِقَابِ", "english": "Your Lord is certainly swift in punishment (Quran 7:167)" },
+        { "arabic": "إِنِّي لَيَحْزُنُنِي أَنْ تَذْهَبُوا بِهِ", "english": "Indeed it grieves me that you should take him (Quran 12:13)" },
+        { "arabic": "وَإِنَّ كَثِيرًا مِنَ النَّاسِ لَفَاسِقُونَ", "english": "And indeed many people are certainly sinners" }
+      ]
+    },
+    {
+      "title": "The Extra ما (ما الزائدة)",
+      "titleArabic": "مَا الزَّائِدَةُ",
+      "content": [
+        "The ما الزائدة is added for emphasis between a particle and what follows it, or in other contexts. It differs from ما الكافة which actually prevents particles from governing.",
+        "Common locations: بَيْنَمَا (while), فَبِمَا (then by), إِنَّمَا (only - though this is debated), and after أَيّ for emphasis. It adds eloquence and emphasis without changing meaning."
+      ],
+      "keyPoints": [
+        "Different from ما الكافة (which prevents governance)",
+        "Appears in بَيْنَمَا، فَبِمَا، عَمَّا",
+        "Adds emphasis and eloquence",
+        "Common in Quranic language"
+      ],
+      "examples": [
+        { "arabic": "فَبِمَا رَحْمَةٍ مِنَ اللهِ لِنْتَ لَهُمْ", "english": "By mercy from Allah you were lenient (Quran 3:159)" },
+        { "arabic": "عَمَّا قَلِيلٍ لَيُصْبِحُنَّ نَادِمِينَ", "english": "In a little while they will become regretful (Quran 23:40)" },
+        { "arabic": "أَيْنَمَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ", "english": "Wherever you may be, death will reach you (Quran 4:78)" },
+        { "arabic": "بَيْنَمَا نَحْنُ جُلُوسٌ إِذْ جَاءَ رَجُلٌ", "english": "While we were sitting, a man came" }
+      ]
+    },
+    {
+      "title": "I'rab with Extra Particles",
+      "titleArabic": "الإِعْرَابُ مَعَ الْحُرُوفِ الزَّائِدَةِ",
+      "content": [
+        "When parsing sentences with extra particles, you must identify: 1) the particle is زائدة, 2) the word's case in pronunciation (always جَرّ after these particles), 3) the word's grammatical position (original function محلًّا).",
+        "This dual analysis - لفظًا vs محلًّا - is essential for understanding why extra particles don't change meaning while affecting form. Classical grammarians developed this analysis to explain Quranic and classical Arabic usage."
+      ],
+      "keyPoints": [
+        "State: حرف جر زائد للتوكيد",
+        "Word after: مجرور لفظًا، [original case] محلًّا",
+        "Example: بِاللهِ = مجرور لفظًا، مرفوع محلًّا لأنه فاعل",
+        "Distinguishing زائدة from أصلية is key skill"
+      ],
+      "examples": [
+        { "arabic": "كَفَى بِاللهِ: بِاللهِ = مجرور لفظًا، فاعل مرفوع محلًّا", "english": "By Allah is sufficient: grammatically, 'Allah' is the subject" },
+        { "arabic": "مَا جَاءَ مِنْ أَحَدٍ: أَحَدٍ = فاعل مرفوع محلًّا", "english": "No one came: 'anyone' is subject in position" },
+        { "arabic": "لَيْسَ بِغَافِلٍ: بِغَافِلٍ = خبر منصوب محلًّا", "english": "Is not heedless: 'heedless' is predicate in position" },
+        { "arabic": "إِنَّ زَيْدًا لَقَائِمٌ: لَقَائِمٌ = خبر مرفوع", "english": "Zayd is certainly standing: لَ doesn't affect خبر case" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l74-ex01",
+      "type": "fill-blank",
+      "prompt": "كَفَى بِاللهِ شَهِيدًا - الْبَاءُ هُنَا حَرْفُ جَرٍّ _____",
+      "promptEn": "Sufficient is Allah as witness - the ب here is a _____ preposition",
+      "answer": "زَائِدٌ",
+      "itemIds": ["word-b3-498"]
+    },
+    {
+      "id": "b3-l74-ex02",
+      "type": "fill-blank",
+      "prompt": "مَا جَاءَنَا مِنْ بَشِيرٍ - كَلِمَةُ بَشِيرٍ مَجْرُورَةٌ لَفْظًا وَلَكِنَّهَا _____ مَحَلًّا لِأَنَّهَا فَاعِلٌ",
+      "promptEn": "No warner came to us - 'warner' is genitive in form but _____ in position because it's the subject",
+      "answer": "مَرْفُوعَةٌ",
+      "itemIds": ["word-b3-499"]
+    },
+    {
+      "id": "b3-l74-ex03",
+      "type": "fill-blank",
+      "prompt": "مِنْ الزَّائِدَةُ تَأْتِي بَعْدَ النَّفْيِ وَالنَّهْيِ وَ_____",
+      "promptEn": "The extra مِنْ comes after negation, prohibition, and _____",
+      "answer": "الاِسْتِفْهَامِ",
+      "itemIds": ["word-b3-500"]
+    },
+    {
+      "id": "b3-l74-ex04",
+      "type": "fill-blank",
+      "prompt": "إِنَّ اللهَ لَغَفُورٌ - اللَّامُ هُنَا تُسَمَّى لَامَ _____",
+      "promptEn": "Indeed Allah is certainly Forgiving - the لَ here is called the _____ lam",
+      "answer": "الْمُزَحْلَقَةِ",
+      "itemIds": ["word-b3-501"]
+    },
+    {
+      "id": "b3-l74-ex05",
+      "type": "fill-blank",
+      "prompt": "فَبِمَا رَحْمَةٍ مِنَ اللهِ - مَا هُنَا حَرْفٌ _____ لِلتَّوْكِيدِ",
+      "promptEn": "By mercy from Allah - مَا here is an _____ particle for emphasis",
+      "answer": "زَائِدٌ",
+      "itemIds": ["word-b3-502"]
+    },
+    {
+      "id": "b3-l74-ex06",
+      "type": "fill-blank",
+      "prompt": "الْحَرْفُ الزَّائِدُ يُضَافُ لِلْجُمْلَةِ لِلتَّوْكِيدِ دُونَ تَغْيِيرِ _____",
+      "promptEn": "The extra particle is added to the sentence for emphasis without changing _____",
+      "answer": "الْمَعْنَى",
+      "itemIds": ["word-b3-498"]
+    },
+    {
+      "id": "b3-l74-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْحَرْفُ الزَّائِدُ",
+      "answer": "The extra/redundant particle (added for emphasis)",
+      "itemIds": ["word-b3-498"]
+    },
+    {
+      "id": "b3-l74-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَجْرُورٌ لَفْظًا مَرْفُوعٌ مَحَلًّا",
+      "answer": "Genitive in pronunciation, nominative in grammatical position",
+      "itemIds": ["word-b3-499"]
+    },
+    {
+      "id": "b3-l74-ex09",
+      "type": "word-to-meaning",
+      "prompt": "لَامُ الْمُزَحْلَقَةِ",
+      "answer": "The sliding lam (emphasis lam that moves to khabar of inna)",
+      "itemIds": ["word-b3-501"]
+    },
+    {
+      "id": "b3-l74-ex10",
+      "type": "meaning-to-word",
+      "prompt": "A ب that is added for emphasis and doesn't change meaning",
+      "answer": "الْبَاءُ الزَّائِدَةُ",
+      "itemIds": ["word-b3-498"]
+    },
+    {
+      "id": "b3-l74-ex11",
+      "type": "meaning-to-word",
+      "prompt": "A مِنْ added after negation to emphasize totality",
+      "answer": "مِنْ الزَّائِدَةُ",
+      "itemIds": ["word-b3-500"]
+    },
+    {
+      "id": "b3-l74-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The grammatical position of a word (as opposed to its pronunciation)",
+      "answer": "مَحَلًّا",
+      "itemIds": ["word-b3-499"]
+    }
+  ]
+}

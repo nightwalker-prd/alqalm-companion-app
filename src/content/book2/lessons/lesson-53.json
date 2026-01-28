@@ -1,0 +1,183 @@
+{
+  "id": "b2-l53",
+  "book": 2,
+  "lesson": 53,
+  "title": "فَاء السَّبَبِيَّة",
+  "titleEn": "Fa of Causation",
+  "description": "Learn about فاء السببية, the causative fa particle that causes the verb after it to take the subjunctive mood (منصوب), and the conditions required for its usage.",
+  "vocabulary": ["word-b2-395", "word-b2-396", "word-b2-397", "word-b2-398", "word-b2-399"],
+  "grammarPoints": ["gp-b2-073", "gp-b2-074"],
+  "notes": [
+    {
+      "title": "What is فاء السببية?",
+      "titleArabic": "تعريف فاء السببية",
+      "content": [
+        "فاء السببية is a causative fa particle that indicates the result or consequence of what precedes it. When certain conditions are met, it causes the imperfect verb (المضارع) that follows it to be in the subjunctive mood (منصوب).",
+        "The verb after فاء السببية takes a hidden أَنْ before it, making it منصوب. For example: لَا تَكْسَلْ فَتَنْدَمَ (Do not be lazy, so you do not regret)."
+      ],
+      "keyPoints": [
+        "فاء السببية indicates cause and effect relationship",
+        "It causes the following verb to be منصوب (subjunctive)",
+        "There is an implied أَنْ between the فاء and the verb",
+        "The verb ending changes: يَفْعَلُ becomes يَفْعَلَ"
+      ],
+      "examples": [
+        { "arabic": "لَا تَكْسَلْ فَتَنْدَمَ", "english": "Do not be lazy, so you will not regret" },
+        { "arabic": "ذَاكِرْ فَتَنْجَحَ", "english": "Study so that you may succeed" },
+        { "arabic": "مَا كَانَ لِيَكْذِبَ فَيَخْسَرَ", "english": "He would not lie and thus lose" },
+        { "arabic": "لَيْتَنِي أَمْلِكُ مَالًا فَأُنْفِقَ", "english": "I wish I had wealth so I could spend" }
+      ]
+    },
+    {
+      "title": "Conditions for فاء السببية",
+      "titleArabic": "شروط فاء السببية",
+      "content": [
+        "فاء السببية does not cause نصب by itself. It must be preceded by one of several specific sentence types. Without these conditions, the فاء is just a regular conjunction (عاطفة).",
+        "The verb after it must be in the imperfect tense (المضارع) for the subjunctive effect to apply."
+      ],
+      "keyPoints": [
+        "Must be preceded by: negation (نَفْي), command (أَمْر), prohibition (نَهْي), wish (تَمَنٍّ), hope (رَجَاء), or question (استفهام)",
+        "The فاء connects the cause with its effect/result",
+        "Without these conditions, the فاء is عاطفة (conjunctive) not سببية",
+        "The following verb must be مضارع (imperfect)"
+      ],
+      "examples": [
+        { "arabic": "لَا تَأْكُلْ كَثِيرًا فَتَمْرَضَ", "english": "Do not eat too much, lest you become sick (after prohibition)" },
+        { "arabic": "هَلْ تَزُورُنِي فَأُكْرِمَكَ؟", "english": "Will you visit me so I may honor you? (after question)" },
+        { "arabic": "لَعَلِّي أَجْتَهِدُ فَأَفُوزَ", "english": "Perhaps I will strive so that I may win (after hope)" },
+        { "arabic": "لَيْتَكَ تَأْتِي فَنَتَحَدَّثَ", "english": "I wish you would come so we could talk (after wish)" }
+      ]
+    },
+    {
+      "title": "فاء السببية after Negation and Command",
+      "titleArabic": "فاء السببية بعد النفي والأمر",
+      "content": [
+        "When preceded by negation (using مَا، لَا، لَمْ، لَنْ, etc.), فاء السببية indicates the result that would occur without the negated action. When preceded by a command (أَمْر), it shows the positive outcome of obeying.",
+        "In the Quran: وَلَا تَطْغَوْا فِيهِ فَيَحِلَّ عَلَيْكُمْ غَضَبِي (And do not transgress therein, lest My anger descend upon you) - Taha 20:81."
+      ],
+      "keyPoints": [
+        "After negation: shows what would result from the negated action",
+        "After command: shows the benefit of obeying",
+        "Quranic usage is common and classical",
+        "The subjunctive verb expresses purpose or result"
+      ],
+      "examples": [
+        { "arabic": "مَا تَأْتِينَا فَتُحَدِّثَنَا", "english": "You do not come to us, so you do not speak with us" },
+        { "arabic": "لَمْ يَجْتَهِدْ فَيَنْجَحَ", "english": "He did not strive so as to succeed" },
+        { "arabic": "اجْلِسْ فَتَسْتَرِيحَ", "english": "Sit down so that you may rest" },
+        { "arabic": "اقْرَأْ فَتَتَعَلَّمَ", "english": "Read so that you may learn" }
+      ]
+    },
+    {
+      "title": "فاء السببية after Wish, Hope, and Question",
+      "titleArabic": "فاء السببية بعد التمني والرجاء والاستفهام",
+      "content": [
+        "Particles of wish (لَيْتَ) and hope (لَعَلَّ) create non-factual contexts where فاء السببية expresses the desired outcome. Questions (استفهام) followed by فاء السببية express the purpose or result of the questioned action.",
+        "These contexts are called غير موجبة (non-affirmative) because they do not assert a definite fact."
+      ],
+      "keyPoints": [
+        "لَيْتَ (wish): لَيْتَنِي أَعْلَمُ فَأَعْمَلَ (I wish I knew so I could act)",
+        "لَعَلَّ (hope): لَعَلَّهُ يَتُوبُ فَيُغْفَرَ لَهُ (Perhaps he repents so he is forgiven)",
+        "Interrogatives: أَيْنَ، هَلْ، أَ، etc. can precede it",
+        "All create contexts of uncertainty or non-assertion"
+      ],
+      "examples": [
+        { "arabic": "لَيْتَ لِي مَالًا فَأَحُجَّ", "english": "I wish I had wealth so I could perform Hajj" },
+        { "arabic": "لَعَلَّكَ تَجْتَهِدُ فَتَفُوزَ", "english": "Perhaps you will strive so that you may succeed" },
+        { "arabic": "أَيْنَ بَيْتُكَ فَأَزُورَكَ؟", "english": "Where is your house so I may visit you?" },
+        { "arabic": "أَتَذْهَبُ مَعَنَا فَنَأْنَسَ بِكَ؟", "english": "Will you go with us so we may enjoy your company?" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l53-ex01",
+      "type": "fill-blank",
+      "prompt": "لَا تَكْسَلْ فَـ_____ (ندم)",
+      "promptEn": "Do not be lazy so that you do not _____ (regret)",
+      "answer": "تَنْدَمَ",
+      "itemIds": ["word-b2-395"]
+    },
+    {
+      "id": "b2-l53-ex02",
+      "type": "fill-blank",
+      "prompt": "ذَاكِرْ فَـ_____ (نجح)",
+      "promptEn": "Study so that you may _____ (succeed)",
+      "answer": "تَنْجَحَ",
+      "itemIds": ["word-b2-396"]
+    },
+    {
+      "id": "b2-l53-ex03",
+      "type": "fill-blank",
+      "prompt": "لَيْتَنِي أَمْلِكُ مَالًا فَـ_____ (أنفق)",
+      "promptEn": "I wish I had wealth so I could _____ (spend)",
+      "answer": "أُنْفِقَ",
+      "itemIds": ["word-b2-397"]
+    },
+    {
+      "id": "b2-l53-ex04",
+      "type": "fill-blank",
+      "prompt": "هَلْ تَزُورُنِي فَـ_____ (أكرم)",
+      "promptEn": "Will you visit me so I may _____ you (honor)?",
+      "answer": "أُكْرِمَكَ",
+      "itemIds": ["word-b2-398"]
+    },
+    {
+      "id": "b2-l53-ex05",
+      "type": "fill-blank",
+      "prompt": "لَعَلِّي أَجْتَهِدُ فَـ_____ (فاز)",
+      "promptEn": "Perhaps I will strive so that I may _____ (win)",
+      "answer": "أَفُوزَ",
+      "itemIds": ["word-b2-399"]
+    },
+    {
+      "id": "b2-l53-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Do not eat too much, lest you become sick",
+      "answer": "لَا تَأْكُلْ كَثِيرًا فَتَمْرَضَ",
+      "itemIds": ["word-b2-395"]
+    },
+    {
+      "id": "b2-l53-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Read so that you may learn",
+      "answer": "اقْرَأْ فَتَتَعَلَّمَ",
+      "itemIds": ["word-b2-396"]
+    },
+    {
+      "id": "b2-l53-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "I wish you would come so we could talk",
+      "answer": "لَيْتَكَ تَأْتِي فَنَتَحَدَّثَ",
+      "itemIds": ["word-b2-397"]
+    },
+    {
+      "id": "b2-l53-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "Where is your house so I may visit you?",
+      "answer": "أَيْنَ بَيْتُكَ فَأَزُورَكَ؟",
+      "itemIds": ["word-b2-398"]
+    },
+    {
+      "id": "b2-l53-ex10",
+      "type": "word-to-meaning",
+      "prompt": "فَاء السَّبَبِيَّة",
+      "answer": "causative fa (fa of causation)",
+      "itemIds": ["word-b2-395"]
+    },
+    {
+      "id": "b2-l53-ex11",
+      "type": "word-to-meaning",
+      "prompt": "مَنْصُوب",
+      "answer": "subjunctive / accusative case",
+      "itemIds": ["word-b2-396"]
+    },
+    {
+      "id": "b2-l53-ex12",
+      "type": "meaning-to-word",
+      "prompt": "so that / in order that (result particle)",
+      "answer": "فَـ (فاء السببية)",
+      "itemIds": ["word-b2-397"]
+    }
+  ]
+}

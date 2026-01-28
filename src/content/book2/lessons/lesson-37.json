@@ -1,0 +1,139 @@
+{
+  "id": "b2-l37",
+  "book": 2,
+  "lesson": 37,
+  "title": "صِيَغُ الْمُبَالَغَة",
+  "titleEn": "Intensive Forms (Exaggeration)",
+  "description": "Learn intensive adjective forms: عَلَّامَة (very learned), صَبُور (very patient), أَكُول (big eater).",
+  "vocabulary": ["word-b2-299", "word-b2-300", "word-b2-301", "word-b2-302", "word-b2-303", "word-b2-304"],
+  "grammarPoints": ["gp-b2-036"],
+  "notes": [
+    {
+      "title": "Intensive Forms (صيغ المبالغة)",
+      "titleArabic": "صيغ المبالغة",
+      "content": [
+        "Intensive forms (صيغ المبالغة) are derived from verbs to indicate someone who does an action excessively or habitually.",
+        "They emphasize the frequency, intensity, or professionalism of performing an action."
+      ],
+      "keyPoints": [
+        "Derived mainly from transitive Form I verbs",
+        "Indicates excessive or habitual action",
+        "Five main patterns: فَعَّال، فَعُول، فَعِيل، مِفْعَال، فَعَّالَة",
+        "Can function as nouns or adjectives"
+      ],
+      "examples": [
+        { "arabic": "أَكَّالٌ", "english": "big eater (one who eats a lot)" },
+        { "arabic": "صَبُورٌ", "english": "very patient" },
+        { "arabic": "عَلِيمٌ", "english": "all-knowing" },
+        { "arabic": "كَذَّابٌ", "english": "habitual liar" }
+      ]
+    },
+    {
+      "title": "The Five Main Patterns",
+      "titleArabic": "الأوزان الخمسة",
+      "content": [
+        "Arabic grammarians identified five standard patterns for intensive forms, each conveying exaggeration or habitual action.",
+        "These patterns are widely used in classical and modern Arabic."
+      ],
+      "keyPoints": [
+        "فَعَّال: كَذَّاب (liar), سَمَّاع (good listener), غَفَّار (most forgiving)",
+        "فَعُول: صَبُور (patient), شَكُور (grateful), غَفُور (forgiving)",
+        "فَعِيل: عَلِيم (knowing), سَمِيع (hearing), رَحِيم (merciful)",
+        "مِفْعَال: مِعْطَاء (generous giver), مِقْدَام (daring)",
+        "فَعِل: حَذِر (cautious), فَطِن (clever)"
+      ],
+      "examples": [
+        { "arabic": "اللهُ غَفُورٌ رَحِيمٌ", "english": "Allah is Most Forgiving, Most Merciful" },
+        { "arabic": "هُوَ صَبُورٌ جِدًّا", "english": "He is very patient" },
+        { "arabic": "إِنَّهُ كَذَّابٌ", "english": "Indeed, he is a liar" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l37-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He is a liar",
+      "answer": "هُوَ كَذَّابٌ",
+      "itemIds": ["word-b2-299"]
+    },
+    {
+      "id": "b2-l37-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She is very patient",
+      "answer": "هِيَ صَبُورٌ",
+      "itemIds": ["word-b2-300"]
+    },
+    {
+      "id": "b2-l37-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "Allah is All-Knowing",
+      "answer": "اللهُ عَلِيمٌ",
+      "itemIds": ["word-b2-301"]
+    },
+    {
+      "id": "b2-l37-ex04",
+      "type": "fill-blank",
+      "prompt": "اللهُ غَفُورٌ _____",
+      "promptEn": "Allah is Most Forgiving, Most _____",
+      "answer": "رَحِيمٌ",
+      "itemIds": ["word-b2-302"]
+    },
+    {
+      "id": "b2-l37-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كَذَّابٌ",
+      "answer": "habitual liar",
+      "itemIds": ["word-b2-299"]
+    },
+    {
+      "id": "b2-l37-ex06",
+      "type": "word-to-meaning",
+      "prompt": "صَبُورٌ",
+      "answer": "very patient",
+      "itemIds": ["word-b2-300"]
+    },
+    {
+      "id": "b2-l37-ex07",
+      "type": "word-to-meaning",
+      "prompt": "عَلِيمٌ",
+      "answer": "all-knowing",
+      "itemIds": ["word-b2-301"]
+    },
+    {
+      "id": "b2-l37-ex08",
+      "type": "word-to-meaning",
+      "prompt": "رَحِيمٌ",
+      "answer": "most merciful",
+      "itemIds": ["word-b2-302"]
+    },
+    {
+      "id": "b2-l37-ex09",
+      "type": "meaning-to-word",
+      "prompt": "most forgiving",
+      "answer": "غَفُورٌ",
+      "itemIds": ["word-b2-303"]
+    },
+    {
+      "id": "b2-l37-ex10",
+      "type": "meaning-to-word",
+      "prompt": "generous giver",
+      "answer": "مِعْطَاءٌ",
+      "itemIds": ["word-b2-304"]
+    },
+    {
+      "id": "b2-l37-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "Be patient! Allah is with the patient ones",
+      "answer": "اِصْبِرْ! اللهُ مَعَ الصَّابِرِينَ",
+      "itemIds": ["word-b2-300"]
+    },
+    {
+      "id": "b2-l37-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He is a generous giver",
+      "answer": "هُوَ مِعْطَاءٌ",
+      "itemIds": ["word-b2-304"]
+    }
+  ]
+}

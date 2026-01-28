@@ -1,0 +1,141 @@
+{
+  "id": "b2-l38",
+  "book": 2,
+  "lesson": 38,
+  "title": "اسْمُ الْمَرَّة",
+  "titleEn": "Noun of Single Instance",
+  "description": "Learn about the noun of single instance (اسم المرة) which indicates one occurrence of an action.",
+  "vocabulary": ["word-b2-305", "word-b2-306", "word-b2-307", "word-b2-308", "word-b2-309", "word-b2-310"],
+  "grammarPoints": ["gp-b2-043", "gp-b2-044"],
+  "notes": [
+    {
+      "title": "Noun of Single Instance (اسم المرة)",
+      "titleArabic": "اسم المرة",
+      "content": [
+        "The noun of single instance (اسم المرة) indicates that an action occurred once.",
+        "For Form I verbs, it follows the pattern فَعْلَة: ضَرْبَة (one strike), جَلْسَة (one sitting)."
+      ],
+      "keyPoints": [
+        "Pattern for Form I: فَعْلَة",
+        "ضَرَبَ → ضَرْبَة (one strike/hit)",
+        "جَلَسَ → جَلْسَة (one sitting/session)",
+        "نَظَرَ → نَظْرَة (one glance)"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبَهُ ضَرْبَةً وَاحِدَةً", "english": "He hit him one strike" },
+        { "arabic": "نَظَرْتُ إِلَيْهِ نَظْرَةً", "english": "I glanced at him once" },
+        { "arabic": "جَلَسْنَا جَلْسَةً طَوِيلَةً", "english": "We sat for one long session" },
+        { "arabic": "أَكَلَ أَكْلَةً كَبِيرَةً", "english": "He ate one large meal" }
+      ]
+    },
+    {
+      "title": "Noun of Single Instance for Derived Forms",
+      "titleArabic": "اسم المرة للأفعال المزيدة",
+      "content": [
+        "For derived verb forms (II-X), add ة to the masdar to form the noun of single instance.",
+        "If the masdar already ends in ة, add واحدة for clarification."
+      ],
+      "keyPoints": [
+        "Form II: تَعْلِيم → تَعْلِيمَة (one teaching)",
+        "Form III: مُسَاعَدَة → مُسَاعَدَة وَاحِدَة (one help)",
+        "Form IV: إِرْسَال → إِرْسَالَة (one sending)",
+        "Form X: اِسْتِغْفَار → اِسْتِغْفَارَة (one seeking forgiveness)"
+      ],
+      "examples": [
+        { "arabic": "عَلَّمَهُ تَعْلِيمَةً مُفِيدَةً", "english": "He taught him one useful lesson" },
+        { "arabic": "سَاعَدْتُهُ مُسَاعَدَةً وَاحِدَةً", "english": "I helped him once" },
+        { "arabic": "أَرْسَلَ إِرْسَالَةً وَاحِدَةً", "english": "He sent one message" },
+        { "arabic": "اِسْتَغْفَرَ اللهَ اِسْتِغْفَارَةً", "english": "He sought forgiveness from Allah once" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l38-ex01",
+      "type": "fill-blank",
+      "prompt": "ضَرَبَهُ _____ وَاحِدَةً",
+      "promptEn": "He hit him one _____",
+      "answer": "ضَرْبَةً",
+      "itemIds": ["word-b2-305"]
+    },
+    {
+      "id": "b2-l38-ex02",
+      "type": "fill-blank",
+      "prompt": "نَظَرْتُ إِلَيْهِ _____",
+      "promptEn": "I looked at him _____",
+      "answer": "نَظْرَةً",
+      "itemIds": ["word-b2-306"]
+    },
+    {
+      "id": "b2-l38-ex03",
+      "type": "fill-blank",
+      "prompt": "جَلَسْنَا _____ طَوِيلَةً",
+      "promptEn": "We sat for one long _____",
+      "answer": "جَلْسَةً",
+      "itemIds": ["word-b2-307"]
+    },
+    {
+      "id": "b2-l38-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "He wrote one letter",
+      "answer": "كَتَبَ كَتْبَةً وَاحِدَةً",
+      "itemIds": ["word-b2-308"]
+    },
+    {
+      "id": "b2-l38-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "She took one step",
+      "answer": "خَطَتْ خَطْوَةً وَاحِدَةً",
+      "itemIds": ["word-b2-309"]
+    },
+    {
+      "id": "b2-l38-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I called him once",
+      "answer": "دَعَوْتُهُ دَعْوَةً وَاحِدَةً",
+      "itemIds": ["word-b2-310"]
+    },
+    {
+      "id": "b2-l38-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "He ate one meal",
+      "answer": "أَكَلَ أَكْلَةً وَاحِدَةً",
+      "itemIds": ["word-b2-305"]
+    },
+    {
+      "id": "b2-l38-ex08",
+      "type": "word-to-meaning",
+      "prompt": "ضَرْبَة",
+      "answer": "one strike / one hit",
+      "itemIds": ["word-b2-305"]
+    },
+    {
+      "id": "b2-l38-ex09",
+      "type": "word-to-meaning",
+      "prompt": "نَظْرَة",
+      "answer": "one glance / one look",
+      "itemIds": ["word-b2-306"]
+    },
+    {
+      "id": "b2-l38-ex10",
+      "type": "word-to-meaning",
+      "prompt": "جَلْسَة",
+      "answer": "one sitting / session",
+      "itemIds": ["word-b2-307"]
+    },
+    {
+      "id": "b2-l38-ex11",
+      "type": "meaning-to-word",
+      "prompt": "one step",
+      "answer": "خَطْوَة",
+      "itemIds": ["word-b2-309"]
+    },
+    {
+      "id": "b2-l38-ex12",
+      "type": "meaning-to-word",
+      "prompt": "one call / invitation",
+      "answer": "دَعْوَة",
+      "itemIds": ["word-b2-310"]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "id": "b1-l20",
+  "book": 1,
+  "lesson": 20,
+  "title": "الْجُمْلَة الْفِعْلِيَّة",
+  "titleEn": "Verbal Sentences",
+  "description": "Learn sentences that begin with verbs: ذَهَبَ الطَّالِبُ (The student went).",
+  "vocabulary": ["word-116", "word-117", "word-118", "word-119"],
+  "grammarPoints": ["gp-025"],
+  "notes": [
+    {
+      "title": "Verbal Sentences (الجملة الفعلية)",
+      "titleArabic": "الْجُمْلَة الْفِعْلِيَّة",
+      "content": [
+        "A verbal sentence (جملة فعلية) begins with a verb. The typical word order is: Verb + Subject (فاعل) + Object (مفعول به). This is the most common sentence structure in classical Arabic.",
+        "When the verb comes first, it remains singular even if the subject is plural: ذَهَبَ الطُّلَّابُ (the students went) - not ذَهَبُوا الطُّلَّابُ."
+      ],
+      "keyPoints": [
+        "Verbal sentences start with the verb: ذَهَبَ الطَّالِبُ",
+        "Word order: Verb + Subject + Object",
+        "The verb stays singular when preceding the subject",
+        "The subject (فاعل) is in the nominative case (مرفوع)"
+      ],
+      "examples": [
+        { "arabic": "ذَهَبَ الطَّالِبُ", "english": "The student went" },
+        { "arabic": "كَتَبَ الْمُدَرِّسُ الدَّرْسَ", "english": "The teacher wrote the lesson" },
+        { "arabic": "قَرَأَتِ الْبِنْتُ الْكِتَابَ", "english": "The girl read the book" },
+        { "arabic": "دَخَلَ الرِّجَالُ الْمَسْجِدَ", "english": "The men entered the mosque" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l20-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The student went",
+      "answer": "ذَهَبَ الطَّالِبُ",
+      "itemIds": ["word-068", "word-005"]
+    },
+    {
+      "id": "b1-l20-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher wrote",
+      "answer": "كَتَبَ الْمُدَرِّسُ",
+      "itemIds": ["word-069", "word-004"]
+    },
+    {
+      "id": "b1-l20-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The boy sat",
+      "answer": "جَلَسَ الْوَلَدُ",
+      "itemIds": ["word-071", "word-116"]
+    },
+    {
+      "id": "b1-l20-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The man entered",
+      "answer": "دَخَلَ الرَّجُلُ",
+      "itemIds": ["word-072", "word-009"]
+    },
+    {
+      "id": "b1-l20-ex05",
+      "type": "word-to-meaning",
+      "prompt": "وَلَدٌ",
+      "answer": "boy",
+      "itemIds": ["word-116"]
+    },
+    {
+      "id": "b1-l20-ex06",
+      "type": "word-to-meaning",
+      "prompt": "بِنْتٌ",
+      "answer": "girl",
+      "itemIds": ["word-117"]
+    },
+    {
+      "id": "b1-l20-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أُمٌّ",
+      "answer": "mother",
+      "itemIds": ["word-118"]
+    },
+    {
+      "id": "b1-l20-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَبٌ",
+      "answer": "father",
+      "itemIds": ["word-119"]
+    },
+    {
+      "id": "b1-l20-ex09",
+      "type": "meaning-to-word",
+      "prompt": "The girl read",
+      "answer": "قَرَأَتِ الْبِنْتُ",
+      "itemIds": ["word-070", "word-117"]
+    },
+    {
+      "id": "b1-l20-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The mother wrote",
+      "answer": "كَتَبَتِ الْأُمُّ",
+      "itemIds": ["word-081", "word-118"]
+    },
+    {
+      "id": "b1-l20-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student went to the mosque with the teacher",
+      "answer": "ذَهَبَ الطَّالِبُ إِلَى الْمَسْجِدِ مَعَ الْمُدَرِّسِ",
+      "itemIds": ["word-068", "word-005", "word-048", "word-007", "word-050", "word-004"]
+    },
+    {
+      "id": "b1-l20-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The boy read the book in the room",
+      "answer": "قَرَأَ الْوَلَدُ الْكِتَابَ فِي الْغُرْفَةِ",
+      "itemIds": ["word-070", "word-116", "word-002", "word-046", "word-037"]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "b2-l04",
+  "book": 2,
+  "lesson": 4,
+  "title": "أَسْمَاءُ الإِشَارَة (الْجَمْع)",
+  "titleEn": "Plural Demonstratives",
+  "description": "Learn plural demonstratives: هَؤُلَاءِ (these), أُولَئِكَ (those).",
+  "vocabulary": ["word-b2-017", "word-b2-018", "word-b2-019", "word-b2-020"],
+  "grammarPoints": ["gp-b2-004"],
+  "notes": [
+    {
+      "title": "Plural Demonstratives",
+      "titleArabic": "أسماء الإشارة للجمع",
+      "content": [
+        "Arabic uses specific demonstrative pronouns for plurals. Unlike singular demonstratives which distinguish masculine and feminine, plural demonstratives use one form for both genders.",
+        "The demonstrative هَؤُلَاءِ (these) refers to nearby plural nouns, while أُولَئِكَ (those) refers to distant plural nouns."
+      ],
+      "keyPoints": [
+        "هَؤُلَاءِ - these (for all plurals, near)",
+        "أُولَئِكَ - those (for all plurals, far)",
+        "Both are مبني (indeclinable) - their endings don't change",
+        "Used for both masculine and feminine plurals"
+      ],
+      "examples": [
+        { "arabic": "هَؤُلَاءِ طُلَّابٌ", "english": "These are students" },
+        { "arabic": "أُولَئِكَ مُدَرِّسُونَ", "english": "Those are teachers" },
+        { "arabic": "هَؤُلَاءِ النِّسَاءُ طَبِيبَاتٌ", "english": "These women are doctors" }
+      ]
+    },
+    {
+      "title": "Review of Demonstrative System",
+      "titleArabic": "مراجعة أسماء الإشارة",
+      "content": [
+        "The complete demonstrative system in Arabic includes singular, dual, and plural forms for both near and far references."
+      ],
+      "keyPoints": [
+        "Singular near: هَذَا (m.), هَذِهِ (f.)",
+        "Singular far: ذَلِكَ (m.), تِلْكَ (f.)",
+        "Dual near: هَذَانِ (m.), هَاتَانِ (f.)",
+        "Plural near/far: هَؤُلَاءِ / أُولَئِكَ"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l04-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "These are students",
+      "answer": "هَؤُلَاءِ طُلَّابٌ",
+      "itemIds": ["word-b2-017", "word-b2-019"]
+    },
+    {
+      "id": "b2-l04-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Those are teachers",
+      "answer": "أُولَئِكَ مُدَرِّسُونَ",
+      "itemIds": ["word-b2-018", "word-090"]
+    },
+    {
+      "id": "b2-l04-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "These women are doctors",
+      "answer": "هَؤُلَاءِ النِّسَاءُ طَبِيبَاتٌ",
+      "itemIds": ["word-b2-017", "word-b2-020"]
+    },
+    {
+      "id": "b2-l04-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ طُلَّابٌ مُجْتَهِدُونَ",
+      "promptEn": "_____ are diligent students",
+      "answer": "هَؤُلَاءِ",
+      "itemIds": ["word-b2-017"]
+    },
+    {
+      "id": "b2-l04-ex05",
+      "type": "word-to-meaning",
+      "prompt": "هَؤُلَاءِ",
+      "answer": "these (plural)",
+      "itemIds": ["word-b2-017"]
+    },
+    {
+      "id": "b2-l04-ex06",
+      "type": "word-to-meaning",
+      "prompt": "أُولَئِكَ",
+      "answer": "those (plural)",
+      "itemIds": ["word-b2-018"]
+    },
+    {
+      "id": "b2-l04-ex07",
+      "type": "word-to-meaning",
+      "prompt": "طُلَّابٌ",
+      "answer": "students (broken plural)",
+      "itemIds": ["word-b2-019"]
+    },
+    {
+      "id": "b2-l04-ex08",
+      "type": "word-to-meaning",
+      "prompt": "نِسَاءٌ",
+      "answer": "women",
+      "itemIds": ["word-b2-020"]
+    },
+    {
+      "id": "b2-l04-ex09",
+      "type": "meaning-to-word",
+      "prompt": "these (plural)",
+      "answer": "هَؤُلَاءِ",
+      "itemIds": ["word-b2-017"]
+    },
+    {
+      "id": "b2-l04-ex10",
+      "type": "meaning-to-word",
+      "prompt": "those (plural)",
+      "answer": "أُولَئِكَ",
+      "itemIds": ["word-b2-018"]
+    },
+    {
+      "id": "b2-l04-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "These students went to the mosque",
+      "answer": "هَؤُلَاءِ الطُّلَّابُ ذَهَبُوا إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-b2-017", "word-b2-019", "word-068", "word-048", "word-007"]
+    },
+    {
+      "id": "b2-l04-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Those women are in the house",
+      "answer": "أُولَئِكَ النِّسَاءُ فِي الْبَيْتِ",
+      "itemIds": ["word-b2-018", "word-b2-020", "word-046", "word-010"]
+    }
+  ]
+}

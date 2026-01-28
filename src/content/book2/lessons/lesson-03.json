@@ -1,0 +1,132 @@
+{
+  "id": "b2-l03",
+  "book": 2,
+  "lesson": 3,
+  "title": "الاسْمُ الْمَوْصُول",
+  "titleEn": "Relative Pronouns",
+  "description": "Learn relative pronouns: الَّذِي (who/which, masc.), الَّتِي (who/which, fem.).",
+  "vocabulary": ["word-b2-011", "word-b2-012", "word-b2-013", "word-b2-014", "word-b2-015", "word-b2-016"],
+  "grammarPoints": ["gp-b2-003"],
+  "notes": [
+    {
+      "title": "Relative Pronouns (الاسم الموصول)",
+      "titleArabic": "الاسم الموصول",
+      "content": [
+        "Relative pronouns connect a noun to a descriptive clause. In Arabic, the relative pronoun must agree with its antecedent in gender and number.",
+        "The clause following the relative pronoun is called صلة الموصول (the relative clause) and must contain a returning pronoun (ضمير عائد) that refers back to the antecedent."
+      ],
+      "keyPoints": [
+        "الَّذِي - who/which (masculine singular)",
+        "الَّتِي - who/which (feminine singular)",
+        "الَّذِينَ - who/which (masculine plural)",
+        "اللَّاتِي / اللَّوَاتِي - who/which (feminine plural)",
+        "اللَّذَانِ - who/which (masculine dual)",
+        "اللَّتَانِ - who/which (feminine dual)"
+      ],
+      "examples": [
+        { "arabic": "الرَّجُلُ الَّذِي ذَهَبَ", "english": "The man who went" },
+        { "arabic": "الْمَرْأَةُ الَّتِي كَتَبَتْ", "english": "The woman who wrote" },
+        { "arabic": "الْكِتَابُ الَّذِي قَرَأْتُهُ", "english": "The book which I read (it)" }
+      ]
+    },
+    {
+      "title": "The Returning Pronoun",
+      "titleArabic": "الضمير العائد",
+      "content": [
+        "In relative clauses, a pronoun must refer back to the noun being described. This is called the returning pronoun (ضمير عائد)."
+      ],
+      "keyPoints": [
+        "The returning pronoun agrees with the antecedent in gender and number",
+        "It can be attached to a verb, noun, or preposition in the relative clause",
+        "Example: الكتاب الذي قرأتُهُ - the هُ refers back to الكتاب"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l03-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The man who went",
+      "answer": "الرَّجُلُ الَّذِي ذَهَبَ",
+      "itemIds": ["word-b2-011", "word-009", "word-068"]
+    },
+    {
+      "id": "b2-l03-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The woman who wrote",
+      "answer": "الْمَرْأَةُ الَّتِي كَتَبَتْ",
+      "itemIds": ["word-b2-012", "word-b2-013", "word-081"]
+    },
+    {
+      "id": "b2-l03-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The book which I read",
+      "answer": "الْكِتَابُ الَّذِي قَرَأْتُهُ",
+      "itemIds": ["word-002", "word-b2-011", "word-070"]
+    },
+    {
+      "id": "b2-l03-ex04",
+      "type": "fill-blank",
+      "prompt": "الطَّالِبُ _____ جَلَسَ",
+      "promptEn": "The student _____ sat",
+      "answer": "الَّذِي",
+      "itemIds": ["word-b2-011"]
+    },
+    {
+      "id": "b2-l03-ex05",
+      "type": "word-to-meaning",
+      "prompt": "الَّذِي",
+      "answer": "who/which (masc.)",
+      "itemIds": ["word-b2-011"]
+    },
+    {
+      "id": "b2-l03-ex06",
+      "type": "word-to-meaning",
+      "prompt": "الَّتِي",
+      "answer": "who/which (fem.)",
+      "itemIds": ["word-b2-012"]
+    },
+    {
+      "id": "b2-l03-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الَّذِينَ",
+      "answer": "who/which (masc. pl.)",
+      "itemIds": ["word-b2-014"]
+    },
+    {
+      "id": "b2-l03-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اللَّاتِي",
+      "answer": "who/which (fem. pl.)",
+      "itemIds": ["word-b2-015"]
+    },
+    {
+      "id": "b2-l03-ex09",
+      "type": "meaning-to-word",
+      "prompt": "who/which (masc. dual)",
+      "answer": "اللَّذَانِ",
+      "itemIds": ["word-b2-016"]
+    },
+    {
+      "id": "b2-l03-ex10",
+      "type": "meaning-to-word",
+      "prompt": "woman",
+      "answer": "اِمْرَأَةٌ",
+      "itemIds": ["word-b2-013"]
+    },
+    {
+      "id": "b2-l03-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student who studied succeeded",
+      "answer": "الطَّالِبُ الَّذِي دَرَسَ نَجَحَ",
+      "itemIds": ["word-005", "word-b2-011", "word-085", "word-087"]
+    },
+    {
+      "id": "b2-l03-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The woman who came is a teacher",
+      "answer": "الْمَرْأَةُ الَّتِي جَاءَتْ مُدَرِّسَةٌ",
+      "itemIds": ["word-b2-013", "word-b2-012", "word-069", "word-079"]
+    }
+  ]
+}

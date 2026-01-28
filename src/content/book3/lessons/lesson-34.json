@@ -1,0 +1,175 @@
+{
+  "id": "b3-l34",
+  "book": 3,
+  "lesson": 34,
+  "title": "مُرَاجَعَة",
+  "titleEn": "Comprehensive Review",
+  "notes": [
+    {
+      "title": "Diptote Nouns (الممنوع من الصرف)",
+      "titleArabic": "الممنوع من الصرف",
+      "content": [
+        "Diptotes (mamnū' min al-ṣarf) are nouns that don't take tanwīn and have fatḥah for both naṣb and jarr. They include certain proper nouns, adjectives, and plural patterns."
+      ],
+      "keyPoints": [
+        "Feminine proper nouns: زَيْنَب, فَاطِمَة",
+        "Foreign proper nouns: إِبْرَاهِيم, يُوسُف",
+        "Ultimate plural (صيغة منتهى الجموع): مَسَاجِد, مَفَاتِيح",
+        "Adjectives on certain patterns: أَحْمَر, عَطْشَان"
+      ],
+      "examples": [
+        { "arabic": "هَذَا كِتَابُ زَيْنَبَ", "english": "This is Zainab's book (fatḥah for jarr)" },
+        { "arabic": "صَلَّيْنَا فِي مَسَاجِدَ", "english": "We prayed in mosques (fatḥah for jarr)" }
+      ]
+    },
+    {
+      "title": "Course Summary",
+      "titleArabic": "خلاصة الدورة",
+      "content": [
+        "This course has covered essential advanced Arabic grammar including verb forms, derived nouns, grammatical cases, sentence modifiers, and various accusative constructions."
+      ],
+      "keyPoints": [
+        "Ten derived verb forms (II-X) with their meanings",
+        "Weak and irregular verb conjugations",
+        "Five types of accusative objects (maf'ūlāt)",
+        "Conditional sentences and their responses",
+        "Sentence modifiers (nawāsikh)",
+        "Special noun categories and their declension"
+      ],
+      "examples": [
+        { "arabic": "إِنَّ الْعِلْمَ نُورٌ", "english": "Indeed knowledge is light" },
+        { "arabic": "مَنْ يَعْمَلْ خَيْرًا يَجِدْهُ", "english": "Whoever does good will find it" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-113",
+    "word-b3-123",
+    "word-b3-143",
+    "word-b3-158",
+    "word-b3-168"
+  ],
+  "grammarPoints": [
+    "gp-b3-021",
+    "gp-b3-023",
+    "gp-b3-027",
+    "gp-b3-030",
+    "gp-b3-032"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l34-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ المُعَلِّمُ الطَّالِبَ الدَّرْسَ سَهْلاً (أَعْلَمَ - 3 objects)",
+      "answer": "أَعْلَمَ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He hit strongly (maf'ul mutlaq)",
+      "answer": "ضَرَبَ ضَرْبًا شَدِيدًا",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ تَدْرُسْ تَنْجَحْ (conditional)",
+      "answer": "إِنْ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex04",
+      "type": "word-to-meaning",
+      "prompt": "لَمْ يَذْهَبْ",
+      "answer": "he did not go (jussive)",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex05",
+      "type": "meaning-to-word",
+      "prompt": "he was a student (kana)",
+      "answer": "كَانَ طَالِبًا",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "There is no god except Allah",
+      "answer": "لاَ إِلَهَ إِلاَّ اللهُ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex07",
+      "type": "fill-blank",
+      "prompt": "_____ الحَقَّ وَاضِحٌ (إِنَّ)",
+      "answer": "إِنَّ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الفَتَى",
+      "answer": "the young man (maqsur)",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "If he had come, I would have honored him",
+      "answer": "لَوْ جَاءَ لأَكْرَمْتُهُ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex10",
+      "type": "fill-blank",
+      "prompt": "النِّسَاءُ _____ (يَكْتُبْنَ - nun niswa)",
+      "answer": "يَكْتُبْنَ",
+      "itemIds": [
+        "word-b3-113",
+        "word-b3-123"
+      ]
+    },
+    {
+      "id": "b3-l34-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "Indeed the knowledge is light for the heart",
+      "answer": "إِنَّ الْعِلْمَ نُورٌ لِلْقَلْبِ",
+      "itemIds": ["word-b3-113", "word-b3-123"]
+    },
+    {
+      "id": "b3-l34-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The student became a teacher after years",
+      "answer": "صَارَ الطَّالِبُ مُعَلِّمًا بَعْدَ سَنَوَاتٍ",
+      "itemIds": ["word-b3-113", "word-b3-123"]
+    }
+  ]
+}

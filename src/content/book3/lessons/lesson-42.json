@@ -1,0 +1,141 @@
+{
+  "id": "b3-l42",
+  "book": 3,
+  "lesson": 42,
+  "title": "أَفْعَالُ الرَّجَاء",
+  "titleEn": "Verbs of Hope",
+  "description": "Learn about verbs of hope (أفعال الرجاء) which express hope or expectation that something will happen.",
+  "vocabulary": ["word-b3-303", "word-b3-304", "word-b3-305", "word-b3-306", "word-b3-307", "word-b3-308"],
+  "grammarPoints": ["gp-b3-046", "gp-b3-047"],
+  "notes": [
+    {
+      "title": "Verbs of Hope (أفعال الرجاء)",
+      "titleArabic": "أفعال الرجاء",
+      "content": [
+        "Verbs of hope (أفعال الرجاء) express hope or expectation that an action will occur.",
+        "The most common is عَسَى (perhaps, may). Like كَادَ, they take a subject and predicate."
+      ],
+      "keyPoints": [
+        "عَسَى - perhaps, may, hopefully (عسى أن ينجح - may he succeed)",
+        "حَرَى - is hoped (rarely used)",
+        "اِخْلَوْلَقَ - is hoped (very rare)",
+        "The predicate is typically أَنْ + subjunctive verb"
+      ],
+      "examples": [
+        { "arabic": "عَسَى اللهُ أَنْ يَرْحَمَنَا", "english": "May Allah have mercy on us" },
+        { "arabic": "عَسَى أَنْ يَأْتِيَ غَدًا", "english": "Perhaps he will come tomorrow" },
+        { "arabic": "عَسَاهُ أَنْ يَنْجَحَ", "english": "May he succeed" },
+        { "arabic": "عَسَيْتُمْ أَنْ تَفْهَمُوا", "english": "Perhaps you (pl.) will understand" }
+      ]
+    },
+    {
+      "title": "Conjugation of عسى",
+      "titleArabic": "تصريف عسى",
+      "content": [
+        "عَسَى is a frozen verb with limited conjugation. It can take attached pronouns for the subject.",
+        "The predicate always requires أَنْ before the subjunctive verb."
+      ],
+      "keyPoints": [
+        "عَسَى الطَّالِبُ - the student may...",
+        "عَسَاهُ - he may...",
+        "عَسَاكَ - you may...",
+        "عَسَيْتُ - I may..."
+      ],
+      "examples": [
+        { "arabic": "عَسَاكَ أَنْ تَزُورَنَا", "english": "Perhaps you will visit us" },
+        { "arabic": "عَسَاهَا أَنْ تَفْهَمَ", "english": "Perhaps she will understand" },
+        { "arabic": "عَسَيْتُ أَنْ أَنْجَحَ", "english": "Perhaps I will succeed" },
+        { "arabic": "عَسَاهُمْ أَنْ يَحْضُرُوا", "english": "Perhaps they will attend" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l42-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ اللهُ أَنْ يَغْفِرَ لَنَا",
+      "promptEn": "May Allah _____ forgive us",
+      "answer": "عَسَى",
+      "itemIds": ["word-b3-303"]
+    },
+    {
+      "id": "b3-l42-ex02",
+      "type": "fill-blank",
+      "prompt": "عَسَى _____ يَأْتِيَ غَدًا",
+      "promptEn": "Perhaps he will _____ tomorrow",
+      "answer": "أَنْ",
+      "itemIds": ["word-b3-304"]
+    },
+    {
+      "id": "b3-l42-ex03",
+      "type": "fill-blank",
+      "prompt": "عَسَاكَ أَنْ _____ الدَّرْسَ",
+      "promptEn": "Perhaps you will _____ the lesson",
+      "answer": "تَفْهَمَ",
+      "itemIds": ["word-b3-305"]
+    },
+    {
+      "id": "b3-l42-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "Perhaps he will succeed",
+      "answer": "عَسَى أَنْ يَنْجَحَ",
+      "itemIds": ["word-b3-303"]
+    },
+    {
+      "id": "b3-l42-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "May Allah help you",
+      "answer": "عَسَى اللهُ أَنْ يُسَاعِدَكَ",
+      "itemIds": ["word-b3-303"]
+    },
+    {
+      "id": "b3-l42-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Perhaps she will come",
+      "answer": "عَسَاهَا أَنْ تَأْتِيَ",
+      "itemIds": ["word-b3-303"]
+    },
+    {
+      "id": "b3-l42-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "May they understand",
+      "answer": "عَسَاهُمْ أَنْ يَفْهَمُوا",
+      "itemIds": ["word-b3-303"]
+    },
+    {
+      "id": "b3-l42-ex08",
+      "type": "word-to-meaning",
+      "prompt": "عَسَى",
+      "answer": "perhaps / may / hopefully",
+      "itemIds": ["word-b3-303"]
+    },
+    {
+      "id": "b3-l42-ex09",
+      "type": "word-to-meaning",
+      "prompt": "رَجَاء",
+      "answer": "hope / expectation",
+      "itemIds": ["word-b3-306"]
+    },
+    {
+      "id": "b3-l42-ex10",
+      "type": "word-to-meaning",
+      "prompt": "يَغْفِرُ",
+      "answer": "forgives",
+      "itemIds": ["word-b3-307"]
+    },
+    {
+      "id": "b3-l42-ex11",
+      "type": "meaning-to-word",
+      "prompt": "to succeed",
+      "answer": "يَنْجَحُ",
+      "itemIds": ["word-b3-308"]
+    },
+    {
+      "id": "b3-l42-ex12",
+      "type": "meaning-to-word",
+      "prompt": "to understand",
+      "answer": "يَفْهَمُ",
+      "itemIds": ["word-b3-305"]
+    }
+  ]
+}

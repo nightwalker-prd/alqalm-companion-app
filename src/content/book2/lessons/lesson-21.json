@@ -1,0 +1,167 @@
+{
+  "id": "b2-l21",
+  "book": 2,
+  "lesson": 21,
+  "title": "الفِعْل المِثَال",
+  "titleEn": "Assimilated Verbs",
+  "vocabulary": [
+    "word-b2-111",
+    "word-b2-112",
+    "word-b2-113",
+    "word-b2-114",
+    "word-b2-115"
+  ],
+  "grammarPoints": ["gp-b2-021"],
+  "notes": [
+    {
+      "title": "Assimilated Verbs (الفعل المثال)",
+      "titleArabic": "الفعل المثال",
+      "content": [
+        "Assimilated verbs (الفعل المثال) have و (waw) or ي (ya) as their first radical. These verbs show changes primarily in the present tense and imperative.",
+        "The most common type has و as the first radical. In the present tense, this و is typically dropped."
+      ],
+      "keyPoints": [
+        "First radical is و or ي",
+        "In present tense, و is dropped: وَجَدَ → يَجِدُ",
+        "Examples: وَعَدَ (to promise), وَجَدَ (to find), وَصَلَ (to arrive)",
+        "Past tense is regular: وَعَدَ، وَجَدَ، وَصَلَ",
+        "Present tense drops و: يَعِدُ، يَجِدُ، يَصِلُ"
+      ],
+      "examples": [
+        { "arabic": "وَعَدَ اللهُ الْمُؤْمِنِينَ", "english": "Allah promised the believers" },
+        { "arabic": "وَجَدْتُ كِتَابِي", "english": "I found my book" },
+        { "arabic": "وَصَلَ إِلَى الْمَدِينَةِ", "english": "He arrived at the city" },
+        { "arabic": "يَجِدُ الْكَنْزَ", "english": "He finds the treasure" }
+      ]
+    },
+    {
+      "title": "Imperative of Assimilated Verbs",
+      "titleArabic": "أمر الفعل المثال",
+      "content": [
+        "The imperative of assimilated verbs also drops the first radical و."
+      ],
+      "keyPoints": [
+        "وَعَدَ → عِدْ (Promise!)",
+        "وَجَدَ → جِدْ (Find!)",
+        "وَصَلَ → صِلْ (Arrive! / Connect!)",
+        "وَضَعَ → ضَعْ (Put!)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l21-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ اللهُ المُؤْمِنِينَ الجَنَّةَ (وَعَدَ)",
+      "answer": "وَعَدَ",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I found my book",
+      "answer": "وَجَدْتُ كِتَابِي",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ إِلَى المَدِينَةِ (وَصَلَ)",
+      "answer": "وَصَلَ",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex04",
+      "type": "word-to-meaning",
+      "prompt": "وَقَعَ",
+      "answer": "to fall/occur",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to arrive/reach",
+      "answer": "وَصَلَ",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He promised to come",
+      "answer": "وَعَدَ أَنْ يَأْتِيَ",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ الكَنْزَ (يَجِدُ)",
+      "answer": "يَجِدُ",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex08",
+      "type": "word-to-meaning",
+      "prompt": "وَضَعَ",
+      "answer": "to put/place",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "The accident occurred",
+      "answer": "وَقَعَ الحَادِثُ",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ الكِتَابَ عَلَى الطَّاوِلَةِ (وَضَعَ)",
+      "answer": "وَضَعَ",
+      "itemIds": [
+        "word-b2-111",
+        "word-b2-112"
+      ]
+    },
+    {
+      "id": "b2-l21-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "He promised the believers Paradise",
+      "answer": "وَعَدَ الْمُؤْمِنِينَ الْجَنَّةَ",
+      "itemIds": ["word-b2-111", "word-b2-112"]
+    },
+    {
+      "id": "b2-l21-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I found the book on the desk",
+      "answer": "وَجَدْتُ الْكِتَابَ عَلَى الْمَكْتَبِ",
+      "itemIds": ["word-b2-010", "word-002", "word-047", "word-b2-003"]
+    }
+  ]
+}

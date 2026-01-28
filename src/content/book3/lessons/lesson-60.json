@@ -1,0 +1,183 @@
+{
+  "id": "b3-l60",
+  "book": 3,
+  "lesson": 60,
+  "title": "نِعْمَ وَبِئْسَ",
+  "titleEn": "Verbs of Praise and Blame",
+  "description": "Learn about نِعْمَ وَبِئْسَ, the invariable verbs used for praise (نِعْمَ) and blame (بِئْسَ), including their فَاعِل and مَخْصُوص structures.",
+  "vocabulary": ["word-b3-410", "word-b3-411", "word-b3-412", "word-b3-413", "word-b3-414", "word-b3-415", "word-b3-416"],
+  "grammarPoints": ["gp-b3-082", "gp-b3-083"],
+  "notes": [
+    {
+      "title": "What are أفعال المدح والذم?",
+      "titleArabic": "تعريف أفعال المدح والذم",
+      "content": [
+        "نِعْمَ and بِئْسَ are special verbs called أَفْعَال المَدْح وَالذَّمّ (verbs of praise and blame). They are جَامِدَة (frozen/invariable) - they don't conjugate like regular verbs.",
+        "نِعْمَ is used for praise (المدح), meaning 'how excellent!' or 'what a great...' بِئْسَ is used for blame (الذم), meaning 'how evil!' or 'what a terrible...'"
+      ],
+      "keyPoints": [
+        "نِعْمَ = فعل مدح (praise) - 'how excellent!'",
+        "بِئْسَ = فعل ذم (blame) - 'how terrible!'",
+        "Both are أفعال جامدة (invariable verbs)",
+        "They don't change for gender, number, or tense"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ الرَّجُلُ زَيْدٌ", "english": "What an excellent man Zayd is!" },
+        { "arabic": "بِئْسَ الْخُلُقُ الْكَذِبُ", "english": "What a terrible trait lying is!" },
+        { "arabic": "نِعْمَ الصَّدِيقُ الْكِتَابُ", "english": "What an excellent friend the book is!" },
+        { "arabic": "بِئْسَ الشَّرَابُ الْخَمْرُ", "english": "What a terrible drink wine is!" }
+      ]
+    },
+    {
+      "title": "Structure: الفاعل and المخصوص",
+      "titleArabic": "التركيب: الفاعل والمخصوص",
+      "content": [
+        "These verbs require two components: الفَاعِل (the general noun with ال or مضاف إلى معرفة) and المَخْصُوص بالمدح أو الذم (the specific thing being praised or blamed).",
+        "In نِعْمَ الرَّجُلُ زَيْدٌ: الرَّجُلُ is the فاعل (general category), and زَيْدٌ is المخصوص (the specific person being praised)."
+      ],
+      "keyPoints": [
+        "الفاعل: معرفة بـ ال or مضاف (الرجل، رجلُ القوم)",
+        "المخصوص: the specific thing praised/blamed (زيد)",
+        "المخصوص comes after and is مرفوع",
+        "إعراب المخصوص: مبتدأ مؤخر أو خبر لمبتدأ محذوف"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ (فعل) الْعَبْدُ (فاعل) أَيُّوبُ (مخصوص)", "english": "Excellent is the servant - Ayyub (Job)" },
+        { "arabic": "بِئْسَ (فعل) الاِسْمُ (فاعل) الْفُسُوقُ (مخصوص)", "english": "Evil is the name - immorality (Quran)" },
+        { "arabic": "نِعْمَ أَمِيرُ الْمُؤْمِنِينَ عُمَرُ", "english": "What an excellent Commander of Believers Umar is!" },
+        { "arabic": "بِئْسَ صِفَةُ الرَّجُلِ الْبُخْلُ", "english": "What a terrible trait for a man - stinginess!" }
+      ]
+    },
+    {
+      "title": "Types of الفاعل",
+      "titleArabic": "أنواع الفاعل مع نعم وبئس",
+      "content": [
+        "The فاعل of نِعْمَ وَبِئْسَ can take several forms: معرفة بـ ال (definite with ال), مضاف إلى معرفة (construct with definite), or a ضمير مستتر (hidden pronoun) followed by تمييز.",
+        "With ما or مَنْ, they act as the فاعل when referring to a general relative meaning: نِعْمَ مَا تَفْعَلُ (excellent is what you do)."
+      ],
+      "keyPoints": [
+        "معرف بـ ال: نِعْمَ الرَّجُلُ",
+        "مضاف إلى معرفة: نِعْمَ رَجُلُ الْقَوْمِ",
+        "ضمير + تمييز: نِعْمَ رَجُلًا زَيْدٌ (he is excellent as a man)",
+        "ما/من: نِعْمَ مَا صَنَعْتَ (what you made is excellent)"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ الْقَائِدُ خَالِدٌ", "english": "What an excellent leader Khalid is!" },
+        { "arabic": "نِعْمَ قَائِدُ الْجَيْشِ خَالِدٌ", "english": "Excellent is the army's leader - Khalid!" },
+        { "arabic": "نِعْمَ رَجُلًا أَبُو بَكْرٍ", "english": "Abu Bakr is excellent as a man!" },
+        { "arabic": "وَإِنْ تُخْفُوهَا... فَنِعِمَّا هِيَ (القرآن)", "english": "And if you hide them... how excellent it is (Quran 2:271)" }
+      ]
+    },
+    {
+      "title": "Quranic Examples and Usage",
+      "titleArabic": "شواهد قرآنية واستعمالات",
+      "content": [
+        "نِعْمَ وَبِئْسَ appear frequently in the Quran. Allah uses them to praise the believers and their qualities, and to blame the disbelievers and evil traits.",
+        "Other verbs of praise and blame include: حَبَّذَا (how lovely!), سَاءَ (how evil!), and لَا حَبَّذَا (how unlovely!). These follow similar patterns."
+      ],
+      "keyPoints": [
+        "نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ (Quran 38:30, 44)",
+        "بِئْسَ الاِسْمُ الْفُسُوقُ (Quran 49:11)",
+        "Other praise verbs: حَبَّذَا",
+        "Other blame verbs: سَاءَ، لَا حَبَّذَا"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ (ص:30)", "english": "Excellent is the servant - indeed he was one who turned back (Quran)" },
+        { "arabic": "فَلَبِئْسَ مَثْوَى الْمُتَكَبِّرِينَ (النحل:29)", "english": "How wretched is the abode of the arrogant (Quran)" },
+        { "arabic": "حَبَّذَا الْعِلْمُ!", "english": "How lovely is knowledge!" },
+        { "arabic": "سَاءَ مَثَلًا الْقَوْمُ (الأعراف:177)", "english": "Evil as an example is the people (Quran)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l60-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الرَّجُلُ زَيْدٌ! (فعل مدح)",
+      "promptEn": "_____ man Zayd is! (verb of praise)",
+      "answer": "نِعْمَ",
+      "itemIds": ["word-b3-410"]
+    },
+    {
+      "id": "b3-l60-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ الْخُلُقُ الْكَذِبُ! (فعل ذم)",
+      "promptEn": "_____ trait lying is! (verb of blame)",
+      "answer": "بِئْسَ",
+      "itemIds": ["word-b3-411"]
+    },
+    {
+      "id": "b3-l60-ex03",
+      "type": "fill-blank",
+      "prompt": "نِعْمَ الرَّجُلُ زَيْدٌ - 'الرجل' هو _____",
+      "promptEn": "نِعْمَ الرَّجُلُ زَيْدٌ - 'الرجل' is the _____",
+      "answer": "الفَاعِل",
+      "itemIds": ["word-b3-412"]
+    },
+    {
+      "id": "b3-l60-ex04",
+      "type": "fill-blank",
+      "prompt": "نِعْمَ الرَّجُلُ زَيْدٌ - 'زيد' هو _____",
+      "promptEn": "نِعْمَ الرَّجُلُ زَيْدٌ - 'زيد' is the _____",
+      "answer": "المَخْصُوص",
+      "itemIds": ["word-b3-413"]
+    },
+    {
+      "id": "b3-l60-ex05",
+      "type": "fill-blank",
+      "prompt": "نِعْمَ _____ أَبُو بَكْرٍ! (تمييز)",
+      "promptEn": "Abu Bakr is excellent as a _____! (tamyiz)",
+      "answer": "رَجُلًا",
+      "itemIds": ["word-b3-414"]
+    },
+    {
+      "id": "b3-l60-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "What an excellent servant Ayyub (Job) is!",
+      "answer": "نِعْمَ الْعَبْدُ أَيُّوبُ!",
+      "itemIds": ["word-b3-410"]
+    },
+    {
+      "id": "b3-l60-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "What a terrible friend the liar is!",
+      "answer": "بِئْسَ الصَّدِيقُ الْكَذَّابُ!",
+      "itemIds": ["word-b3-411"]
+    },
+    {
+      "id": "b3-l60-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "What an excellent leader Khalid is!",
+      "answer": "نِعْمَ الْقَائِدُ خَالِدٌ!",
+      "itemIds": ["word-b3-412"]
+    },
+    {
+      "id": "b3-l60-ex09",
+      "type": "word-to-meaning",
+      "prompt": "نِعْمَ",
+      "answer": "how excellent! / what a great...",
+      "itemIds": ["word-b3-410"]
+    },
+    {
+      "id": "b3-l60-ex10",
+      "type": "word-to-meaning",
+      "prompt": "بِئْسَ",
+      "answer": "how terrible! / what an evil...",
+      "itemIds": ["word-b3-411"]
+    },
+    {
+      "id": "b3-l60-ex11",
+      "type": "meaning-to-word",
+      "prompt": "the specific thing being praised",
+      "answer": "المَخْصُوص بِالمَدْح",
+      "itemIds": ["word-b3-415"]
+    },
+    {
+      "id": "b3-l60-ex12",
+      "type": "meaning-to-word",
+      "prompt": "invariable/frozen verbs",
+      "answer": "أَفْعَال جَامِدَة",
+      "itemIds": ["word-b3-416"]
+    }
+  ]
+}

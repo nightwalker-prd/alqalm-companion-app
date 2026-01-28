@@ -1,0 +1,135 @@
+{
+  "id": "b3-l08",
+  "book": 3,
+  "lesson": 8,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب اِفْتَعَلَ",
+  "titleEn": "Derived Form VIII (اِفْتَعَلَ)",
+  "description": "Learn Form VIII verbs (reflexive): اِجْتَمَعَ (to gather), اِسْتَمَعَ (to listen), اِنْتَظَرَ (to wait).",
+  "vocabulary": ["word-b3-039", "word-b3-040", "word-b3-041", "word-b3-042", "word-b3-043"],
+  "grammarPoints": ["gp-b3-008"],
+  "notes": [
+    {
+      "title": "Definite and Indefinite Nouns (المعرفة والنكرة)",
+      "titleArabic": "المعرفة والنكرة",
+      "content": [
+        "Arabic nouns are either definite (ma'rifa) or indefinite (nakira). Understanding this distinction is essential for proper agreement and usage in sentences."
+      ],
+      "keyPoints": [
+        "Seven categories of definite nouns exist in Arabic",
+        "Indefinite nouns take tanwīn (nunation)",
+        "Vocative (nidā') can affect definiteness",
+        "Proper nouns are inherently definite"
+      ],
+      "examples": [
+        { "arabic": "الْكِتَابُ", "english": "the book (definite with al)" },
+        { "arabic": "كِتَابٌ", "english": "a book (indefinite with tanwīn)" },
+        { "arabic": "يَا مُحَمَّدُ", "english": "O Muhammad! (vocative)" }
+      ]
+    },
+    {
+      "title": "Form VIII Verbs (اِفْتَعَلَ)",
+      "titleArabic": "باب اِفْتَعَلَ",
+      "content": [
+        "Form VIII verbs are formed by prefixing اِ and inserting تَ after the first radical. This pattern can indicate reflexive action, effort, or mutual action."
+      ],
+      "keyPoints": [
+        "Pattern: اِفْتَعَلَ (ifta'ala) - with infixed tā'",
+        "Maṣdar pattern: اِفْتِعَال (ifti'āl)",
+        "Assimilation rules apply when first radical is certain letters",
+        "Can indicate effort or striving in an action"
+      ],
+      "examples": [
+        { "arabic": "اِجْتَمَعَ", "english": "to gather / meet" },
+        { "arabic": "اِسْتَمَعَ", "english": "to listen" },
+        { "arabic": "اِخْتَارَ", "english": "to choose" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l08-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The people gathered",
+      "answer": "اِجْتَمَعَ النَّاسُ",
+      "itemIds": ["word-b3-039", "word-b3-044"]
+    },
+    {
+      "id": "b3-l08-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I listened to the lecture",
+      "answer": "اِسْتَمَعْتُ إِلَى الْمُحَاضَرَةِ",
+      "itemIds": ["word-b3-040", "word-b3-045"]
+    },
+    {
+      "id": "b3-l08-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّالِبُ أُسْتَاذَهُ",
+      "promptEn": "The student waited for his professor",
+      "answer": "اِنْتَظَرَ",
+      "itemIds": ["word-b3-041"]
+    },
+    {
+      "id": "b3-l08-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِجْتَمَعَ",
+      "answer": "to gather / meet",
+      "itemIds": ["word-b3-039"]
+    },
+    {
+      "id": "b3-l08-ex05",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَمَعَ",
+      "answer": "to listen",
+      "itemIds": ["word-b3-040"]
+    },
+    {
+      "id": "b3-l08-ex06",
+      "type": "word-to-meaning",
+      "prompt": "اِنْتَظَرَ",
+      "answer": "to wait",
+      "itemIds": ["word-b3-041"]
+    },
+    {
+      "id": "b3-l08-ex07",
+      "type": "word-to-meaning",
+      "prompt": "اِخْتَارَ",
+      "answer": "to choose",
+      "itemIds": ["word-b3-042"]
+    },
+    {
+      "id": "b3-l08-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِحْتَرَمَ",
+      "answer": "to respect",
+      "itemIds": ["word-b3-043"]
+    },
+    {
+      "id": "b3-l08-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to listen (Form VIII)",
+      "answer": "اِسْتَمَعَ",
+      "itemIds": ["word-b3-040"]
+    },
+    {
+      "id": "b3-l08-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to choose (Form VIII)",
+      "answer": "اِخْتَارَ",
+      "itemIds": ["word-b3-042"]
+    },
+    {
+      "id": "b3-l08-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The Muslims gathered in the mosque for prayer",
+      "answer": "اِجْتَمَعَ الْمُسْلِمُونَ فِي الْمَسْجِدِ لِلصَّلَاةِ",
+      "itemIds": ["word-b3-039", "word-008"]
+    },
+    {
+      "id": "b3-l08-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher chose the best student for the competition",
+      "answer": "اِخْتَارَ الْمُدَرِّسُ أَفْضَلَ طَالِبٍ لِلْمُسَابَقَةِ",
+      "itemIds": ["word-b3-042", "word-004"]
+    }
+  ]
+}

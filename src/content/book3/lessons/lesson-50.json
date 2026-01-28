@@ -1,0 +1,141 @@
+{
+  "id": "b3-l50",
+  "book": 3,
+  "lesson": 50,
+  "title": "نُونَا التَّوْكِيد",
+  "titleEn": "The Nuns of Emphasis",
+  "description": "Learn about نون التوكيد الثقيلة (نّ) and نون التوكيد الخفيفة (نْ) that attach to verbs for emphasis.",
+  "vocabulary": ["word-b3-351", "word-b3-352", "word-b3-353", "word-b3-354", "word-b3-355", "word-b3-356"],
+  "grammarPoints": ["gp-b3-062", "gp-b3-063"],
+  "notes": [
+    {
+      "title": "The Two Emphasis Nuns",
+      "titleArabic": "نونا التوكيد",
+      "content": [
+        "Arabic has two emphasis nuns: the heavy nun (نون التوكيد الثقيلة - نَّ) and the light nun (نون التوكيد الخفيفة - نْ).",
+        "They attach to present tense verbs to emphasize the action, common after oaths and with لَام التوكيد."
+      ],
+      "keyPoints": [
+        "Heavy nun (الثقيلة): لَيَفْعَلَنَّ (he will surely do)",
+        "Light nun (الخفيفة): لَيَفْعَلَنْ (he will surely do)",
+        "Heavy is more emphatic than light",
+        "Both cause the verb to be مبني (invariable)"
+      ],
+      "examples": [
+        { "arabic": "وَاللهِ لَأَذْهَبَنَّ", "english": "By Allah, I will surely go" },
+        { "arabic": "لَيَفْعَلَنَّ الْخَيْرَ", "english": "He will surely do good" },
+        { "arabic": "لَتُسْأَلُنَّ عَنْ أَعْمَالِكُمْ", "english": "You will surely be asked about your deeds" },
+        { "arabic": "لَيُنْصَرَنْ الْمَظْلُومُ", "english": "The oppressed will surely be helped" }
+      ]
+    },
+    {
+      "title": "Conditions and Usage",
+      "titleArabic": "شروط استعمال نون التوكيد",
+      "content": [
+        "The emphasis nuns attach to present tense verbs (المضارع) in specific contexts: after oaths with لَام, with conditional لَا, or expressing strong determination.",
+        "The verb ending changes when the nun is attached: يَفْعَلُ → يَفْعَلَنَّ."
+      ],
+      "keyPoints": [
+        "After oath + لام: وَاللهِ لَأَفْعَلَنَّ",
+        "With لَا in negative commands: لَا تَفْعَلَنَّ",
+        "Verb becomes مبني على الفتح before نّ",
+        "Common in Quran: لَنَسْفَعًا (We will surely drag)"
+      ],
+      "examples": [
+        { "arabic": "لَا تَحْسَبَنَّ اللهَ غَافِلًا", "english": "Do not think Allah is unaware" },
+        { "arabic": "لَيَسْجُنُنَّهُ", "english": "They will surely imprison him" },
+        { "arabic": "لَنَسْفَعًا بِالنَّاصِيَةِ", "english": "We will surely drag by the forelock" },
+        { "arabic": "لَأُعَذِّبَنَّهُ عَذَابًا شَدِيدًا", "english": "I will surely punish him severely" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l50-ex01",
+      "type": "fill-blank",
+      "prompt": "وَاللهِ _____",
+      "promptEn": "By Allah, I will surely _____",
+      "answer": "لَأَذْهَبَنَّ",
+      "itemIds": ["word-b3-351"]
+    },
+    {
+      "id": "b3-l50-ex02",
+      "type": "fill-blank",
+      "prompt": "لَا _____ اللهَ غَافِلًا",
+      "promptEn": "Do not _____ Allah is unaware",
+      "answer": "تَحْسَبَنَّ",
+      "itemIds": ["word-b3-352"]
+    },
+    {
+      "id": "b3-l50-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ عَنْ أَعْمَالِكُمْ",
+      "promptEn": "You will surely be _____ about your deeds",
+      "answer": "لَتُسْأَلُنَّ",
+      "itemIds": ["word-b3-353"]
+    },
+    {
+      "id": "b3-l50-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "He will surely do good",
+      "answer": "لَيَفْعَلَنَّ الْخَيْرَ",
+      "itemIds": ["word-b3-354"]
+    },
+    {
+      "id": "b3-l50-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I will surely punish him severely",
+      "answer": "لَأُعَذِّبَنَّهُ عَذَابًا شَدِيدًا",
+      "itemIds": ["word-b3-355"]
+    },
+    {
+      "id": "b3-l50-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "They will surely imprison him",
+      "answer": "لَيَسْجُنُنَّهُ",
+      "itemIds": ["word-b3-356"]
+    },
+    {
+      "id": "b3-l50-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "By Allah, I will surely help you",
+      "answer": "وَاللهِ لَأُسَاعِدَنَّكَ",
+      "itemIds": ["word-b3-351"]
+    },
+    {
+      "id": "b3-l50-ex08",
+      "type": "word-to-meaning",
+      "prompt": "تَوْكِيد",
+      "answer": "emphasis / confirmation",
+      "itemIds": ["word-b3-351"]
+    },
+    {
+      "id": "b3-l50-ex09",
+      "type": "word-to-meaning",
+      "prompt": "حَسِبَ",
+      "answer": "he thought / considered",
+      "itemIds": ["word-b3-352"]
+    },
+    {
+      "id": "b3-l50-ex10",
+      "type": "word-to-meaning",
+      "prompt": "سَأَلَ",
+      "answer": "he asked",
+      "itemIds": ["word-b3-353"]
+    },
+    {
+      "id": "b3-l50-ex11",
+      "type": "meaning-to-word",
+      "prompt": "he punished",
+      "answer": "عَذَّبَ",
+      "itemIds": ["word-b3-355"]
+    },
+    {
+      "id": "b3-l50-ex12",
+      "type": "meaning-to-word",
+      "prompt": "he imprisoned",
+      "answer": "سَجَنَ",
+      "itemIds": ["word-b3-356"]
+    }
+  ]
+}

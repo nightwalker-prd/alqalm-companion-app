@@ -1,0 +1,169 @@
+{
+  "id": "b3-l28",
+  "book": 3,
+  "lesson": 28,
+  "title": "جَوَاب الشَّرْط",
+  "titleEn": "Apodosis (Answer to Condition)",
+  "notes": [
+    {
+      "title": "Absolute Object Review",
+      "titleArabic": "مراجعة المفعول المطلق",
+      "content": [
+        "The maf'ūl muṭlaq serves multiple functions: emphasizing the verb, indicating number of occurrences, or specifying the type of action performed."
+      ],
+      "keyPoints": [
+        "For emphasis: ضَرَبْتُهُ ضَرْبًا",
+        "For number: ضَرَبْتُهُ ضَرْبَتَيْنِ",
+        "For type: ضَرَبْتُهُ ضَرْبًا شَدِيدًا",
+        "Can be replaced by synonyms or related words"
+      ],
+      "examples": [
+        { "arabic": "فَهِمْتُهُ فَهْمًا جَيِّدًا", "english": "I understood it well (type)" },
+        { "arabic": "ضَرَبْتُهُ ضَرْبَتَيْنِ", "english": "I hit him twice (number)" }
+      ]
+    },
+    {
+      "title": "Response to Conditional (جواب الشرط)",
+      "titleArabic": "جواب الشرط",
+      "content": [
+        "The jawāb al-sharṭ (response clause) follows specific rules depending on the conditional particle used. Sometimes فَ is required to introduce the response."
+      ],
+      "keyPoints": [
+        "With إِنْ: jawāb is majzūm if verb",
+        "With لَوْ: jawāb often has لَ prefix",
+        "فَ required when jawāb is nominal, imperative, or has certain particles",
+        "Jawāb can be a full sentence"
+      ],
+      "examples": [
+        { "arabic": "إِنْ تَأْتِ أُسَاعِدْكَ", "english": "If you come, I will help you (no fā')" },
+        { "arabic": "إِنْ جَاءَ فَأَكْرِمْهُ", "english": "If he comes, then honor him (with fā')" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-148",
+    "word-b3-149",
+    "word-b3-150",
+    "word-b3-151",
+    "word-b3-152"
+  ],
+  "grammarPoints": [
+    "gp-b3-028"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l28-ex01",
+      "type": "fill-blank",
+      "prompt": "إِنْ تَدْرُسْ _____ (تَنْجَحْ)",
+      "answer": "تَنْجَحْ",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "If he comes, then tell him",
+      "answer": "إِنْ يَأْتِ فَأَخْبِرْهُ",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex03",
+      "type": "fill-blank",
+      "prompt": "إِذَا جَاءَ _____ لَهُ (فَقُلْ)",
+      "answer": "فَقُلْ",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex04",
+      "type": "word-to-meaning",
+      "prompt": "فَالْمَصِيرُ",
+      "answer": "then the destination (in jawab)",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex05",
+      "type": "meaning-to-word",
+      "prompt": "then say to him",
+      "answer": "فَقُلْ لَهُ",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "If you ask, I will give you",
+      "answer": "إِنْ تَسْأَلْنِي أُعْطِكَ",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex07",
+      "type": "fill-blank",
+      "prompt": "مَنْ يَعْمَلْ خَيْرًا _____ (يَجِدْ)",
+      "answer": "يَجِدْهُ",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَنَجَحَ",
+      "answer": "he would have succeeded (lam + jawab)",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "If Allah wills, it will happen",
+      "answer": "إِنْ شَاءَ اللهُ يَكُنْ",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex10",
+      "type": "fill-blank",
+      "prompt": "لَوْ جَاءَ _____ (لأَكْرَمْتُهُ)",
+      "answer": "لأَكْرَمْتُهُ",
+      "itemIds": [
+        "word-b3-148",
+        "word-b3-149"
+      ]
+    },
+    {
+      "id": "b3-l28-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "If he had helped me, I would have thanked him",
+      "answer": "لَوْ سَاعَدَنِي لَشَكَرْتُهُ",
+      "itemIds": ["word-b3-148", "word-b3-149"]
+    },
+    {
+      "id": "b3-l28-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Whoever seeks knowledge finds guidance",
+      "answer": "مَنْ يَطْلُبِ الْعِلْمَ يَجِدِ الْهِدَايَةَ",
+      "itemIds": ["word-b3-148", "word-b3-149"]
+    }
+  ]
+}

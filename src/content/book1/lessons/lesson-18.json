@@ -1,0 +1,118 @@
+{
+  "id": "b1-l18",
+  "book": 1,
+  "lesson": 18,
+  "title": "الْمُضَارِع مَعَ الضَّمَائِر",
+  "titleEn": "Present Tense with Pronouns",
+  "description": "Learn present tense conjugations: أَذْهَبُ (I go), تَذْهَبُ (you go), نَذْهَبُ (we go).",
+  "vocabulary": ["word-108", "word-109", "word-110", "word-111"],
+  "grammarPoints": ["gp-023"],
+  "notes": [
+    {
+      "title": "Present Tense Conjugation",
+      "titleArabic": "تَصْرِيفُ الْمُضَارِع",
+      "content": [
+        "Each pronoun has a specific prefix (and sometimes suffix) for the present tense. These prefixes indicate who is performing the action.",
+        "The prefixes are: أَ (I), تَ (you masc./she), نَ (we), يَ (he/they masc.). Feminine and plural forms add suffixes as well."
+      ],
+      "keyPoints": [
+        "أَنَا: أَذْهَبُ (I go) - prefix أَ",
+        "أَنْتَ: تَذْهَبُ (you m. go) - prefix تَ",
+        "نَحْنُ: نَذْهَبُ (we go) - prefix نَ",
+        "هُوَ: يَذْهَبُ (he goes) - prefix يَ"
+      ],
+      "examples": [
+        { "arabic": "أَذْهَبُ إِلَى الْمَسْجِدِ", "english": "I go to the mosque" },
+        { "arabic": "تَذْهَبُ إِلَى الْمَدْرَسَةِ", "english": "You (m.) go to the school" },
+        { "arabic": "نَذْهَبُ إِلَى الْبَيْتِ", "english": "We go to the house" },
+        { "arabic": "أَكْتُبُ فِي الدَّفْتَرِ", "english": "I write in the notebook" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l18-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I go",
+      "answer": "أَذْهَبُ",
+      "itemIds": ["word-108"]
+    },
+    {
+      "id": "b1-l18-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "You (m.) go",
+      "answer": "تَذْهَبُ",
+      "itemIds": ["word-109"]
+    },
+    {
+      "id": "b1-l18-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "We go",
+      "answer": "نَذْهَبُ",
+      "itemIds": ["word-110"]
+    },
+    {
+      "id": "b1-l18-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "I write",
+      "answer": "أَكْتُبُ",
+      "itemIds": ["word-111"]
+    },
+    {
+      "id": "b1-l18-ex05",
+      "type": "word-to-meaning",
+      "prompt": "أَذْهَبُ",
+      "answer": "I go",
+      "itemIds": ["word-108"]
+    },
+    {
+      "id": "b1-l18-ex06",
+      "type": "word-to-meaning",
+      "prompt": "تَذْهَبُ",
+      "answer": "you (m.) go",
+      "itemIds": ["word-109"]
+    },
+    {
+      "id": "b1-l18-ex07",
+      "type": "word-to-meaning",
+      "prompt": "نَذْهَبُ",
+      "answer": "we go",
+      "itemIds": ["word-110"]
+    },
+    {
+      "id": "b1-l18-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَكْتُبُ",
+      "answer": "I write",
+      "itemIds": ["word-111"]
+    },
+    {
+      "id": "b1-l18-ex09",
+      "type": "meaning-to-word",
+      "prompt": "you (m.) write",
+      "answer": "تَكْتُبُ",
+      "itemIds": ["word-109", "word-103"]
+    },
+    {
+      "id": "b1-l18-ex10",
+      "type": "meaning-to-word",
+      "prompt": "we write",
+      "answer": "نَكْتُبُ",
+      "itemIds": ["word-110", "word-103"]
+    },
+    {
+      "id": "b1-l18-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I go to the mosque every day",
+      "answer": "أَذْهَبُ إِلَى الْمَسْجِدِ كُلَّ يَوْمٍ",
+      "itemIds": ["word-108", "word-048", "word-007"]
+    },
+    {
+      "id": "b1-l18-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "We read the books in the room",
+      "answer": "نَقْرَأُ الْكُتُبَ فِي الْغُرْفَةِ",
+      "itemIds": ["word-110", "word-104", "word-096", "word-046", "word-037"]
+    }
+  ]
+}

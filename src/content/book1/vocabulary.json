@@ -1,0 +1,2338 @@
+[
+  {
+    "id": "word-001",
+    "arabic": "هَذَا",
+    "english": "this (masc.)",
+    "root": null,
+    "lesson": "b1-l01",
+    "partOfSpeech": "demonstrative"
+  },
+  {
+    "id": "word-002",
+    "arabic": "كِتَابٌ",
+    "english": "book",
+    "root": "ك-ت-ب",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-003",
+    "arabic": "قَلَمٌ",
+    "english": "pen",
+    "root": "ق-ل-م",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-004",
+    "arabic": "مُدَرِّسٌ",
+    "english": "teacher (masc.)",
+    "root": "د-ر-س",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-005",
+    "arabic": "طَالِبٌ",
+    "english": "student (masc.)",
+    "root": "ط-ل-ب",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-006",
+    "arabic": "بَيْتٌ",
+    "english": "house",
+    "root": "ب-ي-ت",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-007",
+    "arabic": "مَسْجِدٌ",
+    "english": "mosque",
+    "root": "س-ج-د",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-008",
+    "arabic": "سَرِيرٌ",
+    "english": "bed",
+    "root": "س-ر-ر",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-009",
+    "arabic": "رَجُلٌ",
+    "english": "man",
+    "root": "ر-ج-ل",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-010",
+    "arabic": "ذَلِكَ",
+    "english": "that (masc.)",
+    "root": null,
+    "lesson": "b1-l02",
+    "partOfSpeech": "demonstrative"
+  },
+  {
+    "id": "word-011",
+    "arabic": "نَجْمٌ",
+    "english": "star",
+    "root": "ن-ج-م",
+    "lesson": "b1-l02",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-012",
+    "arabic": "قَمَرٌ",
+    "english": "moon",
+    "root": "ق-م-ر",
+    "lesson": "b1-l02",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-013",
+    "arabic": "حَجَرٌ",
+    "english": "stone",
+    "root": "ح-ج-ر",
+    "lesson": "b1-l02",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-014",
+    "arabic": "جَبَلٌ",
+    "english": "mountain",
+    "root": "ج-ب-ل",
+    "lesson": "b1-l02",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-015",
+    "arabic": "مَا",
+    "english": "what",
+    "root": null,
+    "lesson": "b1-l03",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-016",
+    "arabic": "مَنْ",
+    "english": "who",
+    "root": null,
+    "lesson": "b1-l03",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-017",
+    "arabic": "طَبِيبٌ",
+    "english": "doctor",
+    "root": "ط-ب-ب",
+    "lesson": "b1-l03",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-018",
+    "arabic": "تَاجِرٌ",
+    "english": "merchant",
+    "root": "ت-ج-ر",
+    "lesson": "b1-l03",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-019",
+    "arabic": "فَلَّاحٌ",
+    "english": "farmer",
+    "root": "ف-ل-ح",
+    "lesson": "b1-l03",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-020",
+    "arabic": "مُهَنْدِسٌ",
+    "english": "engineer",
+    "root": "ه-ن-د-س",
+    "lesson": "b1-l03",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-021",
+    "arabic": "هُوَ",
+    "english": "he",
+    "root": null,
+    "lesson": "b1-l04",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "id": "word-022",
+    "arabic": "أَخٌ",
+    "english": "brother",
+    "root": "أ-خ-و",
+    "lesson": "b1-l04",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-023",
+    "arabic": "وَلَدٌ",
+    "english": "boy, child",
+    "root": "و-ل-د",
+    "lesson": "b1-l04",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-024",
+    "arabic": "إِمَامٌ",
+    "english": "imam, leader",
+    "root": "أ-م-م",
+    "lesson": "b1-l04",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-025",
+    "arabic": "صَدِيقٌ",
+    "english": "friend",
+    "root": "ص-د-ق",
+    "lesson": "b1-l04",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-026",
+    "arabic": "ابْنٌ",
+    "english": "son",
+    "root": "ب-ن-و",
+    "lesson": "b1-l04",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-027",
+    "arabic": "هَذِهِ",
+    "english": "this (fem.)",
+    "root": null,
+    "lesson": "b1-l05",
+    "partOfSpeech": "demonstrative"
+  },
+  {
+    "id": "word-028",
+    "arabic": "هِيَ",
+    "english": "she",
+    "root": null,
+    "lesson": "b1-l05",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "id": "word-029",
+    "arabic": "أُخْتٌ",
+    "english": "sister",
+    "root": "أ-خ-و",
+    "lesson": "b1-l05",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-030",
+    "arabic": "بِنْتٌ",
+    "english": "girl, daughter",
+    "root": "ب-ن-ت",
+    "lesson": "b1-l05",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-031",
+    "arabic": "أُمٌّ",
+    "english": "mother",
+    "root": "أ-م-م",
+    "lesson": "b1-l05",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-032",
+    "arabic": "سَيَّارَةٌ",
+    "english": "car",
+    "root": "س-ي-ر",
+    "lesson": "b1-l05",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-033",
+    "arabic": "طَاوِلَةٌ",
+    "english": "table",
+    "root": "ط-و-ل",
+    "lesson": "b1-l05",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-034",
+    "arabic": "تِلْكَ",
+    "english": "that (fem.)",
+    "root": null,
+    "lesson": "b1-l06",
+    "partOfSpeech": "demonstrative"
+  },
+  {
+    "id": "word-035",
+    "arabic": "مَدْرَسَةٌ",
+    "english": "school",
+    "root": "د-ر-س",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-036",
+    "arabic": "جَامِعَةٌ",
+    "english": "university",
+    "root": "ج-م-ع",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-037",
+    "arabic": "غُرْفَةٌ",
+    "english": "room",
+    "root": "غ-ر-ف",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-038",
+    "arabic": "نَافِذَةٌ",
+    "english": "window",
+    "root": "ن-ف-ذ",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-039",
+    "arabic": "صُورَةٌ",
+    "english": "picture",
+    "root": "ص-و-ر",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-040",
+    "arabic": "كِتَابُ الطَّالِبِ",
+    "english": "the student's book",
+    "root": null,
+    "lesson": "b1-l07",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "word-041",
+    "arabic": "بَابُ الْبَيْتِ",
+    "english": "the door of the house",
+    "root": null,
+    "lesson": "b1-l07",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "word-042",
+    "arabic": "قَلَمُ الْمُدَرِّسِ",
+    "english": "the teacher's pen",
+    "root": null,
+    "lesson": "b1-l07",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "word-043",
+    "arabic": "مِفْتَاحُ السَّيَّارَةِ",
+    "english": "the car key",
+    "root": null,
+    "lesson": "b1-l07",
+    "partOfSpeech": "phrase"
+  },
+  {
+    "id": "word-044",
+    "arabic": "بَابٌ",
+    "english": "door",
+    "root": "ب-و-ب",
+    "lesson": "b1-l07",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-045",
+    "arabic": "مِفْتَاحٌ",
+    "english": "key",
+    "root": "ف-ت-ح",
+    "lesson": "b1-l07",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-046",
+    "arabic": "فِي",
+    "english": "in",
+    "root": null,
+    "lesson": "b1-l08",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "id": "word-047",
+    "arabic": "مِنْ",
+    "english": "from",
+    "root": null,
+    "lesson": "b1-l08",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "id": "word-048",
+    "arabic": "إِلَى",
+    "english": "to",
+    "root": null,
+    "lesson": "b1-l08",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "id": "word-049",
+    "arabic": "عَلَى",
+    "english": "on",
+    "root": null,
+    "lesson": "b1-l08",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "id": "word-050",
+    "arabic": "مَعَ",
+    "english": "with",
+    "root": null,
+    "lesson": "b1-l08",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "id": "word-051",
+    "arabic": "عَنْ",
+    "english": "about, from",
+    "root": null,
+    "lesson": "b1-l08",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "id": "word-052",
+    "arabic": "جَدِيدٌ",
+    "english": "new",
+    "root": "ج-د-د",
+    "lesson": "b1-l09",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-053",
+    "arabic": "كَبِيرٌ",
+    "english": "big",
+    "root": "ك-ب-ر",
+    "lesson": "b1-l09",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-054",
+    "arabic": "صَغِيرٌ",
+    "english": "small",
+    "root": "ص-غ-ر",
+    "lesson": "b1-l09",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-055",
+    "arabic": "جَمِيلٌ",
+    "english": "beautiful",
+    "root": "ج-م-ل",
+    "lesson": "b1-l09",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-056",
+    "arabic": "قَدِيمٌ",
+    "english": "old (thing)",
+    "root": "ق-د-م",
+    "lesson": "b1-l09",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-057",
+    "arabic": "طَوِيلٌ",
+    "english": "long, tall",
+    "root": "ط-و-ل",
+    "lesson": "b1-l09",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-058",
+    "arabic": "وَاحِدٌ",
+    "english": "one",
+    "root": "و-ح-د",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-059",
+    "arabic": "اِثْنَانِ",
+    "english": "two",
+    "root": "ث-ن-ي",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-060",
+    "arabic": "ثَلَاثَةٌ",
+    "english": "three",
+    "root": "ث-ل-ث",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-061",
+    "arabic": "أَرْبَعَةٌ",
+    "english": "four",
+    "root": "ر-ب-ع",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-062",
+    "arabic": "خَمْسَةٌ",
+    "english": "five",
+    "root": "خ-م-س",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-063",
+    "arabic": "سِتَّةٌ",
+    "english": "six",
+    "root": "س-ت-ت",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-064",
+    "arabic": "سَبْعَةٌ",
+    "english": "seven",
+    "root": "س-ب-ع",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-065",
+    "arabic": "ثَمَانِيَةٌ",
+    "english": "eight",
+    "root": "ث-م-ن",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-066",
+    "arabic": "تِسْعَةٌ",
+    "english": "nine",
+    "root": "ت-س-ع",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-067",
+    "arabic": "عَشَرَةٌ",
+    "english": "ten",
+    "root": "ع-ش-ر",
+    "lesson": "b1-l10",
+    "partOfSpeech": "number"
+  },
+  {
+    "id": "word-068",
+    "arabic": "ذَهَبَ",
+    "english": "he went",
+    "root": "ذ-ه-ب",
+    "lesson": "b1-l11",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-069",
+    "arabic": "كَتَبَ",
+    "english": "he wrote",
+    "root": "ك-ت-ب",
+    "lesson": "b1-l11",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-070",
+    "arabic": "قَرَأَ",
+    "english": "he read",
+    "root": "ق-ر-أ",
+    "lesson": "b1-l11",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-071",
+    "arabic": "جَلَسَ",
+    "english": "he sat",
+    "root": "ج-ل-س",
+    "lesson": "b1-l11",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-072",
+    "arabic": "دَخَلَ",
+    "english": "he entered",
+    "root": "د-خ-ل",
+    "lesson": "b1-l11",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-073",
+    "arabic": "خَرَجَ",
+    "english": "he exited",
+    "root": "خ-ر-ج",
+    "lesson": "b1-l11",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-074",
+    "arabic": "أَنَا",
+    "english": "I",
+    "root": null,
+    "lesson": "b1-l12",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "id": "word-075",
+    "arabic": "أَنْتَ",
+    "english": "you (masc.)",
+    "root": null,
+    "lesson": "b1-l12",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "id": "word-076",
+    "arabic": "أَنْتِ",
+    "english": "you (fem.)",
+    "root": null,
+    "lesson": "b1-l12",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "id": "word-077",
+    "arabic": "نَحْنُ",
+    "english": "we",
+    "root": null,
+    "lesson": "b1-l12",
+    "partOfSpeech": "pronoun"
+  },
+  {
+    "id": "word-078",
+    "arabic": "طَالِبَةٌ",
+    "english": "female student",
+    "root": "ط-ل-ب",
+    "lesson": "b1-l13",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-079",
+    "arabic": "مُدَرِّسَةٌ",
+    "english": "female teacher",
+    "root": "د-ر-س",
+    "lesson": "b1-l13",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-080",
+    "arabic": "ذَهَبَتْ",
+    "english": "she went",
+    "root": "ذ-ه-ب",
+    "lesson": "b1-l13",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-081",
+    "arabic": "كَتَبَتْ",
+    "english": "she wrote",
+    "root": "ك-ت-ب",
+    "lesson": "b1-l13",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-082",
+    "arabic": "طَبِيبَةٌ",
+    "english": "female doctor",
+    "root": "ط-ب-ب",
+    "lesson": "b1-l13",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-083",
+    "arabic": "مُهَنْدِسَةٌ",
+    "english": "female engineer",
+    "root": "ه-ن-د-س",
+    "lesson": "b1-l13",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-084",
+    "arabic": "كِتَابَانِ",
+    "english": "two books",
+    "root": "ك-ت-ب",
+    "lesson": "b1-l14",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-085",
+    "arabic": "طَالِبَانِ",
+    "english": "two students (masc.)",
+    "root": "ط-ل-ب",
+    "lesson": "b1-l14",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-086",
+    "arabic": "قَلَمَانِ",
+    "english": "two pens",
+    "root": "ق-ل-م",
+    "lesson": "b1-l14",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-087",
+    "arabic": "بَيْتَانِ",
+    "english": "two houses",
+    "root": "ب-ي-ت",
+    "lesson": "b1-l14",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-088",
+    "arabic": "طَالِبَتَانِ",
+    "english": "two students (fem.)",
+    "root": "ط-ل-ب",
+    "lesson": "b1-l14",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-089",
+    "arabic": "مُدَرِّسَانِ",
+    "english": "two teachers (masc.)",
+    "root": "د-ر-س",
+    "lesson": "b1-l14",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-090",
+    "arabic": "مُدَرِّسُونَ",
+    "english": "teachers (masc.)",
+    "root": "د-ر-س",
+    "lesson": "b1-l15",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-091",
+    "arabic": "طَالِبَاتٌ",
+    "english": "students (fem.)",
+    "root": "ط-ل-ب",
+    "lesson": "b1-l15",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-092",
+    "arabic": "مُهَنْدِسُونَ",
+    "english": "engineers (masc.)",
+    "root": "ه-ن-د-س",
+    "lesson": "b1-l15",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-093",
+    "arabic": "مُدَرِّسَاتٌ",
+    "english": "teachers (fem.)",
+    "root": "د-ر-س",
+    "lesson": "b1-l15",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-094",
+    "arabic": "مُسْلِمُونَ",
+    "english": "Muslims (masc.)",
+    "root": "س-ل-م",
+    "lesson": "b1-l15",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-095",
+    "arabic": "مُسْلِمَاتٌ",
+    "english": "Muslims (fem.)",
+    "root": "س-ل-م",
+    "lesson": "b1-l15",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-096",
+    "arabic": "كُتُبٌ",
+    "english": "books",
+    "root": "ك-ت-ب",
+    "lesson": "b1-l16",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-097",
+    "arabic": "بُيُوتٌ",
+    "english": "houses",
+    "root": "ب-ي-ت",
+    "lesson": "b1-l16",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-098",
+    "arabic": "أَقْلَامٌ",
+    "english": "pens",
+    "root": "ق-ل-م",
+    "lesson": "b1-l16",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-099",
+    "arabic": "رِجَالٌ",
+    "english": "men",
+    "root": "ر-ج-ل",
+    "lesson": "b1-l16",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-100",
+    "arabic": "أَبْوَابٌ",
+    "english": "doors",
+    "root": "ب-و-ب",
+    "lesson": "b1-l16",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-101",
+    "arabic": "أَوْلَادٌ",
+    "english": "children",
+    "root": "و-ل-د",
+    "lesson": "b1-l16",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-102",
+    "arabic": "يَذْهَبُ",
+    "english": "he goes",
+    "root": "ذ-ه-ب",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-103",
+    "arabic": "يَكْتُبُ",
+    "english": "he writes",
+    "root": "ك-ت-ب",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-104",
+    "arabic": "يَقْرَأُ",
+    "english": "he reads",
+    "root": "ق-ر-أ",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-105",
+    "arabic": "يَجْلِسُ",
+    "english": "he sits",
+    "root": "ج-ل-س",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-106",
+    "arabic": "يَدْخُلُ",
+    "english": "he enters",
+    "root": "د-خ-ل",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-107",
+    "arabic": "يَخْرُجُ",
+    "english": "he exits",
+    "root": "خ-ر-ج",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-108",
+    "arabic": "أَذْهَبُ",
+    "english": "I go",
+    "root": "ذ-ه-ب",
+    "lesson": "b1-l18",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-109",
+    "arabic": "تَذْهَبُ",
+    "english": "you (masc.) go",
+    "root": "ذ-ه-ب",
+    "lesson": "b1-l18",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-110",
+    "arabic": "نَذْهَبُ",
+    "english": "we go",
+    "root": "ذ-ه-ب",
+    "lesson": "b1-l18",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-111",
+    "arabic": "أَكْتُبُ",
+    "english": "I write",
+    "root": "ك-ت-ب",
+    "lesson": "b1-l18",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-112",
+    "arabic": "لَا",
+    "english": "no, not",
+    "root": null,
+    "lesson": "b1-l19",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-113",
+    "arabic": "لَيْسَ",
+    "english": "is not",
+    "root": "ل-ي-س",
+    "lesson": "b1-l19",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-114",
+    "arabic": "مَا",
+    "english": "did not (past negation)",
+    "root": null,
+    "lesson": "b1-l19",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-115",
+    "arabic": "لَنْ",
+    "english": "will not",
+    "root": null,
+    "lesson": "b1-l19",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-116",
+    "arabic": "وَلَدٌ",
+    "english": "boy",
+    "root": "و-ل-د",
+    "lesson": "b1-l20",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-117",
+    "arabic": "بِنْتٌ",
+    "english": "girl",
+    "root": "ب-ن-ت",
+    "lesson": "b1-l20",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-118",
+    "arabic": "أُمٌّ",
+    "english": "mother",
+    "root": "أ-م-م",
+    "lesson": "b1-l20",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-119",
+    "arabic": "أَبٌ",
+    "english": "father",
+    "root": "أ-ب-و",
+    "lesson": "b1-l20",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-120",
+    "arabic": "مُجْتَهِدٌ",
+    "english": "diligent",
+    "root": "ج-ه-د",
+    "lesson": "b1-l21",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-121",
+    "arabic": "حَاضِرٌ",
+    "english": "present",
+    "root": "ح-ض-ر",
+    "lesson": "b1-l21",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-122",
+    "arabic": "غَائِبٌ",
+    "english": "absent",
+    "root": "غ-ي-ب",
+    "lesson": "b1-l21",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-123",
+    "arabic": "كَسْلَانٌ",
+    "english": "lazy",
+    "root": "ك-س-ل",
+    "lesson": "b1-l21",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-124",
+    "arabic": "إِنَّ",
+    "english": "indeed, verily",
+    "root": null,
+    "lesson": "b1-l22",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-125",
+    "arabic": "أَنَّ",
+    "english": "that (conjunction)",
+    "root": null,
+    "lesson": "b1-l22",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-126",
+    "arabic": "لَكِنَّ",
+    "english": "but, however",
+    "root": null,
+    "lesson": "b1-l22",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-127",
+    "arabic": "لَعَلَّ",
+    "english": "perhaps, maybe",
+    "root": null,
+    "lesson": "b1-l22",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-128",
+    "arabic": "كَانَ",
+    "english": "was, were",
+    "root": "ك-و-ن",
+    "lesson": "b1-l23",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-129",
+    "arabic": "أَصْبَحَ",
+    "english": "became (in morning)",
+    "root": "ص-ب-ح",
+    "lesson": "b1-l23",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-130",
+    "arabic": "صَارَ",
+    "english": "became",
+    "root": "ص-ي-ر",
+    "lesson": "b1-l23",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-131",
+    "arabic": "لَيْسَ",
+    "english": "is not",
+    "root": "ل-ي-س",
+    "lesson": "b1-l23",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-132",
+    "arabic": "كُرْسِيٌّ",
+    "english": "chair",
+    "root": "ك-ر-س",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-133",
+    "arabic": "حَائِطٌ",
+    "english": "wall",
+    "root": "ح-و-ط",
+    "lesson": "b1-l01",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-134",
+    "arabic": "سَقْفٌ",
+    "english": "ceiling, roof",
+    "root": "س-ق-ف",
+    "lesson": "b1-l02",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-135",
+    "arabic": "أَرْضٌ",
+    "english": "floor, ground, earth",
+    "root": "أ-ر-ض",
+    "lesson": "b1-l02",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-136",
+    "arabic": "سَمَاءٌ",
+    "english": "sky, heaven",
+    "root": "س-م-و",
+    "lesson": "b1-l02",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-137",
+    "arabic": "شَمْسٌ",
+    "english": "sun",
+    "root": "ش-م-س",
+    "lesson": "b1-l02",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-138",
+    "arabic": "مَاءٌ",
+    "english": "water",
+    "root": "م-و-ه",
+    "lesson": "b1-l03",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-139",
+    "arabic": "طَعَامٌ",
+    "english": "food",
+    "root": "ط-ع-م",
+    "lesson": "b1-l03",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-140",
+    "arabic": "خُبْزٌ",
+    "english": "bread",
+    "root": "خ-ب-ز",
+    "lesson": "b1-l03",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-141",
+    "arabic": "لَبَنٌ",
+    "english": "milk",
+    "root": "ل-ب-ن",
+    "lesson": "b1-l03",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-142",
+    "arabic": "لَحْمٌ",
+    "english": "meat",
+    "root": "ل-ح-م",
+    "lesson": "b1-l04",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-143",
+    "arabic": "سَمَكٌ",
+    "english": "fish",
+    "root": "س-م-ك",
+    "lesson": "b1-l04",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-144",
+    "arabic": "فَاكِهَةٌ",
+    "english": "fruit",
+    "root": "ف-ك-ه",
+    "lesson": "b1-l04",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-145",
+    "arabic": "تُفَّاحٌ",
+    "english": "apple",
+    "root": "ت-ف-ح",
+    "lesson": "b1-l05",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-146",
+    "arabic": "مَوْزٌ",
+    "english": "banana",
+    "root": "م-و-ز",
+    "lesson": "b1-l05",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-147",
+    "arabic": "عِنَبٌ",
+    "english": "grapes",
+    "root": "ع-ن-ب",
+    "lesson": "b1-l05",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-148",
+    "arabic": "يَدٌ",
+    "english": "hand",
+    "root": "ي-د-ي",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-149",
+    "arabic": "رَأْسٌ",
+    "english": "head",
+    "root": "ر-أ-س",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-150",
+    "arabic": "عَيْنٌ",
+    "english": "eye",
+    "root": "ع-ي-ن",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-151",
+    "arabic": "أُذُنٌ",
+    "english": "ear",
+    "root": "أ-ذ-ن",
+    "lesson": "b1-l06",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-152",
+    "arabic": "أَنْفٌ",
+    "english": "nose",
+    "root": "أ-ن-ف",
+    "lesson": "b1-l07",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-153",
+    "arabic": "فَمٌ",
+    "english": "mouth",
+    "root": "ف-و-ه",
+    "lesson": "b1-l07",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-154",
+    "arabic": "قَدَمٌ",
+    "english": "foot",
+    "root": "ق-د-م",
+    "lesson": "b1-l07",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-155",
+    "arabic": "قَلْبٌ",
+    "english": "heart",
+    "root": "ق-ل-ب",
+    "lesson": "b1-l07",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-156",
+    "arabic": "كَلْبٌ",
+    "english": "dog",
+    "root": "ك-ل-ب",
+    "lesson": "b1-l08",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-157",
+    "arabic": "قِطَّةٌ",
+    "english": "cat",
+    "root": "ق-ط-ط",
+    "lesson": "b1-l08",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-158",
+    "arabic": "حِصَانٌ",
+    "english": "horse",
+    "root": "ح-ص-ن",
+    "lesson": "b1-l08",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-159",
+    "arabic": "جَمَلٌ",
+    "english": "camel",
+    "root": "ج-م-ل",
+    "lesson": "b1-l08",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-160",
+    "arabic": "طَيْرٌ",
+    "english": "bird",
+    "root": "ط-ي-ر",
+    "lesson": "b1-l09",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-161",
+    "arabic": "دِيكٌ",
+    "english": "rooster",
+    "root": "د-ي-ك",
+    "lesson": "b1-l09",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-162",
+    "arabic": "دَجَاجَةٌ",
+    "english": "chicken (hen)",
+    "root": "د-ج-ج",
+    "lesson": "b1-l09",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-163",
+    "arabic": "أَحْمَرُ",
+    "english": "red",
+    "root": "ح-م-ر",
+    "lesson": "b1-l09",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-164",
+    "arabic": "أَخْضَرُ",
+    "english": "green",
+    "root": "خ-ض-ر",
+    "lesson": "b1-l09",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-165",
+    "arabic": "أَزْرَقُ",
+    "english": "blue",
+    "root": "ز-ر-ق",
+    "lesson": "b1-l10",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-166",
+    "arabic": "أَصْفَرُ",
+    "english": "yellow",
+    "root": "ص-ف-ر",
+    "lesson": "b1-l10",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-167",
+    "arabic": "أَبْيَضُ",
+    "english": "white",
+    "root": "ب-ي-ض",
+    "lesson": "b1-l10",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-168",
+    "arabic": "أَسْوَدُ",
+    "english": "black",
+    "root": "س-و-د",
+    "lesson": "b1-l10",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-169",
+    "arabic": "يَوْمٌ",
+    "english": "day",
+    "root": "ي-و-م",
+    "lesson": "b1-l11",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-170",
+    "arabic": "لَيْلٌ",
+    "english": "night",
+    "root": "ل-ي-ل",
+    "lesson": "b1-l11",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-171",
+    "arabic": "صَبَاحٌ",
+    "english": "morning",
+    "root": "ص-ب-ح",
+    "lesson": "b1-l11",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-172",
+    "arabic": "مَسَاءٌ",
+    "english": "evening",
+    "root": "م-س-و",
+    "lesson": "b1-l11",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-173",
+    "arabic": "أُسْبُوعٌ",
+    "english": "week",
+    "root": "س-ب-ع",
+    "lesson": "b1-l12",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-174",
+    "arabic": "شَهْرٌ",
+    "english": "month",
+    "root": "ش-ه-ر",
+    "lesson": "b1-l12",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-175",
+    "arabic": "سَنَةٌ",
+    "english": "year",
+    "root": "س-ن-و",
+    "lesson": "b1-l12",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-176",
+    "arabic": "سَاعَةٌ",
+    "english": "hour, clock, watch",
+    "root": "س-و-ع",
+    "lesson": "b1-l12",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-177",
+    "arabic": "دَقِيقَةٌ",
+    "english": "minute",
+    "root": "د-ق-ق",
+    "lesson": "b1-l13",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-178",
+    "arabic": "الْيَوْمَ",
+    "english": "today",
+    "root": "ي-و-م",
+    "lesson": "b1-l13",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "id": "word-179",
+    "arabic": "غَدًا",
+    "english": "tomorrow",
+    "root": "غ-د-و",
+    "lesson": "b1-l13",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "id": "word-180",
+    "arabic": "أَمْسِ",
+    "english": "yesterday",
+    "root": "أ-م-س",
+    "lesson": "b1-l13",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "id": "word-181",
+    "arabic": "الآنَ",
+    "english": "now",
+    "root": null,
+    "lesson": "b1-l14",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "id": "word-182",
+    "arabic": "هُنَا",
+    "english": "here",
+    "root": null,
+    "lesson": "b1-l14",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "id": "word-183",
+    "arabic": "هُنَاكَ",
+    "english": "there",
+    "root": null,
+    "lesson": "b1-l14",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "id": "word-184",
+    "arabic": "أَيْنَ",
+    "english": "where",
+    "root": null,
+    "lesson": "b1-l14",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-185",
+    "arabic": "مَتَى",
+    "english": "when",
+    "root": null,
+    "lesson": "b1-l15",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-186",
+    "arabic": "كَيْفَ",
+    "english": "how",
+    "root": null,
+    "lesson": "b1-l15",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-187",
+    "arabic": "لِمَاذَا",
+    "english": "why",
+    "root": null,
+    "lesson": "b1-l15",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-188",
+    "arabic": "كَمْ",
+    "english": "how many, how much",
+    "root": null,
+    "lesson": "b1-l15",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-189",
+    "arabic": "سَمِعَ",
+    "english": "he heard",
+    "root": "س-م-ع",
+    "lesson": "b1-l16",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-190",
+    "arabic": "فَهِمَ",
+    "english": "he understood",
+    "root": "ف-ه-م",
+    "lesson": "b1-l16",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-191",
+    "arabic": "عَرَفَ",
+    "english": "he knew",
+    "root": "ع-ر-ف",
+    "lesson": "b1-l16",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-192",
+    "arabic": "عَلِمَ",
+    "english": "he knew, learned",
+    "root": "ع-ل-م",
+    "lesson": "b1-l16",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-193",
+    "arabic": "فَتَحَ",
+    "english": "he opened",
+    "root": "ف-ت-ح",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-194",
+    "arabic": "أَغْلَقَ",
+    "english": "he closed",
+    "root": "غ-ل-ق",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-195",
+    "arabic": "أَكَلَ",
+    "english": "he ate",
+    "root": "أ-ك-ل",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-196",
+    "arabic": "شَرِبَ",
+    "english": "he drank",
+    "root": "ش-ر-ب",
+    "lesson": "b1-l17",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-197",
+    "arabic": "نَظَرَ",
+    "english": "he looked",
+    "root": "ن-ظ-ر",
+    "lesson": "b1-l18",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-198",
+    "arabic": "وَقَفَ",
+    "english": "he stood",
+    "root": "و-ق-ف",
+    "lesson": "b1-l18",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-199",
+    "arabic": "رَجَعَ",
+    "english": "he returned",
+    "root": "ر-ج-ع",
+    "lesson": "b1-l18",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-200",
+    "arabic": "وَصَلَ",
+    "english": "he arrived",
+    "root": "و-ص-ل",
+    "lesson": "b1-l18",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-201",
+    "arabic": "نَامَ",
+    "english": "he slept",
+    "root": "ن-و-م",
+    "lesson": "b1-l19",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-202",
+    "arabic": "قَامَ",
+    "english": "he stood up",
+    "root": "ق-و-م",
+    "lesson": "b1-l19",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-203",
+    "arabic": "نَعَمْ",
+    "english": "yes",
+    "root": null,
+    "lesson": "b1-l19",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-204",
+    "arabic": "لَا",
+    "english": "no",
+    "root": null,
+    "lesson": "b1-l19",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-205",
+    "arabic": "وَ",
+    "english": "and",
+    "root": null,
+    "lesson": "b1-l20",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "id": "word-206",
+    "arabic": "أَوْ",
+    "english": "or",
+    "root": null,
+    "lesson": "b1-l20",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "id": "word-207",
+    "arabic": "ثُمَّ",
+    "english": "then",
+    "root": null,
+    "lesson": "b1-l20",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "id": "word-208",
+    "arabic": "فَ",
+    "english": "and, so",
+    "root": null,
+    "lesson": "b1-l20",
+    "partOfSpeech": "conjunction"
+  },
+  {
+    "id": "word-209",
+    "arabic": "قَرِيبٌ",
+    "english": "near, close",
+    "root": "ق-ر-ب",
+    "lesson": "b1-l21",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-210",
+    "arabic": "بَعِيدٌ",
+    "english": "far, distant",
+    "root": "ب-ع-د",
+    "lesson": "b1-l21",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-211",
+    "arabic": "سَهْلٌ",
+    "english": "easy",
+    "root": "س-ه-ل",
+    "lesson": "b1-l21",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-212",
+    "arabic": "صَعْبٌ",
+    "english": "difficult",
+    "root": "ص-ع-ب",
+    "lesson": "b1-l21",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-213",
+    "arabic": "سَرِيعٌ",
+    "english": "fast, quick",
+    "root": "س-ر-ع",
+    "lesson": "b1-l22",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-214",
+    "arabic": "بَطِيءٌ",
+    "english": "slow",
+    "root": "ب-ط-أ",
+    "lesson": "b1-l22",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-215",
+    "arabic": "خَفِيفٌ",
+    "english": "light (weight)",
+    "root": "خ-ف-ف",
+    "lesson": "b1-l22",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-216",
+    "arabic": "ثَقِيلٌ",
+    "english": "heavy",
+    "root": "ث-ق-ل",
+    "lesson": "b1-l22",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-217",
+    "arabic": "حَارٌّ",
+    "english": "hot",
+    "root": "ح-ر-ر",
+    "lesson": "b1-l23",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-218",
+    "arabic": "بَارِدٌ",
+    "english": "cold",
+    "root": "ب-ر-د",
+    "lesson": "b1-l23",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-219",
+    "arabic": "نَظِيفٌ",
+    "english": "clean",
+    "root": "ن-ظ-ف",
+    "lesson": "b1-l23",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-220",
+    "arabic": "وَسِخٌ",
+    "english": "dirty",
+    "root": "و-س-خ",
+    "lesson": "b1-l23",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-221",
+    "arabic": "يَا",
+    "english": "O (vocative particle)",
+    "root": null,
+    "lesson": "b1-l24",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-222",
+    "arabic": "أُسْتَاذٌ",
+    "english": "teacher / professor",
+    "root": null,
+    "lesson": "b1-l24",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-223",
+    "arabic": "بُنَيَّ",
+    "english": "my son (diminutive)",
+    "root": "ب-ن-و",
+    "lesson": "b1-l24",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-224",
+    "arabic": "نَاسٌ",
+    "english": "people",
+    "root": "ن-و-س",
+    "lesson": "b1-l24",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-225",
+    "arabic": "رَبٌّ",
+    "english": "Lord / Master",
+    "root": "ر-ب-ب",
+    "lesson": "b1-l24",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-226",
+    "arabic": "عَبْدٌ",
+    "english": "servant / slave",
+    "root": "ع-ب-د",
+    "lesson": "b1-l24",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-227",
+    "arabic": "أَيُّ",
+    "english": "which (masc.)",
+    "root": null,
+    "lesson": "b1-l25",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-228",
+    "arabic": "أَيَّةُ",
+    "english": "which (fem.)",
+    "root": null,
+    "lesson": "b1-l25",
+    "partOfSpeech": "interrogative"
+  },
+  {
+    "id": "word-229",
+    "arabic": "حَالٌ",
+    "english": "state / condition",
+    "root": "ح-و-ل",
+    "lesson": "b1-l25",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-230",
+    "arabic": "دَرْسٌ",
+    "english": "lesson",
+    "root": "د-ر-س",
+    "lesson": "b1-l25",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-231",
+    "arabic": "تَعَالَ",
+    "english": "come! (imperative)",
+    "root": "ع-ل-و",
+    "lesson": "b1-l24",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-232",
+    "arabic": "أَيُّهَا",
+    "english": "O (with definite masc.)",
+    "root": null,
+    "lesson": "b1-l24",
+    "partOfSpeech": "particle"
+  },
+  {
+    "id": "word-233",
+    "arabic": "دَرْسٌ",
+    "english": "lesson",
+    "root": "د-ر-س",
+    "lesson": "b1-l26",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-234",
+    "arabic": "كُلّ",
+    "english": "all / every",
+    "root": "ك-ل-ل",
+    "lesson": "b1-l26",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-235",
+    "arabic": "أَعْطَى",
+    "english": "he gave",
+    "root": "ع-ط-و",
+    "lesson": "b1-l26",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-236",
+    "arabic": "مُتَعَدٍّ",
+    "english": "transitive",
+    "root": "ع-د-و",
+    "lesson": "b1-l26",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-237",
+    "arabic": "مَفْعُول بِهِ",
+    "english": "direct object",
+    "root": "ف-ع-ل",
+    "lesson": "b1-l26",
+    "partOfSpeech": "term"
+  },
+  {
+    "id": "word-238",
+    "arabic": "مَنَحَ",
+    "english": "he granted",
+    "root": "م-ن-ح",
+    "lesson": "b1-l26",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-239",
+    "arabic": "لَازِم",
+    "english": "intransitive",
+    "root": "ل-ز-م",
+    "lesson": "b1-l27",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-240",
+    "arabic": "فِعْلٌ",
+    "english": "verb",
+    "root": "ف-ع-ل",
+    "lesson": "b1-l27",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-241",
+    "arabic": "فَاعِل",
+    "english": "subject / doer",
+    "root": "ف-ع-ل",
+    "lesson": "b1-l27",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-242",
+    "arabic": "حَرْفٌ",
+    "english": "letter / particle",
+    "root": "ح-ر-ف",
+    "lesson": "b1-l27",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-243",
+    "arabic": "اِسْمٌ",
+    "english": "noun / name",
+    "root": "س-م-و",
+    "lesson": "b1-l27",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-244",
+    "arabic": "جُمْلَة فِعْلِيَّة",
+    "english": "verbal sentence",
+    "root": "ج-م-ل",
+    "lesson": "b1-l27",
+    "partOfSpeech": "term"
+  },
+  {
+    "id": "word-245",
+    "arabic": "ضَمِير",
+    "english": "pronoun",
+    "root": "ض-م-ر",
+    "lesson": "b1-l28",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-246",
+    "arabic": "كَلَام",
+    "english": "speech / words",
+    "root": "ك-ل-م",
+    "lesson": "b1-l28",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-247",
+    "arabic": "سَاعَدَ",
+    "english": "he helped",
+    "root": "س-ع-د",
+    "lesson": "b1-l28",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-248",
+    "arabic": "مَنْصُوب",
+    "english": "accusative",
+    "root": "ن-ص-ب",
+    "lesson": "b1-l28",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-249",
+    "arabic": "سُوق",
+    "english": "market",
+    "root": "س-و-ق",
+    "lesson": "b1-l28",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-250",
+    "arabic": "رَأَى",
+    "english": "he saw",
+    "root": "ر-أ-ي",
+    "lesson": "b1-l28",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-251",
+    "arabic": "فَصْل",
+    "english": "classroom / chapter",
+    "root": "ف-ص-ل",
+    "lesson": "b1-l29",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-252",
+    "arabic": "مَجْرُور",
+    "english": "genitive",
+    "root": "ج-ر-ر",
+    "lesson": "b1-l29",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-253",
+    "arabic": "لِـ",
+    "english": "for / to",
+    "root": null,
+    "lesson": "b1-l29",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "id": "word-254",
+    "arabic": "بَيْنَ",
+    "english": "between",
+    "root": "ب-ي-ن",
+    "lesson": "b1-l29",
+    "partOfSpeech": "preposition"
+  },
+  {
+    "id": "word-255",
+    "arabic": "تَحْتَ",
+    "english": "under / below",
+    "root": "ت-ح-ت",
+    "lesson": "b1-l29",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "id": "word-256",
+    "arabic": "فَوْقَ",
+    "english": "above / over",
+    "root": "ف-و-ق",
+    "lesson": "b1-l29",
+    "partOfSpeech": "adverb"
+  },
+  {
+    "id": "word-257",
+    "arabic": "مُرَاجَعَة",
+    "english": "review",
+    "root": "ر-ج-ع",
+    "lesson": "b1-l30",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-258",
+    "arabic": "جُمْلَة",
+    "english": "sentence",
+    "root": "ج-م-ل",
+    "lesson": "b1-l30",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-259",
+    "arabic": "قَاعِدَة",
+    "english": "rule / grammar rule",
+    "root": "ق-ع-د",
+    "lesson": "b1-l30",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-260",
+    "arabic": "تَمْرِين",
+    "english": "exercise",
+    "root": "م-ر-ن",
+    "lesson": "b1-l30",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-261",
+    "arabic": "مِثَال",
+    "english": "example",
+    "root": "م-ث-ل",
+    "lesson": "b1-l30",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-262",
+    "arabic": "نَحْو",
+    "english": "grammar",
+    "root": "ن-ح-و",
+    "lesson": "b1-l30",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-263",
+    "arabic": "أَبٌ",
+    "english": "father",
+    "root": "أ-ب-و",
+    "lesson": "b1-l31",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-264",
+    "arabic": "أَخٌ",
+    "english": "brother",
+    "root": "أ-خ-و",
+    "lesson": "b1-l31",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-265",
+    "arabic": "مَالٌ",
+    "english": "wealth / money",
+    "root": "م-و-ل",
+    "lesson": "b1-l31",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-266",
+    "arabic": "حَمٌ",
+    "english": "father-in-law",
+    "root": "ح-م-و",
+    "lesson": "b1-l31",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-267",
+    "arabic": "ذُو",
+    "english": "possessor of",
+    "root": null,
+    "lesson": "b1-l31",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-268",
+    "arabic": "كَرِيمٌ",
+    "english": "generous",
+    "root": "ك-ر-م",
+    "lesson": "b1-l31",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-269",
+    "arabic": "أَبَا",
+    "english": "father (accusative)",
+    "root": "أ-ب-و",
+    "lesson": "b1-l32",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-270",
+    "arabic": "أَخِي",
+    "english": "brother (genitive)",
+    "root": "أ-خ-و",
+    "lesson": "b1-l32",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-271",
+    "arabic": "قَابَلَ",
+    "english": "he met",
+    "root": "ق-ب-ل",
+    "lesson": "b1-l32",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-272",
+    "arabic": "تَكَلَّمَ",
+    "english": "he spoke",
+    "root": "ك-ل-م",
+    "lesson": "b1-l32",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-273",
+    "arabic": "عَالِمٌ",
+    "english": "scholar",
+    "root": "ع-ل-م",
+    "lesson": "b1-l32",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-274",
+    "arabic": "فَاضِلٌ",
+    "english": "virtuous",
+    "root": "ف-ض-ل",
+    "lesson": "b1-l32",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-275",
+    "arabic": "الْفَتَى",
+    "english": "young man",
+    "root": "ف-ت-ي",
+    "lesson": "b1-l33",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-276",
+    "arabic": "الْهُدَى",
+    "english": "guidance",
+    "root": "ه-د-ي",
+    "lesson": "b1-l33",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-277",
+    "arabic": "عَصَا",
+    "english": "stick / staff",
+    "root": "ع-ص-و",
+    "lesson": "b1-l33",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-278",
+    "arabic": "الدُّنْيَا",
+    "english": "worldly life",
+    "root": "د-ن-و",
+    "lesson": "b1-l33",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-279",
+    "arabic": "الْقُرْآن",
+    "english": "the Quran",
+    "root": "ق-ر-أ",
+    "lesson": "b1-l33",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-280",
+    "arabic": "فَانٍ",
+    "english": "temporary / perishing",
+    "root": "ف-ن-ي",
+    "lesson": "b1-l33",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-281",
+    "arabic": "الْقَاضِي",
+    "english": "judge",
+    "root": "ق-ض-ي",
+    "lesson": "b1-l34",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-282",
+    "arabic": "الدَّاعِي",
+    "english": "caller / one who calls",
+    "root": "د-ع-و",
+    "lesson": "b1-l34",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-283",
+    "arabic": "الرَّاعِي",
+    "english": "shepherd",
+    "root": "ر-ع-ي",
+    "lesson": "b1-l34",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-284",
+    "arabic": "عَادِلٌ",
+    "english": "just / fair",
+    "root": "ع-د-ل",
+    "lesson": "b1-l34",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-285",
+    "arabic": "مَحْكَمَةٌ",
+    "english": "court",
+    "root": "ح-ك-م",
+    "lesson": "b1-l34",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-286",
+    "arabic": "حُكْمٌ",
+    "english": "judgment / ruling",
+    "root": "ح-ك-م",
+    "lesson": "b1-l34",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-287",
+    "arabic": "السَّمَاء",
+    "english": "sky",
+    "root": "س-م-و",
+    "lesson": "b1-l35",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-288",
+    "arabic": "الدُّعَاء",
+    "english": "supplication / prayer",
+    "root": "د-ع-و",
+    "lesson": "b1-l35",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-289",
+    "arabic": "الصَّحْرَاء",
+    "english": "desert",
+    "root": "ص-ح-ر",
+    "lesson": "b1-l35",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-290",
+    "arabic": "الْبِنَاء",
+    "english": "building / construction",
+    "root": "ب-ن-ي",
+    "lesson": "b1-l35",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-291",
+    "arabic": "عَالٍ",
+    "english": "tall / high",
+    "root": "ع-ل-و",
+    "lesson": "b1-l35",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-292",
+    "arabic": "وَاسِعٌ",
+    "english": "vast / wide",
+    "root": "و-س-ع",
+    "lesson": "b1-l35",
+    "partOfSpeech": "adjective"
+  }
+]

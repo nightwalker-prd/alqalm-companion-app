@@ -1,0 +1,224 @@
+{
+  "id": "b3-l106",
+  "book": 3,
+  "lesson": 106,
+  "title": "مَا الْكَافَّةُ وَالْمَكْفُوفَةُ",
+  "titleEn": "Neutralizing ما (ما الكافّة)",
+  "description": "Learn about ما الكافّة - the ما that attaches to certain particles (إنّ، أنّ، ربّ، كأنّ) and neutralizes their grammatical governance, allowing them to be followed by sentences.",
+  "vocabulary": ["word-b3-658", "word-b3-659", "word-b3-660", "word-b3-661", "word-b3-662"],
+  "grammarPoints": ["gp-b3-174", "gp-b3-175"],
+  "notes": [
+    {
+      "title": "What is ما الكافّة?",
+      "titleArabic": "مَا هِيَ مَا الْكَافَّةُ؟",
+      "content": [
+        "مَا الْكَافَّة is a مَا that attaches to certain particles and 'neutralizes' (كَفَّ) their grammatical governance. The particle becomes 'مَكْفُوفَة' (neutralized/restrained).",
+        "Before مَا: إِنَّ requires اسم + خبر. After مَا: إِنَّمَا can be followed by a complete sentence (جُمْلَة) without governing any word."
+      ],
+      "keyPoints": [
+        "كَفَّ = to restrain/prevent",
+        "Neutralizes particle's governance",
+        "Particle + ما = مكفوفة",
+        "إنَّ → إنَّما (different function)"
+      ],
+      "examples": [
+        { "arabic": "إِنَّ زَيْدًا قَائِمٌ (إنّ عاملة)", "english": "Indeed Zayd is standing (إنّ governs)" },
+        { "arabic": "إِنَّمَا زَيْدٌ قَائِمٌ (إنّما مكفوفة)", "english": "Zayd is only standing (إنّما neutralized)" },
+        { "arabic": "رُبَّ رَجُلٍ صَادِقٍ (ربّ عاملة)", "english": "Many a truthful man (ربّ governs jarr)" },
+        { "arabic": "رُبَّمَا يَقُومُ زَيْدٌ (ربّما مكفوفة)", "english": "Perhaps Zayd will stand (ربّما neutralized)" }
+      ]
+    },
+    {
+      "title": "إنَّما - Restriction",
+      "titleArabic": "إِنَّمَا - لِلْحَصْرِ",
+      "content": [
+        "إِنَّمَا is the most common كَافَّة-مَكْفُوفَة construction. While إِنَّ emphasizes certainty, إِنَّمَا expresses restriction (حَصْر): 'only/nothing but.'",
+        "After إِنَّمَا, you can have a nominal sentence (جُمْلَة اسْمِيَّة) or verbal sentence (جُمْلَة فِعْلِيَّة) - the governance of إِنَّ is cancelled."
+      ],
+      "keyPoints": [
+        "إِنَّمَا = only, nothing but",
+        "Expresses حَصْر (restriction)",
+        "Can follow: nominal or verbal sentence",
+        "Very common in Quran"
+      ],
+      "examples": [
+        { "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ", "english": "The believers are only brothers (Quran 49:10)" },
+        { "arabic": "إِنَّمَا يَخْشَى اللهَ مِنْ عِبَادِهِ الْعُلَمَاءُ", "english": "Only the scholars fear Allah (Quran 35:28)" },
+        { "arabic": "إِنَّمَا أَنْتَ بَشَرٌ", "english": "You are only a human" },
+        { "arabic": "إِنَّمَا الْحَيَاةُ الدُّنْيَا مَتَاعٌ", "english": "Worldly life is only enjoyment" }
+      ]
+    },
+    {
+      "title": "رُبَّما - Probability",
+      "titleArabic": "رُبَّمَا - لِلاحْتِمَالِ",
+      "content": [
+        "رُبَّ is a preposition meaning 'many a' and requires a مَجْرُور (genitive noun). When مَا attaches, رُبَّمَا means 'perhaps/maybe' and can be followed by a verb.",
+        "رُبَّمَا is commonly followed by a past tense verb (فِعْل مَاضٍ) or present tense (مُضَارِع). The particle no longer governs jarr."
+      ],
+      "keyPoints": [
+        "رُبَّ + ما = رُبَّما",
+        "Means: perhaps, maybe",
+        "Followed by verb (usually ماضٍ)",
+        "رُبَّ alone requires مجرور"
+      ],
+      "examples": [
+        { "arabic": "رُبَّمَا يَوَدُّ الَّذِينَ كَفَرُوا", "english": "Perhaps those who disbelieved will wish... (Quran 15:2)" },
+        { "arabic": "رُبَّمَا جَاءَ زَيْدٌ", "english": "Perhaps Zayd came" },
+        { "arabic": "رُبَّمَا أَزُورُكَ غَدًا", "english": "Perhaps I'll visit you tomorrow" },
+        { "arabic": "رُبَّمَا كَانَ صَادِقًا", "english": "Perhaps he was truthful" }
+      ]
+    },
+    {
+      "title": "كَأَنَّما - Comparison",
+      "titleArabic": "كَأَنَّمَا - لِلتَّشْبِيهِ",
+      "content": [
+        "كَأَنَّ is used for comparison/simile and requires اسْم + خَبَر. When مَا attaches, كَأَنَّمَا can be followed by a sentence without governing.",
+        "كَأَنَّمَا is often followed by a verbal sentence, especially in Quranic usage, maintaining the comparative meaning but with greater flexibility."
+      ],
+      "keyPoints": [
+        "كَأَنَّ + ما = كَأَنَّما",
+        "Maintains comparison meaning",
+        "Followed by sentence (not اسم)",
+        "كَأَنَّهُمْ vs كَأَنَّمَا هُمْ"
+      ],
+      "examples": [
+        { "arabic": "كَأَنَّمَا يُسَاقُونَ إِلَى الْمَوْتِ", "english": "As if they are being driven to death (Quran 8:6)" },
+        { "arabic": "كَأَنَّمَا أُغْشِيَتْ وُجُوهُهُمْ", "english": "As if their faces are covered (Quran 10:27)" },
+        { "arabic": "كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاءِ", "english": "As if he is climbing in the sky" },
+        { "arabic": "كَأَنَّمَا قَتَلَ النَّاسَ جَمِيعًا", "english": "As if he killed all people (Quran 5:32)" }
+      ]
+    },
+    {
+      "title": "Other كافّة Constructions",
+      "titleArabic": "تَرَاكِيبُ كَافَّةٍ أُخْرَى",
+      "content": [
+        "Other particles can also take ما الكافّة: لَيْتَمَا (if only), لَعَلَّمَا (perhaps), though these are less common than إِنَّمَا and رُبَّمَا.",
+        "The prepositions بَعْدَ and قَبْلَ can also take ما: بَعْدَمَا، قَبْلَمَا، حَيْثُمَا. In these, ما is sometimes called مَوْصُولَة rather than كَافَّة."
+      ],
+      "keyPoints": [
+        "لَيْتَمَا، لَعَلَّمَا (rare)",
+        "بَعْدَمَا، قَبْلَمَا، حَيْثُمَا",
+        "Less common than إنّما، ربّما",
+        "Some overlap with ما المصدرية"
+      ],
+      "examples": [
+        { "arabic": "لَيْتَمَا زَيْدٌ قَائِمٌ", "english": "If only Zayd were standing" },
+        { "arabic": "بَعْدَمَا جَاءَ زَيْدٌ", "english": "After Zayd came" },
+        { "arabic": "قَبْلَمَا تَذْهَبَ", "english": "Before you go" },
+        { "arabic": "حَيْثُمَا تَكُونُوا يَأْتِ بِكُمُ اللهُ", "english": "Wherever you may be, Allah will bring you" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis",
+      "titleArabic": "التَّحْلِيلُ النَّحْوِيُّ",
+      "content": [
+        "When analyzing sentences with ما الكافّة, the particle + ما is treated as a unit. The following sentence is analyzed independently (not as اسم and خبر of the particle).",
+        "إِنَّمَا زَيْدٌ قَائِمٌ: زيدٌ = مبتدأ، قائمٌ = خبر. The original إنّ structure is completely neutralized."
+      ],
+      "keyPoints": [
+        "Particle + ما = single unit",
+        "Following sentence = independent",
+        "Not اسم + خبر of particle",
+        "إنّما مهملة (inactive)"
+      ],
+      "examples": [
+        { "arabic": "إِنَّمَا الْعِلْمُ نُورٌ: العلم = مبتدأ", "english": "العلم is mubtada' (not اسم إنّ)" },
+        { "arabic": "رُبَّمَا يَنْجَحُ: ينجح = فعل مضارع", "english": "ينجح is regular verb" },
+        { "arabic": "كَأَنَّمَا هُوَ نَائِمٌ: هو = مبتدأ", "english": "هو is mubtada'" },
+        { "arabic": "إِنَّمَا يَفْعَلُ ذٰلِكَ: يفعل = فعل مضارع", "english": "يفعل is regular verb (not governed)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l106-ex01",
+      "type": "fill-blank",
+      "prompt": "مَا الْكَافَّةُ تَمْنَعُ _____ الْحَرْفِ",
+      "promptEn": "ما الكافّة prevents the particle's _____",
+      "answer": "عَمَلَ",
+      "itemIds": ["word-b3-658"]
+    },
+    {
+      "id": "b3-l106-ex02",
+      "type": "fill-blank",
+      "prompt": "إِنَّمَا تُفِيدُ _____ (التوكيد/الحصر)",
+      "promptEn": "إنّما expresses _____ (emphasis/restriction)",
+      "answer": "الْحَصْرَ",
+      "itemIds": ["word-b3-659"]
+    },
+    {
+      "id": "b3-l106-ex03",
+      "type": "fill-blank",
+      "prompt": "رُبَّمَا تَعْنِي: _____ أَوْ لَعَلَّ",
+      "promptEn": "رُبَّما means: _____ or perhaps",
+      "answer": "قَدْ",
+      "itemIds": ["word-b3-660"]
+    },
+    {
+      "id": "b3-l106-ex04",
+      "type": "fill-blank",
+      "prompt": "الْحَرْفُ الَّذِي دَخَلَتْ عَلَيْهِ مَا الْكَافَّةُ يُسَمَّى _____",
+      "promptEn": "The particle that ما الكافّة enters upon is called _____",
+      "answer": "مَكْفُوفًا",
+      "itemIds": ["word-b3-661"]
+    },
+    {
+      "id": "b3-l106-ex05",
+      "type": "fill-blank",
+      "prompt": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ - الْمُؤْمِنُونَ هُنَا _____",
+      "promptEn": "إنّما المؤمنون إخوة - المؤمنون here is _____",
+      "answer": "مُبْتَدَأٌ",
+      "itemIds": ["word-b3-662"]
+    },
+    {
+      "id": "b3-l106-ex06",
+      "type": "fill-blank",
+      "prompt": "كَأَنَّمَا تُسْتَخْدَمُ لِـ_____",
+      "promptEn": "كأنّما is used for _____",
+      "answer": "التَّشْبِيهِ",
+      "itemIds": ["word-b3-658"]
+    },
+    {
+      "id": "b3-l106-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مَا الْكَافَّةُ",
+      "answer": "Neutralizing ما (prevents particle from governing)",
+      "itemIds": ["word-b3-658"]
+    },
+    {
+      "id": "b3-l106-ex08",
+      "type": "word-to-meaning",
+      "prompt": "إِنَّمَا",
+      "answer": "Only, nothing but (restriction particle)",
+      "itemIds": ["word-b3-659"]
+    },
+    {
+      "id": "b3-l106-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْحَصْرُ",
+      "answer": "Restriction/exclusivity (limiting to one thing)",
+      "itemIds": ["word-b3-659"]
+    },
+    {
+      "id": "b3-l106-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Perhaps, maybe (ربّ + ما)",
+      "answer": "رُبَّمَا",
+      "itemIds": ["word-b3-660"]
+    },
+    {
+      "id": "b3-l106-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Neutralized/restrained (particle after ما الكافّة)",
+      "answer": "مَكْفُوفٌ / مَكْفُوفَة",
+      "itemIds": ["word-b3-661"]
+    },
+    {
+      "id": "b3-l106-ex12",
+      "type": "meaning-to-word",
+      "prompt": "As if (comparison with ما)",
+      "answer": "كَأَنَّمَا",
+      "itemIds": ["word-b3-662"]
+    }
+  ]
+}

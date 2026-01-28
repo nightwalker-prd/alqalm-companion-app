@@ -1,0 +1,131 @@
+{
+  "id": "b2-l15",
+  "book": 2,
+  "lesson": 15,
+  "title": "الاسْتِثْنَاء",
+  "titleEn": "Exception",
+  "description": "Learn exception using إِلَّا, غَيْر, سِوَى: جَاءَ الطُّلَّابُ إِلَّا مُحَمَّدًا (the students came except Muhammad).",
+  "vocabulary": ["word-b2-080", "word-b2-081", "word-b2-082", "word-b2-083"],
+  "grammarPoints": ["gp-b2-015"],
+  "notes": [
+    {
+      "title": "Exception (الاستثناء)",
+      "titleArabic": "أسلوب الاستثناء",
+      "content": [
+        "The exception (الاستثناء) is used to exclude something from a general statement. The main particle is إِلَّا (except).",
+        "The case of the excepted noun (المستثنى) depends on the structure of the sentence."
+      ],
+      "keyPoints": [
+        "إِلَّا - 'except' (most common)",
+        "غَيْر - 'other than' (noun, takes case of replaced word)",
+        "سِوَى - 'except' (noun, always مجرور after it)",
+        "In complete affirmative sentences, المستثنى is منصوب"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الطُّلَّابُ إِلَّا مُحَمَّدًا", "english": "The students came except Muhammad" },
+        { "arabic": "كُلُّهُمْ إِلَّا عَلِيًّا", "english": "All of them except Ali" },
+        { "arabic": "مَا جَاءَ أَحَدٌ إِلَّا الْمُدَرِّسُ", "english": "No one came except the teacher" }
+      ]
+    },
+    {
+      "title": "Cases of the Excepted Noun",
+      "titleArabic": "حالات المستثنى",
+      "content": [
+        "The case of the excepted noun varies based on sentence structure."
+      ],
+      "keyPoints": [
+        "Complete affirmative: المستثنى is منصوب always",
+        "Complete negative: Can be منصوب or follow the المستثنى منه",
+        "Incomplete (no المستثنى منه): Follows grammatical role",
+        "Example: مَا جَاءَ إِلَّا مُحَمَّدٌ (No one came except Muhammad - مرفوع as subject)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l15-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The students came except Muhammad",
+      "answer": "جَاءَ الطُّلَّابُ إِلَّا مُحَمَّدًا",
+      "itemIds": ["word-b2-079", "word-b2-019", "word-b2-080"]
+    },
+    {
+      "id": "b2-l15-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Everyone except Ali",
+      "answer": "كُلُّهُمْ إِلَّا عَلِيًّا",
+      "itemIds": ["word-b2-083", "word-b2-080"]
+    },
+    {
+      "id": "b2-l15-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "No one came except the teacher",
+      "answer": "مَا جَاءَ أَحَدٌ إِلَّا الْمُدَرِّسُ",
+      "itemIds": ["word-b2-080", "word-004"]
+    },
+    {
+      "id": "b2-l15-ex04",
+      "type": "fill-blank",
+      "prompt": "قَرَأْتُ الْكُتُبَ _____ كِتَابًا وَاحِدًا",
+      "promptEn": "I read the books _____ one book",
+      "answer": "إِلَّا",
+      "itemIds": ["word-b2-080"]
+    },
+    {
+      "id": "b2-l15-ex05",
+      "type": "word-to-meaning",
+      "prompt": "إِلَّا",
+      "answer": "except",
+      "itemIds": ["word-b2-080"]
+    },
+    {
+      "id": "b2-l15-ex06",
+      "type": "word-to-meaning",
+      "prompt": "غَيْرَ",
+      "answer": "other than / except",
+      "itemIds": ["word-b2-081"]
+    },
+    {
+      "id": "b2-l15-ex07",
+      "type": "word-to-meaning",
+      "prompt": "سِوَى",
+      "answer": "except / other than",
+      "itemIds": ["word-b2-082"]
+    },
+    {
+      "id": "b2-l15-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كُلٌّ",
+      "answer": "all / every",
+      "itemIds": ["word-b2-083"]
+    },
+    {
+      "id": "b2-l15-ex09",
+      "type": "meaning-to-word",
+      "prompt": "except",
+      "answer": "إِلَّا",
+      "itemIds": ["word-b2-080"]
+    },
+    {
+      "id": "b2-l15-ex10",
+      "type": "meaning-to-word",
+      "prompt": "all/every",
+      "answer": "كُلٌّ",
+      "itemIds": ["word-b2-083"]
+    },
+    {
+      "id": "b2-l15-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I read all the books except one",
+      "answer": "قَرَأْتُ كُلَّ الْكُتُبِ إِلَّا كِتَابًا وَاحِدًا",
+      "itemIds": ["word-070", "word-b2-083", "word-002", "word-b2-080"]
+    },
+    {
+      "id": "b2-l15-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The teachers came except the director",
+      "answer": "جَاءَ الْمُدَرِّسُونَ إِلَّا الْمُدِيرَ",
+      "itemIds": ["word-b2-079", "word-004", "word-b2-080"]
+    }
+  ]
+}

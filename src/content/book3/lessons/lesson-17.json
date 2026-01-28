@@ -1,0 +1,134 @@
+{
+  "id": "b3-l17",
+  "book": 3,
+  "lesson": 17,
+  "title": "الْمَفْعُول الْمُطْلَق",
+  "titleEn": "Absolute Object (Cognate Accusative)",
+  "description": "Learn the absolute object for emphasis: ضَرَبْتُهُ ضَرْبًا شَدِيدًا (I hit him a severe hitting).",
+  "vocabulary": ["word-b3-093", "word-b3-094", "word-b3-095", "word-b3-096", "word-b3-097"],
+  "grammarPoints": ["gp-b3-017"],
+  "notes": [
+    {
+      "title": "The Absolute Object (المفعول المطلق)",
+      "titleArabic": "المفعول المطلق",
+      "content": [
+        "The maf'ūl muṭlaq (absolute object) is a maṣdar (verbal noun) from the same root as the verb, used to emphasize the action, indicate its number, or specify its type."
+      ],
+      "keyPoints": [
+        "Used for emphasis: ضَرَبْتُهُ ضَرْبًا (I hit him a hitting)",
+        "Indicates number: ضَرَبْتُهُ ضَرْبَتَيْنِ (I hit him two hittings)",
+        "Specifies type: ضَرَبْتُهُ ضَرْبًا شَدِيدًا (I hit him a severe hitting)",
+        "Can be replaced by words indicating 'all' or 'some'"
+      ],
+      "examples": [
+        { "arabic": "فَهِمْتُهُ فَهْمًا كَامِلًا", "english": "I understood it completely" },
+        { "arabic": "أَحَبَّتْهُ حُبًّا كَثِيرًا", "english": "She loved him greatly" },
+        { "arabic": "شَكَرْتُهُ شُكْرًا جَزِيلًا", "english": "I thanked him greatly" }
+      ]
+    },
+    {
+      "title": "Words Deputizing for Maṣdar",
+      "titleArabic": "النائب عن المصدر",
+      "content": [
+        "Certain words can substitute for the maṣdar in the absolute object construction. These include words indicating all, some, kind, or instrument."
+      ],
+      "keyPoints": [
+        "كُلّ (all): ضَرَبْتُهُ كُلَّ الضَّرْبِ",
+        "بَعْض (some): ضَرَبْتُهُ بَعْضَ الضَّرْبِ",
+        "Demonstratives: ضَرَبْتُهُ ذَلِكَ الضَّرْبَ",
+        "Numbers: ضَرَبْتُهُ ثَلَاثَ ضَرَبَاتٍ"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبْتُهُ كُلَّ الضَّرْبِ", "english": "I hit him with all hitting" },
+        { "arabic": "جَلَسَ جُلُوسًا طَوِيلًا", "english": "He sat a long sitting" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l17-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I understood it completely",
+      "answer": "فَهِمْتُهُ فَهْمًا كَامِلًا",
+      "itemIds": ["word-b3-093"]
+    },
+    {
+      "id": "b3-l17-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She loved him greatly",
+      "answer": "أَحَبَّتْهُ حُبًّا كَثِيرًا",
+      "itemIds": ["word-b3-094"]
+    },
+    {
+      "id": "b3-l17-ex03",
+      "type": "fill-blank",
+      "prompt": "جَلَسَ _____ طَوِيلًا",
+      "promptEn": "He sat a long sitting",
+      "answer": "جُلُوسًا",
+      "itemIds": ["word-b3-095"]
+    },
+    {
+      "id": "b3-l17-ex04",
+      "type": "word-to-meaning",
+      "prompt": "فَهْمًا",
+      "answer": "understanding (absolute object)",
+      "itemIds": ["word-b3-093"]
+    },
+    {
+      "id": "b3-l17-ex05",
+      "type": "word-to-meaning",
+      "prompt": "حُبًّا",
+      "answer": "loving (absolute object)",
+      "itemIds": ["word-b3-094"]
+    },
+    {
+      "id": "b3-l17-ex06",
+      "type": "word-to-meaning",
+      "prompt": "جُلُوسًا",
+      "answer": "sitting (absolute object)",
+      "itemIds": ["word-b3-095"]
+    },
+    {
+      "id": "b3-l17-ex07",
+      "type": "word-to-meaning",
+      "prompt": "ضَرْبًا",
+      "answer": "hitting (absolute object)",
+      "itemIds": ["word-b3-096"]
+    },
+    {
+      "id": "b3-l17-ex08",
+      "type": "word-to-meaning",
+      "prompt": "شُكْرًا",
+      "answer": "thanking (absolute object)",
+      "itemIds": ["word-b3-097"]
+    },
+    {
+      "id": "b3-l17-ex09",
+      "type": "meaning-to-word",
+      "prompt": "understanding (absolute object)",
+      "answer": "فَهْمًا",
+      "itemIds": ["word-b3-093"]
+    },
+    {
+      "id": "b3-l17-ex10",
+      "type": "meaning-to-word",
+      "prompt": "thanking (absolute object)",
+      "answer": "شُكْرًا",
+      "itemIds": ["word-b3-097"]
+    },
+    {
+      "id": "b3-l17-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher thanked the student greatly",
+      "answer": "شَكَرَ الْمُدَرِّسُ الطَّالِبَ شُكْرًا جَزِيلًا",
+      "itemIds": ["word-b3-097", "word-004", "word-b2-019"]
+    },
+    {
+      "id": "b3-l17-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I hit the door a strong hitting",
+      "answer": "ضَرَبْتُ الْبَابَ ضَرْبًا شَدِيدًا",
+      "itemIds": ["word-b3-096", "word-019"]
+    }
+  ]
+}

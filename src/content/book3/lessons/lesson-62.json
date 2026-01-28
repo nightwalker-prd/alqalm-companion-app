@@ -1,0 +1,182 @@
+{
+  "id": "b3-l62",
+  "book": 3,
+  "lesson": 62,
+  "title": "الإِغْرَاء وَالتَّحْذِير",
+  "titleEn": "Encouragement and Warning",
+  "description": "Learn about الإغراء (encouragement) and التحذير (warning), two rhetorical styles using accusative nouns to urge toward good or warn against evil.",
+  "vocabulary": ["word-b3-422", "word-b3-423", "word-b3-424", "word-b3-425", "word-b3-426", "word-b3-427"],
+  "grammarPoints": ["gp-b3-086", "gp-b3-087"],
+  "notes": [
+    {
+      "title": "What is الإِغْرَاء?",
+      "titleArabic": "تعريف الإِغْرَاء",
+      "content": [
+        "الإغراء is a grammatical construction used to encourage someone toward a praiseworthy action or quality. It involves mentioning an accusative noun (منصوب) urging the listener to adhere to it.",
+        "The encouraged noun is مفعول به (direct object) for an omitted verb like اِلْزَمْ (adhere to). This verb is obligatorily deleted when the noun is repeated or conjoined, and optionally deleted otherwise."
+      ],
+      "keyPoints": [
+        "الإغراء = encouraging toward something praiseworthy",
+        "The noun is منصوب (accusative case)",
+        "Omitted verb is typically اِلْزَمْ or الْزَمُوا",
+        "Verb deletion is obligatory with repetition or عطف"
+      ],
+      "examples": [
+        { "arabic": "الصِّدْقَ الصِّدْقَ", "english": "(Adhere to) truthfulness, truthfulness!" },
+        { "arabic": "الْأَمَانَةَ", "english": "(Adhere to) trustworthiness!" },
+        { "arabic": "الصَّبْرَ وَالثَّبَاتَ", "english": "(Adhere to) patience and steadfastness!" },
+        { "arabic": "الْعِلْمَ الْعِلْمَ يَا طُلَّابُ", "english": "(Pursue) knowledge, knowledge, O students!" }
+      ]
+    },
+    {
+      "title": "What is التَّحْذِير?",
+      "titleArabic": "تعريف التَّحْذِير",
+      "content": [
+        "التحذير is a grammatical construction used to warn someone against a blameworthy action or danger. Like الإغراء, it uses an accusative noun but for the opposite purpose: to make someone avoid something.",
+        "The warned-against noun is also مفعول به for an omitted verb like اِحْذَرْ (beware of) or اِجْتَنِبْ (avoid). The expression إِيَّاكَ is specifically used for warning."
+      ],
+      "keyPoints": [
+        "التحذير = warning against something blameworthy",
+        "The noun is منصوب (accusative case)",
+        "Omitted verb is typically اِحْذَرْ or اِجْتَنِبْ",
+        "إِيَّاكَ is a special warning pronoun"
+      ],
+      "examples": [
+        { "arabic": "الْكَذِبَ الْكَذِبَ", "english": "(Beware of) lying, lying!" },
+        { "arabic": "إِيَّاكَ وَالْكَسَلَ", "english": "Beware (yourself) and laziness!" },
+        { "arabic": "إِيَّاكُمْ وَالظُّلْمَ", "english": "Beware (yourselves) and injustice!" },
+        { "arabic": "الْغِيبَةَ الْغِيبَةَ", "english": "(Avoid) backbiting, backbiting!" }
+      ]
+    },
+    {
+      "title": "The Construction with إِيَّاكَ",
+      "titleArabic": "أسلوب إِيَّاكَ في التحذير",
+      "content": [
+        "The pronoun إِيَّاكَ (and its conjugations: إِيَّاكِ، إِيَّاكُمَا، إِيَّاكُمْ، إِيَّاكُنَّ) is specifically used for warning. It is a separated object pronoun (ضمير منفصل في محل نصب).",
+        "When used with وَ (and), the warned-against noun is conjoined: إِيَّاكَ وَالْكَذِبَ. Without وَ, the noun can come directly: إِيَّاكَ الْكَذِبَ. Both constructions are valid."
+      ],
+      "keyPoints": [
+        "إِيَّاكَ: ضمير منفصل مبني في محل نصب مفعول به",
+        "The وَ is عطف connecting two warned-against things",
+        "Conjugates for gender and number: إِيَّاكِ، إِيَّاكُمْ",
+        "Verb is obligatorily deleted with إِيَّاكَ"
+      ],
+      "examples": [
+        { "arabic": "إِيَّاكَ وَالْكِبْرَ", "english": "Beware yourself and arrogance!" },
+        { "arabic": "إِيَّاكِ وَالْغَفْلَةَ", "english": "Beware yourself (fem.) and heedlessness!" },
+        { "arabic": "إِيَّاكُمْ وَمُحَقَّرَاتِ الذُّنُوبِ", "english": "Beware yourselves and belittled sins!" },
+        { "arabic": "إِيَّايَ وَالتَّأْخِيرَ", "english": "Beware me and delay! (warning oneself)" }
+      ]
+    },
+    {
+      "title": "Grammatical Parsing and Quranic Examples",
+      "titleArabic": "الإعراب وأمثلة من القرآن",
+      "content": [
+        "In both الإغراء and التحذير, the noun is منصوب as مفعول به لفعل محذوف وجوبًا أو جوازًا (object of an obligatorily or optionally deleted verb).",
+        "The Quran and Hadith contain examples of التحذير. The Prophet (peace be upon him) said: إِيَّاكُمْ وَالظَّنَّ (Beware of suspicion). This shows the classical use of this construction."
+      ],
+      "keyPoints": [
+        "The noun is مفعول به لفعل محذوف",
+        "Deletion is وجوبًا with repetition, عطف, or إِيَّاكَ",
+        "Deletion is جوازًا with single unrepeated noun",
+        "Common in Hadith literature and classical texts"
+      ],
+      "examples": [
+        { "arabic": "إِيَّاكُمْ وَالظَّنَّ (حديث)", "english": "Beware of suspicion! (Hadith)" },
+        { "arabic": "الصَّلَاةَ الصَّلَاةَ (حديث)", "english": "(Guard) the prayer, the prayer! (Hadith)" },
+        { "arabic": "نَفْسَكَ وَهَوَاهَا", "english": "(Beware of) yourself and its desires!" },
+        { "arabic": "الْوَقْتَ الْوَقْتَ لَا يُسْتَرَدُّ", "english": "(Value) time, time! It cannot be retrieved!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l62-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الصِّدْقَ (أسلوب إغراء بالتكرار)",
+      "promptEn": "_____ truthfulness (encouragement style with repetition)",
+      "answer": "الصِّدْقَ",
+      "itemIds": ["word-b3-422"]
+    },
+    {
+      "id": "b3-l62-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ وَالْكَذِبَ (أسلوب تحذير)",
+      "promptEn": "_____ and lying (warning style)",
+      "answer": "إِيَّاكَ",
+      "itemIds": ["word-b3-423"]
+    },
+    {
+      "id": "b3-l62-ex03",
+      "type": "fill-blank",
+      "prompt": "في الصَّبْرَ الصَّبْرَ، الفعل المحذوف هو _____",
+      "promptEn": "In الصَّبْرَ الصَّبْرَ, the omitted verb is _____",
+      "answer": "اِلْزَمْ",
+      "itemIds": ["word-b3-424"]
+    },
+    {
+      "id": "b3-l62-ex04",
+      "type": "fill-blank",
+      "prompt": "في إِيَّاكُمْ وَالظَّنَّ، حذف الفعل _____",
+      "promptEn": "In إِيَّاكُمْ وَالظَّنَّ, the verb deletion is _____",
+      "answer": "وجوبًا",
+      "itemIds": ["word-b3-425"]
+    },
+    {
+      "id": "b3-l62-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "Beware of laziness! (using إِيَّاكَ)",
+      "answer": "إِيَّاكَ وَالْكَسَلَ",
+      "itemIds": ["word-b3-423"]
+    },
+    {
+      "id": "b3-l62-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "(Adhere to) patience and steadfastness!",
+      "answer": "الصَّبْرَ وَالثَّبَاتَ",
+      "itemIds": ["word-b3-422"]
+    },
+    {
+      "id": "b3-l62-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Beware yourselves and injustice!",
+      "answer": "إِيَّاكُمْ وَالظُّلْمَ",
+      "itemIds": ["word-b3-426"]
+    },
+    {
+      "id": "b3-l62-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الإِغْرَاء",
+      "answer": "encouragement (urging toward good)",
+      "itemIds": ["word-b3-422"]
+    },
+    {
+      "id": "b3-l62-ex09",
+      "type": "word-to-meaning",
+      "prompt": "التَّحْذِير",
+      "answer": "warning (against something bad)",
+      "itemIds": ["word-b3-423"]
+    },
+    {
+      "id": "b3-l62-ex10",
+      "type": "word-to-meaning",
+      "prompt": "إِيَّاكَ",
+      "answer": "beware yourself (warning pronoun)",
+      "itemIds": ["word-b3-425"]
+    },
+    {
+      "id": "b3-l62-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The style of urging toward praiseworthy things",
+      "answer": "الإِغْرَاء",
+      "itemIds": ["word-b3-426"]
+    },
+    {
+      "id": "b3-l62-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The style of warning against blameworthy things",
+      "answer": "التَّحْذِير",
+      "itemIds": ["word-b3-427"]
+    }
+  ]
+}

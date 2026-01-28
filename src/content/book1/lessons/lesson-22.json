@@ -1,0 +1,120 @@
+{
+  "id": "b1-l22",
+  "book": 1,
+  "lesson": 22,
+  "title": "إِنَّ وَأَخَوَاتُهَا",
+  "titleEn": "Inna and Its Sisters",
+  "description": "Learn particles that emphasize nominal sentences: إِنَّ (indeed), أَنَّ (that), لَكِنَّ (but).",
+  "vocabulary": ["word-124", "word-125", "word-126", "word-127"],
+  "grammarPoints": ["gp-027"],
+  "notes": [
+    {
+      "title": "إِنَّ and Its Sisters",
+      "titleArabic": "إِنَّ وَأَخَوَاتُهَا",
+      "content": [
+        "إِنَّ and its 'sisters' are particles that enter upon nominal sentences for emphasis or specific meanings. They change the subject (اسم إِنَّ) to accusative case, while the predicate (خبر إِنَّ) remains nominative.",
+        "The main sisters are: إِنَّ (indeed), أَنَّ (that), لَكِنَّ (but), كَأَنَّ (as if), لَيْتَ (I wish), and لَعَلَّ (perhaps)."
+      ],
+      "keyPoints": [
+        "إِنَّ (indeed) - for emphasis: إِنَّ الطَّالِبَ مُجْتَهِدٌ",
+        "أَنَّ (that) - in subordinate clauses",
+        "لَكِنَّ (but) - for contrast",
+        "Subject after إِنَّ takes fatha (accusative)"
+      ],
+      "examples": [
+        { "arabic": "إِنَّ الْكِتَابَ جَدِيدٌ", "english": "Indeed, the book is new" },
+        { "arabic": "إِنَّ الطَّالِبَ مُجْتَهِدٌ", "english": "Indeed, the student is diligent" },
+        { "arabic": "الْبَيْتُ صَغِيرٌ لَكِنَّ الْغُرْفَةَ كَبِيرَةٌ", "english": "The house is small but the room is big" },
+        { "arabic": "عَلِمْتُ أَنَّ الْمُدَرِّسَ حَاضِرٌ", "english": "I knew that the teacher is present" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l22-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "Indeed the book is new",
+      "answer": "إِنَّ الْكِتَابَ جَدِيدٌ",
+      "itemIds": ["word-124", "word-002", "word-052"]
+    },
+    {
+      "id": "b1-l22-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Indeed the student is diligent",
+      "answer": "إِنَّ الطَّالِبَ مُجْتَهِدٌ",
+      "itemIds": ["word-124", "word-005", "word-120"]
+    },
+    {
+      "id": "b1-l22-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْبَيْتَ كَبِيرٌ",
+      "promptEn": "_____ the house is big",
+      "answer": "إِنَّ",
+      "itemIds": ["word-124"]
+    },
+    {
+      "id": "b1-l22-ex04",
+      "type": "fill-blank",
+      "prompt": "الْبَيْتُ صَغِيرٌ _____ الْغُرْفَةَ كَبِيرَةٌ",
+      "promptEn": "The house is small _____ the room is big",
+      "answer": "لَكِنَّ",
+      "itemIds": ["word-126"]
+    },
+    {
+      "id": "b1-l22-ex05",
+      "type": "word-to-meaning",
+      "prompt": "إِنَّ",
+      "answer": "indeed/verily",
+      "itemIds": ["word-124"]
+    },
+    {
+      "id": "b1-l22-ex06",
+      "type": "word-to-meaning",
+      "prompt": "أَنَّ",
+      "answer": "that (conjunction)",
+      "itemIds": ["word-125"]
+    },
+    {
+      "id": "b1-l22-ex07",
+      "type": "word-to-meaning",
+      "prompt": "لَكِنَّ",
+      "answer": "but/however",
+      "itemIds": ["word-126"]
+    },
+    {
+      "id": "b1-l22-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَعَلَّ",
+      "answer": "perhaps/maybe",
+      "itemIds": ["word-127"]
+    },
+    {
+      "id": "b1-l22-ex09",
+      "type": "meaning-to-word",
+      "prompt": "indeed/verily",
+      "answer": "إِنَّ",
+      "itemIds": ["word-124"]
+    },
+    {
+      "id": "b1-l22-ex10",
+      "type": "meaning-to-word",
+      "prompt": "but/however",
+      "answer": "لَكِنَّ",
+      "itemIds": ["word-126"]
+    },
+    {
+      "id": "b1-l22-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "Indeed the teacher is diligent",
+      "answer": "إِنَّ الْمُدَرِّسَ مُجْتَهِدٌ",
+      "itemIds": ["word-124", "word-004", "word-120"]
+    },
+    {
+      "id": "b1-l22-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Indeed the house is big but the room is small",
+      "answer": "إِنَّ الْبَيْتَ كَبِيرٌ لَكِنَّ الْغُرْفَةَ صَغِيرَةٌ",
+      "itemIds": ["word-124", "word-006", "word-053", "word-126", "word-037", "word-054"]
+    }
+  ]
+}

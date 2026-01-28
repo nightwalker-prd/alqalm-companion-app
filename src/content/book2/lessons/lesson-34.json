@@ -1,0 +1,138 @@
+{
+  "id": "b2-l34",
+  "book": 2,
+  "lesson": 34,
+  "title": "اسْمُ الزَّمَانِ وَاسْمُ الْمَكَان",
+  "titleEn": "Nouns of Time and Place",
+  "description": "Learn nouns indicating time and place: مَوْعِد (appointment time), مَكْتَب (place of writing/office).",
+  "vocabulary": ["word-b2-281", "word-b2-282", "word-b2-283", "word-b2-284", "word-b2-285", "word-b2-286"],
+  "grammarPoints": ["gp-b2-033"],
+  "notes": [
+    {
+      "title": "Nouns of Time and Place",
+      "titleArabic": "اسم الزمان واسم المكان",
+      "content": [
+        "Nouns of time (اسم الزمان) and place (اسم المكان) are derived from verbs to indicate when or where an action occurs.",
+        "For Form I verbs, the patterns are مَفْعَل and مَفْعِل. The choice depends on the vowel of the middle letter in the present tense."
+      ],
+      "keyPoints": [
+        "Pattern مَفْعَل: for verbs with فَعَلَ يَفْعُلُ or فَعَلَ يَفْعَلُ",
+        "Pattern مَفْعِل: for verbs with فَعَلَ يَفْعِلُ",
+        "Same form for both time and place (context determines meaning)",
+        "Derived forms use pattern مُفَعَّل، مُفَاعَل، etc."
+      ],
+      "examples": [
+        { "arabic": "مَكْتَبٌ", "english": "office / desk (place of writing)" },
+        { "arabic": "مَوْعِدٌ", "english": "appointment (time of promise)" },
+        { "arabic": "مَلْعَبٌ", "english": "playground (place of playing)" },
+        { "arabic": "مَدْخَلٌ", "english": "entrance (place of entering)" }
+      ]
+    },
+    {
+      "title": "Derived Form Patterns",
+      "titleArabic": "أوزان الأفعال المزيدة",
+      "content": [
+        "For derived verb forms (II-X), the noun of time/place follows the pattern of the passive participle (اسم المفعول).",
+        "This makes it identical in form to the passive participle, with context distinguishing the meaning."
+      ],
+      "keyPoints": [
+        "Form II: مُفَعَّل (e.g., مُعَلَّم - place of teaching)",
+        "Form III: مُفَاعَل (e.g., مُسَافَر - travel destination)",
+        "Form IV: مُفْعَل (e.g., مُرْسَل - sending place)",
+        "Form V-X: follow passive participle pattern"
+      ],
+      "examples": [
+        { "arabic": "مُنْطَلَقٌ", "english": "starting point (Form VII)" },
+        { "arabic": "مُلْتَقَى", "english": "meeting place (Form VIII)" },
+        { "arabic": "مُسْتَشْفَى", "english": "hospital (Form X - place of seeking cure)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l34-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "office / desk",
+      "answer": "مَكْتَبٌ",
+      "itemIds": ["word-b2-281"]
+    },
+    {
+      "id": "b2-l34-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "playground",
+      "answer": "مَلْعَبٌ",
+      "itemIds": ["word-b2-282"]
+    },
+    {
+      "id": "b2-l34-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "entrance",
+      "answer": "مَدْخَلٌ",
+      "itemIds": ["word-b2-283"]
+    },
+    {
+      "id": "b2-l34-ex04",
+      "type": "fill-blank",
+      "prompt": "ذَهَبْتُ إِلَى ال_____ لِمُقَابَلَةِ الطَّبِيبِ",
+      "promptEn": "I went to the _____ to meet the doctor",
+      "answer": "مُسْتَشْفَى",
+      "itemIds": ["word-b2-284"]
+    },
+    {
+      "id": "b2-l34-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مَوْعِدٌ",
+      "answer": "appointment / time of promise",
+      "itemIds": ["word-b2-285"]
+    },
+    {
+      "id": "b2-l34-ex06",
+      "type": "word-to-meaning",
+      "prompt": "مَطْبَخٌ",
+      "answer": "kitchen (place of cooking)",
+      "itemIds": ["word-b2-286"]
+    },
+    {
+      "id": "b2-l34-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مَكْتَبٌ",
+      "answer": "office / desk",
+      "itemIds": ["word-b2-281"]
+    },
+    {
+      "id": "b2-l34-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَلْعَبٌ",
+      "answer": "playground / stadium",
+      "itemIds": ["word-b2-282"]
+    },
+    {
+      "id": "b2-l34-ex09",
+      "type": "meaning-to-word",
+      "prompt": "entrance",
+      "answer": "مَدْخَلٌ",
+      "itemIds": ["word-b2-283"]
+    },
+    {
+      "id": "b2-l34-ex10",
+      "type": "meaning-to-word",
+      "prompt": "hospital",
+      "answer": "مُسْتَشْفَى",
+      "itemIds": ["word-b2-284"]
+    },
+    {
+      "id": "b2-l34-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The meeting place is the school",
+      "answer": "مَكَانُ اللِّقَاءِ هُوَ الْمَدْرَسَةُ",
+      "itemIds": ["word-b2-281"]
+    },
+    {
+      "id": "b2-l34-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The appointment is tomorrow",
+      "answer": "الْمَوْعِدُ غَدًا",
+      "itemIds": ["word-b2-285"]
+    }
+  ]
+}

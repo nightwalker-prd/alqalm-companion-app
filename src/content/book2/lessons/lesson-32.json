@@ -1,0 +1,166 @@
+{
+  "id": "b2-l32",
+  "book": 2,
+  "lesson": 32,
+  "title": "المَصَادِر",
+  "titleEn": "Verbal Nouns (Masdar)",
+  "vocabulary": [
+    "word-b2-166",
+    "word-b2-167",
+    "word-b2-168",
+    "word-b2-169",
+    "word-b2-170"
+  ],
+  "grammarPoints": ["gp-b2-032"],
+  "notes": [
+    {
+      "title": "Verbal Nouns of Derived Forms (مصادر الأبواب)",
+      "titleArabic": "مصادر الأفعال المزيدة",
+      "content": [
+        "Unlike Form I masdars which are largely irregular, the masdars of derived forms (Forms II-X) follow predictable patterns. This makes them easier to learn and recognize.",
+        "Each derived form has a standard masdar pattern that applies to most verbs in that form."
+      ],
+      "keyPoints": [
+        "Form II (فَعَّلَ): تَفْعِيل (e.g., عَلَّمَ → تَعْلِيم)",
+        "Form III (فَاعَلَ): مُفَاعَلَة / فِعَال (e.g., سَاعَدَ → مُسَاعَدَة)",
+        "Form IV (أَفْعَلَ): إِفْعَال (e.g., أَكْرَمَ → إِكْرَام)",
+        "Form V (تَفَعَّلَ): تَفَعُّل (e.g., تَعَلَّمَ → تَعَلُّم)",
+        "Form VI (تَفَاعَلَ): تَفَاعُل (e.g., تَعَاوَنَ → تَعَاوُن)"
+      ],
+      "examples": [
+        { "arabic": "التَّعْلِيمُ مُهِمٌّ", "english": "Teaching is important (Form II)" },
+        { "arabic": "أُحِبُّ التَّعَلُّمَ", "english": "I love learning (Form V)" },
+        { "arabic": "التَّعَاوُنُ مُفِيدٌ", "english": "Cooperation is beneficial (Form VI)" }
+      ]
+    },
+    {
+      "title": "Masdars of Forms VII-X",
+      "titleArabic": "مصادر الأبواب السابع إلى العاشر",
+      "content": [
+        "The higher numbered forms also have predictable masdar patterns."
+      ],
+      "keyPoints": [
+        "Form VII (اِنْفَعَلَ): اِنْفِعَال (e.g., اِنْكَسَرَ → اِنْكِسَار)",
+        "Form VIII (اِفْتَعَلَ): اِفْتِعَال (e.g., اِجْتَمَعَ → اِجْتِمَاع)",
+        "Form IX (اِفْعَلَّ): اِفْعِلَال (e.g., اِحْمَرَّ → اِحْمِرَار)",
+        "Form X (اِسْتَفْعَلَ): اِسْتِفْعَال (e.g., اِسْتَغْفَرَ → اِسْتِغْفَار)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l32-ex01",
+      "type": "fill-blank",
+      "prompt": "كَتَبَ → _____ (masdar)",
+      "answer": "كِتَابَة",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "learning (masdar)",
+      "answer": "تَعَلُّم",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex03",
+      "type": "fill-blank",
+      "prompt": "عَلِمَ → _____ (masdar)",
+      "answer": "عِلْم",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex04",
+      "type": "word-to-meaning",
+      "prompt": "قِرَاءَة",
+      "answer": "reading",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex05",
+      "type": "meaning-to-word",
+      "prompt": "writing",
+      "answer": "كِتَابَة",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "the act of helping",
+      "answer": "مُسَاعَدَة",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex07",
+      "type": "fill-blank",
+      "prompt": "اِسْتَغْفَرَ → _____ (masdar)",
+      "answer": "اِسْتِغْفَار",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِنْتِظَار",
+      "answer": "waiting",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "comprehension/understanding",
+      "answer": "فَهْم",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex10",
+      "type": "fill-blank",
+      "prompt": "تَعَاوَنَ → _____ (masdar)",
+      "answer": "تَعَاوُن",
+      "itemIds": [
+        "word-b2-166",
+        "word-b2-167"
+      ]
+    },
+    {
+      "id": "b2-l32-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "Seeking forgiveness from Allah is important",
+      "answer": "الاِسْتِغْفَارُ مِنَ اللهِ مُهِمٌّ",
+      "itemIds": ["word-b2-168", "word-b2-050"]
+    },
+    {
+      "id": "b2-l32-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Cooperation between the students is beneficial",
+      "answer": "التَّعَاوُنُ بَيْنَ الطُّلَّابِ مُفِيدٌ",
+      "itemIds": ["word-b2-169", "word-b2-019", "word-b2-051"]
+    }
+  ]
+}

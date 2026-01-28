@@ -1,0 +1,244 @@
+{
+  "id": "b3-l93",
+  "book": 3,
+  "lesson": 93,
+  "title": "الْجُمَلُ الَّتِي لَهَا مَحَلٌّ مِنَ الإِعْرَابِ",
+  "titleEn": "Sentences with Grammatical Position",
+  "description": "Learn about sentences that occupy grammatical positions (nominative, accusative, genitive) - complementing lesson 73 on sentences without position.",
+  "vocabulary": ["word-b3-593", "word-b3-594", "word-b3-595", "word-b3-596", "word-b3-597"],
+  "grammarPoints": ["gp-b3-148", "gp-b3-149"],
+  "notes": [
+    {
+      "title": "Introduction: Sentences with Position",
+      "titleArabic": "مُقَدِّمَةٌ: الْجُمَلُ الَّتِي لَهَا مَحَلٌّ",
+      "content": [
+        "In Arabic grammar, some sentences occupy grammatical positions (لَهَا مَحَلٌّ مِنَ الإِعْرَاب) while others don't. A sentence has position when it can be replaced by a single word in the same slot.",
+        "There are seven types of sentences with grammatical position. This complements lesson 73 which covered the seven types of sentences WITHOUT grammatical position (الابتدائية، الاستئنافية، صلة الموصول، etc.)."
+      ],
+      "keyPoints": [
+        "Some sentences have grammatical position",
+        "Can be replaced by single word",
+        "Seven types with position",
+        "Complements lesson on sentences without position"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ يَدْرُسُ (جملة الخبر)", "english": "Zayd studies (predicate sentence - has position)" },
+        { "arabic": "رَأَيْتُ الطَّالِبَ يَكْتُبُ (جملة الحال)", "english": "I saw the student writing (circumstantial - has position)" },
+        { "arabic": "جَاءَ الَّذِي نَجَحَ (صلة الموصول)", "english": "Who succeeded came (relative clause - NO position)" },
+        { "arabic": "قَالَ: أَنَا مُسَافِرٌ (الابتدائية)", "english": "He said: I am traveling (opening - NO position)" }
+      ]
+    },
+    {
+      "title": "1. Predicate Sentence (الجملة الخبرية)",
+      "titleArabic": "الْجُمْلَةُ الْوَاقِعَةُ خَبَرًا",
+      "content": [
+        "A sentence that serves as خَبَر (predicate) for مُبْتَدَأ, or as خَبَر for إِنَّ/كَانَ and their sisters. It is فِي مَحَلِّ رَفْعٍ (nominative position) or نَصْبٍ (accusative) depending on the construction.",
+        "Example: زَيْدٌ يَدْرُسُ - the sentence يَدْرُسُ is خَبَر in nominative position. Example: كَانَ زَيْدٌ يَدْرُسُ - يَدْرُسُ is خَبَر كَان in accusative position."
+      ],
+      "keyPoints": [
+        "خَبَر المُبْتَدَأ: في محل رفع",
+        "خَبَر إِنَّ: في محل رفع",
+        "خَبَر كَانَ: في محل نصب",
+        "Can be verbal or nominal sentence"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ يَدْرُسُ: الجملة في محل رفع خبر", "english": "زَيْدٌ يَدْرُسُ: sentence in nominative as predicate" },
+        { "arabic": "إِنَّ زَيْدًا أَبُوهُ كَرِيمٌ: الجملة خبر إِنَّ", "english": "إِنَّ زَيْدًا أَبُوهُ كَرِيمٌ: sentence is khabar of إِنَّ" },
+        { "arabic": "كَانَ زَيْدٌ يَعْمَلُ: الجملة في محل نصب خبر كان", "english": "كَانَ زَيْدٌ يَعْمَلُ: sentence in accusative as khabar of كان" },
+        { "arabic": "الْعِلْمُ يَرْفَعُ صَاحِبَهُ", "english": "Knowledge elevates its possessor (sentence as khabar)" }
+      ]
+    },
+    {
+      "title": "2. Circumstantial Sentence (الجملة الحالية)",
+      "titleArabic": "الْجُمْلَةُ الْوَاقِعَةُ حَالًا",
+      "content": [
+        "A sentence describing the state/condition of the subject or object at the time of the action. It is فِي مَحَلِّ نَصْبٍ (accusative position) because الحَال is always منصوب.",
+        "The حَال sentence must have a رَابِط (connector) linking it to صَاحِب الحَال - either a pronoun (ضمير) or وَاو الحَال. Example: جَاءَ زَيْدٌ يَضْحَكُ (he came laughing)."
+      ],
+      "keyPoints": [
+        "Describes state during action",
+        "في محل نصب (accusative)",
+        "Needs رَابِط (connector)",
+        "وَاو الحَال or ضَمِير"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ زَيْدٌ يَضْحَكُ: الجملة في محل نصب حال", "english": "Zayd came laughing: sentence in accusative as haal" },
+        { "arabic": "رَأَيْتُهُ وَهُوَ يَبْكِي: جملة حالية مع واو الحال", "english": "I saw him while he was crying: haal with واو" },
+        { "arabic": "لَا تَقْرَبُوا الصَّلَاةَ وَأَنْتُمْ سُكَارَى", "english": "Do not approach prayer while intoxicated (Quran)" },
+        { "arabic": "خَرَجَ الطُّلَّابُ يَتَحَدَّثُونَ", "english": "The students went out talking" }
+      ]
+    },
+    {
+      "title": "3. Adjectival Sentence (الجملة النعتية)",
+      "titleArabic": "الْجُمْلَةُ الْوَاقِعَةُ نَعْتًا (صِفَةً)",
+      "content": [
+        "A sentence that describes an indefinite noun (نَكِرَة). It follows the described noun's case: رَفْع, نَصْب, or جَرّ. Only indefinite nouns can have sentence-adjectives.",
+        "Example: جَاءَ رَجُلٌ يَحْمِلُ كِتَابًا (A man carrying a book came). The sentence يَحْمِلُ كِتَابًا describes رَجُلٌ and is in محل رفع because رَجُلٌ is مرفوع."
+      ],
+      "keyPoints": [
+        "Describes نَكِرَة only",
+        "Follows described noun's case",
+        "في محل رفع/نصب/جر",
+        "Must have رَابِط (pronoun)"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ رَجُلٌ يَحْمِلُ كِتَابًا: الجملة في محل رفع نعت", "english": "A man carrying a book came: sentence in nominative as adjective" },
+        { "arabic": "رَأَيْتُ طَالِبًا يَقْرَأُ: الجملة في محل نصب نعت", "english": "I saw a student reading: sentence in accusative as adjective" },
+        { "arabic": "مَرَرْتُ بِرَجُلٍ يَبِيعُ الْكُتُبَ: في محل جر", "english": "I passed by a man selling books: in genitive position" },
+        { "arabic": "هَذَا كِتَابٌ أَنْزَلْنَاهُ مُبَارَكٌ (الأنعام: ٩٢)", "english": "This is a book We sent down, blessed (Quran)" }
+      ]
+    },
+    {
+      "title": "4. Object Sentence (الجملة المفعولية)",
+      "titleArabic": "الْجُمْلَةُ الْوَاقِعَةُ مَفْعُولًا بِهِ",
+      "content": [
+        "A sentence serving as the object of a verb, especially with قَالَ (said), ظَنَّ (thought), and similar verbs. It is فِي مَحَلِّ نَصْبٍ (accusative position).",
+        "Example: قَالَ إِنِّي عَبْدُ اللهِ (He said: I am Allah's servant). The sentence إِنِّي عَبْدُ اللهِ is مَفْعُول بِهِ (object) of قَالَ. This is called مَقُول الْقَوْل."
+      ],
+      "keyPoints": [
+        "Object of verbs like قَالَ، ظَنَّ",
+        "في محل نصب مفعول به",
+        "Called مَقُول الْقَوْل after قَالَ",
+        "Very common in Quran"
+      ],
+      "examples": [
+        { "arabic": "قَالَ إِنِّي عَبْدُ اللهِ: الجملة في محل نصب مفعول به", "english": "He said: I am Allah's servant: sentence as object" },
+        { "arabic": "ظَنَنْتُ زَيْدًا يَنْجَحُ: الجملة مفعول به ثان", "english": "I thought Zayd would succeed: sentence as second object" },
+        { "arabic": "عَلِمْتُ أَنَّ الْعِلْمَ نَافِعٌ", "english": "I knew that knowledge is beneficial" },
+        { "arabic": "قَالُوا سَمِعْنَا وَأَطَعْنَا", "english": "They said: We hear and obey" }
+      ]
+    },
+    {
+      "title": "5. Genitive Sentence (الجملة المضاف إليها)",
+      "titleArabic": "الْجُمْلَةُ الْوَاقِعَةُ مُضَافًا إِلَيْهِ",
+      "content": [
+        "A sentence following ظُرُوف (adverbs) or certain nouns in إِضَافَة. It is فِي مَحَلِّ جَرٍّ (genitive position). Common with: حِينَ، إِذْ، إِذَا، حَيْثُ, etc.",
+        "Example: جِئْتُ حِينَ طَلَعَتِ الشَّمْسُ (I came when the sun rose). The sentence طَلَعَتِ الشَّمْسُ is مُضَاف إِلَيْه in genitive position."
+      ],
+      "keyPoints": [
+        "After ظروف: حِينَ، إِذْ، إِذَا، حَيْثُ",
+        "في محل جر مضاف إليه",
+        "Very common structure",
+        "The ظرف needs the sentence"
+      ],
+      "examples": [
+        { "arabic": "جِئْتُ حِينَ طَلَعَتِ الشَّمْسُ: الجملة في محل جر", "english": "I came when the sun rose: sentence in genitive" },
+        { "arabic": "اذْكُرْ إِذْ قَالَ رَبُّكَ: الجملة مضاف إليه", "english": "Remember when your Lord said: sentence as مضاف إليه" },
+        { "arabic": "اجْلِسْ حَيْثُ يَجْلِسُ الْعُلَمَاءُ", "english": "Sit where the scholars sit" },
+        { "arabic": "يَوْمَ يَقُومُ النَّاسُ لِرَبِّ الْعَالَمِينَ", "english": "The Day people stand before Lord of the worlds (Quran)" }
+      ]
+    },
+    {
+      "title": "6-7. Conditional Answer and Following Conjunction",
+      "titleArabic": "جُمْلَةُ جَوَابِ الشَّرْطِ وَالْمَعْطُوفَةُ",
+      "content": [
+        "6) جُمْلَة جَوَاب الشَّرْط الْجَازِم الْمَقْرُونَة بِالْفَاء: When the conditional answer has فَاء, it's في محل جزم. Example: إِنْ تَدْرُسْ فَأَنْتَ نَاجِحٌ - فَأَنْتَ نَاجِحٌ is in jussive position.",
+        "7) الْجُمْلَة الْمَعْطُوفَة عَلَى جُمْلَة لَهَا مَحَلّ: A sentence conjoined to another that has position shares that position. Example: زَيْدٌ يَأْكُلُ وَيَشْرَبُ - both have nominative position as khabar."
+      ],
+      "keyPoints": [
+        "جواب الشرط with فَاء: في محل جزم",
+        "معطوفة: shares the position",
+        "Important for complex sentences",
+        "Position determined by context"
+      ],
+      "examples": [
+        { "arabic": "إِنْ تَدْرُسْ فَأَنْتَ نَاجِحٌ: الجملة في محل جزم", "english": "If you study, you will succeed: sentence in jussive position" },
+        { "arabic": "مَنْ يَعْمَلْ سُوءًا فَلَهُ جَزَاؤُهُ: جملة جواب الشرط", "english": "Who does evil, for him is its recompense (conditional answer)" },
+        { "arabic": "زَيْدٌ يَأْكُلُ وَيَشْرَبُ: يشرب معطوفة في محل رفع", "english": "Zayd eats and drinks: يشرب conjoined, in nominative" },
+        { "arabic": "رَأَيْتُ طَالِبًا يَقْرَأُ وَيَكْتُبُ: كلاهما في محل نصب", "english": "I saw a student reading and writing: both in accusative" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l93-ex01",
+      "type": "fill-blank",
+      "prompt": "زَيْدٌ يَدْرُسُ - جُمْلَةُ 'يَدْرُسُ' فِي مَحَلِّ رَفْعٍ _____",
+      "promptEn": "زَيْدٌ يَدْرُسُ - the sentence 'يَدْرُسُ' is in nominative position as _____",
+      "answer": "خَبَرٌ",
+      "itemIds": ["word-b3-593"]
+    },
+    {
+      "id": "b3-l93-ex02",
+      "type": "fill-blank",
+      "prompt": "جَاءَ زَيْدٌ يَضْحَكُ - جُمْلَةُ 'يَضْحَكُ' فِي مَحَلِّ نَصْبٍ _____",
+      "promptEn": "جَاءَ زَيْدٌ يَضْحَكُ - the sentence 'يَضْحَكُ' is in accusative position as _____",
+      "answer": "حَالٌ",
+      "itemIds": ["word-b3-594"]
+    },
+    {
+      "id": "b3-l93-ex03",
+      "type": "fill-blank",
+      "prompt": "جَاءَ رَجُلٌ يَحْمِلُ كِتَابًا - الْجُمْلَةُ فِي مَحَلِّ رَفْعٍ _____ لِـ'رَجُل'",
+      "promptEn": "جَاءَ رَجُلٌ يَحْمِلُ كِتَابًا - the sentence is in nominative as _____ for 'رَجُل'",
+      "answer": "نَعْتٌ",
+      "itemIds": ["word-b3-595"]
+    },
+    {
+      "id": "b3-l93-ex04",
+      "type": "fill-blank",
+      "prompt": "قَالَ إِنِّي عَبْدُ اللهِ - الْجُمْلَةُ فِي مَحَلِّ نَصْبٍ _____ بِهِ",
+      "promptEn": "قَالَ إِنِّي عَبْدُ اللهِ - the sentence is in accusative as _____ (object)",
+      "answer": "مَفْعُولٌ",
+      "itemIds": ["word-b3-596"]
+    },
+    {
+      "id": "b3-l93-ex05",
+      "type": "fill-blank",
+      "prompt": "جِئْتُ حِينَ طَلَعَتِ الشَّمْسُ - الْجُمْلَةُ فِي مَحَلِّ جَرٍّ _____ إِلَيْهِ",
+      "promptEn": "جِئْتُ حِينَ طَلَعَتِ الشَّمْسُ - the sentence is in genitive as _____",
+      "answer": "مُضَافٌ",
+      "itemIds": ["word-b3-597"]
+    },
+    {
+      "id": "b3-l93-ex06",
+      "type": "fill-blank",
+      "prompt": "الْجُمْلَةُ النَّعْتِيَّةُ تَصِفُ اسْمًا _____ فَقَطْ (معرفة/نكرة)",
+      "promptEn": "The adjectival sentence describes only _____ nouns (definite/indefinite)",
+      "answer": "نَكِرَةً",
+      "itemIds": ["word-b3-595"]
+    },
+    {
+      "id": "b3-l93-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْجُمْلَةُ الَّتِي لَهَا مَحَلٌّ مِنَ الإِعْرَابِ",
+      "answer": "A sentence that has grammatical position (can be replaced by a single word)",
+      "itemIds": ["word-b3-593"]
+    },
+    {
+      "id": "b3-l93-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْجُمْلَةُ الْحَالِيَّةُ",
+      "answer": "The circumstantial sentence (describes state, in accusative position)",
+      "itemIds": ["word-b3-594"]
+    },
+    {
+      "id": "b3-l93-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مَقُولُ الْقَوْلِ",
+      "answer": "The quoted speech (sentence as object of قَالَ)",
+      "itemIds": ["word-b3-596"]
+    },
+    {
+      "id": "b3-l93-ex10",
+      "type": "meaning-to-word",
+      "prompt": "A sentence serving as the predicate (خَبَر) of a subject",
+      "answer": "الْجُمْلَةُ الْخَبَرِيَّةُ / الْوَاقِعَةُ خَبَرًا",
+      "itemIds": ["word-b3-593"]
+    },
+    {
+      "id": "b3-l93-ex11",
+      "type": "meaning-to-word",
+      "prompt": "A sentence describing an indefinite noun (as adjective)",
+      "answer": "الْجُمْلَةُ النَّعْتِيَّةُ / الْوَاقِعَةُ نَعْتًا",
+      "itemIds": ["word-b3-595"]
+    },
+    {
+      "id": "b3-l93-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The position of a sentence after adverbs like حِينَ، إِذْ، حَيْثُ",
+      "answer": "فِي مَحَلِّ جَرٍّ مُضَافٌ إِلَيْهِ",
+      "itemIds": ["word-b3-597"]
+    }
+  ]
+}

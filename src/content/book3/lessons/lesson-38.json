@@ -1,0 +1,139 @@
+{
+  "id": "b3-l38",
+  "book": 3,
+  "lesson": 38,
+  "title": "الاسْمُ الْمَقْصُورُ وَالْمَنْقُوص",
+  "titleEn": "Shortened and Defective Nouns",
+  "description": "Learn nouns ending in alif maqsura and ya: فَتَى (young man), قَاضِي (judge).",
+  "vocabulary": ["word-b3-279", "word-b3-280", "word-b3-281", "word-b3-282", "word-b3-283", "word-b3-284"],
+  "grammarPoints": ["gp-b3-037"],
+  "notes": [
+    {
+      "title": "The Shortened Noun (الاسم المقصور)",
+      "titleArabic": "الاسم المقصور",
+      "content": [
+        "The shortened noun (الاسم المقصور) ends in alif maqsura (ى or ا). Case endings are estimated (مقدرة) and not pronounced.",
+        "Examples include فَتَى (young man), هُدَى (guidance), and مُصْطَفَى (chosen one)."
+      ],
+      "keyPoints": [
+        "Ends in ى or ا (alif maqsura)",
+        "Case endings are estimated due to the alif",
+        "In dual: الفَتَيَانِ، الفَتَيَيْنِ",
+        "In plural: فَتَيَات or الفَتَوْنَ (rare)"
+      ],
+      "examples": [
+        { "arabic": "فَتَى", "english": "young man" },
+        { "arabic": "هُدَى", "english": "guidance" },
+        { "arabic": "مُسْتَشْفَى", "english": "hospital" },
+        { "arabic": "مَعْنَى", "english": "meaning" }
+      ]
+    },
+    {
+      "title": "The Defective Noun (الاسم المنقوص)",
+      "titleArabic": "الاسم المنقوص",
+      "content": [
+        "The defective noun (الاسم المنقوص) ends in ya preceded by kasra (ـِي). The nominative and genitive case markers are estimated.",
+        "In indefinite form, the ya is usually dropped in nominative and genitive: قَاضٍ (a judge)."
+      ],
+      "keyPoints": [
+        "Ends in ـِي (ya preceded by kasra)",
+        "Nominative & genitive are estimated: قَاضٍ، قَاضٍ",
+        "Accusative is visible: قَاضِيًا",
+        "Definite form keeps the ya: الْقَاضِي"
+      ],
+      "examples": [
+        { "arabic": "قَاضٍ / الْقَاضِي", "english": "judge" },
+        { "arabic": "مُحَامٍ / الْمُحَامِي", "english": "lawyer" },
+        { "arabic": "دَاعٍ / الدَّاعِي", "english": "caller / preacher" },
+        { "arabic": "سَاعٍ / السَّاعِي", "english": "messenger / seeker" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l38-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "young man",
+      "answer": "فَتَى",
+      "itemIds": ["word-b3-279"]
+    },
+    {
+      "id": "b3-l38-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "a judge (indefinite)",
+      "answer": "قَاضٍ",
+      "itemIds": ["word-b3-280"]
+    },
+    {
+      "id": "b3-l38-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "the judge",
+      "answer": "الْقَاضِي",
+      "itemIds": ["word-b3-280"]
+    },
+    {
+      "id": "b3-l38-ex04",
+      "type": "fill-blank",
+      "prompt": "ذَهَبَ ال_____ إِلَى الْمَحْكَمَةِ",
+      "promptEn": "The judge went to the court",
+      "answer": "قَاضِي",
+      "itemIds": ["word-b3-280"]
+    },
+    {
+      "id": "b3-l38-ex05",
+      "type": "word-to-meaning",
+      "prompt": "فَتَى",
+      "answer": "young man",
+      "itemIds": ["word-b3-279"]
+    },
+    {
+      "id": "b3-l38-ex06",
+      "type": "word-to-meaning",
+      "prompt": "هُدَى",
+      "answer": "guidance",
+      "itemIds": ["word-b3-281"]
+    },
+    {
+      "id": "b3-l38-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مُحَامٍ",
+      "answer": "lawyer",
+      "itemIds": ["word-b3-282"]
+    },
+    {
+      "id": "b3-l38-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَعْنَى",
+      "answer": "meaning",
+      "itemIds": ["word-b3-283"]
+    },
+    {
+      "id": "b3-l38-ex09",
+      "type": "meaning-to-word",
+      "prompt": "caller / preacher",
+      "answer": "دَاعٍ",
+      "itemIds": ["word-b3-284"]
+    },
+    {
+      "id": "b3-l38-ex10",
+      "type": "meaning-to-word",
+      "prompt": "guidance",
+      "answer": "هُدَى",
+      "itemIds": ["word-b3-281"]
+    },
+    {
+      "id": "b3-l38-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I saw a young man",
+      "answer": "رَأَيْتُ فَتَىً",
+      "itemIds": ["word-b3-279"]
+    },
+    {
+      "id": "b3-l38-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The lawyer defended the accused",
+      "answer": "دَافَعَ الْمُحَامِي عَنِ الْمُتَّهَمِ",
+      "itemIds": ["word-b3-282"]
+    }
+  ]
+}

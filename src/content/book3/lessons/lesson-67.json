@@ -1,0 +1,183 @@
+{
+  "id": "b3-l67",
+  "book": 3,
+  "lesson": 67,
+  "title": "الإِدْغَام",
+  "titleEn": "Assimilation",
+  "description": "Learn about الإِدْغَام (letter assimilation) in Arabic, including الإدغام الكبير (major assimilation) and الإدغام الصغير (minor assimilation), and the rules governing when letters merge.",
+  "vocabulary": ["word-b3-450", "word-b3-451", "word-b3-452", "word-b3-453", "word-b3-454", "word-b3-455", "word-b3-456", "word-b3-457"],
+  "grammarPoints": ["gp-b3-096", "gp-b3-097"],
+  "notes": [
+    {
+      "title": "What is الإِدْغَام?",
+      "titleArabic": "تَعْرِيفُ الإِدْغَامِ",
+      "content": [
+        "الإِدْغَام (assimilation) is the merging of two letters into one doubled letter (مُشَدَّد). It occurs when two similar or homorganic letters come together. The first letter becomes silent (سَاكِن) and merges into the second, which becomes doubled.",
+        "For example, مَدْدَ becomes مَدَّ (he extended). The two dals merge into one doubled dal. This phonetic process makes pronunciation easier and is a fundamental feature of Arabic morphology and Quranic recitation (tajweed)."
+      ],
+      "keyPoints": [
+        "الإدغام = merging two letters into one شَدَّة",
+        "First letter becomes ساكن, merges into second",
+        "Makes pronunciation easier (تَخْفِيف)",
+        "Essential in صَرْف (morphology) and تَجْوِيد"
+      ],
+      "examples": [
+        { "arabic": "مَدْدَ ← مَدَّ", "english": "madada -> madda (he extended)" },
+        { "arabic": "رَدْدَ ← رَدَّ", "english": "radada -> radda (he returned)" },
+        { "arabic": "شَدْدَ ← شَدَّ", "english": "shadada -> shadda (he tightened)" },
+        { "arabic": "يَمُدْدُ ← يَمُدُّ", "english": "yamdudu -> yamuddu (he extends)" }
+      ]
+    },
+    {
+      "title": "الإِدْغَام الصَّغِير",
+      "titleArabic": "الإِدْغَامُ الصَّغِيرُ وَشُرُوطُهُ",
+      "content": [
+        "الإِدْغَام الصَّغِير (minor assimilation) occurs when the first of two identical or similar letters is already سَاكِن (vowelless). This is the more common type. Example: مِنْ نَارٍ → مِنَّارٍ in connected speech.",
+        "This type is 'minor' because only one step is needed: the ساكن letter merges directly. It commonly occurs at word boundaries in speech and Quranic recitation, and within words in morphological patterns."
+      ],
+      "keyPoints": [
+        "الصغير: first letter is already سَاكِن",
+        "One step: direct merger",
+        "Common at word boundaries (مِنْ نَعِيمٍ)",
+        "Common in verb conjugation (يَمُدُّ)"
+      ],
+      "examples": [
+        { "arabic": "مِنْ نَعِيمٍ ← مِنَّعِيمٍ (في الوصل)", "english": "from bliss -> (assimilated in connected speech)" },
+        { "arabic": "يَمُدْدُ ← يَمُدُّ", "english": "he extends (يَفْعُلُ pattern)" },
+        { "arabic": "اُشْدُدْ ← شُدَّ (في الأمر)", "english": "tighten! (imperative)" },
+        { "arabic": "مِنْ مَالٍ ← مِمَّالٍ (في التجويد)", "english": "from wealth (in tajweed)" }
+      ]
+    },
+    {
+      "title": "الإِدْغَام الكَبِير",
+      "titleArabic": "الإِدْغَامُ الكَبِيرُ وَأَحْكَامُهُ",
+      "content": [
+        "الإِدْغَام الكَبِير (major assimilation) occurs when the first letter is مُتَحَرِّك (voweled) and must first be made سَاكِن before merging. This requires two steps: (1) removing the vowel, (2) merging the letters.",
+        "This is 'major' because it involves more change. Example: جَعَلَ لَكَ becomes جَعَلَّكَ when assimilated (the ل of جَعَلَ loses its fatha). This type is less common in standard speech but appears in some Quranic readings (قِرَاءَات)."
+      ],
+      "keyPoints": [
+        "الكبير: first letter is مُتَحَرِّك (has vowel)",
+        "Two steps: (1) تَسْكِين (2) إِدْغَام",
+        "Less common than الصغير",
+        "Found in some قِرَاءَات قُرْآنِيَّة"
+      ],
+      "examples": [
+        { "arabic": "جَعَلَ لَكَ ← جَعَلَّكَ (في بعض القراءات)", "english": "He made for you (in some readings)" },
+        { "arabic": "يَعْلَمُ مَا ← يَعْلَمَّا (في بعض القراءات)", "english": "He knows what (in some readings)" },
+        { "arabic": "الرَّحِيمِ مَالِكِ ← الرَّحِيمَّالِكِ", "english": "The Merciful, Owner (assimilated)" },
+        { "arabic": "هُوَ وَمَنْ ← هُوَّمَنْ", "english": "He and whoever (assimilated)" }
+      ]
+    },
+    {
+      "title": "Letters that Assimilate",
+      "titleArabic": "الحُرُوفُ الَّتِي تُدْغَمُ",
+      "content": [
+        "Assimilation occurs between المِثْلَانِ (identical letters): ب+ب، ت+ت، etc. It also occurs between المُتَقَارِبَانِ (letters close in articulation point): ت+د، ذ+ظ، and المُتَجَانِسَانِ (letters sharing the same articulation point but differing in quality): ط+ت.",
+        "In Quranic tajweed, certain letters assimilate into others: ن الساكنة assimilates into ي، ر، م، ل، و، ن (يَرْمَلُون). These are called حُرُوف الإِدْغَام. Understanding these categories is essential for proper recitation."
+      ],
+      "keyPoints": [
+        "المِثْلَانِ: identical letters (ب+ب)",
+        "المُتَقَارِبَانِ: close articulation (ت+د)",
+        "المُتَجَانِسَانِ: same point, different quality (ط+ت)",
+        "حروف يَرْمَلُون: ي، ر، م، ل، و، ن"
+      ],
+      "examples": [
+        { "arabic": "اِضْرِبْ بِعَصَاكَ ← اِضْرِبِّعَصَاكَ (ب+ب)", "english": "Strike with your staff (identical letters)" },
+        { "arabic": "قَدْ تَبَيَّنَ ← قَتَّبَيَّنَ (د+ت)", "english": "It has become clear (close letters)" },
+        { "arabic": "مِنْ يَعْمَلْ ← مِيَّعْمَلْ (ن into ي)", "english": "Whoever does (nun into ya)" },
+        { "arabic": "مِنْ رَبِّهِمْ ← مِرَّبِّهِمْ (ن into ر)", "english": "From their Lord (nun into ra)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l67-ex01",
+      "type": "fill-blank",
+      "prompt": "الإدغام هو إدخال حرف _____ في حرف متحرك",
+      "promptEn": "Assimilation is inserting a _____ letter into a voweled letter",
+      "answer": "سَاكِن",
+      "itemIds": ["word-b3-450"]
+    },
+    {
+      "id": "b3-l67-ex02",
+      "type": "fill-blank",
+      "prompt": "مَدْدَ بعد الإدغام تصبح _____",
+      "promptEn": "مَدْدَ after assimilation becomes _____",
+      "answer": "مَدَّ",
+      "itemIds": ["word-b3-451"]
+    },
+    {
+      "id": "b3-l67-ex03",
+      "type": "fill-blank",
+      "prompt": "الإدغام _____ يكون الحرف الأول ساكناً أصلاً",
+      "promptEn": "The _____ assimilation has the first letter originally vowelless",
+      "answer": "الصَّغِير",
+      "itemIds": ["word-b3-452"]
+    },
+    {
+      "id": "b3-l67-ex04",
+      "type": "fill-blank",
+      "prompt": "الإدغام _____ يكون الحرف الأول متحركاً فيُسَكَّن",
+      "promptEn": "The _____ assimilation has the first letter voweled, then made silent",
+      "answer": "الكَبِير",
+      "itemIds": ["word-b3-453"]
+    },
+    {
+      "id": "b3-l67-ex05",
+      "type": "fill-blank",
+      "prompt": "حروف (يَرْمَلُون) هي: ي، ر، م، ل، _____، ن",
+      "promptEn": "The letters of (yarmaloon) are: ya, ra, mim, lam, _____, nun",
+      "answer": "و",
+      "itemIds": ["word-b3-454"]
+    },
+    {
+      "id": "b3-l67-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He extended (with idgham)",
+      "answer": "مَدَّ",
+      "itemIds": ["word-b3-455"]
+    },
+    {
+      "id": "b3-l67-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Minor assimilation",
+      "answer": "الإِدْغَامُ الصَّغِيرُ",
+      "itemIds": ["word-b3-456"]
+    },
+    {
+      "id": "b3-l67-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "Major assimilation",
+      "answer": "الإِدْغَامُ الكَبِيرُ",
+      "itemIds": ["word-b3-457"]
+    },
+    {
+      "id": "b3-l67-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الإِدْغَام",
+      "answer": "assimilation (merging two letters into one doubled letter)",
+      "itemIds": ["word-b3-450"]
+    },
+    {
+      "id": "b3-l67-ex10",
+      "type": "word-to-meaning",
+      "prompt": "المِثْلَانِ",
+      "answer": "identical letters (same letter twice)",
+      "itemIds": ["word-b3-453"]
+    },
+    {
+      "id": "b3-l67-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The process where a vowelless letter merges into the following letter",
+      "answer": "الإِدْغَام",
+      "itemIds": ["word-b3-456"]
+    },
+    {
+      "id": "b3-l67-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Letters that share the same articulation point",
+      "answer": "المُتَجَانِسَانِ",
+      "itemIds": ["word-b3-457"]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "b3-l24",
+  "book": 3,
+  "lesson": 24,
+  "title": "المَفْعُول لأَجْلِهِ",
+  "titleEn": "Accusative of Purpose",
+  "notes": [
+    {
+      "title": "Form IX Verbs for Colors and Defects",
+      "titleArabic": "باب اِفْعَلَّ للألوان والعيوب",
+      "content": [
+        "Form IX (اِفْعَلَّ) is exclusively used for colors and physical defects. It indicates becoming or acquiring a color or defect."
+      ],
+      "keyPoints": [
+        "Pattern: اِفْعَلَّ with doubled final radical",
+        "Colors: اِحْمَرَّ (became red), اِخْضَرَّ (became green)",
+        "Defects: اِعْوَرَّ (became one-eyed), اِعْرَجَّ (became lame)",
+        "All Form IX verbs are intransitive"
+      ],
+      "examples": [
+        { "arabic": "اِحْمَرَّ وَجْهُهُ خَجَلًا", "english": "His face became red from embarrassment" },
+        { "arabic": "اِصْفَرَّتِ الْأَوْرَاقُ", "english": "The leaves became yellow" }
+      ]
+    },
+    {
+      "title": "Advanced Accusative of Purpose",
+      "titleArabic": "المفعول لأجله المتقدم",
+      "content": [
+        "The maf'ūl lahu must meet specific conditions: it must be a maṣdar, indicate reason, share the same subject and time as the main verb."
+      ],
+      "keyPoints": [
+        "Must be a maṣdar indicating reason",
+        "Must share subject with main verb",
+        "Must be contemporaneous with the action",
+        "If conditions not met, use لِ + noun"
+      ],
+      "examples": [
+        { "arabic": "قُمْتُ إِجْلَالًا لِلْمُعَلِّمِ", "english": "I stood out of respect for the teacher" },
+        { "arabic": "سَافَرَ طَلَبًا لِلرِّزْقِ", "english": "He traveled seeking provision" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-128",
+    "word-b3-129",
+    "word-b3-130",
+    "word-b3-131",
+    "word-b3-132"
+  ],
+  "grammarPoints": [
+    "gp-b3-024"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l24-ex01",
+      "type": "fill-blank",
+      "prompt": "قُمْتُ _____ لِلْمُعَلِّمِ (إِجْلاَلاً)",
+      "answer": "إِجْلاَلاً",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I came seeking knowledge",
+      "answer": "جِئْتُ طَلَبًا لِلْعِلْمِ",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex03",
+      "type": "fill-blank",
+      "prompt": "سَافَرَ _____ لِلرِّزْقِ (طَلَبًا)",
+      "answer": "طَلَبًا",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex04",
+      "type": "word-to-meaning",
+      "prompt": "رَغْبَةً فِي",
+      "answer": "out of desire for",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex05",
+      "type": "meaning-to-word",
+      "prompt": "out of fear of",
+      "answer": "خَوْفًا مِنْ",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He fled out of fear",
+      "answer": "فَرَّ خَوْفًا",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex07",
+      "type": "fill-blank",
+      "prompt": "ذَهَبَ _____ فِي العِلْمِ (رَغْبَةً)",
+      "answer": "رَغْبَةً",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex08",
+      "type": "word-to-meaning",
+      "prompt": "إِكْرَامًا لَهُ",
+      "answer": "honoring him",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "I studied for success",
+      "answer": "دَرَسْتُ طَلَبًا لِلنَّجَاحِ",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex10",
+      "type": "fill-blank",
+      "prompt": "صَمَتَ _____ مِنَ الخَطَأِ (حَذَرًا)",
+      "answer": "حَذَرًا",
+      "itemIds": [
+        "word-b3-128",
+        "word-b3-129"
+      ]
+    },
+    {
+      "id": "b3-l24-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I stood up out of respect for the teacher",
+      "answer": "قُمْتُ إِجْلَالًا لِلْمُعَلِّمِ",
+      "itemIds": ["word-b3-128", "word-b3-129"]
+    },
+    {
+      "id": "b3-l24-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He traveled seeking a better life",
+      "answer": "سَافَرَ طَلَبًا لِحَيَاةٍ أَفْضَلَ",
+      "itemIds": ["word-b3-128", "word-b3-129"]
+    }
+  ]
+}

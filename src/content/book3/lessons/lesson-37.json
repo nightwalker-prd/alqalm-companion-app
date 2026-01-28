@@ -1,0 +1,139 @@
+{
+  "id": "b3-l37",
+  "book": 3,
+  "lesson": 37,
+  "title": "النُّدْبَةُ وَالاِسْتِغَاثَة",
+  "titleEn": "Lamentation and Seeking Help",
+  "description": "Learn expressions of grief (وَا) and calls for help (يَا لَـ): وَا مُحَمَّدَاهْ (Alas, Muhammad!).",
+  "vocabulary": ["word-b3-273", "word-b3-274", "word-b3-275", "word-b3-276", "word-b3-277", "word-b3-278"],
+  "grammarPoints": ["gp-b3-036"],
+  "notes": [
+    {
+      "title": "Lamentation (الندبة)",
+      "titleArabic": "الندبة",
+      "content": [
+        "Lamentation (الندبة) is a special form of vocative used to express grief or sorrow over something lost.",
+        "The particle وَا (wā) is used instead of يَا, and the noun is followed by أَلِف and هَاء (ـَاهْ)."
+      ],
+      "keyPoints": [
+        "وَا is the primary particle for lamentation",
+        "Add ـَاهْ to the end of the lamented noun",
+        "يَا can also be used in lamentation",
+        "Used to express deep sorrow or loss"
+      ],
+      "examples": [
+        { "arabic": "وَا مُحَمَّدَاهْ", "english": "Alas, Muhammad!" },
+        { "arabic": "وَا أَبَاهُ", "english": "Alas, my father!" },
+        { "arabic": "وَا حَسْرَتَاهْ", "english": "Alas, what regret!" },
+        { "arabic": "وَا إِسْلَامَاهْ", "english": "Alas, Islam! (expressing concern)" }
+      ]
+    },
+    {
+      "title": "Seeking Help (الاستغاثة)",
+      "titleArabic": "الاستغاثة",
+      "content": [
+        "The call for help (الاستغاثة) uses يَا followed by لَـ (lam) attached to the one being called for help.",
+        "It expresses urgency and the need for assistance."
+      ],
+      "keyPoints": [
+        "Structure: يَا + لَـ + the helper (مستغاث به)",
+        "The one sought for help takes ـَ (fatha) on the final letter",
+        "Can add لِـ before the cause of distress",
+        "Used in situations of urgency and need"
+      ],
+      "examples": [
+        { "arabic": "يَا لَلْمُسْلِمِينَ", "english": "O Muslims (help!)!" },
+        { "arabic": "يَا لَلَّهِ", "english": "O God (help!)!" },
+        { "arabic": "يَا لَلْعَجَبِ", "english": "How amazing! (lit. O wonder!)" },
+        { "arabic": "يَا لَلْمُصِيبَةِ", "english": "What a disaster!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l37-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "Alas, my father!",
+      "answer": "وَا أَبَاهُ",
+      "itemIds": ["word-b3-273"]
+    },
+    {
+      "id": "b3-l37-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "What regret!",
+      "answer": "وَا حَسْرَتَاهْ",
+      "itemIds": ["word-b3-274"]
+    },
+    {
+      "id": "b3-l37-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "O Muslims, help!",
+      "answer": "يَا لَلْمُسْلِمِينَ",
+      "itemIds": ["word-b3-275"]
+    },
+    {
+      "id": "b3-l37-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ إِسْلَامَاهْ",
+      "promptEn": "Alas, Islam!",
+      "answer": "وَا",
+      "itemIds": ["word-b3-273"]
+    },
+    {
+      "id": "b3-l37-ex05",
+      "type": "word-to-meaning",
+      "prompt": "وَا",
+      "answer": "alas (lamentation particle)",
+      "itemIds": ["word-b3-273"]
+    },
+    {
+      "id": "b3-l37-ex06",
+      "type": "word-to-meaning",
+      "prompt": "حَسْرَةٌ",
+      "answer": "regret / grief",
+      "itemIds": ["word-b3-274"]
+    },
+    {
+      "id": "b3-l37-ex07",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتِغَاثَةٌ",
+      "answer": "seeking help / call for aid",
+      "itemIds": ["word-b3-276"]
+    },
+    {
+      "id": "b3-l37-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مُصِيبَةٌ",
+      "answer": "disaster / calamity",
+      "itemIds": ["word-b3-277"]
+    },
+    {
+      "id": "b3-l37-ex09",
+      "type": "meaning-to-word",
+      "prompt": "wonder / amazement",
+      "answer": "عَجَبٌ",
+      "itemIds": ["word-b3-278"]
+    },
+    {
+      "id": "b3-l37-ex10",
+      "type": "meaning-to-word",
+      "prompt": "regret",
+      "answer": "حَسْرَةٌ",
+      "itemIds": ["word-b3-274"]
+    },
+    {
+      "id": "b3-l37-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "How amazing! (seeking wonder)",
+      "answer": "يَا لَلْعَجَبِ",
+      "itemIds": ["word-b3-278"]
+    },
+    {
+      "id": "b3-l37-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "What a disaster!",
+      "answer": "يَا لَلْمُصِيبَةِ",
+      "itemIds": ["word-b3-277"]
+    }
+  ]
+}

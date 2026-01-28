@@ -1,0 +1,224 @@
+{
+  "id": "b3-l109",
+  "book": 3,
+  "lesson": 109,
+  "title": "كَأَيِّنْ وَكَذَا",
+  "titleEn": "كأيّن and كذا - Quantity Expressions",
+  "description": "Learn about كَأَيِّنْ (how many/many a) and كَذَا (such and such a number) - two classical Arabic quantity expressions found in the Quran and classical texts.",
+  "vocabulary": ["word-b3-673", "word-b3-674", "word-b3-675", "word-b3-676", "word-b3-677"],
+  "grammarPoints": ["gp-b3-180", "gp-b3-181"],
+  "notes": [
+    {
+      "title": "Introduction to كَأَيِّنْ",
+      "titleArabic": "مُقَدِّمَةٌ عَنْ كَأَيِّنْ",
+      "content": [
+        "كَأَيِّنْ (also written كَائِن) is a classical Arabic word meaning 'how many' or 'many a.' It's similar in meaning to كَمْ الخَبَرِيَّة (exclamatory كم).",
+        "It appears frequently in the Quran and classical poetry. Unlike كَمْ, the noun after كَأَيِّنْ is مَجْرُور بِمِنْ (genitive with مِن)."
+      ],
+      "keyPoints": [
+        "Means: how many / many a",
+        "Similar to كم الخبرية",
+        "Noun after = مجرور بـ من",
+        "Quranic and classical usage"
+      ],
+      "examples": [
+        { "arabic": "وَكَأَيِّنْ مِنْ نَبِيٍّ قَاتَلَ", "english": "And how many a prophet fought... (Quran 3:146)" },
+        { "arabic": "وَكَأَيِّنْ مِنْ آيَةٍ", "english": "And how many a sign... (Quran 12:105)" },
+        { "arabic": "وَكَأَيِّنْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا", "english": "And how many a town We destroyed... (Quran 22:45)" },
+        { "arabic": "كَأَيِّنْ مِنْ دَابَّةٍ لَا تَحْمِلُ رِزْقَهَا", "english": "How many a creature carries not its provision (Quran 29:60)" }
+      ]
+    },
+    {
+      "title": "Grammar of كَأَيِّنْ",
+      "titleArabic": "نَحْوُ كَأَيِّنْ",
+      "content": [
+        "كَأَيِّنْ is a كِنَايَة عَنِ الْعَدَد (expression for number) in the nominative position (مَحَلّ رَفْع أو نَصْب). It's مَبْنِيّ on sukoon.",
+        "The تَمْيِيز (specification) after كَأَيِّنْ is مَجْرُور بِمِنْ, not مَنْصُوب like after كَمْ. This is the key grammatical difference."
+      ],
+      "keyPoints": [
+        "كأيّن = مبني على السكون",
+        "في محل رفع/نصب",
+        "التمييز = مجرور بـ من",
+        "كَأَيِّنْ مِنْ رَجُلٍ (not رَجُلًا)"
+      ],
+      "examples": [
+        { "arabic": "كَأَيِّنْ مِنْ رَجُلٍ رَأَيْتُ", "english": "How many a man I saw (رجلٍ = مجرور)" },
+        { "arabic": "كَمْ رَجُلًا رَأَيْتُ (مقارنة)", "english": "How many men I saw (رجلًا = منصوب)" },
+        { "arabic": "كَأَيِّنْ: في محل رفع مبتدأ أو نصب مفعول", "english": "Position: mubtada' or maf'ool" },
+        { "arabic": "وَكَأَيِّنْ مِنْ مَلَكٍ", "english": "And how many an angel... (Quran 53:26)" }
+      ]
+    },
+    {
+      "title": "Introduction to كَذَا",
+      "titleArabic": "مُقَدِّمَةٌ عَنْ كَذَا",
+      "content": [
+        "كَذَا is a كِنَايَة عَنْ الْعَدَد meaning 'such and such a number' or 'so many.' It's used when the speaker knows the number but doesn't want to specify it.",
+        "It can be repeated for emphasis: كَذَا وَكَذَا (such and such). The noun after كَذَا is تَمْيِيز مَنْصُوب."
+      ],
+      "keyPoints": [
+        "Means: such and such (number)",
+        "Number known but unspecified",
+        "Repeated: كذا وكذا",
+        "تمييز = منصوب"
+      ],
+      "examples": [
+        { "arabic": "عِنْدِي كَذَا دِرْهَمًا", "english": "I have such and such dirhams" },
+        { "arabic": "جَاءَ كَذَا وَكَذَا رَجُلًا", "english": "Such and such men came" },
+        { "arabic": "اشْتَرَيْتُهُ بِكَذَا دِينَارًا", "english": "I bought it for so many dinars" },
+        { "arabic": "مَكَثْتُ كَذَا يَوْمًا", "english": "I stayed for so many days" }
+      ]
+    },
+    {
+      "title": "Grammar of كَذَا",
+      "titleArabic": "نَحْوُ كَذَا",
+      "content": [
+        "كَذَا is composed of كَ (like) + ذَا (this), but as a unit it functions as a number substitute. It is مَبْنِيّ in the position of the number it replaces.",
+        "The تَمْيِيز after كَذَا takes the same case as it would after the actual number: usually مَنْصُوب if the number is large (11+), or مَجْرُور if small."
+      ],
+      "keyPoints": [
+        "كَ + ذَا = number substitute",
+        "مبني في محل العدد",
+        "تمييز usually منصوب",
+        "Position depends on sentence"
+      ],
+      "examples": [
+        { "arabic": "كَذَا: في محل رفع/نصب/جر", "english": "Takes position of number it replaces" },
+        { "arabic": "عِنْدِي كَذَا كِتَابًا (تمييز منصوب)", "english": "I have X books (منصوب)" },
+        { "arabic": "اشْتَرَيْتُ كَذَا وَكَذَا ثَوْبًا", "english": "I bought X and Y garments" },
+        { "arabic": "قَرَأْتُ كَذَا صَفْحَةً", "english": "I read X pages" }
+      ]
+    },
+    {
+      "title": "Comparison: كَأَيِّنْ، كَمْ، كَذَا",
+      "titleArabic": "مُقَارَنَةٌ: كَأَيِّنْ، كَمْ، كَذَا",
+      "content": [
+        "كَمْ (exclamatory): تَمْيِيز مَنْصُوب or مَجْرُور بِمِنْ. كَأَيِّنْ: تَمْيِيز مَجْرُور بِمِنْ only. كَذَا: تَمْيِيز usually مَنْصُوب.",
+        "All three express quantity, but: كَمْ and كَأَيِّنْ = 'how many/many a' (large unspecified number). كَذَا = 'such and such' (known but unstated number)."
+      ],
+      "keyPoints": [
+        "كم: منصوب or مجرور بمن",
+        "كأيّن: مجرور بمن only",
+        "كذا: usually منصوب",
+        "Meaning differences"
+      ],
+      "examples": [
+        { "arabic": "كَمْ كِتَابًا / كَمْ مِنْ كِتَابٍ", "english": "How many books (both valid)" },
+        { "arabic": "كَأَيِّنْ مِنْ كِتَابٍ", "english": "How many a book (only مجرور)" },
+        { "arabic": "كَذَا كِتَابًا", "english": "X books (usually منصوب)" },
+        { "arabic": "كَمْ وَكَأَيِّنْ = كَثْرَة، كَذَا = إِبْهَام", "english": "كم/كأيّن = abundance, كذا = vagueness" }
+      ]
+    },
+    {
+      "title": "Usage in Context",
+      "titleArabic": "الاسْتِخْدَامُ فِي السِّيَاقِ",
+      "content": [
+        "كَأَيِّنْ is primarily found in classical and Quranic Arabic, while كَذَا is used in both classical and modern contexts for avoiding specific numbers.",
+        "Both are important for understanding classical texts and Quranic tafsir. Modern Arabic often prefers كَمْ for exclamatory expressions."
+      ],
+      "keyPoints": [
+        "كأيّن: Quranic/classical",
+        "كذا: classical and modern",
+        "Modern Arabic prefers كم",
+        "Important for تفسير"
+      ],
+      "examples": [
+        { "arabic": "وَكَأَيِّنْ مِنْ آيَةٍ فِي السَّمَاوَاتِ", "english": "How many a sign in the heavens... (Quran 12:105)" },
+        { "arabic": "حَدَّثَنِي فُلَانٌ بِكَذَا", "english": "So-and-so told me such and such" },
+        { "arabic": "ثَمَنُهُ كَذَا وَكَذَا", "english": "Its price is such and such" },
+        { "arabic": "قُلْ كَمْ لَبِثْتُمْ (استفهام)", "english": "Say: How long did you remain? (question)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l109-ex01",
+      "type": "fill-blank",
+      "prompt": "كَأَيِّنْ تَعْنِي: كَمْ مِنَ / _____ مِنَ",
+      "promptEn": "كَأَيِّنْ means: how many / _____ a",
+      "answer": "كَثِيرٌ",
+      "itemIds": ["word-b3-673"]
+    },
+    {
+      "id": "b3-l109-ex02",
+      "type": "fill-blank",
+      "prompt": "التَّمْيِيزُ بَعْدَ كَأَيِّنْ يَكُونُ مَجْرُورًا بِـ_____",
+      "promptEn": "The تمييز after كأيّن is genitive with _____",
+      "answer": "مِنْ",
+      "itemIds": ["word-b3-674"]
+    },
+    {
+      "id": "b3-l109-ex03",
+      "type": "fill-blank",
+      "prompt": "كَذَا تَعْنِي: _____ وَكَذَا (عدد معلوم غير مذكور)",
+      "promptEn": "كَذَا means: such and _____ (known but unstated number)",
+      "answer": "كَذَا",
+      "itemIds": ["word-b3-675"]
+    },
+    {
+      "id": "b3-l109-ex04",
+      "type": "fill-blank",
+      "prompt": "كَأَيِّنْ مِنْ نَبِيٍّ - 'نَبِيٍّ' هُنَا _____",
+      "promptEn": "كأيّن من نبيٍّ - 'نبيٍّ' here is _____",
+      "answer": "تَمْيِيزٌ مَجْرُورٌ",
+      "itemIds": ["word-b3-676"]
+    },
+    {
+      "id": "b3-l109-ex05",
+      "type": "fill-blank",
+      "prompt": "عِنْدِي كَذَا كِتَابًا - 'كِتَابًا' هُنَا _____",
+      "promptEn": "عندي كذا كتابًا - 'كتابًا' here is _____",
+      "answer": "تَمْيِيزٌ مَنْصُوبٌ",
+      "itemIds": ["word-b3-677"]
+    },
+    {
+      "id": "b3-l109-ex06",
+      "type": "fill-blank",
+      "prompt": "كَأَيِّنْ وَكَمْ وَكَذَا كُلُّهَا _____ عَنِ الْعَدَدِ",
+      "promptEn": "كأيّن، كم، and كذا are all _____ for number",
+      "answer": "كِنَايَةٌ",
+      "itemIds": ["word-b3-673"]
+    },
+    {
+      "id": "b3-l109-ex07",
+      "type": "word-to-meaning",
+      "prompt": "كَأَيِّنْ",
+      "answer": "How many / many a (classical, Quranic)",
+      "itemIds": ["word-b3-673"]
+    },
+    {
+      "id": "b3-l109-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كَذَا",
+      "answer": "Such and such (unspecified number)",
+      "itemIds": ["word-b3-675"]
+    },
+    {
+      "id": "b3-l109-ex09",
+      "type": "word-to-meaning",
+      "prompt": "كِنَايَةٌ عَنِ الْعَدَدِ",
+      "answer": "Expression/substitute for number",
+      "itemIds": ["word-b3-674"]
+    },
+    {
+      "id": "b3-l109-ex10",
+      "type": "meaning-to-word",
+      "prompt": "How many (Quranic, with من + genitive)",
+      "answer": "كَأَيِّنْ",
+      "itemIds": ["word-b3-673"]
+    },
+    {
+      "id": "b3-l109-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Such and such (number substitute)",
+      "answer": "كَذَا",
+      "itemIds": ["word-b3-675"]
+    },
+    {
+      "id": "b3-l109-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Specification noun (after numbers)",
+      "answer": "تَمْيِيزٌ",
+      "itemIds": ["word-b3-677"]
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "id": "b2-l48",
+  "book": 2,
+  "lesson": 48,
+  "title": "البَدَل",
+  "titleEn": "Substitution/Apposition",
+  "description": "Learn about البدل (substitution/apposition), one of the التوابع (followers), including its four types: بدل كل من كل، بدل بعض من كل، بدل اشتمال، and بدل غلط.",
+  "vocabulary": ["word-b2-365", "word-b2-366", "word-b2-367", "word-b2-368", "word-b2-369", "word-b2-370"],
+  "grammarPoints": ["gp-b2-063", "gp-b2-064"],
+  "notes": [
+    {
+      "title": "What is البدل?",
+      "titleArabic": "تعريف البدل",
+      "content": [
+        "البدل is one of the التوابع (followers). It is a word that replaces or further specifies the word before it (المبدل منه).",
+        "Unlike عطف البيان which only clarifies, البدل can stand in place of the original word. The intent is actually on البدل, not المبدل منه."
+      ],
+      "keyPoints": [
+        "البدل follows المبدل منه in case (إعراب)",
+        "The meaning focuses on البدل, not المبدل منه",
+        "Often the first word prepares for the second",
+        "Part of the four التوابع: النعت، التوكيد، العطف، البدل"
+      ],
+      "examples": [
+        { "arabic": "رَأَيْتُ زَيْدًا أَخَاكَ", "english": "I saw Zaid, your brother (complete substitution)" },
+        { "arabic": "أَكَلْتُ الرَّغِيفَ ثُلُثَهُ", "english": "I ate the loaf, a third of it (partial)" },
+        { "arabic": "أَعْجَبَنِي زَيْدٌ عِلْمُهُ", "english": "Zaid impressed me, his knowledge (inclusion)" },
+        { "arabic": "رَأَيْتُ زَيْدًا الْفَرَسَ", "english": "I saw Zaid - the horse (correction)" }
+      ]
+    },
+    {
+      "title": "Complete Substitution (بدل كل من كل)",
+      "titleArabic": "بدل كل من كل - البدل المطابق",
+      "content": [
+        "بدل كل من كل (also called البدل المطابق) is when البدل equals المبدل منه completely in meaning.",
+        "The second word is identical to or synonymous with the first: جَاءَ عُمَرُ الْفَارُوقُ (Umar, Al-Farooq, came)."
+      ],
+      "keyPoints": [
+        "البدل = المبدل منه in full meaning",
+        "Often proper nouns, titles, or descriptions",
+        "الْخَلِيفَةُ عُمَرُ - the caliph, Umar",
+        "أَخُوكَ مُحَمَّدٌ - your brother, Muhammad"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْخَلِيفَةُ عُمَرُ", "english": "The caliph Umar came" },
+        { "arabic": "رَأَيْتُ أَبَا بَكْرٍ الصِّدِّيقَ", "english": "I saw Abu Bakr, the truthful" },
+        { "arabic": "قَابَلْتُ أَخَاكَ مُحَمَّدًا", "english": "I met your brother Muhammad" },
+        { "arabic": "زُرْتُ مَدِينَةَ دِمَشْقَ", "english": "I visited the city of Damascus" }
+      ]
+    },
+    {
+      "title": "Partial and Inclusion Substitution",
+      "titleArabic": "بدل بعض من كل وبدل اشتمال",
+      "content": [
+        "بدل بعض من كل is when البدل is a part of المبدل منه: أَكَلْتُ التُّفَّاحَةَ نِصْفَهَا (I ate the apple, half of it).",
+        "بدل اشتمال is when البدل is something contained within or associated with المبدل منه: أَحْبَبْتُ زَيْدًا أَخْلَاقَهُ (I loved Zaid, his manners)."
+      ],
+      "keyPoints": [
+        "بدل بعض من كل: part of a whole - requires pronoun suffix",
+        "Examples: نِصْفَهُ، ثُلُثَهُ، رُبْعَهُ (half, third, quarter)",
+        "بدل اشتمال: abstract quality or associated attribute",
+        "Examples: عِلْمَهُ، أَخْلَاقَهُ، كَلَامَهُ (knowledge, manners, speech)"
+      ],
+      "examples": [
+        { "arabic": "قَرَأْتُ الْكِتَابَ نِصْفَهُ", "english": "I read the book, half of it" },
+        { "arabic": "شَرِبْتُ الْمَاءَ بَعْضَهُ", "english": "I drank the water, some of it" },
+        { "arabic": "أَعْجَبَنِي الطَّالِبُ ذَكَاؤُهُ", "english": "The student impressed me, his intelligence" },
+        { "arabic": "سَمِعْتُ الْمُغَنِّيَ صَوْتَهُ", "english": "I heard the singer, his voice" }
+      ]
+    },
+    {
+      "title": "Correction Substitution (بدل غلط)",
+      "titleArabic": "بدل الغلط والإضراب",
+      "content": [
+        "بدل غلط (or بدل الإضراب) is when the speaker corrects a mistake. The first word was an error, and the second is the correction.",
+        "This is less common in formal writing but occurs in speech: رَأَيْتُ رَجُلًا امْرَأَةً (I saw a man - a woman)."
+      ],
+      "keyPoints": [
+        "The speaker said the first word by mistake",
+        "البدل is the intended word",
+        "Also called بدل الإضراب (turning away from)",
+        "Most common in spoken Arabic"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ زَيْدٌ عَمْرٌو", "english": "Zaid came - (I mean) Amr" },
+        { "arabic": "أَكَلْتُ خُبْزًا لَحْمًا", "english": "I ate bread - (I mean) meat" },
+        { "arabic": "ذَهَبْتُ إِلَى الْمَسْجِدِ السُّوقِ", "english": "I went to the mosque - (I mean) the market" },
+        { "arabic": "قَابَلْتُ مُحَمَّدًا أَحْمَدَ", "english": "I met Muhammad - (I mean) Ahmad" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l48-ex01",
+      "type": "fill-blank",
+      "prompt": "جَاءَ الْخَلِيفَةُ _____ (بدل كل من كل)",
+      "promptEn": "The caliph _____ came (complete substitution)",
+      "answer": "عُمَرُ",
+      "itemIds": ["word-b2-365"]
+    },
+    {
+      "id": "b2-l48-ex02",
+      "type": "fill-blank",
+      "prompt": "قَرَأْتُ الْكِتَابَ _____ (بدل بعض من كل)",
+      "promptEn": "I read the book, _____ of it (partial substitution)",
+      "answer": "نِصْفَهُ",
+      "itemIds": ["word-b2-366"]
+    },
+    {
+      "id": "b2-l48-ex03",
+      "type": "fill-blank",
+      "prompt": "أَعْجَبَنِي الطَّالِبُ _____ (بدل اشتمال)",
+      "promptEn": "The student impressed me, his _____ (inclusion)",
+      "answer": "ذَكَاؤُهُ",
+      "itemIds": ["word-b2-367"]
+    },
+    {
+      "id": "b2-l48-ex04",
+      "type": "fill-blank",
+      "prompt": "زُرْتُ مَدِينَةَ _____",
+      "promptEn": "I visited the city of _____",
+      "answer": "دِمَشْقَ",
+      "itemIds": ["word-b2-368"]
+    },
+    {
+      "id": "b2-l48-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I met your brother Muhammad",
+      "answer": "قَابَلْتُ أَخَاكَ مُحَمَّدًا",
+      "itemIds": ["word-b2-365"]
+    },
+    {
+      "id": "b2-l48-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I ate the apple, half of it",
+      "answer": "أَكَلْتُ التُّفَّاحَةَ نِصْفَهَا",
+      "itemIds": ["word-b2-366"]
+    },
+    {
+      "id": "b2-l48-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I loved Zaid, his manners",
+      "answer": "أَحْبَبْتُ زَيْدًا أَخْلَاقَهُ",
+      "itemIds": ["word-b2-369"]
+    },
+    {
+      "id": "b2-l48-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "I heard the singer, his voice",
+      "answer": "سَمِعْتُ الْمُغَنِّيَ صَوْتَهُ",
+      "itemIds": ["word-b2-370"]
+    },
+    {
+      "id": "b2-l48-ex09",
+      "type": "word-to-meaning",
+      "prompt": "بَدَل",
+      "answer": "substitution / replacement",
+      "itemIds": ["word-b2-365"]
+    },
+    {
+      "id": "b2-l48-ex10",
+      "type": "word-to-meaning",
+      "prompt": "اشْتِمَال",
+      "answer": "inclusion / containing",
+      "itemIds": ["word-b2-367"]
+    },
+    {
+      "id": "b2-l48-ex11",
+      "type": "meaning-to-word",
+      "prompt": "half",
+      "answer": "نِصْف",
+      "itemIds": ["word-b2-366"]
+    },
+    {
+      "id": "b2-l48-ex12",
+      "type": "meaning-to-word",
+      "prompt": "third (fraction)",
+      "answer": "ثُلُث",
+      "itemIds": ["word-b2-366"]
+    }
+  ]
+}

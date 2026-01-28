@@ -1,0 +1,224 @@
+{
+  "id": "b3-l85",
+  "book": 3,
+  "lesson": 85,
+  "title": "ظُرُوفُ الْمَكَانِ الْمُتَقَدِّمَةُ",
+  "titleEn": "Advanced Adverbs of Place",
+  "description": "Learn about advanced place adverbs: الجهات الست (six directions), ظروف مبهمة vs محدودة (vague vs defined), and ظروف متصرفة vs غير متصرفة (flexible vs fixed).",
+  "vocabulary": ["word-b3-553", "word-b3-554", "word-b3-555", "word-b3-556", "word-b3-557"],
+  "grammarPoints": ["gp-b3-132", "gp-b3-133"],
+  "notes": [
+    {
+      "title": "Review: Place Adverbs",
+      "titleArabic": "مُرَاجَعَةٌ: ظُرُوفُ الْمَكَانِ",
+      "content": [
+        "ظَرْفُ الْمَكَانِ (adverb of place) indicates where an action occurs. Place adverbs are typically مَنْصُوب (accusative) and can be مُبْهَم (vague) or مُحَدَّد (defined).",
+        "Common place adverbs include: فَوْقَ (above), تَحْتَ (below), أَمَامَ (in front), خَلْفَ (behind), يَمِينَ (right), شِمَالَ (left), عِنْدَ (at), بَيْنَ (between). Understanding their grammatical behavior is essential for advanced Arabic."
+      ],
+      "keyPoints": [
+        "ظَرْف الْمَكَان: adverb of place",
+        "Usually مَنْصُوب (accusative)",
+        "Can be مُبْهَم (vague) or مُحَدَّد (defined)",
+        "Essential for describing location"
+      ],
+      "examples": [
+        { "arabic": "جَلَسْتُ فَوْقَ الْكُرْسِيِّ", "english": "I sat on top of the chair (فَوْقَ = place adverb)" },
+        { "arabic": "الْكِتَابُ تَحْتَ الطَّاوِلَةِ", "english": "The book is under the table" },
+        { "arabic": "وَقَفَ أَمَامَ الْبَابِ", "english": "He stood in front of the door" },
+        { "arabic": "الْمَسْجِدُ عَنْ يَمِينِكَ", "english": "The mosque is on your right" }
+      ]
+    },
+    {
+      "title": "The Six Directions (الجهات الست)",
+      "titleArabic": "الْجِهَاتُ السِّتُّ",
+      "content": [
+        "الْجِهَاتُ السِّتُّ (the six directions) are the fundamental spatial orientations: فَوْقَ (above), تَحْتَ (below), أَمَامَ/قُدَّامَ (in front), خَلْفَ/وَرَاءَ (behind), يَمِين (right), شِمَال/يَسَار (left).",
+        "These are مُبْهَمَة (vague) by nature - they don't indicate a specific place but a direction relative to something. They are typically used as مُضَاف (annexed) to another noun: فَوْقَ السَّطْحِ، تَحْتَ الأَرْضِ."
+      ],
+      "keyPoints": [
+        "Six directions: فَوْقَ، تَحْتَ، أَمَامَ، خَلْفَ، يَمِين، شِمَال",
+        "مُبْهَمَة: vague, relative direction",
+        "Usually مُضَاف (in construct state)",
+        "Answer 'where' questions relatively"
+      ],
+      "examples": [
+        { "arabic": "الطَّائِرُ فَوْقَ الشَّجَرَةِ", "english": "The bird is above the tree" },
+        { "arabic": "الْكَنْزُ تَحْتَ الأَرْضِ", "english": "The treasure is under the ground" },
+        { "arabic": "جَلَسَ أَمَامَ الْمُعَلِّمِ", "english": "He sat in front of the teacher" },
+        { "arabic": "مَشَى خَلْفَهُ", "english": "He walked behind him" }
+      ]
+    },
+    {
+      "title": "Vague vs Defined Place Adverbs",
+      "titleArabic": "ظُرُوفٌ مُبْهَمَةٌ وَمُحَدَّدَةٌ",
+      "content": [
+        "ظَرْفٌ مُبْهَمٌ (vague adverb) doesn't specify exact limits - it depends on what it's annexed to: عِنْدَ، لَدَى، فَوْقَ، تَحْتَ، بَيْنَ، خَلْفَ، أَمَامَ. These are always ظُرُوف (adverbs).",
+        "ظَرْفٌ مُحَدَّدٌ/مَحْدُودٌ (defined adverb) has specific limits: الدَّار، الْمَسْجِد، الْمَدْرَسَة. These are regular nouns that can ALSO be used as adverbs of place with certain verbs."
+      ],
+      "keyPoints": [
+        "مُبْهَم: no specific limits (فَوْقَ، تَحْتَ)",
+        "مُحَدَّد: has specific limits (الدَّار)",
+        "مُبْهَم always functions as ظَرْف",
+        "مُحَدَّد can be ظَرْف or regular noun"
+      ],
+      "examples": [
+        { "arabic": "جَلَسْتُ عِنْدَ الْبَابِ (مبهم)", "english": "I sat at the door (عِنْدَ = vague - where exactly?)" },
+        { "arabic": "دَخَلْتُ الدَّارَ (محدد)", "english": "I entered the house (الدَّار = defined place)" },
+        { "arabic": "بَيْنَ الصَّفَّيْنِ (مبهم)", "english": "Between the two rows (relative location)" },
+        { "arabic": "سَكَنْتُ مَكَّةَ (محدد)", "english": "I lived in Mecca (specific place)" }
+      ]
+    },
+    {
+      "title": "Flexible vs Fixed Adverbs",
+      "titleArabic": "ظُرُوفٌ مُتَصَرِّفَةٌ وَغَيْرُ مُتَصَرِّفَةٍ",
+      "content": [
+        "ظَرْفٌ مُتَصَرِّفٌ (flexible/declinable adverb) can function as a regular noun taking different grammatical positions - subject, object, etc. - not just as an adverb. Example: يَوْم can be فَاعِل، مَفْعُول، مُبْتَدَأ besides being ظَرْف.",
+        "ظَرْفٌ غَيْرُ مُتَصَرِّفٍ (fixed/non-declinable adverb) only functions as an adverb or with a preposition. Examples: عِنْدَ، لَدَى، بَيْنَ - these cannot be subjects or objects."
+      ],
+      "keyPoints": [
+        "مُتَصَرِّف: can take various grammatical roles",
+        "Example: يَوْم can be فاعل، مفعول، ظرف",
+        "غَيْر مُتَصَرِّف: only ظَرْف or مَجْرُور",
+        "Example: عِنْدَ، لَدَى، بَيْنَ"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ يَوْمٌ مُبَارَكٌ (فاعل)", "english": "A blessed day came (يَوْم as subject - flexible)" },
+        { "arabic": "اِنْتَظَرْتُ يَوْمًا كَامِلًا (مفعول)", "english": "I waited a whole day (يَوْم as object - flexible)" },
+        { "arabic": "سَافَرْتُ يَوْمَ الْجُمُعَةِ (ظرف)", "english": "I traveled on Friday (يَوْم as adverb)" },
+        { "arabic": "جَلَسَ عِنْدِي (ظرف فقط)", "english": "He sat near me (عِنْدَ only as adverb - fixed)" }
+      ]
+    },
+    {
+      "title": "Special Place Words",
+      "titleArabic": "كَلِمَاتُ مَكَانٍ خَاصَّةٌ",
+      "content": [
+        "Some place words have special grammatical features. حَيْثُ (where) is مَبْنِيّ عَلَى الضَّمّ and always مُضَاف to a sentence. لَدُنْ (with/from) has unique grammar with possessive suffixes: لَدُنِّي.",
+        "ثَمَّ/ثَمَّةَ (there) is an adverb of place pointing to a distant location. هُنَا/هُنَالِكَ (here/there) are demonstrative adverbs of place."
+      ],
+      "keyPoints": [
+        "حَيْثُ: مبني على الضم، مضاف to جملة",
+        "لَدُنْ: special with suffixes (لَدُنِّي)",
+        "ثَمَّ/ثَمَّةَ: there (distant)",
+        "هُنَا/هُنَالِكَ: here/there"
+      ],
+      "examples": [
+        { "arabic": "اِجْلِسْ حَيْثُ شِئْتَ", "english": "Sit where you wish (حَيْثُ + sentence)" },
+        { "arabic": "وَعَلَّمْنَاهُ مِنْ لَدُنَّا عِلْمًا", "english": "And We taught him knowledge from Us (Quran 18:65)" },
+        { "arabic": "ثَمَّ وُجُوهٌ نَاضِرَةٌ", "english": "There are radiant faces (pointing to Paradise)" },
+        { "arabic": "هُنَا يَسْكُنُ الْعُلَمَاءُ", "english": "Here the scholars live" }
+      ]
+    },
+    {
+      "title": "I'rab of Place Adverbs",
+      "titleArabic": "إِعْرَابُ ظُرُوفِ الْمَكَانِ",
+      "content": [
+        "Place adverbs are منصوب على الظرفية (accusative as adverb of place) when indicating where an action occurs. If preceded by مِنْ or another preposition, they become مَجْرُور.",
+        "The verbal governor (عَامِل) for the adverb is usually the verb of the sentence. The adverb is then مُتَعَلِّق بـ (attached to) that verb in meaning."
+      ],
+      "keyPoints": [
+        "As adverb: مَنْصُوب على الظرفية",
+        "With preposition: مَجْرُور",
+        "عَامِل: usually the verb",
+        "مُتَعَلِّق بـ: attached to the verb"
+      ],
+      "examples": [
+        { "arabic": "جَلَسَ فَوْقَ: فَوْقَ ظرف مكان منصوب", "english": "He sat above: فَوْقَ = place adverb in accusative" },
+        { "arabic": "جَاءَ مِنْ فَوْقِ: فَوْقِ اسم مجرور", "english": "He came from above: فَوْقِ = genitive noun" },
+        { "arabic": "بَيْنَهُمَا: ظرف مكان منصوب متعلق بخبر محذوف", "english": "Between them: adverb attached to deleted predicate" },
+        { "arabic": "مِنْ عِنْدِهِ: عِنْدِ مجرور بمن", "english": "From near him: عِنْدِ genitive with مِنْ" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l85-ex01",
+      "type": "fill-blank",
+      "prompt": "الْجِهَاتُ السِّتُّ هِيَ: فَوْقَ، تَحْتَ، أَمَامَ، خَلْفَ، يَمِين، _____",
+      "promptEn": "The six directions are: above, below, front, back, right, _____",
+      "answer": "شِمَال",
+      "itemIds": ["word-b3-553"]
+    },
+    {
+      "id": "b3-l85-ex02",
+      "type": "fill-blank",
+      "prompt": "الظَّرْفُ الَّذِي لَا يَدُلُّ عَلَى حُدُودٍ مُحَدَّدَةٍ يُسَمَّى الظَّرْفَ _____",
+      "promptEn": "An adverb that doesn't indicate specific limits is called a _____ adverb",
+      "answer": "الْمُبْهَمَ",
+      "itemIds": ["word-b3-554"]
+    },
+    {
+      "id": "b3-l85-ex03",
+      "type": "fill-blank",
+      "prompt": "الظَّرْفُ _____ يَسْتَطِيعُ أَنْ يَكُونَ فَاعِلًا أَوْ مَفْعُولًا أَوْ ظَرْفًا",
+      "promptEn": "A _____ adverb can function as subject, object, or adverb",
+      "answer": "الْمُتَصَرِّفُ",
+      "itemIds": ["word-b3-555"]
+    },
+    {
+      "id": "b3-l85-ex04",
+      "type": "fill-blank",
+      "prompt": "كَلِمَةُ عِنْدَ ظَرْفٌ _____ لَا يَكُونُ إِلَّا ظَرْفًا أَوْ مَجْرُورًا",
+      "promptEn": "The word عِنْدَ is a _____ adverb - only used as adverb or with preposition",
+      "answer": "غَيْرُ مُتَصَرِّفٍ",
+      "itemIds": ["word-b3-556"]
+    },
+    {
+      "id": "b3-l85-ex05",
+      "type": "fill-blank",
+      "prompt": "كَلِمَةُ حَيْثُ مَبْنِيَّةٌ عَلَى الضَّمِّ وَتُضَافُ إِلَى _____",
+      "promptEn": "The word حَيْثُ is built on damma and is annexed to a _____",
+      "answer": "جُمْلَةٍ",
+      "itemIds": ["word-b3-557"]
+    },
+    {
+      "id": "b3-l85-ex06",
+      "type": "fill-blank",
+      "prompt": "جَلَسْتُ فَوْقَ الْكُرْسِيِّ - فَوْقَ هُنَا ظَرْفُ مَكَانٍ _____",
+      "promptEn": "I sat on the chair - فَوْقَ here is a place adverb in _____",
+      "answer": "مَنْصُوبٌ",
+      "itemIds": ["word-b3-553"]
+    },
+    {
+      "id": "b3-l85-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْجِهَاتُ السِّتُّ",
+      "answer": "The six directions (above, below, front, back, right, left)",
+      "itemIds": ["word-b3-553"]
+    },
+    {
+      "id": "b3-l85-ex08",
+      "type": "word-to-meaning",
+      "prompt": "ظَرْفٌ مُبْهَمٌ",
+      "answer": "A vague adverb (without specific limits)",
+      "itemIds": ["word-b3-554"]
+    },
+    {
+      "id": "b3-l85-ex09",
+      "type": "word-to-meaning",
+      "prompt": "ظَرْفٌ مُتَصَرِّفٌ",
+      "answer": "A flexible/declinable adverb (can be subject, object, etc.)",
+      "itemIds": ["word-b3-555"]
+    },
+    {
+      "id": "b3-l85-ex10",
+      "type": "meaning-to-word",
+      "prompt": "An adverb that can only function as adverb or with preposition",
+      "answer": "ظَرْفٌ غَيْرُ مُتَصَرِّفٍ",
+      "itemIds": ["word-b3-556"]
+    },
+    {
+      "id": "b3-l85-ex11",
+      "type": "meaning-to-word",
+      "prompt": "An adverb meaning 'where' that is always annexed to a sentence",
+      "answer": "حَيْثُ",
+      "itemIds": ["word-b3-557"]
+    },
+    {
+      "id": "b3-l85-ex12",
+      "type": "meaning-to-word",
+      "prompt": "An adverb with defined, specific limits (like الدَّار)",
+      "answer": "ظَرْفٌ مُحَدَّدٌ/مَحْدُودٌ",
+      "itemIds": ["word-b3-554"]
+    }
+  ]
+}

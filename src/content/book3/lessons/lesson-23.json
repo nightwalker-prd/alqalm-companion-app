@@ -1,0 +1,169 @@
+{
+  "id": "b3-l23",
+  "book": 3,
+  "lesson": 23,
+  "title": "المَفْعُول المُطْلَق",
+  "titleEn": "Absolute Object (Cognate Accusative)",
+  "notes": [
+    {
+      "title": "Advanced Absolute Object Uses",
+      "titleArabic": "استعمالات المفعول المطلق المتقدمة",
+      "content": [
+        "Beyond simple emphasis, the absolute object has advanced uses including indicating number of occurrences, type of action, and can be replaced by substitute words."
+      ],
+      "keyPoints": [
+        "Number: ضَرَبْتُهُ ضَرْبَتَيْنِ (I hit him twice)",
+        "Type: ضَرَبْتُهُ ضَرْبَ الْمُعَلِّمِ (I hit him like a teacher)",
+        "Substitute words can replace the maṣdar",
+        "كُلّ, بَعْض, demonstratives can deputize"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبْتُهُ ضَرْبًا شَدِيدًا", "english": "I hit him a severe hitting" },
+        { "arabic": "فَهِمْتُهُ فَهْمًا تَامًّا", "english": "I understood it completely" }
+      ]
+    },
+    {
+      "title": "Form VIII Assimilation Rules",
+      "titleArabic": "قواعد الإدغام في باب افتعل",
+      "content": [
+        "Form VIII (افتعل) has special assimilation rules when certain letters are the first radical. The tā' of the pattern may change to match or assimilate with the first radical."
+      ],
+      "keyPoints": [
+        "First radical د, ذ, ز causes tā' to become dāl: اِدَّعَى (claimed)",
+        "First radical ط, ظ causes tā' to become ṭā': اِطَّلَعَ (looked into)",
+        "First radical ص, ض causes tā' to become ṭā' with emphatic: اِصْطَبَرَ",
+        "These changes follow phonetic harmony"
+      ],
+      "examples": [
+        { "arabic": "اِدَّعَى (من دَعَا)", "english": "to claim (from 'to call')" },
+        { "arabic": "اِطَّلَعَ (من طَلَعَ)", "english": "to look into (from 'to rise')" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-123",
+    "word-b3-124",
+    "word-b3-125",
+    "word-b3-126",
+    "word-b3-127"
+  ],
+  "grammarPoints": [
+    "gp-b3-023"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l23-ex01",
+      "type": "fill-blank",
+      "prompt": "ضَرَبْتُهُ _____ شَدِيدًا (ضَرْبًا)",
+      "answer": "ضَرْبًا",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I understood it completely (understanding)",
+      "answer": "فَهِمْتُهُ فَهْمًا تَامًّا",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex03",
+      "type": "fill-blank",
+      "prompt": "قَرَأَ القُرْآنَ _____ حَسَنَةً (قِرَاءَةً)",
+      "answer": "قِرَاءَةً",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex04",
+      "type": "word-to-meaning",
+      "prompt": "سَيْرًا حَثِيثًا",
+      "answer": "rapid walking",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex05",
+      "type": "meaning-to-word",
+      "prompt": "a strong blow",
+      "answer": "ضَرْبًا شَدِيدًا",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He worked hard work",
+      "answer": "عَمِلَ عَمَلاً شَاقًّا",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex07",
+      "type": "fill-blank",
+      "prompt": "أَكْرَمَهُ _____ بَالِغًا (إِكْرَامًا)",
+      "answer": "إِكْرَامًا",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كِتَابَةً جَمِيلَةً",
+      "answer": "beautiful writing",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "He thanked him greatly",
+      "answer": "شَكَرَهُ شُكْرًا جَزِيلاً",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex10",
+      "type": "fill-blank",
+      "prompt": "نَامَ _____ عَمِيقًا (نَوْمًا)",
+      "answer": "نَوْمًا",
+      "itemIds": [
+        "word-b3-123",
+        "word-b3-124"
+      ]
+    },
+    {
+      "id": "b3-l23-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student wrote the lesson beautiful writing",
+      "answer": "كَتَبَ الطَّالِبُ الدَّرْسَ كِتَابَةً جَمِيلَةً",
+      "itemIds": ["word-b3-123", "word-b3-124", "word-b2-019"]
+    },
+    {
+      "id": "b3-l23-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He slept a deep sleep after the long day",
+      "answer": "نَامَ نَوْمًا عَمِيقًا بَعْدَ الْيَوْمِ الطَّوِيلِ",
+      "itemIds": ["word-b3-123", "word-b3-124"]
+    }
+  ]
+}

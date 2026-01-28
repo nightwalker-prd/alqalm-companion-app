@@ -1,0 +1,177 @@
+{
+  "id": "b1-l03",
+  "book": 1,
+  "lesson": 3,
+  "title": "مَا هَذَا؟ / مَنْ هَذَا؟",
+  "titleEn": "What is this? / Who is this?",
+  "description": "Learn to ask and answer questions using مَا (what) for things and مَنْ (who) for people.",
+  "vocabulary": ["word-015", "word-016", "word-017", "word-018", "word-019", "word-020"],
+  "grammarPoints": ["gp-004", "gp-005"],
+  "notes": [
+    {
+      "title": "Question Words: مَا and مَنْ",
+      "titleArabic": "أدوات الاستفهام",
+      "content": [
+        "Arabic uses different question words for things and people. مَا (mā) means 'what' and is used for non-human things. مَنْ (man) means 'who' and is used for people.",
+        "These question words can be combined with demonstratives to form questions like 'What is this?' (مَا هَذَا؟) and 'Who is this?' (مَنْ هَذَا؟)."
+      ],
+      "keyPoints": [
+        "مَا (what) is used for things and objects",
+        "مَنْ (who) is used for people only",
+        "Both can be used with هَذَا or ذَلِكَ to form questions"
+      ],
+      "examples": [
+        { "arabic": "مَا هَذَا؟ هَذَا كِتَابٌ", "english": "What is this? This is a book" },
+        { "arabic": "مَنْ هَذَا؟ هَذَا طَالِبٌ", "english": "Who is this? This is a student" },
+        { "arabic": "مَا ذَلِكَ؟ ذَلِكَ نَجْمٌ", "english": "What is that? That is a star" },
+        { "arabic": "مَنْ ذَلِكَ؟ ذَلِكَ مُدَرِّسٌ", "english": "Who is that? That is a teacher" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l03-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ هَذَا؟ هَذَا كِتَابٌ",
+      "promptEn": "_____ is this? This is a book",
+      "answer": "مَا",
+      "itemIds": ["word-015", "word-002"]
+    },
+    {
+      "id": "b1-l03-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ هَذَا؟ هَذَا طَالِبٌ",
+      "promptEn": "_____ is this? This is a student",
+      "answer": "مَنْ",
+      "itemIds": ["word-016", "word-017"]
+    },
+    {
+      "id": "b1-l03-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ ذَلِكَ؟ ذَلِكَ مُدَرِّسٌ",
+      "promptEn": "_____ is that? That is a teacher",
+      "answer": "مَنْ",
+      "itemIds": ["word-016", "word-018"]
+    },
+    {
+      "id": "b1-l03-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ ذَلِكَ؟ ذَلِكَ نَجْمٌ",
+      "promptEn": "_____ is that? That is a star",
+      "answer": "مَا",
+      "itemIds": ["word-015", "word-011"]
+    },
+    {
+      "id": "b1-l03-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "What is this?",
+      "answer": "مَا هَذَا؟",
+      "itemIds": ["word-015", "word-001"]
+    },
+    {
+      "id": "b1-l03-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Who is this?",
+      "answer": "مَنْ هَذَا؟",
+      "itemIds": ["word-016", "word-001"]
+    },
+    {
+      "id": "b1-l03-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "What is that?",
+      "answer": "مَا ذَلِكَ؟",
+      "itemIds": ["word-015", "word-010"]
+    },
+    {
+      "id": "b1-l03-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "Who is that?",
+      "answer": "مَنْ ذَلِكَ؟",
+      "itemIds": ["word-016", "word-010"]
+    },
+    {
+      "id": "b1-l03-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "This is a student",
+      "answer": "هَذَا طَالِبٌ",
+      "itemIds": ["word-001", "word-017"]
+    },
+    {
+      "id": "b1-l03-ex10",
+      "type": "translate-to-arabic",
+      "prompt": "That is a teacher",
+      "answer": "ذَلِكَ مُدَرِّسٌ",
+      "itemIds": ["word-010", "word-018"]
+    },
+    {
+      "id": "b1-l03-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "This is a doctor",
+      "answer": "هَذَا طَبِيبٌ",
+      "itemIds": ["word-001", "word-019"]
+    },
+    {
+      "id": "b1-l03-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "That is a merchant",
+      "answer": "ذَلِكَ تَاجِرٌ",
+      "itemIds": ["word-010", "word-020"]
+    },
+    {
+      "id": "b1-l03-ex13",
+      "type": "word-to-meaning",
+      "prompt": "طَالِبٌ",
+      "answer": "student",
+      "itemIds": ["word-017"]
+    },
+    {
+      "id": "b1-l03-ex14",
+      "type": "word-to-meaning",
+      "prompt": "مُدَرِّسٌ",
+      "answer": "teacher",
+      "itemIds": ["word-018"]
+    },
+    {
+      "id": "b1-l03-ex15",
+      "type": "word-to-meaning",
+      "prompt": "طَبِيبٌ",
+      "answer": "doctor",
+      "itemIds": ["word-019"]
+    },
+    {
+      "id": "b1-l03-ex16",
+      "type": "word-to-meaning",
+      "prompt": "تَاجِرٌ",
+      "answer": "merchant",
+      "itemIds": ["word-020"]
+    },
+    {
+      "id": "b1-l03-ex17",
+      "type": "meaning-to-word",
+      "prompt": "what",
+      "answer": "مَا",
+      "itemIds": ["word-015"]
+    },
+    {
+      "id": "b1-l03-ex18",
+      "type": "meaning-to-word",
+      "prompt": "who",
+      "answer": "مَنْ",
+      "itemIds": ["word-016"]
+    },
+    {
+      "id": "b1-l03-ex19",
+      "type": "translate-to-arabic",
+      "prompt": "What is this? This is a book",
+      "answer": "مَا هَذَا؟ هَذَا كِتَابٌ",
+      "itemIds": ["word-015", "word-001", "word-002"]
+    },
+    {
+      "id": "b1-l03-ex20",
+      "type": "translate-to-arabic",
+      "prompt": "Who is that? That is a doctor",
+      "answer": "مَنْ ذَلِكَ؟ ذَلِكَ طَبِيبٌ",
+      "itemIds": ["word-016", "word-010", "word-017"]
+    }
+  ]
+}

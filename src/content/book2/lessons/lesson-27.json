@@ -1,0 +1,167 @@
+{
+  "id": "b2-l27",
+  "book": 2,
+  "lesson": 27,
+  "title": "الفِعْل فِي البَاب السَّابِع",
+  "titleEn": "Form VII Verbs (اِنْفَعَلَ)",
+  "vocabulary": [
+    "word-b2-141",
+    "word-b2-142",
+    "word-b2-143",
+    "word-b2-144",
+    "word-b2-145"
+  ],
+  "grammarPoints": ["gp-b2-027"],
+  "notes": [
+    {
+      "title": "Form VII Verbs (اِنْفَعَلَ)",
+      "titleArabic": "الفعل في الباب السابع",
+      "content": [
+        "Form VII verbs follow the pattern اِنْفَعَلَ - يَنْفَعِلُ. This form typically indicates a passive or reflexive meaning - something happening to itself or being affected by an action.",
+        "Form VII is often the passive counterpart of Form I verbs."
+      ],
+      "keyPoints": [
+        "Past pattern: اِنْفَعَلَ (e.g., اِنْفَتَحَ)",
+        "Present pattern: يَنْفَعِلُ (e.g., يَنْفَتِحُ)",
+        "Meaning: Passive/reflexive - 'to be done' or 'to become'",
+        "فَتَحَ (he opened) → اِنْفَتَحَ (it opened / was opened)",
+        "كَسَرَ (he broke) → اِنْكَسَرَ (it broke / was broken)"
+      ],
+      "examples": [
+        { "arabic": "اِنْفَتَحَ الْبَابُ", "english": "The door opened (by itself)" },
+        { "arabic": "اِنْكَسَرَ الزُّجَاجُ", "english": "The glass broke" },
+        { "arabic": "اِنْقَطَعَ الْحَبْلُ", "english": "The rope was cut / snapped" },
+        { "arabic": "اِنْتَهَى الاِجْتِمَاعُ", "english": "The meeting ended" }
+      ]
+    },
+    {
+      "title": "Characteristics of Form VII",
+      "titleArabic": "خصائص الباب السابع",
+      "content": [
+        "Form VII has specific characteristics that distinguish it from other forms."
+      ],
+      "keyPoints": [
+        "Always starts with اِنْـ (in past) or يَنْـ (in present)",
+        "Cannot take a direct object (intransitive)",
+        "Subject is the one affected by the action",
+        "Common verbs: اِنْكَسَرَ، اِنْفَتَحَ، اِنْقَطَعَ، اِنْهَزَمَ"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l27-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ البَابُ (اِنْفَتَحَ)",
+      "answer": "اِنْفَتَحَ",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The glass broke",
+      "answer": "اِنْكَسَرَ الزُّجَاجُ",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الجَيْشُ (اِنْهَزَمَ)",
+      "answer": "اِنْهَزَمَ",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِنْقَطَعَ",
+      "answer": "to be cut off/interrupted",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to be opened",
+      "answer": "اِنْفَتَحَ",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The meeting ended",
+      "answer": "اِنْتَهَى الاجْتِمَاعُ",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex07",
+      "type": "fill-blank",
+      "prompt": "البَابُ _____ (يَنْفَتِحُ)",
+      "answer": "يَنْفَتِحُ",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِنْكَسَرَ",
+      "answer": "to be broken",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "The rope was cut",
+      "answer": "اِنْقَطَعَ الحَبْلُ",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ المَاءُ مِنَ السَّقْفِ (اِنْسَكَبَ)",
+      "answer": "اِنْسَكَبَ",
+      "itemIds": [
+        "word-b2-141",
+        "word-b2-142"
+      ]
+    },
+    {
+      "id": "b2-l27-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The door opened by itself",
+      "answer": "اِنْفَتَحَ الْبَابُ بِنَفْسِهِ",
+      "itemIds": ["word-b2-141", "word-044"]
+    },
+    {
+      "id": "b2-l27-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The electricity was cut off from the house",
+      "answer": "اِنْقَطَعَتِ الْكَهْرَبَاءُ عَنِ الْبَيْتِ",
+      "itemIds": ["word-b2-143", "word-010"]
+    }
+  ]
+}

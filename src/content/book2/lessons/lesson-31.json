@@ -1,0 +1,169 @@
+{
+  "id": "b2-l31",
+  "book": 2,
+  "lesson": 31,
+  "title": "الفِعْل فِي البَاب العَاشِر",
+  "titleEn": "Form X Verbs (اِسْتَفْعَلَ)",
+  "vocabulary": [
+    "word-b2-161",
+    "word-b2-162",
+    "word-b2-163",
+    "word-b2-164",
+    "word-b2-165"
+  ],
+  "grammarPoints": ["gp-b2-031"],
+  "notes": [
+    {
+      "title": "Form X Verbs (اِسْتَفْعَلَ)",
+      "titleArabic": "الفعل في الباب العاشر",
+      "content": [
+        "Form X verbs follow the pattern اِسْتَفْعَلَ - يَسْتَفْعِلُ. This form typically indicates seeking, requesting, or considering something to have a quality.",
+        "The prefix اِسْتَـ is the distinguishing feature of this form."
+      ],
+      "keyPoints": [
+        "Past pattern: اِسْتَفْعَلَ (e.g., اِسْتَغْفَرَ)",
+        "Present pattern: يَسْتَفْعِلُ (e.g., يَسْتَغْفِرُ)",
+        "Meanings: Seeking, requesting, considering as",
+        "غَفَرَ (to forgive) → اِسْتَغْفَرَ (to seek forgiveness)",
+        "أَذِنَ (to permit) → اِسْتَأْذَنَ (to ask permission)"
+      ],
+      "examples": [
+        { "arabic": "اِسْتَغْفَرَ اللهَ", "english": "He sought forgiveness from Allah" },
+        { "arabic": "اِسْتَأْذَنَ قَبْلَ الدُّخُولِ", "english": "He asked permission before entering" },
+        { "arabic": "اِسْتَخْدَمَ الْحَاسُوبَ", "english": "He used the computer" },
+        { "arabic": "اِسْتَقْبَلَ الضُّيُوفَ", "english": "He welcomed the guests" }
+      ]
+    },
+    {
+      "title": "Common Form X Verbs",
+      "titleArabic": "أفعال شائعة من الباب العاشر",
+      "content": [
+        "Form X contains many frequently used verbs in modern and classical Arabic."
+      ],
+      "keyPoints": [
+        "اِسْتَغْفَرَ (to seek forgiveness)",
+        "اِسْتَأْذَنَ (to ask permission)",
+        "اِسْتَخْدَمَ (to use/employ)",
+        "اِسْتَفْهَمَ (to inquire)",
+        "اِسْتَقْبَلَ (to receive/welcome)",
+        "اِسْتَعْمَلَ (to use)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l31-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ اللهَ (اِسْتَغْفَرَ)",
+      "answer": "اِسْتَغْفَرَ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He asked for permission",
+      "answer": "اِسْتَأْذَنَ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ المُعَلِّمَ (اِسْتَفْهَمَ)",
+      "answer": "اِسْتَفْهَمَ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَخْدَمَ",
+      "answer": "to use/employ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to seek forgiveness",
+      "answer": "اِسْتَغْفَرَ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He used the computer",
+      "answer": "اِسْتَخْدَمَ الحَاسُوبَ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ اللهَ (يَسْتَغْفِرُ)",
+      "answer": "يَسْتَغْفِرُ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَقْبَلَ",
+      "answer": "to receive/welcome",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "He welcomed the guests",
+      "answer": "اِسْتَقْبَلَ الضُّيُوفَ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ قَبْلَ الدُّخُولِ (اِسْتَأْذَنَ)",
+      "answer": "اِسْتَأْذَنَ",
+      "itemIds": [
+        "word-b2-161",
+        "word-b2-162"
+      ]
+    },
+    {
+      "id": "b2-l31-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I seek forgiveness from Allah every day",
+      "answer": "أَسْتَغْفِرُ اللهَ كُلَّ يَوْمٍ",
+      "itemIds": ["word-b2-161", "word-b2-083"]
+    },
+    {
+      "id": "b2-l31-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He asked permission before entering the room",
+      "answer": "اِسْتَأْذَنَ قَبْلَ دُخُولِ الْغُرْفَةِ",
+      "itemIds": ["word-b2-163", "word-b2-090", "word-b2-049"]
+    }
+  ]
+}

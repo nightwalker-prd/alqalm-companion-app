@@ -1,0 +1,224 @@
+{
+  "id": "b3-l82",
+  "book": 3,
+  "lesson": 82,
+  "title": "الْحِكَايَةُ",
+  "titleEn": "Quotation (Hikaya)",
+  "description": "Learn about الحِكَايَة - the grammatical phenomenon of quoting speech exactly as it was said, preserving original case endings and forms regardless of the new sentence structure.",
+  "vocabulary": ["word-b3-538", "word-b3-539", "word-b3-540", "word-b3-541", "word-b3-542"],
+  "grammarPoints": ["gp-b3-126", "gp-b3-127"],
+  "notes": [
+    {
+      "title": "What is الحِكَايَة?",
+      "titleArabic": "مَا هِيَ الْحِكَايَةُ؟",
+      "content": [
+        "الْحِكَايَة (quotation/imitation) is a grammatical phenomenon where a word or phrase is quoted exactly as it was originally spoken or written, preserving its original form regardless of the grammatical position it occupies in the new sentence.",
+        "This means the quoted element keeps its original case ending (i'rab) even when the new sentence would require a different case. The quoted form is said to be مَحْكِيّ (quoted/imitated)."
+      ],
+      "keyPoints": [
+        "حِكَايَة = exact quotation/imitation",
+        "Preserves original form in new context",
+        "Original i'rab is kept, not changed",
+        "The quoted word is مَحْكِيّ"
+      ],
+      "examples": [
+        { "arabic": "«قُمْ» فِعْلُ أَمْرٍ (الكلمة محكية)", "english": "'Qum' is an imperative verb (word is quoted as-is)" },
+        { "arabic": "سَمِعْتُ «الْحَمْدُ لِلَّهِ» (الجملة محكية)", "english": "I heard 'Alhamdulillah' (sentence quoted exactly)" },
+        { "arabic": "قَرَأْتُ «بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ»", "english": "I read 'In the name of Allah...' (quoted as-is)" },
+        { "arabic": "كَتَبْتُ «زَيْدٌ قَائِمٌ»", "english": "I wrote 'Zayd is standing' (exact quotation)" }
+      ]
+    },
+    {
+      "title": "Quotation with Proper Nouns",
+      "titleArabic": "حِكَايَةُ الْأَعْلَامِ",
+      "content": [
+        "One common type of حِكَايَة involves proper nouns that were originally in a different grammatical position. When asking about someone using مَنْ, the answer can preserve the original case of the name.",
+        "For example, if someone says رَأَيْتُ زَيْدًا (I saw Zayd - accusative), the questioner might ask مَنْ زَيْدًا؟ (Who is Zayd?), keeping the accusative form زَيْدًا even though مَنْ would normally take a nominative predicate."
+      ],
+      "keyPoints": [
+        "Names quoted in their original case",
+        "مَنْ + اسم محكي: question preserves case",
+        "رَأَيْتُ زَيْدًا → مَنْ زَيْدًا؟",
+        "Reflects what was actually heard/said"
+      ],
+      "examples": [
+        { "arabic": "قِيلَ: رَأَيْتُ زَيْدًا. فَقَالَ: مَنْ زَيْدًا؟", "english": "It was said: I saw Zayd. He said: Who is Zayd?" },
+        { "arabic": "قَالَ: مَرَرْتُ بِزَيْدٍ. فَقُلْتُ: مَنْ زَيْدٍ؟", "english": "He said: I passed by Zayd. I said: Who is Zayd?" },
+        { "arabic": "سَمِعْتُ «مُحَمَّدٌ رَسُولُ اللَّهِ»", "english": "I heard 'Muhammad is the Messenger of Allah'" },
+        { "arabic": "قَرَأْتُ سُورَةَ «الْفَاتِحَةِ»", "english": "I read Surah 'Al-Fatiha'" }
+      ]
+    },
+    {
+      "title": "Quotation of Sentences",
+      "titleArabic": "حِكَايَةُ الْجُمَلِ",
+      "content": [
+        "Complete sentences can be quoted, becoming مَقُولُ الْقَوْلِ (the content of saying) or مَحْكِيّ. The entire quoted sentence maintains its internal structure while functioning as a unit in the larger sentence.",
+        "This is common after verbs like قَالَ (said), سَمِعَ (heard), قَرَأَ (read), كَتَبَ (wrote). The quoted sentence is في محل (in the position of) whatever grammatical role it plays."
+      ],
+      "keyPoints": [
+        "Complete sentences can be quoted",
+        "مَقُولُ الْقَوْلِ: quoted content",
+        "Follows قَالَ، سَمِعَ، قَرَأَ، كَتَبَ",
+        "Quoted sentence في محل its function"
+      ],
+      "examples": [
+        { "arabic": "قَالَ: «اللَّهُ أَكْبَرُ»", "english": "He said: 'Allah is greater' (sentence quoted exactly)" },
+        { "arabic": "سَمِعْتُ «سُبْحَانَ اللَّهِ»", "english": "I heard 'Glory be to Allah'" },
+        { "arabic": "قَرَأْتُ: «وَقُلْ رَبِّ زِدْنِي عِلْمًا»", "english": "I read: 'And say: My Lord, increase me in knowledge'" },
+        { "arabic": "كَتَبَ: «الْعِلْمُ نُورٌ»", "english": "He wrote: 'Knowledge is light'" }
+      ]
+    },
+    {
+      "title": "Quotation by Letter (الحكاية بالحرف)",
+      "titleArabic": "الْحِكَايَةُ بِالْحَرْفِ",
+      "content": [
+        "الْحِكَايَةُ بِالْحَرْفِ refers to quoting something letter-by-letter or word-for-word exactly as it appears. This is the most precise form of quotation, preserving every detail of the original.",
+        "This is important when discussing language itself (metalinguistic use), citing sources exactly, or explaining grammar. The quoted element becomes a noun referring to itself."
+      ],
+      "keyPoints": [
+        "بِالْحَرْفِ: letter-by-letter, exact",
+        "Preserves every detail of original",
+        "Common in grammar explanations",
+        "Quoted word refers to itself"
+      ],
+      "examples": [
+        { "arabic": "«ضَرَبَ» فِعْلٌ مَاضٍ", "english": "'Daraba' is a past tense verb (quoting the word itself)" },
+        { "arabic": "حَرْفُ «الْبَاءِ» حَرْفُ جَرٍّ", "english": "The letter 'ba' is a preposition" },
+        { "arabic": "كَلِمَةُ «اللَّهِ» لَفْظُ الْجَلَالَةِ", "english": "The word 'Allah' is the word of majesty" },
+        { "arabic": "«قَامَ زَيْدٌ» جُمْلَةٌ فِعْلِيَّةٌ", "english": "'Zayd stood' is a verbal sentence" }
+      ]
+    },
+    {
+      "title": "Grammar of Quoted Elements",
+      "titleArabic": "إِعْرَابُ الْعَنَاصِرِ الْمَحْكِيَّةِ",
+      "content": [
+        "When a word or sentence is quoted (مَحْكِيّ), it functions as a single unit in the larger sentence. The quoted element is في محل (in the position of) whatever grammatical role it plays - subject, object, etc.",
+        "The internal i'rab of the quoted element is not affected by its position in the new sentence. We say it is مَبْنِيّ عَلَى الْحِكَايَة (built on quotation)."
+      ],
+      "keyPoints": [
+        "Quoted element = single grammatical unit",
+        "في محل: in the position of its function",
+        "Internal i'rab unchanged",
+        "مَبْنِيّ عَلَى الْحِكَايَة: built on quotation"
+      ],
+      "examples": [
+        { "arabic": "«زَيْدٌ» اسْمٌ مَرْفُوعٌ - زَيْدٌ: مبتدأ محكي في محل رفع", "english": "'Zayd' is a nominative noun - quoted as subject" },
+        { "arabic": "قَرَأْتُ «الْفَاتِحَةَ» - الفاتحة: مفعول به محكي في محل نصب", "english": "I read 'Al-Fatiha' - quoted as object" },
+        { "arabic": "سَمِعْتُ «نَعَمْ» - نَعَمْ: محكية في محل نصب مفعول به", "english": "I heard 'yes' - quoted in accusative position" },
+        { "arabic": "كُتِبَ «لَا إِلَهَ إِلَّا اللَّهُ» - الجملة محكية في محل رفع", "english": "'There is no god but Allah' was written - quoted sentence as subject" }
+      ]
+    },
+    {
+      "title": "Quotation in Classical Texts",
+      "titleArabic": "الْحِكَايَةُ فِي النُّصُوصِ الْكَلَاسِيكِيَّةِ",
+      "content": [
+        "Understanding الحِكَايَة is essential for reading classical Arabic texts, especially grammar books, tafsir, and hadith collections where exact quotation is crucial.",
+        "Classical grammarians used الحِكَايَة extensively when discussing Arabic language, citing Quranic verses, poetry, and hadith. Recognizing quoted elements helps avoid misunderstanding the grammar."
+      ],
+      "keyPoints": [
+        "Essential for classical text comprehension",
+        "Common in grammar books (النحو)",
+        "Used in tafsir and hadith citations",
+        "Recognizing حِكَايَة prevents confusion"
+      ],
+      "examples": [
+        { "arabic": "قَالَ سِيبَوَيْهِ: «هَذَا بَابُ...»", "english": "Sibawayhi said: 'This is the chapter of...'" },
+        { "arabic": "وَفِي الْحَدِيثِ: «إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ»", "english": "And in the hadith: 'Actions are but by intentions'" },
+        { "arabic": "قَالَ تَعَالَى: «اقْرَأْ بِاسْمِ رَبِّكَ»", "english": "He Most High said: 'Read in the name of your Lord'" },
+        { "arabic": "وَمِنْهُ قَوْلُ الشَّاعِرِ: «...»", "english": "And from it is the poet's saying: '...'" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l82-ex01",
+      "type": "fill-blank",
+      "prompt": "الْحِكَايَةُ هِيَ نَقْلُ الْكَلَامِ كَمَا هُوَ مَعَ الْحِفَاظِ عَلَى _____ الْأَصْلِيِّ",
+      "promptEn": "الحِكَايَة is quoting speech as-is while preserving the original _____",
+      "answer": "الإِعْرَابِ",
+      "itemIds": ["word-b3-538"]
+    },
+    {
+      "id": "b3-l82-ex02",
+      "type": "fill-blank",
+      "prompt": "الْكَلِمَةُ أَوِ الْجُمْلَةُ الْمَنْقُولَةُ كَمَا هِيَ تُسَمَّى _____",
+      "promptEn": "A word or sentence quoted as-is is called _____",
+      "answer": "مَحْكِيَّةً",
+      "itemIds": ["word-b3-539"]
+    },
+    {
+      "id": "b3-l82-ex03",
+      "type": "fill-blank",
+      "prompt": "قَالَ: «اللَّهُ أَكْبَرُ» - الْجُمْلَةُ الْمَحْكِيَّةُ تُسَمَّى مَقُولَ _____",
+      "promptEn": "He said: 'Allah is greater' - the quoted sentence is called مَقُولُ _____",
+      "answer": "الْقَوْلِ",
+      "itemIds": ["word-b3-540"]
+    },
+    {
+      "id": "b3-l82-ex04",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ زَيْدًا. مَنْ زَيْدًا؟ - زَيْدًا فِي السُّؤَالِ _____ عَلَى مَا سُمِعَ",
+      "promptEn": "I saw Zayd. Who is Zayd? - زَيْدًا in the question is _____ as it was heard",
+      "answer": "مَحْكِيٌّ",
+      "itemIds": ["word-b3-541"]
+    },
+    {
+      "id": "b3-l82-ex05",
+      "type": "fill-blank",
+      "prompt": "الْحِكَايَةُ بِالْحَرْفِ تَعْنِي نَقْلَ الْكَلَامِ حَرْفًا بِ_____ بِدِقَّةٍ",
+      "promptEn": "الحِكَايَة بِالْحَرْفِ means quoting speech letter by _____ precisely",
+      "answer": "حَرْفٍ",
+      "itemIds": ["word-b3-542"]
+    },
+    {
+      "id": "b3-l82-ex06",
+      "type": "fill-blank",
+      "prompt": "«ضَرَبَ» فِعْلٌ مَاضٍ - كَلِمَةُ ضَرَبَ هُنَا _____ لِلدَّلَالَةِ عَلَى نَفْسِهَا",
+      "promptEn": "'Daraba' is a past verb - the word ضَرَبَ here is _____ to refer to itself",
+      "answer": "مَحْكِيَّةٌ",
+      "itemIds": ["word-b3-538"]
+    },
+    {
+      "id": "b3-l82-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْحِكَايَةُ",
+      "answer": "Quotation / exact imitation of speech",
+      "itemIds": ["word-b3-538"]
+    },
+    {
+      "id": "b3-l82-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَحْكِيٌّ",
+      "answer": "Quoted / imitated (preserving original form)",
+      "itemIds": ["word-b3-539"]
+    },
+    {
+      "id": "b3-l82-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مَقُولُ الْقَوْلِ",
+      "answer": "The quoted content (what was said)",
+      "itemIds": ["word-b3-540"]
+    },
+    {
+      "id": "b3-l82-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Quoting speech exactly letter-by-letter",
+      "answer": "الْحِكَايَةُ بِالْحَرْفِ",
+      "itemIds": ["word-b3-542"]
+    },
+    {
+      "id": "b3-l82-ex11",
+      "type": "meaning-to-word",
+      "prompt": "A word that is quoted and preserves its original grammatical form",
+      "answer": "مَحْكِيٌّ",
+      "itemIds": ["word-b3-539"]
+    },
+    {
+      "id": "b3-l82-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The grammatical phenomenon of preserving original case when quoting",
+      "answer": "الْحِكَايَةُ",
+      "itemIds": ["word-b3-538"]
+    }
+  ]
+}

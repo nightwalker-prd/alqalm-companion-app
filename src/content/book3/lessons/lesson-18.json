@@ -1,0 +1,134 @@
+{
+  "id": "b3-l18",
+  "book": 3,
+  "lesson": 18,
+  "title": "الْمَفْعُول لأَجْلِهِ",
+  "titleEn": "Object of Purpose",
+  "description": "Learn to express purpose: جِئْتُ طَلَبًا لِلْعِلْمِ (I came seeking knowledge).",
+  "vocabulary": ["word-b3-098", "word-b3-099", "word-b3-100", "word-b3-101", "word-b3-102"],
+  "grammarPoints": ["gp-b3-018"],
+  "notes": [
+    {
+      "title": "Transitive and Intransitive Verbs",
+      "titleArabic": "الفعل اللازم والمتعدي",
+      "content": [
+        "Intransitive verbs can be made transitive by doubling the second radical (Form II) or prefixing hamza (Form IV). This change often adds causative meaning."
+      ],
+      "keyPoints": [
+        "Intransitive: خَرَجَ (to go out)",
+        "Transitive Form IV: أَخْرَجَ (to take out)",
+        "Transitive Form II: خَرَّجَ (to graduate someone)",
+        "Form II often indicates intensive or extensive action"
+      ],
+      "examples": [
+        { "arabic": "فَرِحَ - فَرَّحَ - أَفْرَحَ", "english": "to be happy - to make happy (intensively) - to make happy" },
+        { "arabic": "عَلِمَ - عَلَّمَ - أَعْلَمَ", "english": "to know - to teach - to inform" }
+      ]
+    },
+    {
+      "title": "Object of Purpose (المفعول لأجله)",
+      "titleArabic": "المفعول لأجله",
+      "content": [
+        "The maf'ūl lahu (object of purpose) is a maṣdar indicating the reason or purpose for the action. It answers the question 'why?' and is always in the accusative case."
+      ],
+      "keyPoints": [
+        "Must be a maṣdar (verbal noun)",
+        "Indicates reason for the action",
+        "Always manṣūb (accusative)",
+        "Can be replaced by لِ + noun phrase"
+      ],
+      "examples": [
+        { "arabic": "جِئْتُ طَلَبًا لِلْعِلْمِ", "english": "I came seeking knowledge" },
+        { "arabic": "هَرَبَ خَوْفًا مِنَ الْعَدُوِّ", "english": "He fled out of fear of the enemy" },
+        { "arabic": "سَافَرَ رَغْبَةً فِي النَّجَاحِ", "english": "He traveled out of desire for success" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l18-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I came seeking knowledge",
+      "answer": "جِئْتُ طَلَبًا لِلْعِلْمِ",
+      "itemIds": ["word-b3-098"]
+    },
+    {
+      "id": "b3-l18-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He worked hard out of desire for success",
+      "answer": "عَمِلَ بِجِدٍّ رَغْبَةً فِي النَّجَاحِ",
+      "itemIds": ["word-b3-099"]
+    },
+    {
+      "id": "b3-l18-ex03",
+      "type": "fill-blank",
+      "prompt": "سَافَرَ _____ بِالأَقَارِبِ",
+      "promptEn": "He traveled out of longing for relatives",
+      "answer": "شَوْقًا",
+      "itemIds": ["word-b3-100"]
+    },
+    {
+      "id": "b3-l18-ex04",
+      "type": "word-to-meaning",
+      "prompt": "طَلَبًا",
+      "answer": "seeking (purpose)",
+      "itemIds": ["word-b3-098"]
+    },
+    {
+      "id": "b3-l18-ex05",
+      "type": "word-to-meaning",
+      "prompt": "رَغْبَةً",
+      "answer": "desire / wanting (purpose)",
+      "itemIds": ["word-b3-099"]
+    },
+    {
+      "id": "b3-l18-ex06",
+      "type": "word-to-meaning",
+      "prompt": "شَوْقًا",
+      "answer": "longing (purpose)",
+      "itemIds": ["word-b3-100"]
+    },
+    {
+      "id": "b3-l18-ex07",
+      "type": "word-to-meaning",
+      "prompt": "خَوْفًا",
+      "answer": "fear (purpose)",
+      "itemIds": ["word-b3-101"]
+    },
+    {
+      "id": "b3-l18-ex08",
+      "type": "word-to-meaning",
+      "prompt": "حُبًّا",
+      "answer": "love (purpose)",
+      "itemIds": ["word-b3-102"]
+    },
+    {
+      "id": "b3-l18-ex09",
+      "type": "meaning-to-word",
+      "prompt": "seeking (purpose)",
+      "answer": "طَلَبًا",
+      "itemIds": ["word-b3-098"]
+    },
+    {
+      "id": "b3-l18-ex10",
+      "type": "meaning-to-word",
+      "prompt": "fear (purpose)",
+      "answer": "خَوْفًا",
+      "itemIds": ["word-b3-101"]
+    },
+    {
+      "id": "b3-l18-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "He ran fast out of fear of the dog",
+      "answer": "رَكَضَ بِسُرْعَةٍ خَوْفًا مِنَ الْكَلْبِ",
+      "itemIds": ["word-b3-101"]
+    },
+    {
+      "id": "b3-l18-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "She studied hard out of love for knowledge",
+      "answer": "دَرَسَتْ بِجِدٍّ حُبًّا لِلْعِلْمِ",
+      "itemIds": ["word-b3-102"]
+    }
+  ]
+}

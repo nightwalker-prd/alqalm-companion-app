@@ -1,0 +1,133 @@
+{
+  "id": "b3-l09",
+  "book": 3,
+  "lesson": 9,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب اِفْعَلَّ",
+  "titleEn": "Derived Form IX (اِفْعَلَّ)",
+  "description": "Learn Form IX verbs (colors/defects): اِحْمَرَّ (to become red), اِصْفَرَّ (to become yellow), اِسْوَدَّ (to become black).",
+  "vocabulary": ["word-b3-046", "word-b3-047", "word-b3-048", "word-b3-049", "word-b3-050"],
+  "grammarPoints": ["gp-b3-009"],
+  "notes": [
+    {
+      "title": "Omission of Nūn in Dual and Plural",
+      "titleArabic": "حذف النون في المثنى والجمع",
+      "content": [
+        "The nūn in dual and sound masculine plural forms is omitted when the noun becomes muḍāf (first part of an iḍāfa construction)."
+      ],
+      "keyPoints": [
+        "Nūn is omitted when the noun is muḍāf",
+        "Dual demonstratives هَذَانِ/هَاتَانِ are declinable",
+        "كِلَا and كِلْتَا follow special rules for dual"
+      ],
+      "examples": [
+        { "arabic": "مُدَرِّسُو الْمَدْرَسَةِ", "english": "teachers of the school (nūn omitted)" },
+        { "arabic": "طَالِبَا الْعِلْمِ", "english": "two students of knowledge (nūn omitted)" }
+      ]
+    },
+    {
+      "title": "Form IX Verbs (اِفْعَلَّ)",
+      "titleArabic": "باب اِفْعَلَّ",
+      "content": [
+        "Form IX verbs are formed by prefixing اِ and doubling the third radical. This pattern is exclusively used for colors and physical defects."
+      ],
+      "keyPoints": [
+        "Pattern: اِفْعَلَّ (if'alla) - with doubled third radical",
+        "Maṣdar pattern: اِفْعِلَال (if'ilāl)",
+        "Used only for colors and physical defects",
+        "All Form IX verbs are intransitive"
+      ],
+      "examples": [
+        { "arabic": "اِحْمَرَّ", "english": "to become red" },
+        { "arabic": "اِصْفَرَّ", "english": "to become yellow" },
+        { "arabic": "اِسْوَدَّ", "english": "to become black" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l09-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "Her face became red",
+      "answer": "اِحْمَرَّ وَجْهُهَا",
+      "itemIds": ["word-b3-046", "word-b3-051"]
+    },
+    {
+      "id": "b3-l09-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The leaves became yellow",
+      "answer": "اِصْفَرَّتِ الأَوْرَاقُ",
+      "itemIds": ["word-b3-047", "word-b3-052"]
+    },
+    {
+      "id": "b3-l09-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ السَّمَاءُ لَيْلًا",
+      "promptEn": "The sky became black at night",
+      "answer": "اِسْوَدَّتِ",
+      "itemIds": ["word-b3-048"]
+    },
+    {
+      "id": "b3-l09-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِحْمَرَّ",
+      "answer": "to become red",
+      "itemIds": ["word-b3-046"]
+    },
+    {
+      "id": "b3-l09-ex05",
+      "type": "word-to-meaning",
+      "prompt": "اِصْفَرَّ",
+      "answer": "to become yellow",
+      "itemIds": ["word-b3-047"]
+    },
+    {
+      "id": "b3-l09-ex06",
+      "type": "word-to-meaning",
+      "prompt": "اِسْوَدَّ",
+      "answer": "to become black",
+      "itemIds": ["word-b3-048"]
+    },
+    {
+      "id": "b3-l09-ex07",
+      "type": "word-to-meaning",
+      "prompt": "اِبْيَضَّ",
+      "answer": "to become white",
+      "itemIds": ["word-b3-049"]
+    },
+    {
+      "id": "b3-l09-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِخْضَرَّ",
+      "answer": "to become green",
+      "itemIds": ["word-b3-050"]
+    },
+    {
+      "id": "b3-l09-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to become red (Form IX)",
+      "answer": "اِحْمَرَّ",
+      "itemIds": ["word-b3-046"]
+    },
+    {
+      "id": "b3-l09-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to become green (Form IX)",
+      "answer": "اِخْضَرَّ",
+      "itemIds": ["word-b3-050"]
+    },
+    {
+      "id": "b3-l09-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The trees became green in the spring",
+      "answer": "اِخْضَرَّتِ الْأَشْجَارُ فِي الرَّبِيعِ",
+      "itemIds": ["word-b3-050"]
+    },
+    {
+      "id": "b3-l09-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "His hair became white from old age",
+      "answer": "اِبْيَضَّ شَعْرُهُ مِنَ الْكِبَرِ",
+      "itemIds": ["word-b3-049"]
+    }
+  ]
+}

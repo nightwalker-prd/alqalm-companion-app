@@ -1,0 +1,166 @@
+{
+  "id": "b2-l26",
+  "book": 2,
+  "lesson": 26,
+  "title": "اسْم التَّصْغِير",
+  "titleEn": "Diminutive Nouns",
+  "vocabulary": [
+    "word-b2-136",
+    "word-b2-137",
+    "word-b2-138",
+    "word-b2-139",
+    "word-b2-140"
+  ],
+  "grammarPoints": ["gp-b2-026"],
+  "notes": [
+    {
+      "title": "Diminutive Nouns (اسم التصغير)",
+      "titleArabic": "اسم التصغير",
+      "content": [
+        "Diminutive nouns (اسم التصغير) are forms that indicate smallness, endearment, or sometimes belittlement. Arabic has specific patterns for forming diminutives from regular nouns.",
+        "The most common diminutive patterns are فُعَيْل for three-letter nouns and فُعَيْعِل or فُعَيِّل for four-letter nouns."
+      ],
+      "keyPoints": [
+        "Three-letter nouns: فُعَيْل pattern (e.g., كِتَاب → كُتَيِّب)",
+        "Pattern: First letter takes dammah, second takes fathah, then يْ is inserted",
+        "Four-letter nouns: فُعَيْعِل pattern (e.g., عُصْفُور → عُصَيْفِير)",
+        "Used for: smallness, affection, endearment, or diminishment"
+      ],
+      "examples": [
+        { "arabic": "كِتَاب → كُتَيِّب", "english": "book → booklet" },
+        { "arabic": "وَلَد → وُلَيْد", "english": "boy → little boy" },
+        { "arabic": "نَهْر → نُهَيْر", "english": "river → stream" },
+        { "arabic": "بَيْت → بُيَيْت", "english": "house → small house" }
+      ]
+    },
+    {
+      "title": "Common Diminutive Forms",
+      "titleArabic": "صيغ التصغير الشائعة",
+      "content": [
+        "Learn these common diminutive forms that appear frequently in Arabic."
+      ],
+      "keyPoints": [
+        "قَلَم → قُلَيْم (pen → small pen)",
+        "كَلْب → كُلَيْب (dog → puppy)",
+        "نَجْم → نُجَيْم (star → small star)",
+        "بَاب → بُوَيْب (door → small door)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l26-ex01",
+      "type": "fill-blank",
+      "prompt": "كِتَاب → _____ (diminutive)",
+      "answer": "كُتَيِّب",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "little brother",
+      "answer": "أُخَيّ",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex03",
+      "type": "fill-blank",
+      "prompt": "وَلَد → _____ (diminutive)",
+      "answer": "وُلَيْد",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex04",
+      "type": "word-to-meaning",
+      "prompt": "نُهَيْر",
+      "answer": "small river/stream",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex05",
+      "type": "meaning-to-word",
+      "prompt": "small house",
+      "answer": "بُيَيْت",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The small booklet",
+      "answer": "الكُتَيِّب",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex07",
+      "type": "fill-blank",
+      "prompt": "قَلَم → _____ (diminutive)",
+      "answer": "قُلَيْم",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كُلَيْب",
+      "answer": "small dog/puppy",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "A small star",
+      "answer": "نُجَيْم",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex10",
+      "type": "fill-blank",
+      "prompt": "بَاب → _____ (diminutive)",
+      "answer": "بُوَيْب",
+      "itemIds": [
+        "word-b2-136",
+        "word-b2-137"
+      ]
+    },
+    {
+      "id": "b2-l26-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I read a small booklet about Arabic",
+      "answer": "قَرَأْتُ كُتَيِّبًا عَنِ الْعَرَبِيَّةِ",
+      "itemIds": ["word-070", "word-b2-136", "word-019"]
+    },
+    {
+      "id": "b2-l26-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "There is a small river behind the house",
+      "answer": "هُنَاكَ نُهَيْرٌ وَرَاءَ الْبَيْتِ",
+      "itemIds": ["word-b2-138", "word-b2-095", "word-010"]
+    }
+  ]
+}

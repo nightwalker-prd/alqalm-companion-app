@@ -1,0 +1,169 @@
+{
+  "id": "b3-l25",
+  "book": 3,
+  "lesson": 25,
+  "title": "المَفْعُول مَعَهُ",
+  "titleEn": "Accusative of Accompaniment",
+  "notes": [
+    {
+      "title": "Form X Meanings and Uses",
+      "titleArabic": "معاني باب استفعل",
+      "content": [
+        "Form X (اِسْتَفْعَلَ) typically indicates seeking, asking for, or considering something to have a quality. It can also indicate transformation or reflexive action."
+      ],
+      "keyPoints": [
+        "Seeking: اِسْتَغْفَرَ (to seek forgiveness)",
+        "Asking: اِسْتَفْهَمَ (to ask for understanding)",
+        "Considering: اِسْتَحْسَنَ (to consider good)",
+        "Transformation: اِسْتَحْجَرَ (to become like stone)"
+      ],
+      "examples": [
+        { "arabic": "اِسْتَغْفَرَ اللهَ", "english": "He sought forgiveness from Allah" },
+        { "arabic": "اِسْتَخْدَمَ الْحَاسُوبَ", "english": "He used the computer" }
+      ]
+    },
+    {
+      "title": "Accusative of Accompaniment (المفعول معه)",
+      "titleArabic": "المفعول معه",
+      "content": [
+        "The maf'ūl ma'ahu (object of accompaniment) indicates what accompanies the action. It follows wāw al-ma'iyya (و of accompaniment) and is always in the accusative."
+      ],
+      "keyPoints": [
+        "Follows wāw that means 'along with' or 'during'",
+        "Always manṣūb (accusative)",
+        "Cannot be conjoined logically with the subject",
+        "Common in expressions of walking along something"
+      ],
+      "examples": [
+        { "arabic": "سِرْتُ وَالنَّهْرَ", "english": "I walked along the river" },
+        { "arabic": "جَاءَ وَطُلُوعَ الشَّمْسِ", "english": "He came at sunrise" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-133",
+    "word-b3-134",
+    "word-b3-135",
+    "word-b3-136",
+    "word-b3-137"
+  ],
+  "grammarPoints": [
+    "gp-b3-025"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l25-ex01",
+      "type": "fill-blank",
+      "prompt": "سِرْتُ وَ_____ (النَّهْرَ)",
+      "answer": "النَّهْرَ",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I walked along the road",
+      "answer": "سِرْتُ وَالطَّرِيقَ",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex03",
+      "type": "fill-blank",
+      "prompt": "جَلَسْتُ وَ_____ (البَحْرَ)",
+      "answer": "البَحْرَ",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَوَى وَالشَّاطِئَ",
+      "answer": "he settled along the shore",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex05",
+      "type": "meaning-to-word",
+      "prompt": "along the river",
+      "answer": "وَالنَّهْرَ",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "What (is) the matter with you and the laziness?",
+      "answer": "مَا لَكَ وَالكَسَلَ",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex07",
+      "type": "fill-blank",
+      "prompt": "مَشَيْتُ وَ_____ (الجِدَارَ)",
+      "answer": "الجِدَارَ",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَا لَكَ وَالتَّأْخِيرَ",
+      "answer": "what is with you and the delay?",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "I stayed along the coast",
+      "answer": "أَقَمْتُ وَالسَّاحِلَ",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex10",
+      "type": "fill-blank",
+      "prompt": "سَافَرَ وَ_____ (طُلُوعَ الشَّمْسِ)",
+      "answer": "طُلُوعَ",
+      "itemIds": [
+        "word-b3-133",
+        "word-b3-134"
+      ]
+    },
+    {
+      "id": "b3-l25-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I ran along the river until I reached the bridge",
+      "answer": "جَرَيْتُ وَالنَّهْرَ حَتَّى وَصَلْتُ الْجِسْرَ",
+      "itemIds": ["word-b3-133", "word-b3-134"]
+    },
+    {
+      "id": "b3-l25-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He departed along with the sunrise",
+      "answer": "اِنْطَلَقَ وَطُلُوعَ الشَّمْسِ",
+      "itemIds": ["word-b3-133", "word-b3-134"]
+    }
+  ]
+}

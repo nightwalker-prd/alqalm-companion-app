@@ -1,0 +1,224 @@
+{
+  "id": "b3-l101",
+  "book": 3,
+  "lesson": 101,
+  "title": "الْجُمَلُ الَّتِي لَا مَحَلَّ لَهَا مِنَ الإِعْرَابِ",
+  "titleEn": "Sentences Without Grammatical Position",
+  "description": "Learn about the seven types of sentences that have no grammatical position (لا محل لها من الإعراب) in Arabic syntax, as identified by classical grammarians.",
+  "vocabulary": ["word-b3-633", "word-b3-634", "word-b3-635", "word-b3-636", "word-b3-637"],
+  "grammarPoints": ["gp-b3-164", "gp-b3-165"],
+  "notes": [
+    {
+      "title": "Introduction",
+      "titleArabic": "مُقَدِّمَةٌ",
+      "content": [
+        "In Arabic grammar, sentences are classified into two types based on their إِعْراب: those that occupy a grammatical position (لها محلّ من الإعراب) and those that do not (لا محلّ لها من الإعراب).",
+        "Classical grammarians identified seven types of sentences that have no grammatical position. These sentences function independently or are structurally necessary but don't replace a single word's grammatical role."
+      ],
+      "keyPoints": [
+        "Seven types of sentences without position",
+        "Opposite of sentences with محلّ",
+        "Don't replace a single word grammatically",
+        "Important for full إعراب analysis"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ قَائِمٌ (جملة ابتدائية)", "english": "Zayd is standing (opening sentence)" },
+        { "arabic": "جَاءَ الَّذِي نَجَحَ (صلة الموصول)", "english": "The one who succeeded came (relative clause)" },
+        { "arabic": "وَاللهِ لَأَفْعَلَنَّ (جواب القسم)", "english": "By Allah, I will surely do it (oath response)" },
+        { "arabic": "قَالَ - أَيْ نَطَقَ - الْحَقَّ (اعتراضية)", "english": "He said - meaning spoke - the truth (parenthetical)" }
+      ]
+    },
+    {
+      "title": "The Opening Sentence",
+      "titleArabic": "الْجُمْلَةُ الابْتِدَائِيَّةُ",
+      "content": [
+        "الْجُمْلَة الابْتِدَائِيَّة is the sentence that begins speech. It has no prior grammatical context to connect to, so it cannot have a grammatical position.",
+        "This includes the first sentence of any discourse, speech, or text. It stands independently as the foundation of what follows."
+      ],
+      "keyPoints": [
+        "First sentence of speech/text",
+        "No prior context to connect to",
+        "Stands independently",
+        "الْحَمْدُ للهِ is an opening sentence"
+      ],
+      "examples": [
+        { "arabic": "الْحَمْدُ للهِ رَبِّ الْعَالَمِينَ", "english": "Praise be to Allah, Lord of the worlds" },
+        { "arabic": "بِسْمِ اللهِ الرَّحْمٰنِ الرَّحِيمِ", "english": "In the name of Allah, Most Gracious, Most Merciful" },
+        { "arabic": "السَّلَامُ عَلَيْكُمْ", "english": "Peace be upon you" },
+        { "arabic": "الْعِلْمُ نُورٌ", "english": "Knowledge is light" }
+      ]
+    },
+    {
+      "title": "The New Topic Sentence",
+      "titleArabic": "الْجُمْلَةُ الاسْتِئْنَافِيَّةُ",
+      "content": [
+        "الْجُمْلَة الاسْتِئْنَافِيَّة is a sentence that begins a new topic after the previous one has concluded. It's grammatically independent from what preceded it.",
+        "Even though it follows other sentences, it starts fresh without grammatical dependence on the previous context. Often introduced by وَ الاستئنافية."
+      ],
+      "keyPoints": [
+        "Begins new topic after previous one ends",
+        "Grammatically independent",
+        "Often has وَ الاستئنافية",
+        "Fresh start in discourse"
+      ],
+      "examples": [
+        { "arabic": "مَاتَ فُلَانٌ. وَكَانَ رَجُلًا صَالِحًا", "english": "So-and-so died. And he was a righteous man" },
+        { "arabic": "ذَهَبَ زَيْدٌ. وَعَمْرٌو مَرِيضٌ", "english": "Zayd left. And Amr is sick" },
+        { "arabic": "قَرَأْتُ الْكِتَابَ. وَهُوَ مُفِيدٌ", "english": "I read the book. And it is beneficial" },
+        { "arabic": "فَرَغْتُ مِنَ الْعَمَلِ. وَالْحَمْدُ للهِ", "english": "I finished the work. And praise be to Allah" }
+      ]
+    },
+    {
+      "title": "The Relative Clause",
+      "titleArabic": "جُمْلَةُ صِلَةِ الْمَوْصُولِ",
+      "content": [
+        "جُمْلَة صِلَة الْمَوْصُول is the clause that follows a relative pronoun (الَّذِي، الَّتِي، etc.) and defines it. It has no grammatical position of its own.",
+        "The relative clause is essential for completing the meaning of the relative pronoun, but grammatically it doesn't occupy a position like nominative or accusative."
+      ],
+      "keyPoints": [
+        "Follows relative pronouns (الذي، التي، الذين...)",
+        "Defines/specifies the relative pronoun",
+        "Must contain a عَائِد (returning pronoun)",
+        "No independent grammatical position"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الَّذِي نَجَحَ", "english": "The one who succeeded came" },
+        { "arabic": "قَرَأْتُ مَا كَتَبْتَهُ", "english": "I read what you wrote" },
+        { "arabic": "رَأَيْتُ الطَّالِبَ الَّذِي فَازَ", "english": "I saw the student who won" },
+        { "arabic": "هٰذِهِ الْمَرْأَةُ الَّتِي سَاعَدَتْنِي", "english": "This is the woman who helped me" }
+      ]
+    },
+    {
+      "title": "The Oath Response",
+      "titleArabic": "جُمْلَةُ جَوَابِ الْقَسَمِ",
+      "content": [
+        "جُمْلَة جَواب الْقَسَم is the sentence that follows an oath (وَاللهِ، تَاللهِ، etc.) and states what is being sworn about.",
+        "This sentence has no grammatical position because it's the semantic content of the oath, not a syntactic complement. It answers: 'What are you swearing about?'"
+      ],
+      "keyPoints": [
+        "Follows oath expressions",
+        "States what is being sworn",
+        "Often has لَ or إِنَّ for emphasis",
+        "Answers 'what is sworn about?'"
+      ],
+      "examples": [
+        { "arabic": "وَاللهِ لَأَفْعَلَنَّ الْخَيْرَ", "english": "By Allah, I will surely do good" },
+        { "arabic": "تَاللهِ لَقَدْ صَدَقَ", "english": "By Allah, he has indeed spoken truth" },
+        { "arabic": "وَحَيَاتِكَ إِنَّهُ صَادِقٌ", "english": "By your life, he is truthful" },
+        { "arabic": "بِاللهِ عَلَيْكَ اُخْرُجْ", "english": "By Allah upon you, go out" }
+      ]
+    },
+    {
+      "title": "Parenthetical and Explanatory Sentences",
+      "titleArabic": "الْجُمْلَةُ الاعْتِرَاضِيَّةُ وَالتَّفْسِيرِيَّةُ",
+      "content": [
+        "الْجُمْلَة الاعْتِرَاضِيَّة is inserted between two related elements for emphasis, prayer, or clarification. It interrupts the sentence without affecting its structure.",
+        "الْجُمْلَة التَّفْسِيرِيَّة explains what precedes it, often introduced by أَيْ or أَنْ التفسيرية. Both types have no grammatical position."
+      ],
+      "keyPoints": [
+        "اعتراضية: inserted for emphasis/prayer",
+        "تفسيرية: explains what precedes",
+        "Neither affects sentence structure",
+        "Often between subject and predicate"
+      ],
+      "examples": [
+        { "arabic": "إِنَّ زَيْدًا - وَاللهُ أَعْلَمُ - نَاجِحٌ", "english": "Indeed Zayd - and Allah knows best - is successful" },
+        { "arabic": "كَانَ - رَحِمَهُ اللهُ - عَالِمًا", "english": "He was - may Allah have mercy on him - a scholar" },
+        { "arabic": "أَشَرْتُ إِلَيْهِ أَنِ اذْهَبْ", "english": "I signaled to him, meaning: go" },
+        { "arabic": "كَتَبْتُ إِلَيْهِ أَنْ تَعَالَ", "english": "I wrote to him that (meaning): come" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l101-ex01",
+      "type": "fill-blank",
+      "prompt": "الْجُمَلُ الَّتِي لَا مَحَلَّ لَهَا مِنَ الإِعْرَابِ عَدَدُهَا _____ جُمَل",
+      "promptEn": "Sentences without grammatical position number _____ types",
+      "answer": "سَبْعُ",
+      "itemIds": ["word-b3-633"]
+    },
+    {
+      "id": "b3-l101-ex02",
+      "type": "fill-blank",
+      "prompt": "الْجُمْلَةُ _____ هِيَ الَّتِي تَبْدَأُ بِهَا الْكَلَام",
+      "promptEn": "The _____ sentence is one that begins speech",
+      "answer": "الابْتِدَائِيَّةُ",
+      "itemIds": ["word-b3-634"]
+    },
+    {
+      "id": "b3-l101-ex03",
+      "type": "fill-blank",
+      "prompt": "جُمْلَةُ صِلَةِ الْمَوْصُولِ تَأْتِي بَعْدَ الاسْمِ _____",
+      "promptEn": "The relative clause comes after the _____ noun",
+      "answer": "الْمَوْصُولِ",
+      "itemIds": ["word-b3-635"]
+    },
+    {
+      "id": "b3-l101-ex04",
+      "type": "fill-blank",
+      "prompt": "جُمْلَةُ جَوَابِ _____ لَا مَحَلَّ لَهَا",
+      "promptEn": "The _____ response sentence has no grammatical position",
+      "answer": "الْقَسَمِ",
+      "itemIds": ["word-b3-636"]
+    },
+    {
+      "id": "b3-l101-ex05",
+      "type": "fill-blank",
+      "prompt": "الْجُمْلَةُ الاعْتِرَاضِيَّةُ تُدْخَلُ لِلتَّوْكِيدِ أَوِ _____ أَوِ التَّوْضِيحِ",
+      "promptEn": "The parenthetical sentence is inserted for emphasis, _____, or clarification",
+      "answer": "الدُّعَاءِ",
+      "itemIds": ["word-b3-637"]
+    },
+    {
+      "id": "b3-l101-ex06",
+      "type": "fill-blank",
+      "prompt": "الْجُمْلَةُ _____ تُفَسِّرُ مَا قَبْلَهَا",
+      "promptEn": "The _____ sentence explains what precedes it",
+      "answer": "التَّفْسِيرِيَّةُ",
+      "itemIds": ["word-b3-634"]
+    },
+    {
+      "id": "b3-l101-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْجُمْلَةُ الابْتِدَائِيَّةُ",
+      "answer": "Opening/initial sentence (first sentence of speech)",
+      "itemIds": ["word-b3-634"]
+    },
+    {
+      "id": "b3-l101-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْجُمْلَةُ الاسْتِئْنَافِيَّةُ",
+      "answer": "New topic sentence (begins fresh after previous topic)",
+      "itemIds": ["word-b3-633"]
+    },
+    {
+      "id": "b3-l101-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْجُمْلَةُ الاعْتِرَاضِيَّةُ",
+      "answer": "Parenthetical sentence (inserted for emphasis/prayer)",
+      "itemIds": ["word-b3-637"]
+    },
+    {
+      "id": "b3-l101-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Relative clause (صلة الموصول)",
+      "answer": "جُمْلَةُ صِلَةِ الْمَوْصُولِ",
+      "itemIds": ["word-b3-635"]
+    },
+    {
+      "id": "b3-l101-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Oath response sentence",
+      "answer": "جُمْلَةُ جَوَابِ الْقَسَمِ",
+      "itemIds": ["word-b3-636"]
+    },
+    {
+      "id": "b3-l101-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Explanatory sentence",
+      "answer": "الْجُمْلَةُ التَّفْسِيرِيَّةُ",
+      "itemIds": ["word-b3-634"]
+    }
+  ]
+}

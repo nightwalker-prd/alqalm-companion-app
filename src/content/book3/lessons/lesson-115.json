@@ -1,0 +1,224 @@
+{
+  "id": "b3-l115",
+  "book": 3,
+  "lesson": 115,
+  "title": "تَعَدُّد الْخَبَر وَأَحْكَام الْحَذْف",
+  "titleEn": "Multiple Predicates and Deletion Rules",
+  "description": "Learn about تعدد الخبر (multiple predicates for one subject) and أحكام الحذف (rules for deleting مبتدأ and خبر).",
+  "vocabulary": ["word-b3-703", "word-b3-704", "word-b3-705", "word-b3-706", "word-b3-707"],
+  "grammarPoints": ["gp-b3-192", "gp-b3-193"],
+  "notes": [
+    {
+      "title": "Multiple Predicates (تعدد الخبر)",
+      "titleArabic": "تَعَدُّدُ الْخَبَرِ",
+      "content": [
+        "A single مُبْتَدَأ can have multiple أَخْبَار (predicates), all describing the same subject. Each خَبَر is مَرْفُوع.",
+        "Example: زَيْدٌ عَالِمٌ كَرِيمٌ شُجَاعٌ - Zayd is learned, generous, brave. All three are خَبَر for زَيْد."
+      ],
+      "keyPoints": [
+        "One مبتدأ, multiple أخبار",
+        "Each خبر is مرفوع",
+        "All describe same subject",
+        "زَيْدٌ عَالِمٌ كَرِيمٌ"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ عَالِمٌ كَرِيمٌ شُجَاعٌ", "english": "Zayd is learned, generous, brave" },
+        { "arabic": "اللهُ غَفُورٌ رَحِيمٌ", "english": "Allah is Forgiving, Merciful" },
+        { "arabic": "هُوَ الأَوَّلُ وَالآخِرُ وَالظَّاهِرُ وَالْبَاطِنُ", "english": "He is the First, Last, Manifest, Hidden" },
+        { "arabic": "الْأَخْبَارُ كُلُّهَا مَرْفُوعَةٌ", "english": "All predicates are مرفوع" }
+      ]
+    },
+    {
+      "title": "تعدد الخبر vs. العطف",
+      "titleArabic": "تَعَدُّدُ الْخَبَرِ مُقَابِلَ الْعَطْفِ",
+      "content": [
+        "تَعَدُّد الخَبَر differs from عَطْف (conjunction). In تعدد, no conjunction is needed; in عطف, وَ joins separate predicates.",
+        "زَيْدٌ عَالِمٌ كَرِيمٌ (تعدد - no conjunction) vs. زَيْدٌ عَالِمٌ وَكَرِيمٌ (عطف - with conjunction)."
+      ],
+      "keyPoints": [
+        "تعدد: no conjunction needed",
+        "عطف: with و",
+        "Both grammatically valid",
+        "Slight meaning difference"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ عَالِمٌ كَرِيمٌ (تعدد)", "english": "Zayd is learned, generous (multiple خبر)" },
+        { "arabic": "زَيْدٌ عَالِمٌ وَكَرِيمٌ (عطف)", "english": "Zayd is learned and generous (conjunction)" },
+        { "arabic": "اللهُ سَمِيعٌ عَلِيمٌ (تعدد)", "english": "Allah is Hearing, Knowing" },
+        { "arabic": "اللهُ سَمِيعٌ وَعَلِيمٌ (عطف)", "english": "Allah is Hearing and Knowing" }
+      ]
+    },
+    {
+      "title": "Permissible Deletion of المبتدأ",
+      "titleArabic": "حَذْفُ الْمُبْتَدَأِ جَوَازًا",
+      "content": [
+        "المُبْتَدَأ can be deleted جَوَازًا (permissibly) when context makes it clear. Common in answers: كَيْفَ زَيْدٌ؟ (هُوَ) مَرِيضٌ.",
+        "The deleted element is estimated (مُقَدَّر) in analysis: مبتدأ محذوف تقديره هو."
+      ],
+      "keyPoints": [
+        "جوازًا: when context is clear",
+        "Common in answers",
+        "مقدَّر: estimated",
+        "كَيْفَ حَالُكَ؟ بِخَيْرٍ"
+      ],
+      "examples": [
+        { "arabic": "كَيْفَ زَيْدٌ؟ (هُوَ) مَرِيضٌ", "english": "How is Zayd? (He is) sick" },
+        { "arabic": "مَنْ فَعَلَ هَذَا؟ (هُوَ) زَيْدٌ", "english": "Who did this? (It is) Zayd" },
+        { "arabic": "(هَذَا) صَحِيحٌ", "english": "(This is) correct" },
+        { "arabic": "مَحْذُوفٌ تَقْدِيرُهُ...", "english": "Deleted, estimated as..." }
+      ]
+    },
+    {
+      "title": "Obligatory Deletion of المبتدأ",
+      "titleArabic": "حَذْفُ الْمُبْتَدَأِ وُجُوبًا",
+      "content": [
+        "المُبْتَدَأ must be deleted وُجُوبًا in certain structures: after نِعْمَ/بِئْسَ in some analyses, القَسَم (oath responses), and المَخْصُوص بالمدح/الذم.",
+        "In these cases, the مبتدأ cannot be explicitly stated."
+      ],
+      "keyPoints": [
+        "وجوبًا: must be deleted",
+        "After نِعْمَ/بِئْسَ (some views)",
+        "القَسَم responses",
+        "Cannot be stated"
+      ],
+      "examples": [
+        { "arabic": "فِي ذِمَّتِي (عَهْدٌ) لَأَفْعَلَنَّ", "english": "In my conscience (is a vow) I will do" },
+        { "arabic": "لَعَمْرُكَ (قَسَمِي) إِنَّهُ لَصَادِقٌ", "english": "By your life (is my oath) he is truthful" },
+        { "arabic": "نِعْمَ الرَّجُلُ (هُوَ) زَيْدٌ", "english": "Excellent is the man - Zayd (he)" },
+        { "arabic": "الْمُبْتَدَأُ مَحْذُوفٌ وُجُوبًا", "english": "Subject obligatorily deleted" }
+      ]
+    },
+    {
+      "title": "Permissible Deletion of الخبر",
+      "titleArabic": "حَذْفُ الْخَبَرِ جَوَازًا",
+      "content": [
+        "الخَبَر can be deleted جَوَازًا when the context indicates it. Common in answers: مَنْ فِي الدَّارِ؟ زَيْدٌ (فِي الدَّارِ).",
+        "The predicate is understood from the question or context."
+      ],
+      "keyPoints": [
+        "جوازًا: context indicates",
+        "Common in answers",
+        "Understood from context",
+        "مَنْ فِي الدَّارِ؟ زَيْدٌ"
+      ],
+      "examples": [
+        { "arabic": "مَنْ فِي الدَّارِ؟ زَيْدٌ (فِي الدَّارِ)", "english": "Who is in the house? Zayd (is in the house)" },
+        { "arabic": "أَيُّهُمْ أَفْضَلُ؟ زَيْدٌ (أَفْضَلُ)", "english": "Which is best? Zayd (is best)" },
+        { "arabic": "مَتَى السَّفَرُ؟ غَدًا (السَّفَرُ غَدًا)", "english": "When is travel? Tomorrow" },
+        { "arabic": "الْخَبَرُ مَحْذُوفٌ جَوَازًا", "english": "Predicate deleted permissibly" }
+      ]
+    },
+    {
+      "title": "Obligatory Deletion of الخبر",
+      "titleArabic": "حَذْفُ الْخَبَرِ وُجُوبًا",
+      "content": [
+        "الخَبَر must be deleted وُجُوبًا after لَوْلَا (if not for): لَوْلَا زَيْدٌ (مَوْجُودٌ) لَهَلَكْتُ. The خبر is always مَوْجُود or كَائِن.",
+        "Also obligatory with القَسَم: لَعَمْرُكَ (قَسَمِي), and some other structures."
+      ],
+      "keyPoints": [
+        "وجوبًا after لَوْلَا",
+        "الخبر = موجود/كائن",
+        "لَوْلَا زَيْدٌ لَهَلَكْتُ",
+        "Cannot state the خبر"
+      ],
+      "examples": [
+        { "arabic": "لَوْلَا زَيْدٌ (مَوْجُودٌ) لَهَلَكْتُ", "english": "If not for Zayd, I would have perished" },
+        { "arabic": "لَوْلَا الْمَاءُ (مَوْجُودٌ) لَمُتْنَا", "english": "If not for water, we would have died" },
+        { "arabic": "لَعَمْرُكَ (قَسَمِي) لَأَفْعَلَنَّ", "english": "By your life, I will do it" },
+        { "arabic": "الْخَبَرُ مَحْذُوفٌ وُجُوبًا بَعْدَ لَوْلَا", "english": "Predicate obligatorily deleted after لولا" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l115-ex01",
+      "type": "fill-blank",
+      "prompt": "الْمُبْتَدَأُ الْوَاحِدُ يُمْكِنُ أَنْ يَكُونَ لَهُ أَكْثَرُ مِنْ _____ وَاحِدٍ",
+      "promptEn": "A single subject can have more than one _____",
+      "answer": "خَبَرٍ",
+      "itemIds": ["word-b3-703"]
+    },
+    {
+      "id": "b3-l115-ex02",
+      "type": "fill-blank",
+      "prompt": "«زَيْدٌ عَالِمٌ كَرِيمٌ» - هَذَا مِثَالٌ عَلَى _____ الْخَبَرِ",
+      "promptEn": "'Zayd is learned, generous' is an example of _____ of predicate",
+      "answer": "تَعَدُّدِ",
+      "itemIds": ["word-b3-704"]
+    },
+    {
+      "id": "b3-l115-ex03",
+      "type": "fill-blank",
+      "prompt": "حَذْفُ الْمُبْتَدَأِ أَوِ الْخَبَرِ قَدْ يَكُونُ _____ أَوْ وَاجِبًا",
+      "promptEn": "Deleting the subject or predicate may be _____ or obligatory",
+      "answer": "جَائِزًا",
+      "itemIds": ["word-b3-705"]
+    },
+    {
+      "id": "b3-l115-ex04",
+      "type": "fill-blank",
+      "prompt": "بَعْدَ «لَوْلَا» يُحْذَفُ الْخَبَرُ _____ وَتَقْدِيرُهُ «مَوْجُودٌ»",
+      "promptEn": "After 'lawla' the predicate is deleted _____ and is estimated as 'existent'",
+      "answer": "وُجُوبًا",
+      "itemIds": ["word-b3-706"]
+    },
+    {
+      "id": "b3-l115-ex05",
+      "type": "fill-blank",
+      "prompt": "الْعُنْصُرُ الْمَحْذُوفُ يُسَمَّى _____",
+      "promptEn": "The deleted element is called _____",
+      "answer": "مُقَدَّرًا / مَحْذُوفًا",
+      "itemIds": ["word-b3-707"]
+    },
+    {
+      "id": "b3-l115-ex06",
+      "type": "fill-blank",
+      "prompt": "«كَيْفَ حَالُكَ؟ بِخَيْرٍ» - الْمُبْتَدَأُ هُنَا مَحْذُوفٌ _____",
+      "promptEn": "'How are you? Fine' - the subject here is deleted _____",
+      "answer": "جَوَازًا",
+      "itemIds": ["word-b3-705"]
+    },
+    {
+      "id": "b3-l115-ex07",
+      "type": "word-to-meaning",
+      "prompt": "تَعَدُّدُ الْخَبَرِ",
+      "answer": "Multiple predicates for one subject",
+      "itemIds": ["word-b3-704"]
+    },
+    {
+      "id": "b3-l115-ex08",
+      "type": "word-to-meaning",
+      "prompt": "حَذْفٌ جَائِزٌ",
+      "answer": "Permissible deletion (when context is clear)",
+      "itemIds": ["word-b3-705"]
+    },
+    {
+      "id": "b3-l115-ex09",
+      "type": "word-to-meaning",
+      "prompt": "حَذْفٌ وَاجِبٌ",
+      "answer": "Obligatory deletion (must be deleted)",
+      "itemIds": ["word-b3-706"]
+    },
+    {
+      "id": "b3-l115-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Estimated or understood element in parsing",
+      "answer": "مُقَدَّر",
+      "itemIds": ["word-b3-707"]
+    },
+    {
+      "id": "b3-l115-ex11",
+      "type": "meaning-to-word",
+      "prompt": "One subject with multiple predicates",
+      "answer": "تَعَدُّدُ الْخَبَرِ",
+      "itemIds": ["word-b3-704"]
+    },
+    {
+      "id": "b3-l115-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Particle requiring obligatory deletion of خبر",
+      "answer": "لَوْلَا",
+      "itemIds": ["word-b3-706"]
+    }
+  ]
+}

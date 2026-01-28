@@ -1,0 +1,183 @@
+{
+  "id": "b3-l56",
+  "book": 3,
+  "lesson": 56,
+  "title": "المَوَازِين الصَّرْفِيَّة",
+  "titleEn": "Morphological Scales (Word Patterns)",
+  "description": "Learn about الموازين الصرفية, the system of using فَعَلَ as a template to analyze and understand Arabic word patterns and their meanings.",
+  "vocabulary": ["word-b3-387", "word-b3-388", "word-b3-389", "word-b3-390", "word-b3-391", "word-b3-392"],
+  "grammarPoints": ["gp-b3-074", "gp-b3-075"],
+  "notes": [
+    {
+      "title": "What is الميزان الصرفي?",
+      "titleArabic": "تعريف الميزان الصرفي",
+      "content": [
+        "الميزان الصرفي is a system for analyzing Arabic words using the root فعل (ف-ع-ل) as a template. The ف represents the first root letter, ع the second, and ل the third.",
+        "By 'weighing' a word on this scale, we can identify its pattern and understand its grammatical form. كَتَبَ weighs as فَعَلَ, كَاتِب weighs as فَاعِل."
+      ],
+      "keyPoints": [
+        "فعل = template with ف (1st), ع (2nd), ل (3rd) root letters",
+        "Original letters keep their position on the scale",
+        "Added letters appear on the scale too",
+        "Helps identify word patterns and meanings"
+      ],
+      "examples": [
+        { "arabic": "كَتَبَ = فَعَلَ", "english": "kataba (he wrote) = fa'ala" },
+        { "arabic": "كَاتِب = فَاعِل", "english": "kātib (writer) = fā'il" },
+        { "arabic": "مَكْتُوب = مَفْعُول", "english": "maktūb (written) = maf'ūl" },
+        { "arabic": "كِتَاب = فِعَال", "english": "kitāb (book) = fi'āl" }
+      ]
+    },
+    {
+      "title": "Weighing Triliteral Words",
+      "titleArabic": "وزن الكلمات الثلاثية",
+      "content": [
+        "For three-letter roots, the process is straightforward: replace each root letter with its corresponding ف-ع-ل letter, keeping all vowels and added letters.",
+        "If extra letters are added, they appear in the same position on the scale. The extra letters are: س، أ، ل، ت، م، و، ن، ي، ه، ا (remembered as سألتمونيها)."
+      ],
+      "keyPoints": [
+        "Root letters → ف، ع، ل positions",
+        "Keep all vowels (harakat) the same",
+        "Added letters (حروف الزيادة) stay in place",
+        "سألتمونيها: the letters that can be added"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبَ = فَعَلَ", "english": "ḍaraba = fa'ala (basic pattern)" },
+        { "arabic": "أَكْرَمَ = أَفْعَلَ", "english": "akrama = af'ala (Form IV)" },
+        { "arabic": "تَعَلَّمَ = تَفَعَّلَ", "english": "ta'allama = tafa''ala (Form V)" },
+        { "arabic": "اِسْتَغْفَرَ = اِسْتَفْعَلَ", "english": "istaghfara = istaf'ala (Form X)" }
+      ]
+    },
+    {
+      "title": "Weighing Nouns and Participles",
+      "titleArabic": "وزن الأسماء والمشتقات",
+      "content": [
+        "Nouns and derived forms also follow the scale. Active participles (اسم الفاعل), passive participles (اسم المفعول), and verbal nouns (المصدر) each have characteristic patterns.",
+        "Learning these patterns helps you derive related words from any root."
+      ],
+      "keyPoints": [
+        "اسم الفاعل من فَعَلَ = فَاعِل (عَالِم، كَاتِب)",
+        "اسم المفعول من فَعَلَ = مَفْعُول (مَعْلُوم، مَكْتُوب)",
+        "اسم الفاعل من أَفْعَلَ = مُفْعِل (مُعَلِّم، مُكْرِم)",
+        "اسم الآلة = مِفْعَل، مِفْعَال، مِفْعَلَة"
+      ],
+      "examples": [
+        { "arabic": "عَالِم = فَاعِل", "english": "'ālim (scholar) = fā'il" },
+        { "arabic": "مَعْلُوم = مَفْعُول", "english": "ma'lūm (known) = maf'ūl" },
+        { "arabic": "مُعَلِّم = مُفَعِّل", "english": "mu'allim (teacher) = mufa''il" },
+        { "arabic": "مِفْتَاح = مِفْعَال", "english": "miftāḥ (key) = mif'āl" }
+      ]
+    },
+    {
+      "title": "Special Cases in Weighing",
+      "titleArabic": "حالات خاصة في الوزن",
+      "content": [
+        "Some words have modifications due to الإعلال (weak letter changes). When weighing these, we show what happened to the original letters.",
+        "قَالَ (original قَوَلَ) weighs as فَعَلَ, but we note the و became ا. Words with deleted letters show the deletion on the scale."
+      ],
+      "keyPoints": [
+        "Weak verbs: show original root - قَالَ (ق-و-ل) = فَعَلَ",
+        "Deleted letters: shown with their position - قُلْ = فُلْ (ع deleted)",
+        "Doubled roots: عَلَّمَ (ع-ل-م) = فَعَّلَ",
+        "Quadriliteral: دَحْرَجَ = فَعْلَلَ (4-letter root)"
+      ],
+      "examples": [
+        { "arabic": "قَالَ = فَعَلَ (والأصل قَوَلَ)", "english": "qāla = fa'ala (origin qawala)" },
+        { "arabic": "قُلْ = فُلْ", "english": "qul (say!) = ful (ع deleted)" },
+        { "arabic": "يَقُولُ = يَفْعُلُ", "english": "yaqūlu = yaf'ulu" },
+        { "arabic": "دَحْرَجَ = فَعْلَلَ", "english": "daḥraja (to roll) = fa'lala (4-letter)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l56-ex01",
+      "type": "fill-blank",
+      "prompt": "كَتَبَ على وزن _____",
+      "promptEn": "كَتَبَ (he wrote) is on the pattern _____",
+      "answer": "فَعَلَ",
+      "itemIds": ["word-b3-387"]
+    },
+    {
+      "id": "b3-l56-ex02",
+      "type": "fill-blank",
+      "prompt": "كَاتِب على وزن _____",
+      "promptEn": "كَاتِب (writer) is on the pattern _____",
+      "answer": "فَاعِل",
+      "itemIds": ["word-b3-388"]
+    },
+    {
+      "id": "b3-l56-ex03",
+      "type": "fill-blank",
+      "prompt": "مَكْتُوب على وزن _____",
+      "promptEn": "مَكْتُوب (written) is on the pattern _____",
+      "answer": "مَفْعُول",
+      "itemIds": ["word-b3-389"]
+    },
+    {
+      "id": "b3-l56-ex04",
+      "type": "fill-blank",
+      "prompt": "اِسْتَغْفَرَ على وزن _____",
+      "promptEn": "اِسْتَغْفَرَ (he sought forgiveness) is on the pattern _____",
+      "answer": "اِسْتَفْعَلَ",
+      "itemIds": ["word-b3-390"]
+    },
+    {
+      "id": "b3-l56-ex05",
+      "type": "fill-blank",
+      "prompt": "مُعَلِّم على وزن _____",
+      "promptEn": "مُعَلِّم (teacher) is on the pattern _____",
+      "answer": "مُفَعِّل",
+      "itemIds": ["word-b3-391"]
+    },
+    {
+      "id": "b3-l56-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "What is the pattern of أَكْرَمَ (he honored)?",
+      "answer": "أَفْعَلَ",
+      "itemIds": ["word-b3-390"]
+    },
+    {
+      "id": "b3-l56-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "What is the pattern of تَعَلَّمَ (he learned)?",
+      "answer": "تَفَعَّلَ",
+      "itemIds": ["word-b3-391"]
+    },
+    {
+      "id": "b3-l56-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "What is the pattern of مِفْتَاح (key)?",
+      "answer": "مِفْعَال",
+      "itemIds": ["word-b3-392"]
+    },
+    {
+      "id": "b3-l56-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الميزان الصرفي",
+      "answer": "morphological scale / word pattern",
+      "itemIds": ["word-b3-387"]
+    },
+    {
+      "id": "b3-l56-ex10",
+      "type": "word-to-meaning",
+      "prompt": "حروف الزيادة",
+      "answer": "added letters (سألتمونيها)",
+      "itemIds": ["word-b3-388"]
+    },
+    {
+      "id": "b3-l56-ex11",
+      "type": "meaning-to-word",
+      "prompt": "active participle pattern (Form I)",
+      "answer": "فَاعِل",
+      "itemIds": ["word-b3-389"]
+    },
+    {
+      "id": "b3-l56-ex12",
+      "type": "meaning-to-word",
+      "prompt": "passive participle pattern (Form I)",
+      "answer": "مَفْعُول",
+      "itemIds": ["word-b3-390"]
+    }
+  ]
+}

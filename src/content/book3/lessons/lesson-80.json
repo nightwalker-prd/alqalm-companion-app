@@ -1,0 +1,224 @@
+{
+  "id": "b3-l80",
+  "book": 3,
+  "lesson": 80,
+  "title": "النِّدَاءُ الْمُتَقَدِّمُ",
+  "titleEn": "Advanced Vocative Constructions",
+  "description": "Learn advanced vocative rules: calling nouns with أل (يا أيها), calling nouns annexed to ياء المتكلم (يا ربّ), and vocative of lamentation with annexed nouns.",
+  "vocabulary": ["word-b3-528", "word-b3-529", "word-b3-530", "word-b3-531", "word-b3-532"],
+  "grammarPoints": ["gp-b3-122", "gp-b3-123"],
+  "notes": [
+    {
+      "title": "Review: Basic Vocative",
+      "titleArabic": "مُرَاجَعَةٌ: النِّدَاءُ الْأَسَاسِيُّ",
+      "content": [
+        "The vocative (النداء) is used to call someone's attention. The basic structure is: vocative particle (يَا، أَيَا، هَيَا، أَيْ، أَ) + the called noun (المُنَادَى). The case of المُنَادَى depends on its type.",
+        "Types: 1) مُفْرَد عَلَم (single proper noun) = مَبْنِيّ عَلَى الضَّمّ, 2) نَكِرَة مَقْصُودَة (intended indefinite) = مَبْنِيّ عَلَى الضَّمّ, 3) مُضَاف (annexed), نَكِرَة غَيْر مَقْصُودَة (unintended indefinite), شَبِيه بِالْمُضَاف = مَنْصُوب."
+      ],
+      "keyPoints": [
+        "يَا + مُنَادَى: basic structure",
+        "مفرد علم، نكرة مقصودة: مبني على الضم",
+        "مُضَاف، نكرة غير مقصودة، شبيه بالمضاف: منصوب",
+        "Advanced forms build on these basics"
+      ],
+      "examples": [
+        { "arabic": "يَا مُحَمَّدُ (علم مفرد)", "english": "O Muhammad! (proper noun - built on ضَمّ)" },
+        { "arabic": "يَا رَجُلُ (نكرة مقصودة)", "english": "O man! (intended indefinite - built on ضَمّ)" },
+        { "arabic": "يَا عَبْدَ اللهِ (مضاف)", "english": "O Abdullah! (annexed - منصوب)" },
+        { "arabic": "يَا طَالِعًا جَبَلًا (شبيه بالمضاف)", "english": "O one climbing a mountain! (resembling annexed - منصوب)" }
+      ]
+    },
+    {
+      "title": "Calling Nouns with أل (نداء ما فيه أل)",
+      "titleArabic": "نِدَاءُ مَا فِيهِ أَلْ",
+      "content": [
+        "In Arabic, يَا cannot directly precede a noun with the definite article أل. Instead, أَيُّهَا (for masculine) or أَيَّتُهَا (for feminine) is inserted as a واسطة (intermediary): يَا أَيُّهَا الرَّجُلُ، يَا أَيَّتُهَا الْمَرْأَةُ.",
+        "The structure is: يَا + أَيُّ/أَيَّة (مُنَادَى مَبْنِيّ عَلَى الضَّمّ) + هَا (للتنبيه) + الاسم المحلى بأل (بَدَل or صِفَة). The noun with أل is either بَدَل مَرْفُوع or صِفَة مَرْفُوعَة."
+      ],
+      "keyPoints": [
+        "يَا + أل مباشرة: ممنوع (not allowed)",
+        "واسطة: أَيُّهَا (masc.) / أَيَّتُهَا (fem.)",
+        "أَيُّ: مُنَادَى مَبْنِيّ عَلَى الضَّمّ",
+        "الاسم بأل: بَدَل أو صِفَة مَرْفُوعَة"
+      ],
+      "examples": [
+        { "arabic": "يَا أَيُّهَا النَّاسُ", "english": "O mankind! (Quran - النَّاسُ = بدل)" },
+        { "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا", "english": "O you who believe! (Quran)" },
+        { "arabic": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ", "english": "O tranquil soul! (Quran 89:27)" },
+        { "arabic": "يَا أَيُّهَا الرَّسُولُ بَلِّغْ", "english": "O Messenger, convey! (Quran 5:67)" }
+      ]
+    },
+    {
+      "title": "Calling Nouns Annexed to ياء المتكلم",
+      "titleArabic": "نِدَاءُ الْمُضَافِ إِلَى يَاءِ الْمُتَكَلِّمِ",
+      "content": [
+        "When calling a noun annexed to ياء المتكلم (my), there are several options. For يَا رَبِّ (my Lord), the most common forms are: 1) يَا رَبِّ (with كَسْرَة, ياء deleted), 2) يَا رَبِّي (with ياء ساكنة), 3) يَا رَبَّ (with فَتْحَة).",
+        "This applies to other nouns too: يَا أَبِي/يَا أَبَتِ/يَا أَبَتَا (O my father), يَا أُمِّي/يَا أُمَّتِ (O my mother). The تَاء in أَبَتِ/أُمَّتِ is تَاء التَّأْنِيث used for التَّرَحُّم (compassion/tenderness)."
+      ],
+      "keyPoints": [
+        "يَا رَبِّ: ياء deleted, shown by كَسْرَة",
+        "يَا رَبِّي: ياء retained (ساكنة)",
+        "يَا رَبَّ: فَتْحَة instead (rare)",
+        "يَا أَبَتِ: تَاء for tenderness"
+      ],
+      "examples": [
+        { "arabic": "رَبِّ اغْفِرْ لِي", "english": "My Lord, forgive me (ياء deleted)" },
+        { "arabic": "يَا رَبِّي ارْحَمْنِي", "english": "O my Lord, have mercy on me (ياء retained)" },
+        { "arabic": "يَا أَبَتِ لِمَ تَعْبُدُ مَا لَا يَسْمَعُ", "english": "O my father, why do you worship what cannot hear? (Quran 19:42)" },
+        { "arabic": "يَا بُنَيَّ لَا تُشْرِكْ بِاللهِ", "english": "O my son, do not associate partners with Allah (Quran 31:13)" }
+      ]
+    },
+    {
+      "title": "The Vocative of Lamentation (نداء المندوب)",
+      "titleArabic": "نِدَاءُ الْمَنْدُوبِ",
+      "content": [
+        "نِدَاءُ الْمَنْدُوبِ is used to express grief or lamentation over someone or something. It uses وَا (instead of يَا) and ends with an extended أَلِف: وَازَيْدَاهُ، وَامُحَمَّدَاهُ.",
+        "The extended endings can be: أَلِف + هَاء (وَازَيْدَاهْ) or أَلِف alone (وَازَيْدَا). For annexed nouns (مُنَادَى مُضَاف), the أَلِف attaches to the end of the construct."
+      ],
+      "keyPoints": [
+        "وَا: vocative particle for lamentation",
+        "Ends with extended أَلِف + هَاء (اه)",
+        "Expresses grief: وَازَيْدَاهُ = Alas for Zayd!",
+        "For مضاف: extend after complete construct"
+      ],
+      "examples": [
+        { "arabic": "وَازَيْدَاهُ", "english": "Alas for Zayd! (single noun lamentation)" },
+        { "arabic": "وَاأَمِيرَ الْمُؤْمِنِينَاهُ", "english": "Alas for the Commander of the Faithful! (annexed)" },
+        { "arabic": "وَارَأْسَاهُ", "english": "Alas, my head! (expressing pain)" },
+        { "arabic": "وَامُصِيبَتَاهُ", "english": "Alas, what a calamity!" }
+      ]
+    },
+    {
+      "title": "Special Cases in Vocative",
+      "titleArabic": "حَالَاتٌ خَاصَّةٌ فِي النِّدَاءِ",
+      "content": [
+        "Several special cases exist in the vocative. للهُمَّ is a special form of يَا اللهُ with the مِيم replacing يَا. يَا ابْنَ أُمِّ and يَا ابْنَ عَمِّ have special contraction patterns.",
+        "The vocative can also express تَعَجُّب (astonishment): يَا لَلْعَجَبِ (what wonder!), يَا لَلْمُصِيبَةِ (what a calamity!). Here لَ is لَام التَّعَجُّب."
+      ],
+      "keyPoints": [
+        "اللهُمَّ = يَا اللهُ (special form)",
+        "يَا ابْنَ أُمَّ/عَمَّ: contracted forms",
+        "يَا لَلْعَجَبِ: vocative for astonishment",
+        "لَام التَّعَجُّب: expresses amazement"
+      ],
+      "examples": [
+        { "arabic": "اللهُمَّ اغْفِرْ لِي", "english": "O Allah, forgive me (اللهُمَّ = يَا اللهُ)" },
+        { "arabic": "يَا ابْنَ أُمَّ لَا تَأْخُذْ بِلِحْيَتِي", "english": "O son of my mother, do not seize my beard (Quran 20:94)" },
+        { "arabic": "يَا لَلْعَجَبِ مِنْ هَذَا!", "english": "What wonder at this!" },
+        { "arabic": "يَا لَلَّهِ لِلْمَظْلُومِينَ", "english": "O Allah! [help] the oppressed (seeking divine aid)" }
+      ]
+    },
+    {
+      "title": "Deleting the Vocative Particle",
+      "titleArabic": "حَذْفُ حَرْفِ النِّدَاءِ",
+      "content": [
+        "The vocative particle (يَا) can be omitted when context is clear. This is common in Quranic Arabic and eloquent speech. The مُنَادَى retains its case/form even without the particle.",
+        "Examples from Quran: رَبِّ اغْفِرْ لِي (يَا omitted), يُوسُفُ أَعْرِضْ عَنْ هَذَا (O Yusuf, turn away from this). The understood يَا is in تَقْدِير."
+      ],
+      "keyPoints": [
+        "يَا can be omitted if context is clear",
+        "مُنَادَى keeps its form",
+        "Common in Quran: رَبِّ (= يَا رَبِّ)",
+        "يَا in تَقْدِير (understood/estimated)"
+      ],
+      "examples": [
+        { "arabic": "رَبِّ هَبْ لِي حُكْمًا", "english": "My Lord, grant me wisdom (Quran 26:83) - يَا omitted" },
+        { "arabic": "يُوسُفُ أَعْرِضْ عَنْ هَذَا", "english": "Yusuf, turn away from this (Quran 12:29)" },
+        { "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً", "english": "Our Lord, give us good in this world (Quran 2:201)" },
+        { "arabic": "نُوحُ إِنَّهُ لَيْسَ مِنْ أَهْلِكَ", "english": "O Noah, he is not of your family (Quran 11:46)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l80-ex01",
+      "type": "fill-blank",
+      "prompt": "لَا يَجُوزُ أَنْ تَدْخُلَ يَا عَلَى الاِسْمِ الْمُحَلَّى بِأَلْ مُبَاشَرَةً، فَنَقُولُ: يَا _____ الرَّجُلُ",
+      "promptEn": "يَا cannot directly enter on a noun with أل, so we say: يَا _____ الرَّجُلُ",
+      "answer": "أَيُّهَا",
+      "itemIds": ["word-b3-528"]
+    },
+    {
+      "id": "b3-l80-ex02",
+      "type": "fill-blank",
+      "prompt": "فِي نِدَاءِ الْمُضَافِ إِلَى يَاءِ الْمُتَكَلِّمِ، يَجُوزُ حَذْفُ الْيَاءِ مَعَ بَقَاءِ _____، مِثْلَ: يَا رَبِّ",
+      "promptEn": "In calling nouns annexed to ياء المتكلم, the ياء may be deleted while keeping the _____, like: يَا رَبِّ",
+      "answer": "الْكَسْرَةِ",
+      "itemIds": ["word-b3-529"]
+    },
+    {
+      "id": "b3-l80-ex03",
+      "type": "fill-blank",
+      "prompt": "حَرْفُ النِّدَاءِ لِلتَّفَجُّعِ وَالتَّحَسُّرِ هُوَ _____، مِثْلَ: وَازَيْدَاهُ",
+      "promptEn": "The vocative particle for lamentation and grief is _____, like: وَازَيْدَاهُ",
+      "answer": "وَا",
+      "itemIds": ["word-b3-530"]
+    },
+    {
+      "id": "b3-l80-ex04",
+      "type": "fill-blank",
+      "prompt": "يَا أَبَتِ - التَّاءُ هُنَا تَاءُ التَّأْنِيثِ لِلتَّرَحُّمِ، وَأَصْلُهَا يَا _____",
+      "promptEn": "يَا أَبَتِ - the تَاء here is the feminine تَاء for tenderness, originally يَا _____",
+      "answer": "أَبِي",
+      "itemIds": ["word-b3-531"]
+    },
+    {
+      "id": "b3-l80-ex05",
+      "type": "fill-blank",
+      "prompt": "اللَّهُمَّ صِيغَةٌ خَاصَّةٌ، وَالْمِيمُ فِيهَا _____ عَنْ يَا",
+      "promptEn": "اللَّهُمَّ is a special form, and the مِيم in it _____ for يَا",
+      "answer": "عِوَضٌ",
+      "itemIds": ["word-b3-532"]
+    },
+    {
+      "id": "b3-l80-ex06",
+      "type": "fill-blank",
+      "prompt": "يَا أَيُّهَا النَّاسُ - كَلِمَةُ النَّاسُ إِعْرَابُهَا _____ مَرْفُوعٌ أَوْ نَعْتٌ مَرْفُوعٌ",
+      "promptEn": "يَا أَيُّهَا النَّاسُ - the word النَّاسُ is parsed as _____ in nominative or an adjective",
+      "answer": "بَدَلٌ",
+      "itemIds": ["word-b3-528"]
+    },
+    {
+      "id": "b3-l80-ex07",
+      "type": "word-to-meaning",
+      "prompt": "يَا أَيُّهَا",
+      "answer": "O you... (vocative intermediary for nouns with أل, masculine)",
+      "itemIds": ["word-b3-528"]
+    },
+    {
+      "id": "b3-l80-ex08",
+      "type": "word-to-meaning",
+      "prompt": "وَازَيْدَاهُ",
+      "answer": "Alas for Zayd! (vocative of lamentation)",
+      "itemIds": ["word-b3-530"]
+    },
+    {
+      "id": "b3-l80-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْمُنَادَى الْمَنْدُوبُ",
+      "answer": "The called noun in lamentation (expressing grief)",
+      "itemIds": ["word-b3-530"]
+    },
+    {
+      "id": "b3-l80-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The intermediary used before nouns with أل in vocative (feminine)",
+      "answer": "أَيَّتُهَا",
+      "itemIds": ["word-b3-528"]
+    },
+    {
+      "id": "b3-l80-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The special vocative form meaning 'O Allah' with مِيم instead of يَا",
+      "answer": "اللَّهُمَّ",
+      "itemIds": ["word-b3-532"]
+    },
+    {
+      "id": "b3-l80-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The vocative particle used for lamentation and expressing grief",
+      "answer": "وَا",
+      "itemIds": ["word-b3-530"]
+    }
+  ]
+}

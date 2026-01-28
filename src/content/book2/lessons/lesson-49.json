@@ -1,0 +1,183 @@
+{
+  "id": "b2-l49",
+  "book": 2,
+  "lesson": 49,
+  "title": "ظَنَّ وَأَخَوَاتُهَا",
+  "titleEn": "Verbs of Thinking and Their Sisters",
+  "description": "Learn about ظنّ وأخواتها, verbs that take two accusative objects (مفعولين), expressing thought, belief, certainty, or transformation.",
+  "vocabulary": ["word-b2-371", "word-b2-372", "word-b2-373", "word-b2-374", "word-b2-375", "word-b2-376"],
+  "grammarPoints": ["gp-b2-065", "gp-b2-066"],
+  "notes": [
+    {
+      "title": "What are ظنّ وأخواتها?",
+      "titleArabic": "تعريف ظنّ وأخواتها",
+      "content": [
+        "ظنّ وأخواتها are verbs that take two objects in the accusative case (مفعولين). Originally, these two objects were a subject (مبتدأ) and predicate (خبر).",
+        "For example: الطَّالِبُ مُجْتَهِدٌ (The student is diligent) becomes ظَنَنْتُ الطَّالِبَ مُجْتَهِدًا (I thought the student diligent)."
+      ],
+      "keyPoints": [
+        "These verbs convert a nominal sentence into two accusative objects",
+        "المفعول الأول was originally المبتدأ",
+        "المفعول الثاني was originally الخبر",
+        "Both objects take فتحة (accusative case)"
+      ],
+      "examples": [
+        { "arabic": "ظَنَنْتُ الْأَمْرَ سَهْلًا", "english": "I thought the matter easy" },
+        { "arabic": "حَسِبْتُ زَيْدًا قَادِمًا", "english": "I supposed Zaid was coming" },
+        { "arabic": "عَلِمْتُ الْحَقَّ وَاضِحًا", "english": "I knew the truth to be clear" },
+        { "arabic": "وَجَدْتُ الْعَمَلَ صَعْبًا", "english": "I found the work difficult" }
+      ]
+    },
+    {
+      "title": "Verbs of Doubt and Supposition",
+      "titleArabic": "أفعال الشك والرجحان",
+      "content": [
+        "These verbs express doubt, supposition, or probability. The main ones are: ظَنَّ (to think/suppose), حَسِبَ (to reckon/suppose), خَالَ (to imagine), زَعَمَ (to claim).",
+        "They indicate uncertainty or belief rather than confirmed knowledge."
+      ],
+      "keyPoints": [
+        "ظَنَّ - يَظُنُّ: to think, suppose (most common)",
+        "حَسِبَ - يَحْسَبُ: to reckon, consider",
+        "خَالَ - يَخَالُ: to imagine, fancy",
+        "زَعَمَ - يَزْعُمُ: to claim, allege"
+      ],
+      "examples": [
+        { "arabic": "ظَنَنْتُ الْجَوَّ بَارِدًا", "english": "I thought the weather was cold" },
+        { "arabic": "حَسِبْتُهُ صَادِقًا", "english": "I reckoned him truthful" },
+        { "arabic": "خِلْتُ الْأَمْرَ هَيِّنًا", "english": "I imagined the matter was easy" },
+        { "arabic": "زَعَمُوهُ كَاذِبًا", "english": "They claimed he was a liar" }
+      ]
+    },
+    {
+      "title": "Verbs of Certainty",
+      "titleArabic": "أفعال اليقين",
+      "content": [
+        "These verbs express certainty or confirmed knowledge. The main ones are: عَلِمَ (to know), رَأَى (to see/realize), وَجَدَ (to find), دَرَى (to know/be aware).",
+        "Note: رَأَى here means 'to realize/consider' (قلبية), not physical seeing (بصرية)."
+      ],
+      "keyPoints": [
+        "عَلِمَ - يَعْلَمُ: to know (with certainty)",
+        "رَأَى - يَرَى: to realize, consider (not physical seeing)",
+        "وَجَدَ - يَجِدُ: to find (to be)",
+        "دَرَى - يَدْرِي: to know, be aware"
+      ],
+      "examples": [
+        { "arabic": "عَلِمْتُ الصِّدْقَ نَجَاةً", "english": "I knew honesty to be salvation" },
+        { "arabic": "رَأَيْتُ الْعِلْمَ نَافِعًا", "english": "I considered knowledge beneficial" },
+        { "arabic": "وَجَدْتُ الصَّبْرَ مُفِيدًا", "english": "I found patience useful" },
+        { "arabic": "دَرَيْتُ الْخَبَرَ صَحِيحًا", "english": "I knew the news to be true" }
+      ]
+    },
+    {
+      "title": "Verbs of Transformation",
+      "titleArabic": "أفعال التحويل",
+      "content": [
+        "Some grammarians include verbs of transformation (التصيير) in this category. These include: جَعَلَ (to make), صَيَّرَ (to turn into), اتَّخَذَ (to take as), تَرَكَ (to leave as).",
+        "These verbs show changing something from one state to another."
+      ],
+      "keyPoints": [
+        "جَعَلَ - يَجْعَلُ: to make (into)",
+        "صَيَّرَ - يُصَيِّرُ: to turn (into)",
+        "اتَّخَذَ - يَتَّخِذُ: to take (as)",
+        "تَرَكَ - يَتْرُكُ: to leave (as)"
+      ],
+      "examples": [
+        { "arabic": "جَعَلَ اللهُ الْأَرْضَ مَهْدًا", "english": "Allah made the earth a cradle" },
+        { "arabic": "صَيَّرَ الْحَدَّادُ الْحَدِيدَ سَيْفًا", "english": "The blacksmith turned the iron into a sword" },
+        { "arabic": "اتَّخَذْتُهُ صَدِيقًا", "english": "I took him as a friend" },
+        { "arabic": "تَرَكْتُ الْبَابَ مَفْتُوحًا", "english": "I left the door open" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l49-ex01",
+      "type": "fill-blank",
+      "prompt": "ظَنَنْتُ الْأَمْرَ _____",
+      "promptEn": "I thought the matter _____",
+      "answer": "سَهْلًا",
+      "itemIds": ["word-b2-371"]
+    },
+    {
+      "id": "b2-l49-ex02",
+      "type": "fill-blank",
+      "prompt": "حَسِبْتُ _____ قَادِمًا",
+      "promptEn": "I supposed _____ was coming",
+      "answer": "زَيْدًا",
+      "itemIds": ["word-b2-372"]
+    },
+    {
+      "id": "b2-l49-ex03",
+      "type": "fill-blank",
+      "prompt": "عَلِمْتُ الْحَقَّ _____",
+      "promptEn": "I knew the truth to be _____",
+      "answer": "وَاضِحًا",
+      "itemIds": ["word-b2-373"]
+    },
+    {
+      "id": "b2-l49-ex04",
+      "type": "fill-blank",
+      "prompt": "وَجَدْتُ الْعَمَلَ _____",
+      "promptEn": "I found the work _____",
+      "answer": "صَعْبًا",
+      "itemIds": ["word-b2-374"]
+    },
+    {
+      "id": "b2-l49-ex05",
+      "type": "fill-blank",
+      "prompt": "جَعَلَ اللهُ الْأَرْضَ _____",
+      "promptEn": "Allah made the earth a _____",
+      "answer": "مَهْدًا",
+      "itemIds": ["word-b2-375"]
+    },
+    {
+      "id": "b2-l49-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I thought the weather was cold",
+      "answer": "ظَنَنْتُ الْجَوَّ بَارِدًا",
+      "itemIds": ["word-b2-371"]
+    },
+    {
+      "id": "b2-l49-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I found patience useful",
+      "answer": "وَجَدْتُ الصَّبْرَ مُفِيدًا",
+      "itemIds": ["word-b2-374"]
+    },
+    {
+      "id": "b2-l49-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "I took him as a friend",
+      "answer": "اتَّخَذْتُهُ صَدِيقًا",
+      "itemIds": ["word-b2-376"]
+    },
+    {
+      "id": "b2-l49-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "I left the door open",
+      "answer": "تَرَكْتُ الْبَابَ مَفْتُوحًا",
+      "itemIds": ["word-b2-376"]
+    },
+    {
+      "id": "b2-l49-ex10",
+      "type": "word-to-meaning",
+      "prompt": "ظَنَّ",
+      "answer": "he thought / supposed",
+      "itemIds": ["word-b2-371"]
+    },
+    {
+      "id": "b2-l49-ex11",
+      "type": "word-to-meaning",
+      "prompt": "حَسِبَ",
+      "answer": "he reckoned / considered",
+      "itemIds": ["word-b2-372"]
+    },
+    {
+      "id": "b2-l49-ex12",
+      "type": "meaning-to-word",
+      "prompt": "he made / turned into",
+      "answer": "جَعَلَ",
+      "itemIds": ["word-b2-375"]
+    }
+  ]
+}

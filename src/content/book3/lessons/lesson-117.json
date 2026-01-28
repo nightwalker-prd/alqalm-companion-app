@@ -1,0 +1,162 @@
+{
+  "id": "b3-l117",
+  "book": 3,
+  "lesson": 117,
+  "title": "الاستثناء المتقدم",
+  "titleEn": "Advanced Exception",
+  "description": "عدا، خلا، حاشا and their dual nature as verbs or prepositions; using ليس and لا يكون for exception",
+  "vocabulary": ["word-b3-713", "word-b3-714", "word-b3-715", "word-b3-716", "word-b3-717"],
+  "grammarPoints": ["gp-b3-196", "gp-b3-197"],
+  "notes": [
+    {
+      "title": "عدا، خلا، حاشا: Dual Nature",
+      "titleArabic": "عدا، خلا، حاشا: الطبيعة المزدوجة",
+      "content": [
+        "These three exception words can function as either prepositions (حروف جر) or verbs (أفعال). When used as prepositions, the noun after them is مجرور. When used as verbs, the noun is منصوب as a مفعول به.",
+        "With preposition reading: زيدٍ is مجرور. With verb reading: زيداً is مفعول به منصوب."
+      ],
+      "examples": [
+        { "arabic": "جاء القومُ عدا زيدٍ (جر)", "english": "The people came except Zayd (genitive)" },
+        { "arabic": "جاء القومُ عدا زيداً (نصب)", "english": "The people came except Zayd (accusative)" }
+      ]
+    },
+    {
+      "title": "ما عدا، ما خلا، ما حاشا",
+      "titleArabic": "ما عدا، ما خلا، ما حاشا",
+      "content": [
+        "When preceded by ما المصدرية, these words can ONLY be verbs, never prepositions. The ما makes them definitively verbal, requiring نصب of the exception.",
+        "محمداً is منصوب because ما عدا can only be a verb. The ما is مصدرية, making the phrase mean 'excepting Muhammad'."
+      ],
+      "examples": [
+        { "arabic": "قامَ الطلابُ ما عدا محمداً", "english": "The students rose except Muhammad" },
+        { "arabic": "قرأتُ الكتبَ ما خلا واحداً", "english": "I read the books except one" }
+      ]
+    },
+    {
+      "title": "ليس في الاستثناء",
+      "titleArabic": "ليس في الاستثناء",
+      "content": [
+        "The verb ليس can be used for exception, with the excepted noun as its خبر. This is common in classical texts and poetry.",
+        "زيداً is خبر ليس منصوب. The subject (اسم ليس) is a hidden pronoun referring to the excepted person."
+      ],
+      "examples": [
+        { "arabic": "قامَ القومُ ليس زيداً", "english": "The people rose, not being Zayd" },
+        { "arabic": "حضروا ليس أخاكَ", "english": "They attended, not being your brother" }
+      ]
+    },
+    {
+      "title": "لا يكون في الاستثناء",
+      "titleArabic": "لا يكون في الاستثناء",
+      "content": [
+        "The negative لا يكون can also function as an exception tool, with the excepted noun as its خبر. This is less common but appears in classical Arabic.",
+        "زيداً is خبر لا يكون منصوب. The construction means 'the people came, not being Zayd (excepted).'"
+      ],
+      "examples": [
+        { "arabic": "جاء الناسُ لا يكونُ زيداً", "english": "The people came, not being Zayd" },
+        { "arabic": "الجميعُ حاضرون لا يكونُ المريضَ", "english": "All are present, not being the sick one" }
+      ]
+    },
+    {
+      "title": "Preference Between Verb and Preposition",
+      "titleArabic": "الترجيح بين الفعل والحرف",
+      "content": [
+        "The Basran school preferred treating عدا، خلا، حاشا as prepositions (جر), while the Kufan school preferred the verb reading (نصب). Both are valid in standard Arabic.",
+        "Both readings are grammatically correct. The choice affects only the case of the excepted noun."
+      ],
+      "examples": [
+        { "arabic": "نجح الجميعُ حاشا واحدٍ", "english": "All passed except one (genitive)" },
+        { "arabic": "نجح الجميعُ حاشا واحداً", "english": "All passed except one (accusative)" }
+      ]
+    },
+    {
+      "title": "Quranic and Classical Examples",
+      "titleArabic": "أمثلة قرآنية وكلاسيكية",
+      "content": [
+        "These advanced exception particles appear throughout classical Arabic literature. Understanding both usages is essential for reading pre-modern texts correctly.",
+        "Famous line of poetry: 'Indeed everything except Allah is vain.' اللهَ is منصوب because ما خلا must be verbal."
+      ],
+      "examples": [
+        { "arabic": "ألا كلُّ شيءٍ ما خلا اللهَ باطلُ", "english": "Indeed everything except Allah is vain" },
+        { "arabic": "جاء القومُ خلا زيدٍ", "english": "The people came except Zayd" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l117-ex01",
+      "type": "irab",
+      "question": "أعرب: جاءَ الطلابُ عدا محمدٍ",
+      "answer": "جاءَ: فعل ماضٍ مبني على الفتح. الطلابُ: فاعل مرفوع بالضمة. عدا: حرف جر للاستثناء. محمدٍ: اسم مجرور بعدا وعلامة جره الكسرة."
+    },
+    {
+      "id": "b3-l117-ex02",
+      "type": "irab",
+      "question": "أعرب: نجحَ الجميعُ ما عدا واحداً",
+      "answer": "نجحَ: فعل ماضٍ. الجميعُ: فاعل مرفوع. ما: مصدرية. عدا: فعل ماضٍ، والفاعل ضمير مستتر. واحداً: مفعول به منصوب بالفتحة."
+    },
+    {
+      "id": "b3-l117-ex03",
+      "type": "irab",
+      "question": "أعرب: حضرَ المدعوون خلا زيدٍ",
+      "answer": "حضرَ: فعل ماضٍ. المدعوون: فاعل مرفوع بالواو. خلا: حرف جر للاستثناء. زيدٍ: اسم مجرور بخلا."
+    },
+    {
+      "id": "b3-l117-ex04",
+      "type": "irab",
+      "question": "أعرب: قرأتُ الكتبَ ما خلا كتاباً",
+      "answer": "قرأتُ: فعل وفاعل. الكتبَ: مفعول به منصوب. ما: مصدرية. خلا: فعل ماضٍ. كتاباً: مفعول به لخلا منصوب."
+    },
+    {
+      "id": "b3-l117-ex05",
+      "type": "irab",
+      "question": "أعرب: جاءَ القومُ ليسَ أخاكَ",
+      "answer": "جاءَ: فعل ماضٍ. القومُ: فاعل مرفوع. ليسَ: فعل ماضٍ ناقص، واسمه ضمير مستتر. أخاكَ: خبر ليس منصوب بالألف لأنه من الأسماء الخمسة، والكاف مضاف إليه."
+    },
+    {
+      "id": "b3-l117-ex06",
+      "type": "irab",
+      "question": "أعرب: فازَ اللاعبون حاشا لاعبٍ واحدٍ",
+      "answer": "فازَ: فعل ماضٍ. اللاعبون: فاعل مرفوع بالواو. حاشا: حرف جر للاستثناء. لاعبٍ: اسم مجرور. واحدٍ: نعت مجرور."
+    },
+    {
+      "id": "b3-l117-ex07",
+      "type": "irab",
+      "question": "أعرب: أكرمتُ الضيوفَ ما حاشا المتأخرَ",
+      "answer": "أكرمتُ: فعل وفاعل. الضيوفَ: مفعول به. ما: مصدرية. حاشا: فعل ماضٍ. المتأخرَ: مفعول به منصوب."
+    },
+    {
+      "id": "b3-l117-ex08",
+      "type": "irab",
+      "question": "أعرب: الجميعُ حاضرون لا يكونُ المريضَ",
+      "answer": "الجميعُ: مبتدأ مرفوع. حاضرون: خبر مرفوع بالواو. لا: نافية. يكونُ: فعل مضارع ناقص، واسمه ضمير مستتر. المريضَ: خبر يكون منصوب."
+    },
+    {
+      "id": "b3-l117-ex09",
+      "type": "multipleChoice",
+      "question": "في قولنا 'ما عدا زيداً'، لماذا يجب النصب؟",
+      "options": ["لأن عدا حرف جر", "لأن ما المصدرية تجعل عدا فعلاً حتماً", "لأن زيداً مستثنى بإلا", "لأنه تمييز"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "b3-l117-ex10",
+      "type": "multipleChoice",
+      "question": "أي الجملتين صحيحة؟",
+      "options": ["جاء القوم عدا زيدٍ وعدا زيداً كلاهما صحيح", "جاء القوم عدا زيدٍ فقط", "جاء القوم عدا زيداً فقط", "كلاهما خطأ"],
+      "correctAnswer": 0
+    },
+    {
+      "id": "b3-l117-ex11",
+      "type": "multipleChoice",
+      "question": "ليس في الاستثناء: ما إعراب المستثنى بعدها؟",
+      "options": ["اسم ليس", "خبر ليس", "مفعول به", "بدل"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "b3-l117-ex12",
+      "type": "multipleChoice",
+      "question": "ما الفرق بين 'خلا زيدٍ' و 'ما خلا زيداً'؟",
+      "options": ["لا فرق", "الأولى خلا حرف جر، والثانية خلا فعل", "الأولى خلا فعل، والثانية خلا حرف", "الأولى للاستثناء المنقطع والثانية للمتصل"],
+      "correctAnswer": 1
+    }
+  ]
+}

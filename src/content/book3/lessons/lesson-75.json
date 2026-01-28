@@ -1,0 +1,224 @@
+{
+  "id": "b3-l75",
+  "book": 3,
+  "lesson": 75,
+  "title": "عَدَا وَخَلَا وَحَاشَا",
+  "titleEn": "Exception with Ada, Khala, and Hasha",
+  "description": "Learn about the exception particles عَدَا، خَلَا، حَاشَا which can function as verbs or prepositions, plus ليس and لا يكون in exception.",
+  "vocabulary": ["word-b3-503", "word-b3-504", "word-b3-505", "word-b3-506", "word-b3-507"],
+  "grammarPoints": ["gp-b3-112", "gp-b3-113"],
+  "notes": [
+    {
+      "title": "Introduction to عَدَا، خَلَا، حَاشَا",
+      "titleArabic": "مُقَدِّمَةٌ فِي عَدَا وَخَلَا وَحَاشَا",
+      "content": [
+        "In addition to the primary exception particle إِلَّا, Arabic has three words that can express exception: عَدَا (except), خَلَا (except), and حَاشَا (far be it / except). What makes these unique is that they can function as either verbs or prepositions.",
+        "When treated as verbs, the word after them is مَنْصُوب (accusative) as a مَفْعُول بِهِ. When treated as prepositions, the word after them is مَجْرُور (genitive). Both analyses are grammatically correct."
+      ],
+      "keyPoints": [
+        "عَدَا، خَلَا، حَاشَا = exception words",
+        "Can be verbs (فعل) or prepositions (حرف جر)",
+        "As verb: word after is منصوب (مفعول به)",
+        "As preposition: word after is مجرور"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْقَوْمُ عَدَا زَيْدًا/زَيْدٍ", "english": "The people came except Zayd (both cases acceptable)" },
+        { "arabic": "حَضَرُوا خَلَا مُحَمَّدًا/مُحَمَّدٍ", "english": "They attended except Muhammad" },
+        { "arabic": "أُحِبُّ الْفَوَاكِهَ حَاشَا التُّفَّاحَ/التُّفَّاحِ", "english": "I love fruits except apples" },
+        { "arabic": "نَجَحَ الطُّلَّابُ عَدَا طَالِبٍ", "english": "The students passed except one student" }
+      ]
+    },
+    {
+      "title": "عَدَا، خَلَا، حَاشَا as Verbs",
+      "titleArabic": "عَدَا وَخَلَا وَحَاشَا أَفْعَالٌ",
+      "content": [
+        "When عَدَا، خَلَا، حَاشَا are analyzed as verbs, they are جَامِدَة (frozen/uninflected verbs) - they don't conjugate for different subjects or tenses. The subject is implied (هُوَ or هُمْ referring to 'someone/they').",
+        "As verbs, they take a مَفْعُول بِهِ (direct object) which is the thing excepted. This object is in the مَنْصُوب (accusative) case."
+      ],
+      "keyPoints": [
+        "فعل جامد: doesn't conjugate",
+        "Subject is implicit (ضمير مستتر)",
+        "Takes مفعول به in منصوب case",
+        "Meaning: 'he/they exceeded/bypassed X'"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْقَوْمُ عَدَا زَيْدًا", "english": "The people came, [someone] excepted Zayd (زَيْدًا = مفعول به منصوب)" },
+        { "arabic": "قَرَأْتُ الْكُتُبَ خَلَا كِتَابًا", "english": "I read the books except one book (كِتَابًا = مفعول به)" },
+        { "arabic": "أَحْتَرِمُ الْجَمِيعَ حَاشَا الْكَاذِبَ", "english": "I respect everyone except the liar (الْكَاذِبَ = مفعول به)" },
+        { "arabic": "نَجَحَ الطُّلَّابُ عَدَا وَاحِدًا", "english": "The students passed except one (وَاحِدًا = مفعول به منصوب)" }
+      ]
+    },
+    {
+      "title": "عَدَا، خَلَا، حَاشَا as Prepositions",
+      "titleArabic": "عَدَا وَخَلَا وَحَاشَا حُرُوفُ جَرٍّ",
+      "content": [
+        "When عَدَا، خَلَا، حَاشَا are analyzed as prepositions (حُرُوفُ جَرٍّ), the word after them takes the genitive case (مَجْرُور). This is the simpler analysis and is common in classical usage.",
+        "The prepositional analysis is particularly common for حَاشَا, which many grammarians consider primarily a preposition."
+      ],
+      "keyPoints": [
+        "حرف جر: governs genitive case",
+        "Word after is مجرور",
+        "Simpler grammatical analysis",
+        "حَاشَا often analyzed as preposition only"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْقَوْمُ عَدَا زَيْدٍ", "english": "The people came except Zayd (زَيْدٍ = اسم مجرور)" },
+        { "arabic": "أُحِبُّ الطَّعَامَ خَلَا السَّمَكِ", "english": "I love food except fish (السَّمَكِ = مجرور)" },
+        { "arabic": "حَاشَا اللهِ", "english": "Far be it from Allah (اللهِ = مجرور)" },
+        { "arabic": "حَضَرُوا عَدَا أَخِي", "english": "They attended except my brother (أَخِي = مجرور)" }
+      ]
+    },
+    {
+      "title": "مَا عَدَا and مَا خَلَا",
+      "titleArabic": "مَا عَدَا وَمَا خَلَا",
+      "content": [
+        "When مَا المصدرية (the masdar-forming ما) precedes عَدَا or خَلَا, they MUST be analyzed as verbs. In this case, the word after is obligatorily مَنْصُوب (accusative).",
+        "The مَا makes the entire phrase into a مصدر مؤول (interpreted infinitive), giving the meaning 'excepting X' or 'the excepting of X'. This is the only case where the verb analysis is required."
+      ],
+      "keyPoints": [
+        "مَا المصدرية before عَدَا/خَلَا",
+        "MUST be verbs (obligatory)",
+        "Word after MUST be منصوب",
+        "ما حَاشَا is rare/not used"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْقَوْمُ مَا عَدَا زَيْدًا", "english": "The people came excepting Zayd (only نَصْب possible)" },
+        { "arabic": "قَرَأْتُ الْكُتُبَ مَا خَلَا وَاحِدًا", "english": "I read the books excepting one (واحِدًا = مفعول به)" },
+        { "arabic": "نَجَحُوا مَا عَدَا طَالِبًا وَاحِدًا", "english": "They passed excepting one student" },
+        { "arabic": "أُحِبُّهُمْ جَمِيعًا مَا خَلَا الْكَاذِبَ", "english": "I love them all excepting the liar" }
+      ]
+    },
+    {
+      "title": "لَيْسَ and لَا يَكُونُ in Exception",
+      "titleArabic": "لَيْسَ وَلَا يَكُونُ فِي الاِسْتِثْنَاءِ",
+      "content": [
+        "The verbs لَيْسَ (is not) and لَا يَكُونُ (will not be) can also be used for exception. In this usage, the excepted noun is the خَبَر of لَيْسَ/لَا يَكُونُ and takes the مَنْصُوب (accusative) case.",
+        "This construction is less common than عَدَا/خَلَا/حَاشَا but appears in classical texts. The meaning is 'the people came, not being Zayd' or 'except it is not Zayd'."
+      ],
+      "keyPoints": [
+        "لَيْسَ/لَا يَكُونُ can express exception",
+        "Excepted word is خَبَر لَيْسَ (منصوب)",
+        "Less common than other exception words",
+        "Appears in classical literature"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْقَوْمُ لَيْسَ زَيْدًا", "english": "The people came, not Zayd (زَيْدًا = خبر ليس)" },
+        { "arabic": "حَضَرُوا لَا يَكُونُ خَالِدًا", "english": "They attended except Khalid" },
+        { "arabic": "أُحِبُّ الْفَوَاكِهَ لَيْسَ التُّفَّاحَ", "english": "I love fruits, not apples" },
+        { "arabic": "نَجَحَ الطُّلَّابُ لَا يَكُونُ وَاحِدًا", "english": "The students passed except one" }
+      ]
+    },
+    {
+      "title": "Comparison of Exception Methods",
+      "titleArabic": "مُقَارَنَةُ طُرُقِ الاِسْتِثْنَاءِ",
+      "content": [
+        "Arabic has multiple ways to express exception. إِلَّا is the most common and versatile. عَدَا، خَلَا، حَاشَا offer flexibility (verb or preposition). مَا عَدَا/مَا خَلَا require accusative. لَيْسَ/لَا يَكُونُ are less common alternatives.",
+        "The choice between methods often depends on stylistic preference, meter in poetry, or specific grammatical contexts. All convey the same basic meaning of exception."
+      ],
+      "keyPoints": [
+        "إِلَّا: most common, various cases",
+        "عَدَا/خَلَا/حَاشَا: نَصْب or جَرّ",
+        "مَا عَدَا/مَا خَلَا: نَصْب only",
+        "لَيْسَ/لَا يَكُونُ: نَصْب (as خَبَر)"
+      ],
+      "examples": [
+        { "arabic": "جَاءُوا إِلَّا زَيْدًا (نصب)", "english": "They came except Zayd (with إِلَّا)" },
+        { "arabic": "جَاءُوا عَدَا زَيْدٍ/زَيْدًا", "english": "They came except Zayd (جَرّ or نَصْب)" },
+        { "arabic": "جَاءُوا مَا عَدَا زَيْدًا (نصب فقط)", "english": "They came excepting Zayd (نَصْب only)" },
+        { "arabic": "جَاءُوا لَيْسَ زَيْدًا (نصب)", "english": "They came, not Zayd" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l75-ex01",
+      "type": "fill-blank",
+      "prompt": "عَدَا وَخَلَا وَحَاشَا يُمْكِنُ أَنْ تَكُونَ أَفْعَالًا أَوْ حُرُوفَ _____",
+      "promptEn": "عَدَا، خَلَا، and حَاشَا can be verbs or _____ particles",
+      "answer": "جَرٍّ",
+      "itemIds": ["word-b3-503"]
+    },
+    {
+      "id": "b3-l75-ex02",
+      "type": "fill-blank",
+      "prompt": "إِذَا كَانَتْ عَدَا فِعْلًا، فَالاِسْمُ بَعْدَهَا _____ لِأَنَّهُ مَفْعُولٌ بِهِ",
+      "promptEn": "If عَدَا is a verb, the noun after it is _____ because it's a direct object",
+      "answer": "مَنْصُوبٌ",
+      "itemIds": ["word-b3-504"]
+    },
+    {
+      "id": "b3-l75-ex03",
+      "type": "fill-blank",
+      "prompt": "إِذَا سَبَقَتْ مَا الْمَصْدَرِيَّةُ عَدَا أَوْ خَلَا، فَيَجِبُ أَنْ يَكُونَ الاِسْمُ بَعْدَهُمَا _____",
+      "promptEn": "If مَا المصدرية precedes عَدَا or خَلَا, the noun after them MUST be _____",
+      "answer": "مَنْصُوبًا",
+      "itemIds": ["word-b3-505"]
+    },
+    {
+      "id": "b3-l75-ex04",
+      "type": "fill-blank",
+      "prompt": "جَاءَ الْقَوْمُ لَيْسَ زَيْدًا - زَيْدًا هُنَا خَبَرُ _____ مَنْصُوبٌ",
+      "promptEn": "The people came except Zayd - زَيْدًا here is the predicate of _____ in accusative",
+      "answer": "لَيْسَ",
+      "itemIds": ["word-b3-506"]
+    },
+    {
+      "id": "b3-l75-ex05",
+      "type": "fill-blank",
+      "prompt": "حَاشَا اللهِ - كَلِمَةُ اللهِ مَجْرُورَةٌ لِأَنَّ حَاشَا هُنَا حَرْفُ _____",
+      "promptEn": "Far be it from Allah - اللهِ is genitive because حَاشَا here is a _____ particle",
+      "answer": "جَرٍّ",
+      "itemIds": ["word-b3-507"]
+    },
+    {
+      "id": "b3-l75-ex06",
+      "type": "fill-blank",
+      "prompt": "عَدَا وَخَلَا وَحَاشَا كَأَفْعَالٍ هِيَ أَفْعَالٌ _____ لَا تَتَصَرَّفُ",
+      "promptEn": "عَدَا، خَلَا، and حَاشَا as verbs are _____ verbs that don't conjugate",
+      "answer": "جَامِدَةٌ",
+      "itemIds": ["word-b3-503"]
+    },
+    {
+      "id": "b3-l75-ex07",
+      "type": "word-to-meaning",
+      "prompt": "عَدَا",
+      "answer": "Except / other than (exception particle or verb)",
+      "itemIds": ["word-b3-503"]
+    },
+    {
+      "id": "b3-l75-ex08",
+      "type": "word-to-meaning",
+      "prompt": "خَلَا",
+      "answer": "Except / other than (exception particle or verb)",
+      "itemIds": ["word-b3-504"]
+    },
+    {
+      "id": "b3-l75-ex09",
+      "type": "word-to-meaning",
+      "prompt": "حَاشَا",
+      "answer": "Far be it / except (exception particle)",
+      "itemIds": ["word-b3-505"]
+    },
+    {
+      "id": "b3-l75-ex10",
+      "type": "meaning-to-word",
+      "prompt": "A frozen verb that doesn't conjugate for different subjects",
+      "answer": "فِعْلٌ جَامِدٌ",
+      "itemIds": ["word-b3-503"]
+    },
+    {
+      "id": "b3-l75-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The مَا that forms a مصدر مؤول (interpreted infinitive)",
+      "answer": "مَا الْمَصْدَرِيَّةُ",
+      "itemIds": ["word-b3-505"]
+    },
+    {
+      "id": "b3-l75-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Using لَيْسَ to express exception",
+      "answer": "لَيْسَ فِي الاِسْتِثْنَاءِ",
+      "itemIds": ["word-b3-506"]
+    }
+  ]
+}

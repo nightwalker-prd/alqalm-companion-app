@@ -1,0 +1,169 @@
+{
+  "id": "b3-l30",
+  "book": 3,
+  "lesson": 30,
+  "title": "المَجْزُوم",
+  "titleEn": "The Jussive Mood",
+  "notes": [
+    {
+      "title": "Tamyīz Review",
+      "titleArabic": "مراجعة التمييز",
+      "content": [
+        "Tamyīz clarifies vague or ambiguous meanings. It can specify quantities (tamyīz al-dhāt) or clarify sentence meaning (tamyīz al-nisba)."
+      ],
+      "keyPoints": [
+        "After numbers 11-99: عِنْدِي عِشْرُونَ كِتَابًا",
+        "After measures: رِطْلًا عَسَلًا",
+        "With comparatives: أَكْبَرُ سِنًّا",
+        "Always indefinite and singular"
+      ],
+      "examples": [
+        { "arabic": "الْمَدِينَةُ أَجْمَلُ جَوًّا", "english": "The city is more beautiful in climate" },
+        { "arabic": "عِنْدِي خَمْسَةَ عَشَرَ قَلَمًا", "english": "I have fifteen pens" }
+      ]
+    },
+    {
+      "title": "The Jussive Mood (المجزوم)",
+      "titleArabic": "المجزوم",
+      "content": [
+        "The jussive (majzūm) is one of three moods of the present tense verb. It is induced by specific particles and involves dropping the final vowel or weak letter."
+      ],
+      "keyPoints": [
+        "لَمْ: negates past (لَمْ يَذْهَبْ - he did not go)",
+        "لَمَّا: negates continuing past (لَمَّا يَأْتِ - he has not come yet)",
+        "لَا: prohibition (لَا تَذْهَبْ - don't go)",
+        "لِ: command for 3rd person (لِيَذْهَبْ - let him go)"
+      ],
+      "examples": [
+        { "arabic": "لَمْ يَكْتُبْ", "english": "He did not write" },
+        { "arabic": "لَا تَحْزَنْ", "english": "Do not be sad" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-158",
+    "word-b3-159",
+    "word-b3-160",
+    "word-b3-161",
+    "word-b3-162"
+  ],
+  "grammarPoints": [
+    "gp-b3-030"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l30-ex01",
+      "type": "fill-blank",
+      "prompt": "لَمْ _____ إِلَى الحَفْلَةِ (يَذْهَبْ)",
+      "answer": "يَذْهَبْ",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He did not write",
+      "answer": "لَمْ يَكْتُبْ",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex03",
+      "type": "fill-blank",
+      "prompt": "لاَ _____ هُنَا (تَجْلِسْ)",
+      "answer": "تَجْلِسْ",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex04",
+      "type": "word-to-meaning",
+      "prompt": "لِيَذْهَبْ",
+      "answer": "let him go",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex05",
+      "type": "meaning-to-word",
+      "prompt": "do not eat",
+      "answer": "لاَ تَأْكُلْ",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "They did not understand",
+      "answer": "لَمْ يَفْهَمُوا",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex07",
+      "type": "fill-blank",
+      "prompt": "_____ يَكْتُبْ رِسَالَةً (لِيَكْتُبْ)",
+      "answer": "لِيَكْتُبْ",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَمَّا يَأْتِ",
+      "answer": "he has not come yet",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "Do not be sad",
+      "answer": "لاَ تَحْزَنْ",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex10",
+      "type": "fill-blank",
+      "prompt": "لَمْ _____ مِنَ المَدِينَةِ (يَخْرُجْ)",
+      "answer": "يَخْرُجْ",
+      "itemIds": [
+        "word-b3-158",
+        "word-b3-159"
+      ]
+    },
+    {
+      "id": "b3-l30-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The students did not attend the lecture",
+      "answer": "لَمْ يَحْضُرِ الطُّلَّابُ الْمُحَاضَرَةَ",
+      "itemIds": ["word-b3-158", "word-b3-159"]
+    },
+    {
+      "id": "b3-l30-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Do not despair from the mercy of Allah",
+      "answer": "لاَ تَيْأَسْ مِنْ رَحْمَةِ اللهِ",
+      "itemIds": ["word-b3-158", "word-b3-159"]
+    }
+  ]
+}

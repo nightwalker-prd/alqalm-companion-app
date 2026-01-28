@@ -1,0 +1,133 @@
+{
+  "id": "b2-l18",
+  "book": 2,
+  "lesson": 18,
+  "title": "الْحَال",
+  "titleEn": "The Circumstantial Accusative (Haal)",
+  "description": "Learn to describe circumstances: جَاءَ رَاكِبًا (he came riding), خَرَجَ مُسْرِعًا (he went out hurrying).",
+  "vocabulary": ["word-b2-097", "word-b2-098", "word-b2-099", "word-b2-100"],
+  "grammarPoints": ["gp-b2-018"],
+  "notes": [
+    {
+      "title": "The Circumstantial Accusative (الحال)",
+      "titleArabic": "الحال",
+      "content": [
+        "The حال (circumstantial accusative) describes the state or condition of the subject or object when the action takes place. It answers the question 'How?' or 'In what state?'",
+        "The حال is always indefinite (نكرة) and in the accusative case (منصوب). It typically comes from active participles."
+      ],
+      "keyPoints": [
+        "Always منصوب (accusative case)",
+        "Always نكرة (indefinite) - no ال",
+        "Describes the state of the subject or object during the action",
+        "Usually derived from active participles (اسم الفاعل)",
+        "Must agree in gender and number with صاحب الحال"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ مَاشِيًا", "english": "He came walking" },
+        { "arabic": "خَرَجَتْ مُسْرِعَةً", "english": "She went out hurrying" },
+        { "arabic": "رَأَيْتُهُ جَالِسًا", "english": "I saw him sitting" },
+        { "arabic": "دَخَلَ مُبْتَسِمًا", "english": "He entered smiling" }
+      ]
+    },
+    {
+      "title": "صاحب الحال (Owner of the State)",
+      "titleArabic": "صاحب الحال",
+      "content": [
+        "The صاحب الحال is the noun that the حال describes. It can be the subject (فاعل) or object (مفعول به) of the sentence."
+      ],
+      "keyPoints": [
+        "صاحب الحال must be معرفة (definite)",
+        "Subject as صاحب الحال: جَاءَ الطَّالِبُ مُسْرِعًا",
+        "Object as صاحب الحال: رَأَيْتُ الطَّالِبَ جَالِسًا",
+        "الحال agrees with صاحب الحال in gender and number"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l18-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He came walking",
+      "answer": "جَاءَ مَاشِيًا",
+      "itemIds": ["word-b2-079", "word-b2-097"]
+    },
+    {
+      "id": "b2-l18-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She went out hurrying",
+      "answer": "خَرَجَتْ مُسْرِعَةً",
+      "itemIds": ["word-073", "word-b2-098"]
+    },
+    {
+      "id": "b2-l18-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "I saw him sitting",
+      "answer": "رَأَيْتُهُ جَالِسًا",
+      "itemIds": ["word-b2-005", "word-b2-033"]
+    },
+    {
+      "id": "b2-l18-ex04",
+      "type": "fill-blank",
+      "prompt": "دَخَلَ الطَّالِبُ _____",
+      "promptEn": "The student entered _____",
+      "answer": "مُبْتَسِمًا",
+      "itemIds": ["word-b2-099"]
+    },
+    {
+      "id": "b2-l18-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مَاشِيًا",
+      "answer": "walking",
+      "itemIds": ["word-b2-097"]
+    },
+    {
+      "id": "b2-l18-ex06",
+      "type": "word-to-meaning",
+      "prompt": "مُسْرِعًا",
+      "answer": "hurrying",
+      "itemIds": ["word-b2-098"]
+    },
+    {
+      "id": "b2-l18-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مُبْتَسِمًا",
+      "answer": "smiling",
+      "itemIds": ["word-b2-099"]
+    },
+    {
+      "id": "b2-l18-ex08",
+      "type": "word-to-meaning",
+      "prompt": "رَاكِبًا",
+      "answer": "riding",
+      "itemIds": ["word-b2-100"]
+    },
+    {
+      "id": "b2-l18-ex09",
+      "type": "meaning-to-word",
+      "prompt": "walking (haal)",
+      "answer": "مَاشِيًا",
+      "itemIds": ["word-b2-097"]
+    },
+    {
+      "id": "b2-l18-ex10",
+      "type": "meaning-to-word",
+      "prompt": "smiling (haal)",
+      "answer": "مُبْتَسِمًا",
+      "itemIds": ["word-b2-099"]
+    },
+    {
+      "id": "b2-l18-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher entered the classroom smiling",
+      "answer": "دَخَلَ الْمُدَرِّسُ الْفَصْلَ مُبْتَسِمًا",
+      "itemIds": ["word-072", "word-004", "word-b2-001", "word-b2-099"]
+    },
+    {
+      "id": "b2-l18-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "She came to the mosque walking",
+      "answer": "جَاءَتْ إِلَى الْمَسْجِدِ مَاشِيَةً",
+      "itemIds": ["word-b2-079", "word-048", "word-007", "word-b2-097"]
+    }
+  ]
+}

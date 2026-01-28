@@ -1,0 +1,183 @@
+{
+  "id": "b3-l68",
+  "book": 3,
+  "lesson": 68,
+  "title": "الإِمَالَة",
+  "titleEn": "Vowel Tilting",
+  "description": "Learn about الإِمَالَة (vowel tilting/inclination) in Arabic, a phonetic feature where fatha tilts toward kasra and alif tilts toward ya, including الإمالة الكبرى and الإمالة الصغرى.",
+  "vocabulary": ["word-b3-458", "word-b3-459", "word-b3-460", "word-b3-461", "word-b3-462", "word-b3-463"],
+  "grammarPoints": ["gp-b3-098", "gp-b3-099"],
+  "notes": [
+    {
+      "title": "What is الإِمَالَة?",
+      "titleArabic": "تَعْرِيفُ الإِمَالَةِ",
+      "content": [
+        "الإِمَالَة (vowel tilting or inclination) is a phonetic phenomenon where the فَتْحَة tilts toward كَسْرَة, and the أَلِف tilts toward يَاء. Instead of a pure 'a' sound, it becomes closer to 'e'. This was a feature of certain Arab dialects.",
+        "For example, the word هُدًى (guidance) in standard pronunciation has a final 'a' sound, but with الإمالة it sounds closer to 'hude'. This phenomenon is preserved in certain Quranic readings (قِرَاءَات), particularly the reading of Hamzah and Al-Kisa'i."
+      ],
+      "keyPoints": [
+        "الإمالة = tilting fatha toward kasra",
+        "الألف tilts toward ياء sound",
+        "Feature of certain Arab dialects",
+        "Preserved in some قِرَاءَات قُرْآنِيَّة"
+      ],
+      "examples": [
+        { "arabic": "هُدًى ← هُدَيْ (بالإمالة)", "english": "guidance -> (with imala, sounds like 'hudey')" },
+        { "arabic": "مُوسَى ← مُوسِي (بالإمالة)", "english": "Musa -> (with imala, sounds like 'Musey')" },
+        { "arabic": "عِيسَى ← عِيسِي (بالإمالة)", "english": "Isa -> (with imala, sounds like 'Isey')" },
+        { "arabic": "النَّارِ ← النِّيرِ (بالإمالة الكبرى)", "english": "the fire -> (with major imala)" }
+      ]
+    },
+    {
+      "title": "الإِمَالَة الكُبْرَى",
+      "titleArabic": "الإِمَالَةُ الكُبْرَى وَأَحْكَامُهَا",
+      "content": [
+        "الإِمَالَة الكُبْرَى (major tilting) is when the فَتْحَة fully tilts to approach كَسْرَة, and the أَلِف fully approaches يَاء. The 'a' sound becomes very close to 'e' or 'i'. This is also called الإِمَالَة المَحْضَة (pure tilting).",
+        "Major imala is found in the reading of Hamzah (حَمْزَة) and Al-Kisa'i (الكِسَائِي) in words like النَّار، الكَافِرِين. It was characteristic of the dialect of Najd and some eastern Arab tribes."
+      ],
+      "keyPoints": [
+        "الكبرى = full tilt toward kasra/ya",
+        "Also called الإمالة المحضة",
+        "Found in قراءة حمزة والكسائي",
+        "Feature of Najdi and eastern dialects"
+      ],
+      "examples": [
+        { "arabic": "النَّارِ (قراءة حمزة والكسائي)", "english": "the fire (in reading of Hamza/Kisa'i)" },
+        { "arabic": "الكَافِرِينَ (بالإمالة الكبرى)", "english": "the disbelievers (with major imala)" },
+        { "arabic": "جَاءَ ← جِيءَ (بالإمالة)", "english": "he came (with imala)" },
+        { "arabic": "خَافَ ← خِيفَ (بالإمالة)", "english": "he feared (with imala)" }
+      ]
+    },
+    {
+      "title": "الإِمَالَة الصُّغْرَى",
+      "titleArabic": "الإِمَالَةُ الصُّغْرَى (التَّقْلِيل)",
+      "content": [
+        "الإِمَالَة الصُّغْرَى (minor tilting), also called التَّقْلِيل (diminution) or بَيْنَ بَيْنَ (between-between), is a partial tilt. The فَتْحَة moves slightly toward كَسْرَة, but not as much as in الكبرى.",
+        "This type is characteristic of the reading of Warsh (وَرْش) from Nafi', found in North African and West African Quranic recitation. It represents a middle ground between pure fatha and full imala."
+      ],
+      "keyPoints": [
+        "الصغرى = partial tilt (بَيْنَ بَيْنَ)",
+        "Also called التَّقْلِيل",
+        "Found in قِرَاءَة وَرْش عَنْ نَافِع",
+        "Common in North/West African recitation"
+      ],
+      "examples": [
+        { "arabic": "التَّوْرَاةَ (قراءة ورش)", "english": "the Torah (in Warsh reading)" },
+        { "arabic": "مُوسَى (بالتقليل)", "english": "Musa (with minor tilting)" },
+        { "arabic": "عِيسَى (بالتقليل)", "english": "Isa (with minor tilting)" },
+        { "arabic": "يَحْيَى (بالتقليل)", "english": "Yahya (with minor tilting)" }
+      ]
+    },
+    {
+      "title": "Causes and Conditions of الإِمَالَة",
+      "titleArabic": "أَسْبَابُ الإِمَالَةِ وَشُرُوطُهَا",
+      "content": [
+        "Imala typically occurs in specific environments: (1) when the alif is derived from ي (ألف منقلبة عن ياء), as in هُدَى from يَهْدِي, (2) when there is a كَسْرَة near the alif, (3) when the word ends in ى مقصورة.",
+        "Imala is blocked (مَوَانِع الإمالة) by certain letters called حُرُوف الاسْتِعْلَاء (emphatic letters: ص، ض، ط، ظ، خ، غ، ق) because their heavy articulation prevents the light sound of imala. Understanding these causes and blockers is essential for proper tajweed."
+      ],
+      "keyPoints": [
+        "Causes: ألف from ياء, nearby كسرة, ى مقصورة",
+        "Blockers: حروف الاستعلاء (emphatic letters)",
+        "ص، ض، ط، ظ، خ، غ، ق block imala",
+        "Important for proper تَجْوِيد"
+      ],
+      "examples": [
+        { "arabic": "هُدًى (من يَهْدِي) ← تُمَال", "english": "guidance (from yahdee) -> can have imala" },
+        { "arabic": "رَمَى (من يَرْمِي) ← تُمَال", "english": "he threw (from yarmee) -> can have imala" },
+        { "arabic": "عَصَا (فيها ص) ← لَا تُمَال", "english": "staff (has emphatic ص) -> no imala" },
+        { "arabic": "غَزَا (فيها غ) ← لَا تُمَال", "english": "he raided (has emphatic غ) -> no imala" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l68-ex01",
+      "type": "fill-blank",
+      "prompt": "الإمالة هي أن تنحو بالفتحة نحو _____",
+      "promptEn": "Imala is tilting the fatha toward _____",
+      "answer": "الكَسْرَة",
+      "itemIds": ["word-b3-458"]
+    },
+    {
+      "id": "b3-l68-ex02",
+      "type": "fill-blank",
+      "prompt": "الإمالة _____ هي الإمالة الكاملة المحضة",
+      "promptEn": "The _____ imala is the complete, pure tilting",
+      "answer": "الكُبْرَى",
+      "itemIds": ["word-b3-459"]
+    },
+    {
+      "id": "b3-l68-ex03",
+      "type": "fill-blank",
+      "prompt": "الإمالة الصغرى تُسَمَّى أيضاً _____",
+      "promptEn": "Minor imala is also called _____",
+      "answer": "التَّقْلِيل",
+      "itemIds": ["word-b3-460"]
+    },
+    {
+      "id": "b3-l68-ex04",
+      "type": "fill-blank",
+      "prompt": "قراءة _____ عن نافع مشهورة بالتقليل",
+      "promptEn": "The reading of _____ from Nafi' is famous for minor tilting",
+      "answer": "وَرْش",
+      "itemIds": ["word-b3-461"]
+    },
+    {
+      "id": "b3-l68-ex05",
+      "type": "fill-blank",
+      "prompt": "حروف _____ تمنع الإمالة مثل: ص، ض، ط",
+      "promptEn": "The letters of _____ prevent imala such as: ص، ض، ط",
+      "answer": "الاسْتِعْلَاء",
+      "itemIds": ["word-b3-462"]
+    },
+    {
+      "id": "b3-l68-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Major vowel tilting",
+      "answer": "الإِمَالَةُ الكُبْرَى",
+      "itemIds": ["word-b3-458"]
+    },
+    {
+      "id": "b3-l68-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Minor vowel tilting (diminution)",
+      "answer": "الإِمَالَةُ الصُّغْرَى / التَّقْلِيل",
+      "itemIds": ["word-b3-459"]
+    },
+    {
+      "id": "b3-l68-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "The emphatic letters that block imala",
+      "answer": "حُرُوفُ الاسْتِعْلَاءِ",
+      "itemIds": ["word-b3-460"]
+    },
+    {
+      "id": "b3-l68-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الإِمَالَة",
+      "answer": "vowel tilting (fatha toward kasra, alif toward ya)",
+      "itemIds": ["word-b3-461"]
+    },
+    {
+      "id": "b3-l68-ex10",
+      "type": "word-to-meaning",
+      "prompt": "التَّقْلِيل",
+      "answer": "diminution / minor tilting (partial imala)",
+      "itemIds": ["word-b3-462"]
+    },
+    {
+      "id": "b3-l68-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The full tilting of fatha to kasra in Quranic recitation",
+      "answer": "الإِمَالَةُ الكُبْرَى / الإِمَالَةُ المَحْضَة",
+      "itemIds": ["word-b3-463"]
+    },
+    {
+      "id": "b3-l68-ex12",
+      "type": "meaning-to-word",
+      "prompt": "A partial tilting, between pure fatha and full imala",
+      "answer": "بَيْنَ بَيْنَ / التَّقْلِيل",
+      "itemIds": ["word-b3-463"]
+    }
+  ]
+}

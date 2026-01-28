@@ -1,0 +1,134 @@
+{
+  "id": "b3-l20",
+  "book": 3,
+  "lesson": 20,
+  "title": "أُسْلُوب التَّعَجُّب",
+  "titleEn": "Exclamatory Style",
+  "description": "Learn expressions of wonder: مَا أَجْمَلَ السَّمَاءَ! (How beautiful the sky is!), أَجْمِلْ بِهِ! (How beautiful he is!).",
+  "vocabulary": ["word-b3-108", "word-b3-109", "word-b3-110", "word-b3-111", "word-b3-112"],
+  "grammarPoints": ["gp-b3-020"],
+  "notes": [
+    {
+      "title": "Ḥāl (الحال)",
+      "titleArabic": "الحال",
+      "content": [
+        "Ḥāl (adverb of manner/state) describes the condition of the subject or object at the time of the action. It is always in the accusative case and usually indefinite."
+      ],
+      "keyPoints": [
+        "Describes state during the action",
+        "Always manṣūb and usually indefinite",
+        "Can be a single word, phrase, or sentence",
+        "Agreement in number and gender with ṣāḥib al-ḥāl"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الطَّالِبُ مُسْرِعًا", "english": "The student came hurrying" },
+        { "arabic": "رَأَيْتُهَا جَالِسَةً", "english": "I saw her sitting" }
+      ]
+    },
+    {
+      "title": "Exclamatory Forms (أسلوب التعجب)",
+      "titleArabic": "أسلوب التعجب",
+      "content": [
+        "Arabic has two main patterns for expressing wonder or exclamation: مَا أَفْعَلَ and أَفْعِلْ بِـ. Both express amazement at a quality."
+      ],
+      "keyPoints": [
+        "Pattern 1: مَا أَفْعَلَ + object",
+        "Pattern 2: أَفْعِلْ بِـ + prepositional phrase",
+        "Both express 'How [adjective] is X!'",
+        "Derived from Form I triliteral verbs"
+      ],
+      "examples": [
+        { "arabic": "مَا أَجْمَلَ السَّمَاءَ!", "english": "How beautiful the sky is!" },
+        { "arabic": "أَجْمِلْ بِهِ!", "english": "How beautiful it/he is!" },
+        { "arabic": "مَا أَعْظَمَ هَذَا الْكِتَابَ!", "english": "How great this book is!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l20-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "How beautiful the sky is!",
+      "answer": "مَا أَجْمَلَ السَّمَاءَ!",
+      "itemIds": ["word-b3-108"]
+    },
+    {
+      "id": "b3-l20-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "How great this book is!",
+      "answer": "مَا أَعْظَمَ هَذَا الْكِتَابَ!",
+      "itemIds": ["word-b3-109", "word-002"]
+    },
+    {
+      "id": "b3-l20-ex03",
+      "type": "fill-blank",
+      "prompt": "مَا _____ هَذَا الطَّعَامَ!",
+      "promptEn": "How delicious this food is!",
+      "answer": "أَلَذَّ",
+      "itemIds": ["word-b3-110"]
+    },
+    {
+      "id": "b3-l20-ex04",
+      "type": "word-to-meaning",
+      "prompt": "مَا أَجْمَلَ",
+      "answer": "how beautiful!",
+      "itemIds": ["word-b3-108"]
+    },
+    {
+      "id": "b3-l20-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مَا أَعْظَمَ",
+      "answer": "how great!",
+      "itemIds": ["word-b3-109"]
+    },
+    {
+      "id": "b3-l20-ex06",
+      "type": "word-to-meaning",
+      "prompt": "مَا أَلَذَّ",
+      "answer": "how delicious!",
+      "itemIds": ["word-b3-110"]
+    },
+    {
+      "id": "b3-l20-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مَا أَحْسَنَ",
+      "answer": "how good!",
+      "itemIds": ["word-b3-111"]
+    },
+    {
+      "id": "b3-l20-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَا أَصْعَبَ",
+      "answer": "how difficult!",
+      "itemIds": ["word-b3-112"]
+    },
+    {
+      "id": "b3-l20-ex09",
+      "type": "meaning-to-word",
+      "prompt": "how beautiful! (exclamation)",
+      "answer": "مَا أَجْمَلَ",
+      "itemIds": ["word-b3-108"]
+    },
+    {
+      "id": "b3-l20-ex10",
+      "type": "meaning-to-word",
+      "prompt": "how difficult! (exclamation)",
+      "answer": "مَا أَصْعَبَ",
+      "itemIds": ["word-b3-112"]
+    },
+    {
+      "id": "b3-l20-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "How good this weather is!",
+      "answer": "مَا أَحْسَنَ هَذَا الطَّقْسَ!",
+      "itemIds": ["word-b3-111"]
+    },
+    {
+      "id": "b3-l20-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "How difficult the Arabic language is!",
+      "answer": "مَا أَصْعَبَ اللُّغَةَ الْعَرَبِيَّةَ!",
+      "itemIds": ["word-b3-112"]
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "b1-l24",
+  "book": 1,
+  "lesson": 24,
+  "title": "الْمُنَادَى",
+  "titleEn": "The Vocative (Calling)",
+  "description": "Learn to address and call people using the vocative particle يَا and other calling particles.",
+  "vocabulary": ["word-221", "word-222", "word-223", "word-224", "word-225", "word-226"],
+  "grammarPoints": ["gp-029", "gp-030"],
+  "notes": [
+    {
+      "title": "The Vocative (النداء)",
+      "titleArabic": "النداء",
+      "content": [
+        "The vocative (النداء) is used to call or address someone. The most common vocative particle is يَا (yā), which is equivalent to 'O' or 'Hey' in English.",
+        "The noun after يَا is called المنادى (the one being called). Its case depends on its structure - it can be nominative (مرفوع) or accusative (منصوب)."
+      ],
+      "keyPoints": [
+        "يَا is the most common vocative particle",
+        "Other particles include أَيَا، هَيَا، أَيْ، أَ (rare)",
+        "يَا can call both near and far, while أَيَا and هَيَا are for distant",
+        "أَيْ and أَ are for calling someone close"
+      ],
+      "examples": [
+        { "arabic": "يَا مُحَمَّدُ", "english": "O Muhammad!" },
+        { "arabic": "يَا طَالِبُ", "english": "O student!" },
+        { "arabic": "يَا أُسْتَاذُ", "english": "O teacher!" },
+        { "arabic": "يَا رَبِّ", "english": "O Lord!" }
+      ]
+    },
+    {
+      "title": "Types of Vocative",
+      "titleArabic": "أنواع المنادى",
+      "content": [
+        "The vocative noun can be definite (معرفة) or indefinite (نكرة), and this affects its grammatical case.",
+        "A single definite noun (المنادى المفرد المعرفة) takes a ḍamma (nominative form), but it is considered منصوب محلاً (accusative in place)."
+      ],
+      "keyPoints": [
+        "Single proper noun: يَا مُحَمَّدُ (nominative ending, accusative in meaning)",
+        "Indefinite intended: يَا رَجُلًا (accusative ending)",
+        "Idafa construction: يَا عَبْدَ اللهِ (accusative)",
+        "With adjective: يَا أَيُّهَا الطَّالِبُ (O student!)"
+      ],
+      "examples": [
+        { "arabic": "يَا عَبْدَ اللهِ", "english": "O Abdullah (servant of God)!" },
+        { "arabic": "يَا أَيُّهَا النَّاسُ", "english": "O people!" },
+        { "arabic": "يَا أَيَّتُهَا النَّفْسُ", "english": "O soul!" },
+        { "arabic": "يَا طَالِبًا لِلْعِلْمِ", "english": "O seeker of knowledge!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l24-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ مُحَمَّدُ، تَعَالَ هُنَا",
+      "promptEn": "_____ Muhammad, come here",
+      "answer": "يَا",
+      "itemIds": ["word-221"]
+    },
+    {
+      "id": "b1-l24-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ طَالِبُ، اِجْلِسْ",
+      "promptEn": "_____ student, sit down",
+      "answer": "يَا",
+      "itemIds": ["word-221", "word-005"]
+    },
+    {
+      "id": "b1-l24-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "O teacher!",
+      "answer": "يَا أُسْتَاذُ",
+      "itemIds": ["word-221", "word-222"]
+    },
+    {
+      "id": "b1-l24-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "O my son!",
+      "answer": "يَا بُنَيَّ",
+      "itemIds": ["word-221", "word-223"]
+    },
+    {
+      "id": "b1-l24-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "O people!",
+      "answer": "يَا أَيُّهَا النَّاسُ",
+      "itemIds": ["word-221", "word-224"]
+    },
+    {
+      "id": "b1-l24-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "O Lord!",
+      "answer": "يَا رَبِّ",
+      "itemIds": ["word-221", "word-225"]
+    },
+    {
+      "id": "b1-l24-ex07",
+      "type": "word-to-meaning",
+      "prompt": "يَا",
+      "answer": "O (vocative particle)",
+      "itemIds": ["word-221"]
+    },
+    {
+      "id": "b1-l24-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أُسْتَاذٌ",
+      "answer": "teacher / professor",
+      "itemIds": ["word-222"]
+    },
+    {
+      "id": "b1-l24-ex09",
+      "type": "word-to-meaning",
+      "prompt": "بُنَيَّ",
+      "answer": "my son (diminutive)",
+      "itemIds": ["word-223"]
+    },
+    {
+      "id": "b1-l24-ex10",
+      "type": "meaning-to-word",
+      "prompt": "people",
+      "answer": "نَاسٌ",
+      "itemIds": ["word-224"]
+    },
+    {
+      "id": "b1-l24-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Lord / Master",
+      "answer": "رَبٌّ",
+      "itemIds": ["word-225"]
+    },
+    {
+      "id": "b1-l24-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "O servant of God, come!",
+      "answer": "يَا عَبْدَ اللهِ، تَعَالَ",
+      "itemIds": ["word-221", "word-226"]
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "id": "b3-l16",
+  "book": 3,
+  "lesson": 16,
+  "title": "الْفِعْلُ الرُّبَاعِي",
+  "titleEn": "Quadriliteral Verbs",
+  "description": "Learn four-letter root verbs: تَرْجَمَ (to translate), زَلْزَلَ (to shake), دَحْرَجَ (to roll).",
+  "vocabulary": ["word-b3-087", "word-b3-088", "word-b3-089", "word-b3-090", "word-b3-091"],
+  "grammarPoints": ["gp-b3-016"],
+  "notes": [
+    {
+      "title": "Triliteral and Quadriliteral Verbs",
+      "titleArabic": "الفعل الثلاثي والرباعي",
+      "content": [
+        "Arabic verbs are categorized by their root letters. Triliteral verbs (three root letters) are most common, while quadriliteral verbs (four root letters) form a smaller but important category."
+      ],
+      "keyPoints": [
+        "Triliteral verbs have six basic patterns (groups)",
+        "Mazīd (augmented) verbs add letters to the root",
+        "Quadriliteral verbs have four root letters",
+        "Quadriliteral pattern: فَعْلَلَ - يُفَعْلِلُ"
+      ],
+      "examples": [
+        { "arabic": "تَرْجَمَ - يُتَرْجِمُ", "english": "to translate" },
+        { "arabic": "زَلْزَلَ - يُزَلْزِلُ", "english": "to shake" }
+      ]
+    },
+    {
+      "title": "Quadriliteral Verb Patterns",
+      "titleArabic": "أوزان الفعل الرباعي",
+      "content": [
+        "Quadriliteral verbs follow specific patterns. The basic form is فَعْلَلَ. They also have three augmented (mazīd) patterns."
+      ],
+      "keyPoints": [
+        "Basic pattern: فَعْلَلَ (fa'lala)",
+        "Maṣdar pattern: فَعْلَلَة (fa'lalah)",
+        "Active participle: مُفَعْلِل (mufa'lil)",
+        "Passive participle: مُفَعْلَل (mufa'lal)"
+      ],
+      "examples": [
+        { "arabic": "تَرْجَمَ - تَرْجَمَة - مُتَرْجِم", "english": "translate - translation - translator" },
+        { "arabic": "دَحْرَجَ - دَحْرَجَة", "english": "to roll - rolling" },
+        { "arabic": "بَعْثَرَ - بَعْثَرَة", "english": "to scatter - scattering" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l16-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He translated the book",
+      "answer": "تَرْجَمَ الْكِتَابَ",
+      "itemIds": ["word-b3-087", "word-002"]
+    },
+    {
+      "id": "b3-l16-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The earthquake shook the city",
+      "answer": "زَلْزَلَتِ الزِّلْزَالُ الْمَدِينَةَ",
+      "itemIds": ["word-b3-088", "word-b3-092"]
+    },
+    {
+      "id": "b3-l16-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْوَلَدُ الْكُرَةَ",
+      "promptEn": "The boy rolled the ball",
+      "answer": "دَحْرَجَ",
+      "itemIds": ["word-b3-089"]
+    },
+    {
+      "id": "b3-l16-ex04",
+      "type": "word-to-meaning",
+      "prompt": "تَرْجَمَ",
+      "answer": "to translate",
+      "itemIds": ["word-b3-087"]
+    },
+    {
+      "id": "b3-l16-ex05",
+      "type": "word-to-meaning",
+      "prompt": "زَلْزَلَ",
+      "answer": "to shake / earthquake",
+      "itemIds": ["word-b3-088"]
+    },
+    {
+      "id": "b3-l16-ex06",
+      "type": "word-to-meaning",
+      "prompt": "دَحْرَجَ",
+      "answer": "to roll",
+      "itemIds": ["word-b3-089"]
+    },
+    {
+      "id": "b3-l16-ex07",
+      "type": "word-to-meaning",
+      "prompt": "وَسْوَسَ",
+      "answer": "to whisper",
+      "itemIds": ["word-b3-090"]
+    },
+    {
+      "id": "b3-l16-ex08",
+      "type": "word-to-meaning",
+      "prompt": "بَعْثَرَ",
+      "answer": "to scatter",
+      "itemIds": ["word-b3-091"]
+    },
+    {
+      "id": "b3-l16-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to translate (quadriliteral)",
+      "answer": "تَرْجَمَ",
+      "itemIds": ["word-b3-087"]
+    },
+    {
+      "id": "b3-l16-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to scatter (quadriliteral)",
+      "answer": "بَعْثَرَ",
+      "itemIds": ["word-b3-091"]
+    },
+    {
+      "id": "b3-l16-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The translator translated the book from Arabic to English",
+      "answer": "تَرْجَمَ الْمُتَرْجِمُ الْكِتَابَ مِنَ الْعَرَبِيَّةِ إِلَى الْإِنْجِلِيزِيَّةِ",
+      "itemIds": ["word-b3-087", "word-002"]
+    },
+    {
+      "id": "b3-l16-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The wind scattered the papers on the ground",
+      "answer": "بَعْثَرَتِ الرِّيَاحُ الْأَوْرَاقَ عَلَى الْأَرْضِ",
+      "itemIds": ["word-b3-091"]
+    }
+  ]
+}

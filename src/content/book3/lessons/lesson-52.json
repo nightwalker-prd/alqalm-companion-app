@@ -1,0 +1,182 @@
+{
+  "id": "b3-l52",
+  "book": 3,
+  "lesson": 52,
+  "title": "لَوْ الشَّرْطِيَّة",
+  "titleEn": "The Conditional Particle لو",
+  "description": "Learn about لو الشرطية, the particle used for counterfactual and hypothetical conditions, and how it differs from إن.",
+  "vocabulary": ["word-b3-363", "word-b3-364", "word-b3-365", "word-b3-366", "word-b3-367", "word-b3-368"],
+  "grammarPoints": ["gp-b3-066", "gp-b3-067"],
+  "notes": [
+    {
+      "title": "What is لو الشرطية?",
+      "titleArabic": "تعريف لو الشرطية",
+      "content": [
+        "لو is a conditional particle for hypothetical situations, typically in the past. It indicates that the condition did NOT happen, so the result also did NOT happen.",
+        "It is called حرف امتناع لامتناع: the result was absent because the condition was absent. لَوْ جَاءَ لَأَكْرَمْتُهُ (If he had come, I would have honored him - but he didn't come)."
+      ],
+      "keyPoints": [
+        "لو: for unreal/counterfactual conditions",
+        "Condition didn't happen → Result didn't happen",
+        "Usually with past tense verbs",
+        "Response often starts with لَ (لَأَفْعَلُ، لَفَعَلْتُ)"
+      ],
+      "examples": [
+        { "arabic": "لَوْ جَاءَ لَأَكْرَمْتُهُ", "english": "If he had come, I would have honored him" },
+        { "arabic": "لَوْ دَرَسْتَ لَنَجَحْتَ", "english": "If you had studied, you would have passed" },
+        { "arabic": "لَوْ كَانَ عِنْدِي مَالٌ لَتَصَدَّقْتُ", "english": "If I had money, I would have given charity" },
+        { "arabic": "لَوْ سَمِعَ النَّصِيحَةَ لَمَا نَدِمَ", "english": "If he had listened to advice, he wouldn't have regretted" }
+      ]
+    },
+    {
+      "title": "Structure of لو Sentences",
+      "titleArabic": "تركيب جملة لو",
+      "content": [
+        "A لو sentence has two parts: فعل الشرط (condition) and جواب الشرط (response). Both typically use past tense verbs, even for present/future meaning.",
+        "The response (جواب) usually begins with لَ: لَوْ فَعَلَ لَفَعَلْتُ. Sometimes the لَ is omitted."
+      ],
+      "keyPoints": [
+        "لَوْ + فعل الشرط (condition clause)",
+        "لَ + جواب الشرط (response clause)",
+        "Both parts use past tense (الماضي)",
+        "لَ can be omitted in جواب: لَوْ جَاءَ أَكْرَمْتُهُ"
+      ],
+      "examples": [
+        { "arabic": "لَوْ زُرْتَنِي لَفَرِحْتُ", "english": "If you had visited me, I would have been happy" },
+        { "arabic": "لَوْ عَلِمْتُ لَأَخْبَرْتُكَ", "english": "If I had known, I would have told you" },
+        { "arabic": "لَوْ سَأَلْتَهُ أَجَابَكَ", "english": "If you had asked him, he would have answered you" },
+        { "arabic": "لَوْ اجْتَهَدُوا لَفَازُوا", "english": "If they had strived, they would have won" }
+      ]
+    },
+    {
+      "title": "Difference Between لو and إن",
+      "titleArabic": "الفرق بين لو وإن",
+      "content": [
+        "إن is for possible conditions that may or may not happen. لو is for impossible or counterfactual conditions that didn't happen.",
+        "إِنْ تَدْرُسْ تَنْجَحْ (If you study, you will pass - possible). لَوْ دَرَسْتَ لَنَجَحْتَ (If you had studied, you would have passed - didn't happen)."
+      ],
+      "keyPoints": [
+        "إن: possible, may happen (future possibility)",
+        "لو: impossible, didn't happen (counterfactual)",
+        "إن uses jussive (مجزوم): إِنْ تَفْعَلْ أَفْعَلْ",
+        "لو uses past tense: لَوْ فَعَلْتَ لَفَعَلْتُ"
+      ],
+      "examples": [
+        { "arabic": "إِنْ تَجْتَهِدْ تَنْجَحْ", "english": "If you strive, you will pass (possible)" },
+        { "arabic": "لَوِ اجْتَهَدْتَ لَنَجَحْتَ", "english": "If you had strived, you would have passed (counterfactual)" },
+        { "arabic": "إِنْ يَأْتِ أُكْرِمْهُ", "english": "If he comes, I will honor him (possible)" },
+        { "arabic": "لَوْ جَاءَ لَأَكْرَمْتُهُ", "english": "If he had come, I would have honored him (didn't come)" }
+      ]
+    },
+    {
+      "title": "Special Uses of لو",
+      "titleArabic": "استعمالات خاصة لـ لو",
+      "content": [
+        "لو can express a wish (التمني): لَوْ تَأْتِينَا (If only you would come to us). It can also come after وَدَّ/يَوَدُّ (to wish): يَوَدُّ لَوْ يُعَمَّرُ.",
+        "In Quran: وَلَوْ شَاءَ اللهُ لَجَعَلَهُمْ أُمَّةً وَاحِدَةً (If Allah had willed, He would have made them one nation)."
+      ],
+      "keyPoints": [
+        "لو للتمني: expressing wishes",
+        "After وَدَّ (wished): وَدَّ لَوْ فَعَلَ",
+        "Common in Quran for divine will scenarios",
+        "Can express gentle request: لَوْ تَفْعَلُ هَذَا"
+      ],
+      "examples": [
+        { "arabic": "لَوْ تَزُورُنَا!", "english": "If only you would visit us!" },
+        { "arabic": "يَوَدُّ لَوْ يُعَمَّرُ أَلْفَ سَنَةٍ", "english": "He wishes he could live a thousand years" },
+        { "arabic": "وَلَوْ شَاءَ رَبُّكَ لَآمَنَ مَنْ فِي الْأَرْضِ", "english": "If your Lord had willed, all on earth would have believed" },
+        { "arabic": "لَوْ كُنْتُ غَنِيًّا!", "english": "If only I were rich!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l52-ex01",
+      "type": "fill-blank",
+      "prompt": "لَوْ _____ لَأَكْرَمْتُهُ",
+      "promptEn": "If he had _____, I would have honored him",
+      "answer": "جَاءَ",
+      "itemIds": ["word-b3-363"]
+    },
+    {
+      "id": "b3-l52-ex02",
+      "type": "fill-blank",
+      "prompt": "لَوْ دَرَسْتَ _____",
+      "promptEn": "If you had studied, you would have _____",
+      "answer": "لَنَجَحْتَ",
+      "itemIds": ["word-b3-364"]
+    },
+    {
+      "id": "b3-l52-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ عَلِمْتُ لَأَخْبَرْتُكَ",
+      "promptEn": "_____ I had known, I would have told you",
+      "answer": "لَوْ",
+      "itemIds": ["word-b3-365"]
+    },
+    {
+      "id": "b3-l52-ex04",
+      "type": "fill-blank",
+      "prompt": "لَوْ سَأَلْتَهُ _____",
+      "promptEn": "If you had asked him, he would have _____ you",
+      "answer": "لَأَجَابَكَ",
+      "itemIds": ["word-b3-366"]
+    },
+    {
+      "id": "b3-l52-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "If you had visited me, I would have been happy",
+      "answer": "لَوْ زُرْتَنِي لَفَرِحْتُ",
+      "itemIds": ["word-b3-363"]
+    },
+    {
+      "id": "b3-l52-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "If they had strived, they would have won",
+      "answer": "لَوِ اجْتَهَدُوا لَفَازُوا",
+      "itemIds": ["word-b3-364"]
+    },
+    {
+      "id": "b3-l52-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "If I had money, I would have given charity",
+      "answer": "لَوْ كَانَ عِنْدِي مَالٌ لَتَصَدَّقْتُ",
+      "itemIds": ["word-b3-367"]
+    },
+    {
+      "id": "b3-l52-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "If only you would visit us!",
+      "answer": "لَوْ تَزُورُنَا!",
+      "itemIds": ["word-b3-368"]
+    },
+    {
+      "id": "b3-l52-ex09",
+      "type": "word-to-meaning",
+      "prompt": "لَوْ",
+      "answer": "if (counterfactual)",
+      "itemIds": ["word-b3-363"]
+    },
+    {
+      "id": "b3-l52-ex10",
+      "type": "word-to-meaning",
+      "prompt": "امتناع لامتناع",
+      "answer": "absence due to absence",
+      "itemIds": ["word-b3-365"]
+    },
+    {
+      "id": "b3-l52-ex11",
+      "type": "meaning-to-word",
+      "prompt": "if (possible condition)",
+      "answer": "إِنْ",
+      "itemIds": ["word-b3-366"]
+    },
+    {
+      "id": "b3-l52-ex12",
+      "type": "meaning-to-word",
+      "prompt": "response of condition",
+      "answer": "جَوَاب الشَّرْط",
+      "itemIds": ["word-b3-367"]
+    }
+  ]
+}

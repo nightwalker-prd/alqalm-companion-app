@@ -1,0 +1,193 @@
+{
+  "id": "b2-l56",
+  "book": 2,
+  "lesson": 56,
+  "title": "صِيَغ المُبَالَغَة",
+  "titleEn": "Intensive Forms",
+  "description": "Learn about صِيَغ المُبَالَغَة, special noun patterns in Arabic that express intensity, frequency, or habitual action, including the five main patterns: فَعَّال، فَعُول، فَعِيل، مِفْعَال، فَعِل.",
+  "vocabulary": ["word-b2-411", "word-b2-412", "word-b2-413", "word-b2-414", "word-b2-415", "word-b2-416", "word-b2-417", "word-b2-418"],
+  "grammarPoints": ["gp-b2-079", "gp-b2-080"],
+  "notes": [
+    {
+      "title": "Introduction to Intensive Forms",
+      "titleArabic": "مُقَدِّمَة عَنْ صِيَغ المُبَالَغَة",
+      "content": [
+        "صِيَغ المُبَالَغَة (intensive forms) are special noun patterns derived from verbs that express intensity, abundance, or frequency of an action or quality.",
+        "While اسم الفاعل (active participle) indicates simply that someone does an action, صِيَغ المُبَالَغَة indicate that someone does it frequently, intensely, or as a defining characteristic.",
+        "For example, كَاتِب means 'one who writes' (writer), but كَتَّاب means 'one who writes abundantly' (prolific writer). These forms are extensively used in the Quran to describe Allah's attributes."
+      ],
+      "keyPoints": [
+        "Derived from verbs, like اسم الفاعل",
+        "Express intensity, frequency, or habitual action",
+        "Five main patterns in Arabic",
+        "Commonly used for Allah's names and attributes"
+      ],
+      "examples": [
+        { "arabic": "اللهُ غَفَّارٌ", "english": "Allah is Ever-Forgiving (غَفَّار from غَفَرَ)" },
+        { "arabic": "اللهُ شَكُورٌ", "english": "Allah is Most Appreciative (شَكُور from شَكَرَ)" },
+        { "arabic": "اللهُ عَلِيمٌ", "english": "Allah is All-Knowing (عَلِيم from عَلِمَ)" },
+        { "arabic": "هُوَ رَجُلٌ صَبُورٌ", "english": "He is a very patient man" }
+      ]
+    },
+    {
+      "title": "The Pattern فَعَّال",
+      "titleArabic": "صِيغَة فَعَّال",
+      "content": [
+        "The pattern فَعَّال is one of the most common intensive forms. It is formed by doubling the middle letter (عَيْن الفِعْل) and adding alif after it.",
+        "This pattern indicates someone who does an action frequently, abundantly, or professionally. It can also indicate occupation or profession.",
+        "Many of Allah's Beautiful Names (الأسماء الحسنى) follow this pattern, emphasizing His abundant and continuous actions."
+      ],
+      "keyPoints": [
+        "Pattern: فَعَّال (with doubled middle letter)",
+        "Indicates frequent or abundant action",
+        "Often used for professions",
+        "Common in Allah's names: غَفَّار، قَهَّار، وَهَّاب"
+      ],
+      "examples": [
+        { "arabic": "غَفَّار", "english": "Ever-Forgiving (from غَفَرَ - to forgive)" },
+        { "arabic": "صَبَّار", "english": "Very patient (from صَبَرَ - to be patient)" },
+        { "arabic": "قَهَّار", "english": "Overwhelming, Subduer (from قَهَرَ - to overcome)" },
+        { "arabic": "نَجَّار", "english": "Carpenter (from نَجَرَ - to carve wood)" },
+        { "arabic": "خَبَّاز", "english": "Baker (from خَبَزَ - to bake)" }
+      ]
+    },
+    {
+      "title": "The Patterns فَعُول and فَعِيل",
+      "titleArabic": "صِيغَتَا فَعُول وَفَعِيل",
+      "content": [
+        "فَعُول indicates someone who does an action intensely or as a characteristic quality. It emphasizes inherent nature or continuous state.",
+        "فَعِيل also indicates intensity and is very common in classical Arabic. It often describes permanent qualities or deep-rooted characteristics.",
+        "Both patterns are frequently used in the Quran for Allah's attributes, showing His perfect and complete qualities."
+      ],
+      "keyPoints": [
+        "فَعُول: صَبُور، شَكُور، غَفُور، وَدُود",
+        "فَعِيل: عَلِيم، رَحِيم، كَرِيم، حَكِيم",
+        "Both indicate permanent qualities",
+        "Very common in Quranic descriptions of Allah"
+      ],
+      "examples": [
+        { "arabic": "صَبُور", "english": "Very patient (from صَبَرَ)" },
+        { "arabic": "شَكُور", "english": "Most Appreciative (from شَكَرَ)" },
+        { "arabic": "غَفُور", "english": "Most Forgiving (from غَفَرَ)" },
+        { "arabic": "عَلِيم", "english": "All-Knowing (from عَلِمَ)" },
+        { "arabic": "رَحِيم", "english": "Most Merciful (from رَحِمَ)" },
+        { "arabic": "حَكِيم", "english": "Most Wise (from حَكَمَ)" }
+      ]
+    },
+    {
+      "title": "The Patterns مِفْعَال and فَعِل",
+      "titleArabic": "صِيغَتَا مِفْعَال وَفَعِل",
+      "content": [
+        "مِفْعَال indicates someone who habitually or characteristically does an action. The initial مِ is a distinctive feature of this pattern.",
+        "فَعِل is the least common of the five patterns. It indicates someone possessing a quality as an innate characteristic, often related to caution or natural disposition.",
+        "These two patterns, while less frequent than the others, appear in classical texts and are important for comprehensive understanding of Arabic morphology."
+      ],
+      "keyPoints": [
+        "مِفْعَال: مِقْدَام، مِعْطَاء، مِفْضَال، مِهْذَار",
+        "فَعِل: حَذِر، فَطِن، يَقِظ",
+        "مِفْعَال has initial مِ (kasra)",
+        "فَعِل indicates innate characteristics"
+      ],
+      "examples": [
+        { "arabic": "مِقْدَام", "english": "Very courageous, daring (from قَدِمَ)" },
+        { "arabic": "مِعْطَاء", "english": "Very generous, giving (from أَعْطَى)" },
+        { "arabic": "مِفْضَال", "english": "Very virtuous, gracious (from فَضَلَ)" },
+        { "arabic": "حَذِر", "english": "Very cautious (from حَذِرَ)" },
+        { "arabic": "فَطِن", "english": "Very intelligent, perceptive (from فَطَنَ)" },
+        { "arabic": "يَقِظ", "english": "Very alert, vigilant (from يَقِظَ)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l56-ex01",
+      "type": "fill-blank",
+      "prompt": "اللهُ _____ الذُّنُوبَ (Ever-Forgiving - فَعَّال pattern)",
+      "promptEn": "Allah is _____ of sins",
+      "answer": "غَفَّارُ",
+      "itemIds": ["word-b2-411"]
+    },
+    {
+      "id": "b2-l56-ex02",
+      "type": "fill-blank",
+      "prompt": "هُوَ رَجُلٌ _____ (very patient - فَعُول pattern)",
+      "promptEn": "He is a very _____ man",
+      "answer": "صَبُورٌ",
+      "itemIds": ["word-b2-412"]
+    },
+    {
+      "id": "b2-l56-ex03",
+      "type": "fill-blank",
+      "prompt": "إِنَّ اللهَ _____ بِعِبَادِهِ (All-Knowing - فَعِيل pattern)",
+      "promptEn": "Indeed, Allah is _____ of His servants",
+      "answer": "عَلِيمٌ",
+      "itemIds": ["word-b2-413"]
+    },
+    {
+      "id": "b2-l56-ex04",
+      "type": "fill-blank",
+      "prompt": "الْمُؤْمِنُ _____ لِلْخَطَرِ (very cautious - فَعِل pattern)",
+      "promptEn": "The believer is very _____ of danger",
+      "answer": "حَذِرٌ",
+      "itemIds": ["word-b2-414"]
+    },
+    {
+      "id": "b2-l56-ex05",
+      "type": "fill-blank",
+      "prompt": "هُوَ قَائِدٌ _____ (very courageous - مِفْعَال pattern)",
+      "promptEn": "He is a very _____ leader",
+      "answer": "مِقْدَامٌ",
+      "itemIds": ["word-b2-415"]
+    },
+    {
+      "id": "b2-l56-ex06",
+      "type": "fill-blank",
+      "prompt": "إِنَّ رَبِّي _____ رَحِيمٌ (Most Appreciative - فَعُول pattern)",
+      "promptEn": "Indeed, my Lord is Most _____, Most Merciful",
+      "answer": "شَكُورٌ",
+      "itemIds": ["word-b2-416"]
+    },
+    {
+      "id": "b2-l56-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Allah is the Most Merciful",
+      "answer": "اللهُ هُوَ الرَّحِيمُ",
+      "itemIds": ["word-b2-417"]
+    },
+    {
+      "id": "b2-l56-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "He is a generous and giving person",
+      "answer": "هُوَ شَخْصٌ كَرِيمٌ مِعْطَاءٌ",
+      "itemIds": ["word-b2-418"]
+    },
+    {
+      "id": "b2-l56-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "The student is very intelligent",
+      "answer": "الطَّالِبُ فَطِنٌ",
+      "itemIds": ["word-b2-414"]
+    },
+    {
+      "id": "b2-l56-ex10",
+      "type": "word-to-meaning",
+      "prompt": "صِيَغ المُبَالَغَة",
+      "answer": "intensive forms (expressing frequency/abundance)",
+      "itemIds": ["word-b2-411"]
+    },
+    {
+      "id": "b2-l56-ex11",
+      "type": "word-to-meaning",
+      "prompt": "غَفُور",
+      "answer": "Most Forgiving (فَعُول pattern)",
+      "itemIds": ["word-b2-411"]
+    },
+    {
+      "id": "b2-l56-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Most Wise (فَعِيل pattern from حَكَمَ)",
+      "answer": "حَكِيم",
+      "itemIds": ["word-b2-413"]
+    }
+  ]
+}

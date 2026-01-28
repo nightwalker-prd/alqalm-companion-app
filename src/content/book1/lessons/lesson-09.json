@@ -1,0 +1,125 @@
+{
+  "id": "b1-l09",
+  "book": 1,
+  "lesson": 9,
+  "title": "الصِّفَة",
+  "titleEn": "Adjectives",
+  "description": "Learn how adjectives follow and agree with nouns in Arabic. كِتَابٌ جَدِيدٌ means 'a new book'.",
+  "vocabulary": ["word-052", "word-053", "word-054", "word-055", "word-056", "word-057"],
+  "grammarPoints": ["gp-014"],
+  "notes": [
+    {
+      "title": "Adjective Agreement",
+      "titleArabic": "الصِّفَة",
+      "content": [
+        "In Arabic, adjectives (sifa) follow the noun they describe and must agree in four ways: gender, number, definiteness, and case.",
+        "For feminine nouns, adjectives add taa marbuta (ة). For definite nouns, adjectives also take ال. The adjective mirrors the noun's grammatical state."
+      ],
+      "keyPoints": [
+        "Adjectives come after the noun (opposite of English)",
+        "Adjectives agree in gender: كِتَابٌ جَدِيدٌ (masc.) vs سَيَّارَةٌ جَدِيدَةٌ (fem.)",
+        "Adjectives agree in definiteness: كِتَابٌ جَدِيدٌ vs الْكِتَابُ الْجَدِيدُ",
+        "This pattern is called نَعْتٌ (description) in Arabic grammar"
+      ],
+      "examples": [
+        { "arabic": "كِتَابٌ جَدِيدٌ", "english": "a new book" },
+        { "arabic": "سَيَّارَةٌ جَمِيلَةٌ", "english": "a beautiful car" },
+        { "arabic": "الْبَيْتُ الْكَبِيرُ", "english": "the big house" },
+        { "arabic": "الْغُرْفَةُ الصَّغِيرَةُ", "english": "the small room" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l09-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "a new book",
+      "answer": "كِتَابٌ جَدِيدٌ",
+      "itemIds": ["word-002", "word-052"]
+    },
+    {
+      "id": "b1-l09-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "a big house",
+      "answer": "بَيْتٌ كَبِيرٌ",
+      "itemIds": ["word-006", "word-053"]
+    },
+    {
+      "id": "b1-l09-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "a small room",
+      "answer": "غُرْفَةٌ صَغِيرَةٌ",
+      "itemIds": ["word-037", "word-054"]
+    },
+    {
+      "id": "b1-l09-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "a beautiful car",
+      "answer": "سَيَّارَةٌ جَمِيلَةٌ",
+      "itemIds": ["word-032", "word-055"]
+    },
+    {
+      "id": "b1-l09-ex05",
+      "type": "word-to-meaning",
+      "prompt": "جَدِيدٌ",
+      "answer": "new",
+      "itemIds": ["word-052"]
+    },
+    {
+      "id": "b1-l09-ex06",
+      "type": "word-to-meaning",
+      "prompt": "كَبِيرٌ",
+      "answer": "big",
+      "itemIds": ["word-053"]
+    },
+    {
+      "id": "b1-l09-ex07",
+      "type": "word-to-meaning",
+      "prompt": "صَغِيرٌ",
+      "answer": "small",
+      "itemIds": ["word-054"]
+    },
+    {
+      "id": "b1-l09-ex08",
+      "type": "word-to-meaning",
+      "prompt": "جَمِيلٌ",
+      "answer": "beautiful",
+      "itemIds": ["word-055"]
+    },
+    {
+      "id": "b1-l09-ex09",
+      "type": "meaning-to-word",
+      "prompt": "old (thing)",
+      "answer": "قَدِيمٌ",
+      "itemIds": ["word-056"]
+    },
+    {
+      "id": "b1-l09-ex10",
+      "type": "meaning-to-word",
+      "prompt": "long/tall",
+      "answer": "طَوِيلٌ",
+      "itemIds": ["word-057"]
+    },
+    {
+      "id": "b1-l09-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "This is a new book",
+      "answer": "هَذَا كِتَابٌ جَدِيدٌ",
+      "itemIds": ["word-001", "word-002", "word-052"]
+    },
+    {
+      "id": "b1-l09-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "That is an old house",
+      "answer": "ذَلِكَ بَيْتٌ قَدِيمٌ",
+      "itemIds": ["word-010", "word-006", "word-056"]
+    },
+    {
+      "id": "b1-l09-ex13",
+      "type": "translate-to-arabic",
+      "prompt": "This is a beautiful picture",
+      "answer": "هَذِهِ صُورَةٌ جَمِيلَةٌ",
+      "itemIds": ["word-027", "word-039", "word-055"]
+    }
+  ]
+}

@@ -1,0 +1,203 @@
+{
+  "id": "b3-l72",
+  "book": 3,
+  "lesson": 72,
+  "title": "هَمْزَة الْوَصْل وَالْقَطْع",
+  "titleEn": "Connective and Disjunctive Hamza",
+  "description": "Learn the rules for همزة الوصل (connecting hamza) vs همزة القطع (cutting hamza) - when each is used, how they are written, and their pronunciation rules.",
+  "vocabulary": ["word-b3-484", "word-b3-485", "word-b3-486", "word-b3-487", "word-b3-488", "word-b3-489", "word-b3-490", "word-b3-491"],
+  "grammarPoints": ["gp-b3-106", "gp-b3-107"],
+  "notes": [
+    {
+      "title": "What is همزة الوصل?",
+      "titleArabic": "تَعْرِيفُ هَمْزَةِ الْوَصْلِ",
+      "content": [
+        "هَمْزَة الْوَصْل (connecting hamza) is a hamza that is pronounced at the beginning of speech but dropped when preceded by another word. It is written as bare alif (ا) without the hamza sign (ء).",
+        "It is called 'وَصْل' (connection) because when connected to a preceding word, it drops and allows smooth connection. For example: 'اِقْرَأْ' alone starts with hamza, but in 'وَاقْرَأْ', the hamza is not pronounced."
+      ],
+      "keyPoints": [
+        "هَمْزَة الْوَصْل = drops when connected to preceding word",
+        "Written as ا without ء sign",
+        "Pronounced only at beginning of speech",
+        "Called وَصْل because it 'connects' smoothly"
+      ],
+      "examples": [
+        { "arabic": "اِقْرَأْ (pronounced: iqra')", "english": "Read! (hamza pronounced at start)" },
+        { "arabic": "وَاقْرَأْ (pronounced: waqra')", "english": "And read! (hamza dropped)" },
+        { "arabic": "الْكِتَابُ (al-kitabu)", "english": "the book (ال has hamzat al-wasl)" },
+        { "arabic": "فِي الْكِتَابِ (fil-kitabi)", "english": "in the book (hamza dropped)" }
+      ]
+    },
+    {
+      "title": "What is همزة القطع?",
+      "titleArabic": "تَعْرِيفُ هَمْزَةِ الْقَطْعِ",
+      "content": [
+        "هَمْزَة الْقَطْع (cutting/disjunctive hamza) is a hamza that is always pronounced, whether at the beginning of speech or in the middle of a sentence. It is written with the hamza sign (أ or إ).",
+        "It is called 'قَطْع' (cutting) because it 'cuts' or interrupts the flow - it must always be pronounced. This is the 'true' hamza that represents an actual consonant sound."
+      ],
+      "keyPoints": [
+        "هَمْزَة الْقَطْع = always pronounced",
+        "Written with أ (with fatha/damma) or إ (with kasra)",
+        "Never dropped in connected speech",
+        "Represents the actual glottal stop consonant"
+      ],
+      "examples": [
+        { "arabic": "أَكَلَ (akala)", "english": "he ate" },
+        { "arabic": "وَأَكَلَ (wa-akala)", "english": "and he ate (hamza still pronounced)" },
+        { "arabic": "إِلَى", "english": "to/toward" },
+        { "arabic": "أُمّ", "english": "mother" }
+      ]
+    },
+    {
+      "title": "Where همزة الوصل Occurs",
+      "titleArabic": "مَوَاضِعُ هَمْزَةِ الْوَصْلِ",
+      "content": [
+        "هَمْزَة الْوَصْل occurs in specific places: 1) The definite article ال, 2) The imperative of three-letter verbs (اِفْعَلْ), 3) The past, imperative, and masdar of Forms VII-X (اِنْفَعَلَ، اِفْتَعَلَ، etc.), 4) Ten specific nouns: اِسْم، اِبْن، اِبْنَة، اِثْنَان، اِثْنَتَان، اِمْرُؤ، اِمْرَأَة، اِسْت، أَيْمُن، أَيْم.",
+        "The vowel of hamzat al-wasl depends on the third letter of the verb: if the third letter has damma, the hamza takes damma (اُكْتُبْ); otherwise it takes kasra (اِقْرَأْ)."
+      ],
+      "keyPoints": [
+        "ال (definite article) - always hamzat al-wasl",
+        "Imperative of Form I verbs (اِفْعَلْ)",
+        "Forms VII-X: past, imperative, masdar",
+        "Ten specific nouns (memorize them)"
+      ],
+      "examples": [
+        { "arabic": "الرَّجُلُ", "english": "the man (ال = hamzat al-wasl)" },
+        { "arabic": "اِجْلِسْ", "english": "Sit! (imperative Form I)" },
+        { "arabic": "اِنْطَلَقَ (Form VII)", "english": "he set off" },
+        { "arabic": "اِسْتَغْفَرَ (Form X)", "english": "he sought forgiveness" }
+      ]
+    },
+    {
+      "title": "Where همزة القطع Occurs",
+      "titleArabic": "مَوَاضِعُ هَمْزَةِ الْقَطْعِ",
+      "content": [
+        "هَمْزَة الْقَطْع is the default - it occurs everywhere except the specific places where hamzat al-wasl is used. Key locations include: 1) All nouns except the ten listed for wasl, 2) All particles (إِلَى، أَنَّ، إِنَّ، أَوْ، etc.), 3) Past tense of Forms I-IV (أَكَلَ، أَخْرَجَ), 4) Imperative of Form IV (أَخْرِجْ).",
+        "The past and imperative of Form IV have hamzat al-qat' because Form IV's distinguishing feature is the added أ at the beginning: فَعَلَ → أَفْعَلَ."
+      ],
+      "keyPoints": [
+        "Default: assume قَطْع unless specific وَصْل case",
+        "All particles have hamzat al-qat'",
+        "Form IV verbs: أَفْعَلَ (past), أَفْعِلْ (imperative)",
+        "Most nouns have hamzat al-qat'"
+      ],
+      "examples": [
+        { "arabic": "أَخٌ", "english": "brother (noun = qat')" },
+        { "arabic": "إِنَّ", "english": "indeed (particle = qat')" },
+        { "arabic": "أَكْرَمَ (Form IV)", "english": "he honored (Form IV past = qat')" },
+        { "arabic": "أَحْسِنْ (Form IV)", "english": "Do well! (Form IV imperative = qat')" }
+      ]
+    },
+    {
+      "title": "Practical Rules and Common Mistakes",
+      "titleArabic": "قَوَاعِدُ عَمَلِيَّة وَأَخْطَاءٌ شَائِعَة",
+      "content": [
+        "To test whether a hamza is وَصْل or قَطْع, add وَ or فَ before the word: if the hamza is still pronounced, it's قَطْع (وَأَكَلَ); if it drops, it's وَصْل (وَاقْرَأْ).",
+        "Common mistakes include writing اسم with hamza (wrong: أَسْم) or writing إنتصر instead of اِنْتَصَر. Remember: Form VII-X always have hamzat al-wasl in the past tense."
+      ],
+      "keyPoints": [
+        "Test: add وَ - if hamza pronounced = قَطْع, if dropped = وَصْل",
+        "اِسْم not أَسْم (one of the ten nouns)",
+        "اِنْتَصَرَ not إِنْتَصَرَ (Form VIII)",
+        "أَنْتَ، أَنَا، أَخٌ، أُمٌّ = قَطْع (pronouns and most nouns)"
+      ],
+      "examples": [
+        { "arabic": "وَاسْتَمَعَ (wasta-ma'a)", "english": "and he listened (hamza dropped = wasl)" },
+        { "arabic": "وَأَرْسَلَ (wa-arsala)", "english": "and he sent (hamza pronounced = qat')" },
+        { "arabic": "بِسْمِ اللهِ (bismillah)", "english": "in the name of Allah (اسم = wasl)" },
+        { "arabic": "خَيْرُ الْأَسْمَاءِ (أسماء = qat')", "english": "the best of names (أسماء plural = qat')" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l72-ex01",
+      "type": "fill-blank",
+      "prompt": "هَمْزَة الْوَصْلِ تَسْقُطُ فِي _____ الْكَلَامِ",
+      "promptEn": "Hamzat al-wasl drops in the _____ of speech",
+      "answer": "دَرْجِ",
+      "itemIds": ["word-b3-484"]
+    },
+    {
+      "id": "b3-l72-ex02",
+      "type": "fill-blank",
+      "prompt": "هَمْزَة الْقَطْعِ تُنْطَقُ _____ فِي أَوَّلِ الْكَلَامِ أَوْ وَسَطِهِ",
+      "promptEn": "Hamzat al-qat' is pronounced _____, at the beginning or middle of speech",
+      "answer": "دَائِمًا",
+      "itemIds": ["word-b3-485"]
+    },
+    {
+      "id": "b3-l72-ex03",
+      "type": "fill-blank",
+      "prompt": "الْ التَّعْرِيف هَمْزَتُهَا هَمْزَةُ _____",
+      "promptEn": "The ال of definition has hamzat _____",
+      "answer": "وَصْل",
+      "itemIds": ["word-b3-486"]
+    },
+    {
+      "id": "b3-l72-ex04",
+      "type": "fill-blank",
+      "prompt": "الْفِعْلُ أَكْرَمَ (الرُّبَاعِيّ) هَمْزَتُهُ هَمْزَةُ _____",
+      "promptEn": "The verb أَكْرَمَ (Form IV) has hamzat _____",
+      "answer": "قَطْع",
+      "itemIds": ["word-b3-487"]
+    },
+    {
+      "id": "b3-l72-ex05",
+      "type": "fill-blank",
+      "prompt": "الْفِعْلُ اِسْتَغْفَرَ هَمْزَتُهُ هَمْزَةُ _____",
+      "promptEn": "The verb اِسْتَغْفَرَ (Form X) has hamzat _____",
+      "answer": "وَصْل",
+      "itemIds": ["word-b3-488"]
+    },
+    {
+      "id": "b3-l72-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Read! (imperative, Form I)",
+      "answer": "اِقْرَأْ",
+      "itemIds": ["word-b3-489"]
+    },
+    {
+      "id": "b3-l72-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "He sought forgiveness (Form X)",
+      "answer": "اِسْتَغْفَرَ",
+      "itemIds": ["word-b3-490"]
+    },
+    {
+      "id": "b3-l72-ex08",
+      "type": "word-to-meaning",
+      "prompt": "هَمْزَة الْوَصْل",
+      "answer": "connective hamza (drops when preceded by another word)",
+      "itemIds": ["word-b3-484"]
+    },
+    {
+      "id": "b3-l72-ex09",
+      "type": "word-to-meaning",
+      "prompt": "هَمْزَة الْقَطْع",
+      "answer": "disjunctive/cutting hamza (always pronounced)",
+      "itemIds": ["word-b3-485"]
+    },
+    {
+      "id": "b3-l72-ex10",
+      "type": "word-to-meaning",
+      "prompt": "دَرْج الْكَلَام",
+      "answer": "connected speech (middle of utterance)",
+      "itemIds": ["word-b3-488"]
+    },
+    {
+      "id": "b3-l72-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The hamza that is only pronounced at the beginning of speech",
+      "answer": "هَمْزَة الْوَصْل",
+      "itemIds": ["word-b3-490"]
+    },
+    {
+      "id": "b3-l72-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The hamza that is always pronounced regardless of position",
+      "answer": "هَمْزَة الْقَطْع",
+      "itemIds": ["word-b3-491"]
+    }
+  ]
+}

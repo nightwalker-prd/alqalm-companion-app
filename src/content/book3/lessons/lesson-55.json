@@ -1,0 +1,183 @@
+{
+  "id": "b3-l55",
+  "book": 3,
+  "lesson": 55,
+  "title": "الإِعْلَال وَالإِبْدَال",
+  "titleEn": "Vowel Changes and Letter Substitution",
+  "description": "Learn about الإعلال (changes to weak letters و، ي، ا) and الإبدال (letter substitution), the systematic morphological transformation rules in Arabic.",
+  "vocabulary": ["word-b3-381", "word-b3-382", "word-b3-383", "word-b3-384", "word-b3-385", "word-b3-386"],
+  "grammarPoints": ["gp-b3-072", "gp-b3-073"],
+  "notes": [
+    {
+      "title": "What is الإعلال?",
+      "titleArabic": "تعريف الإعلال",
+      "content": [
+        "الإعلال is the change that occurs to weak letters (حروف العلة: و، ي، ا) in words. These changes happen to make pronunciation easier.",
+        "There are three main types: القلب (converting one letter to another), الحذف (deleting a letter), and الإسكان (making a letter silent)."
+      ],
+      "keyPoints": [
+        "حروف العلة: و (waw), ي (ya), ا (alif)",
+        "القلب: converting - قَوَلَ → قَالَ",
+        "الحذف: deleting - يَقْوُلُ → يَقُولُ",
+        "الإسكان: silencing - يَخْشَيُ → يَخْشَى"
+      ],
+      "examples": [
+        { "arabic": "قَالَ (أصلها: قَوَلَ)", "english": "He said (origin: qawala → qāla)" },
+        { "arabic": "بَاعَ (أصلها: بَيَعَ)", "english": "He sold (origin: baya'a → bā'a)" },
+        { "arabic": "يَقُولُ (أصلها: يَقْوُلُ)", "english": "He says (origin: yaqwulu → yaqūlu)" },
+        { "arabic": "يَبِيعُ (أصلها: يَبْيِعُ)", "english": "He sells (origin: yabyi'u → yabī'u)" }
+      ]
+    },
+    {
+      "title": "Types of الإعلال",
+      "titleArabic": "أنواع الإعلال",
+      "content": [
+        "القلب (conversion): When و or ي with a fatha before it becomes ا (alif). قَوَلَ → قَالَ because و has fatha and the letter before it (ق) has fatha.",
+        "الحذف (deletion): When a weak letter is deleted for ease. In يَقُولُ, the original يَقْوُلُ had the ع deleted because و was ساكن after ضمة."
+      ],
+      "keyPoints": [
+        "Rule: و or ي with fatha after fatha → ا",
+        "قَوَلَ → قَالَ، بَيَعَ → بَاعَ، خَوِفَ → خَافَ",
+        "Rule: When conjugating, weak middle letter changes",
+        "قُلْتُ (I said) - the و deleted: قَوَلْتُ → قُلْتُ"
+      ],
+      "examples": [
+        { "arabic": "صَامَ (أصلها: صَوَمَ)", "english": "He fasted (origin: ṣawama → ṣāma)" },
+        { "arabic": "نَامَ (أصلها: نَوَمَ)", "english": "He slept (origin: nawama → nāma)" },
+        { "arabic": "قُلْتُ (أصلها: قَوَلْتُ)", "english": "I said (origin: qawaltu → qultu)" },
+        { "arabic": "بِعْتُ (أصلها: بَيَعْتُ)", "english": "I sold (origin: baya'tu → bi'tu)" }
+      ]
+    },
+    {
+      "title": "What is الإبدال?",
+      "titleArabic": "تعريف الإبدال",
+      "content": [
+        "الإبدال is replacing one letter with another for phonetic ease. It's broader than الإعلال and can involve any letters, not just weak ones.",
+        "Common patterns include: ت of افتعل becoming د or ط, همزة becoming و or ي, and تاء التفعّل becoming other letters."
+      ],
+      "keyPoints": [
+        "Replacing one letter with another entirely",
+        "اصْتَبَرَ → اصْطَبَرَ (ت → ط after ص)",
+        "اضْتَرَبَ → اضْطَرَبَ (ت → ط after ض)",
+        "ازْتَجَرَ → ازْدَجَرَ (ت → د after ز)"
+      ],
+      "examples": [
+        { "arabic": "اصْطَبَرَ (أصلها: اصْتَبَرَ)", "english": "He was patient (t → ṭ)" },
+        { "arabic": "اضْطَرَبَ (أصلها: اضْتَرَبَ)", "english": "He was disturbed (t → ṭ)" },
+        { "arabic": "ازْدَهَرَ (أصلها: ازْتَهَرَ)", "english": "It flourished (t → d)" },
+        { "arabic": "اتَّصَلَ (أصلها: اوْتَصَلَ)", "english": "He connected (w → t, assimilated)" }
+      ]
+    },
+    {
+      "title": "Common Patterns of Change",
+      "titleArabic": "أنماط التغيير الشائعة",
+      "content": [
+        "Understanding these patterns helps predict word forms. Hollow verbs (أجوف) like قال، باع، نام follow predictable patterns when conjugated.",
+        "In the past tense with ت endings: قَالَ → قُلْتَ، قُلْنَا. In the jussive: يَقُولُ → لَمْ يَقُلْ."
+      ],
+      "keyPoints": [
+        "Hollow verbs: middle radical is weak (قال، نام، زار)",
+        "Past + pronoun suffix: قَالَ → قُلْتُ (و deleted, فاء takes ضمة)",
+        "Jussive mood: يَقُولُ → لَمْ يَقُلْ (و deleted)",
+        "Defective verbs: final radical weak (دَعَا، رَمَى)"
+      ],
+      "examples": [
+        { "arabic": "قَالَ، قُلْتُ، قُلْنَا، قَالُوا", "english": "He said, I said, we said, they said" },
+        { "arabic": "لَمْ يَقُلْ، لَمْ يَبِعْ، لَمْ يَنَمْ", "english": "He didn't say, sell, sleep (jussive)" },
+        { "arabic": "دَعَا، دَعَوْتُ، يَدْعُو، ادْعُ", "english": "He called, I called, he calls, call!" },
+        { "arabic": "رَمَى، رَمَيْتُ، يَرْمِي، ارْمِ", "english": "He threw, I threw, he throws, throw!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l55-ex01",
+      "type": "fill-blank",
+      "prompt": "قَالَ أصلها: _____",
+      "promptEn": "قَالَ (he said) - its origin is: _____",
+      "answer": "قَوَلَ",
+      "itemIds": ["word-b3-381"]
+    },
+    {
+      "id": "b3-l55-ex02",
+      "type": "fill-blank",
+      "prompt": "بَاعَ أصلها: _____",
+      "promptEn": "بَاعَ (he sold) - its origin is: _____",
+      "answer": "بَيَعَ",
+      "itemIds": ["word-b3-382"]
+    },
+    {
+      "id": "b3-l55-ex03",
+      "type": "fill-blank",
+      "prompt": "قُلْتُ أصلها: _____",
+      "promptEn": "قُلْتُ (I said) - its origin is: _____",
+      "answer": "قَوَلْتُ",
+      "itemIds": ["word-b3-383"]
+    },
+    {
+      "id": "b3-l55-ex04",
+      "type": "fill-blank",
+      "prompt": "اصْطَبَرَ أصلها: _____",
+      "promptEn": "اصْطَبَرَ (he was patient) - its origin is: _____",
+      "answer": "اصْتَبَرَ",
+      "itemIds": ["word-b3-384"]
+    },
+    {
+      "id": "b3-l55-ex05",
+      "type": "fill-blank",
+      "prompt": "لَمْ _____ (من قَالَ)",
+      "promptEn": "He did not _____ (jussive of قَالَ)",
+      "answer": "يَقُلْ",
+      "itemIds": ["word-b3-385"]
+    },
+    {
+      "id": "b3-l55-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I sold (conjugate بَاعَ with أنا)",
+      "answer": "بِعْتُ",
+      "itemIds": ["word-b3-382"]
+    },
+    {
+      "id": "b3-l55-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "We said (conjugate قَالَ with نحن)",
+      "answer": "قُلْنَا",
+      "itemIds": ["word-b3-383"]
+    },
+    {
+      "id": "b3-l55-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "He did not sleep (jussive of نَامَ)",
+      "answer": "لَمْ يَنَمْ",
+      "itemIds": ["word-b3-386"]
+    },
+    {
+      "id": "b3-l55-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الإعلال",
+      "answer": "vowel/weak letter changes",
+      "itemIds": ["word-b3-381"]
+    },
+    {
+      "id": "b3-l55-ex10",
+      "type": "word-to-meaning",
+      "prompt": "الإبدال",
+      "answer": "letter substitution",
+      "itemIds": ["word-b3-384"]
+    },
+    {
+      "id": "b3-l55-ex11",
+      "type": "word-to-meaning",
+      "prompt": "حروف العلة",
+      "answer": "weak letters (و، ي، ا)",
+      "itemIds": ["word-b3-381"]
+    },
+    {
+      "id": "b3-l55-ex12",
+      "type": "meaning-to-word",
+      "prompt": "hollow verb (middle weak)",
+      "answer": "الفِعْل الأَجْوَف",
+      "itemIds": ["word-b3-385"]
+    }
+  ]
+}

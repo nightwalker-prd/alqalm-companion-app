@@ -1,0 +1,171 @@
+{
+  "id": "b1-l25",
+  "book": 1,
+  "lesson": 25,
+  "title": "أَدَوَاتُ الاِسْتِفْهَام",
+  "titleEn": "Interrogative Particles",
+  "description": "Learn question words: أَيْنَ (where), كَيْفَ (how), مَتَى (when), لِمَاذَا (why), كَمْ (how many).",
+  "vocabulary": ["word-184", "word-186", "word-185", "word-187", "word-188", "word-227"],
+  "grammarPoints": ["gp-031", "gp-032"],
+  "notes": [
+    {
+      "title": "Question Words (أدوات الاستفهام)",
+      "titleArabic": "أدوات الاستفهام",
+      "content": [
+        "Arabic has several interrogative words used to ask questions. These particles are placed at the beginning of the sentence.",
+        "Some interrogative words are particles (حروف) while others are nouns (أسماء). This affects the grammar of the sentence."
+      ],
+      "keyPoints": [
+        "أَيْنَ - where (indicates place)",
+        "كَيْفَ - how (indicates manner/state)",
+        "مَتَى - when (indicates time)",
+        "لِمَاذَا / لِمَ - why (indicates reason)",
+        "كَمْ - how many/much (indicates quantity)"
+      ],
+      "examples": [
+        { "arabic": "أَيْنَ الْكِتَابُ؟", "english": "Where is the book?" },
+        { "arabic": "كَيْفَ حَالُكَ؟", "english": "How are you?" },
+        { "arabic": "مَتَى تَذْهَبُ؟", "english": "When do you go?" },
+        { "arabic": "لِمَاذَا ذَهَبْتَ؟", "english": "Why did you go?" }
+      ]
+    },
+    {
+      "title": "Using كَمْ and أَيُّ",
+      "titleArabic": "استخدام كم وأيّ",
+      "content": [
+        "كَمْ (how many/much) is followed by a noun in the accusative singular (تمييز) when asking about quantity.",
+        "أَيُّ (which) agrees with its noun in gender and is used for selection among options."
+      ],
+      "keyPoints": [
+        "كَمْ كِتَابًا؟ - How many books? (accusative singular)",
+        "أَيُّ كِتَابٍ؟ - Which book? (genitive after أَيّ)",
+        "أَيَّةُ سَاعَةٍ؟ - Which hour? (feminine form)",
+        "كَمْ can also mean 'how much' with uncountable nouns"
+      ],
+      "examples": [
+        { "arabic": "كَمْ طَالِبًا فِي الْفَصْلِ؟", "english": "How many students are in the class?" },
+        { "arabic": "أَيُّ كِتَابٍ تُرِيدُ؟", "english": "Which book do you want?" },
+        { "arabic": "كَمِ السَّاعَةُ؟", "english": "What time is it?" },
+        { "arabic": "أَيُّهُمْ أَفْضَلُ؟", "english": "Which of them is better?" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l25-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الْمُدَرِّسُ؟",
+      "promptEn": "_____ is the teacher?",
+      "answer": "أَيْنَ",
+      "itemIds": ["word-184", "word-004"]
+    },
+    {
+      "id": "b1-l25-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ حَالُكَ؟",
+      "promptEn": "_____ are you? (state)",
+      "answer": "كَيْفَ",
+      "itemIds": ["word-186"]
+    },
+    {
+      "id": "b1-l25-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ يَبْدَأُ الدَّرْسُ؟",
+      "promptEn": "_____ does the lesson begin?",
+      "answer": "مَتَى",
+      "itemIds": ["word-185"]
+    },
+    {
+      "id": "b1-l25-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ تَدْرُسُ الْعَرَبِيَّةَ؟",
+      "promptEn": "_____ do you study Arabic?",
+      "answer": "لِمَاذَا",
+      "itemIds": ["word-187"]
+    },
+    {
+      "id": "b1-l25-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "Where is the mosque?",
+      "answer": "أَيْنَ الْمَسْجِدُ؟",
+      "itemIds": ["word-184", "word-007"]
+    },
+    {
+      "id": "b1-l25-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "How are you?",
+      "answer": "كَيْفَ حَالُكَ؟",
+      "itemIds": ["word-186"]
+    },
+    {
+      "id": "b1-l25-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "When did you arrive?",
+      "answer": "مَتَى وَصَلْتَ؟",
+      "itemIds": ["word-185"]
+    },
+    {
+      "id": "b1-l25-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "How many books?",
+      "answer": "كَمْ كِتَابًا؟",
+      "itemIds": ["word-188", "word-002"]
+    },
+    {
+      "id": "b1-l25-ex09",
+      "type": "word-to-meaning",
+      "prompt": "أَيْنَ",
+      "answer": "where",
+      "itemIds": ["word-184"]
+    },
+    {
+      "id": "b1-l25-ex10",
+      "type": "word-to-meaning",
+      "prompt": "كَيْفَ",
+      "answer": "how",
+      "itemIds": ["word-186"]
+    },
+    {
+      "id": "b1-l25-ex11",
+      "type": "word-to-meaning",
+      "prompt": "مَتَى",
+      "answer": "when",
+      "itemIds": ["word-185"]
+    },
+    {
+      "id": "b1-l25-ex12",
+      "type": "word-to-meaning",
+      "prompt": "لِمَاذَا",
+      "answer": "why",
+      "itemIds": ["word-187"]
+    },
+    {
+      "id": "b1-l25-ex13",
+      "type": "word-to-meaning",
+      "prompt": "كَمْ",
+      "answer": "how many / how much",
+      "itemIds": ["word-188"]
+    },
+    {
+      "id": "b1-l25-ex14",
+      "type": "meaning-to-word",
+      "prompt": "which (masc.)",
+      "answer": "أَيُّ",
+      "itemIds": ["word-227"]
+    },
+    {
+      "id": "b1-l25-ex15",
+      "type": "translate-to-arabic",
+      "prompt": "Which book do you want?",
+      "answer": "أَيُّ كِتَابٍ تُرِيدُ؟",
+      "itemIds": ["word-227", "word-002"]
+    },
+    {
+      "id": "b1-l25-ex16",
+      "type": "translate-to-arabic",
+      "prompt": "Where did you go?",
+      "answer": "أَيْنَ ذَهَبْتَ؟",
+      "itemIds": ["word-184", "word-068"]
+    }
+  ]
+}

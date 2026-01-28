@@ -1,0 +1,224 @@
+{
+  "id": "b3-l91",
+  "book": 3,
+  "lesson": 91,
+  "title": "أَمَّا الشَّرْطِيَّةُ",
+  "titleEn": "The Conditional Amma",
+  "description": "Learn about أمّا الشرطية - a particle used for topic-comment structure that implies condition and requires فاء in the response.",
+  "vocabulary": ["word-b3-583", "word-b3-584", "word-b3-585", "word-b3-586", "word-b3-587"],
+  "grammarPoints": ["gp-b3-144", "gp-b3-145"],
+  "notes": [
+    {
+      "title": "What is أمّا الشرطية?",
+      "titleArabic": "مَا هِيَ أَمَّا الشَّرْطِيَّةُ؟",
+      "content": [
+        "أَمَّا is a conditional particle (حَرْف شَرْط) that introduces a topic and implies 'as for' or 'regarding.' It requires فَاء (called فَاءُ الْجَزَاء or فَاءُ الرَّبْط) in its response.",
+        "The meaning of أَمَّا is 'مَهْمَا يَكُنْ مِنْ شَيْءٍ' (whatever the case may be). It introduces different aspects of a topic, often used to contrast multiple items: أَمَّا زَيْدٌ فَكَرِيمٌ وَأَمَّا عَمْرٌو فَبَخِيلٌ."
+      ],
+      "keyPoints": [
+        "أَمَّا: conditional particle meaning 'as for'",
+        "Requires فَاء in response (obligatory)",
+        "Implies مَهْمَا يَكُنْ مِنْ شَيْءٍ",
+        "Used for topic-comment structure"
+      ],
+      "examples": [
+        { "arabic": "أَمَّا زَيْدٌ فَكَرِيمٌ", "english": "As for Zayd, he is generous" },
+        { "arabic": "أَمَّا الْعِلْمُ فَنَافِعٌ", "english": "As for knowledge, it is beneficial" },
+        { "arabic": "أَمَّا أَنَا فَمُسَافِرٌ", "english": "As for me, I am traveling" },
+        { "arabic": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ", "english": "As for the orphan, do not oppress (Quran)" }
+      ]
+    },
+    {
+      "title": "The Obligatory فاء",
+      "titleArabic": "وُجُوبُ الْفَاءِ",
+      "content": [
+        "The فَاء after أَمَّا is وَاجِبَة (obligatory) - it cannot be omitted. This فَاء is called فَاءُ الرَّبْط (connecting fa) or فَاءُ الْجَزَاء (consequent fa) because it connects the topic to its comment.",
+        "Omitting the فَاء is a grammatical error: أَمَّا زَيْدٌ كَرِيمٌ is incorrect. However, in poetry, the فَاء may be deleted for meter (ضَرُورَة شِعْرِيَّة)."
+      ],
+      "keyPoints": [
+        "فَاء is obligatory after أَمَّا",
+        "Called فَاء الرَّبْط or فَاء الجَزَاء",
+        "Omission is grammatical error",
+        "Can be deleted in poetry only"
+      ],
+      "examples": [
+        { "arabic": "أَمَّا زَيْدٌ فَكَرِيمٌ (صحيح)", "english": "As for Zayd, he is generous (correct)" },
+        { "arabic": "أَمَّا زَيْدٌ كَرِيمٌ (خطأ)", "english": "As for Zayd generous (incorrect - missing فَاء)" },
+        { "arabic": "أَمَّا الْقُرْآنُ فَهُوَ شِفَاءٌ", "english": "As for the Quran, it is healing" },
+        { "arabic": "فَأَمَّا مَنْ أَعْطَى وَاتَّقَى فَسَنُيَسِّرُهُ", "english": "As for he who gives and fears Allah, We will ease him (Quran)" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis",
+      "titleArabic": "الإِعْرَابُ",
+      "content": [
+        "أَمَّا is a حَرْف شَرْط وَتَفْصِيل (particle of condition and detail), مَبْنِيّ (indeclinable). What follows أَمَّا is typically مُبْتَدَأ (subject), and what follows فَاء is the خَبَر (predicate).",
+        "The i'rab: أَمَّا: حَرْف شَرْط مَبْنِيّ. زَيْدٌ: مُبْتَدَأ مَرْفُوع. فَ: فَاء الرَّبْط (or وَاقِعَة فِي جَوَاب أَمَّا). كَرِيمٌ: خَبَر مَرْفُوع."
+      ],
+      "keyPoints": [
+        "أَمَّا: حَرْف شَرْط وَتَفْصِيل مَبْنِيّ",
+        "Following noun: typically مُبْتَدَأ",
+        "After فَاء: خَبَر",
+        "فَاء: فَاء الرَّبْط or جَوَاب أَمَّا"
+      ],
+      "examples": [
+        { "arabic": "أَمَّا: حَرْف شَرْط وَتَفْصِيل مَبْنِيّ لَا مَحَلَّ لَهُ", "english": "أَمَّا: conditional particle, indeclinable, no position" },
+        { "arabic": "زَيْدٌ: مُبْتَدَأ مَرْفُوع بِالضَّمَّة", "english": "زَيْدٌ: subject, nominative with damma" },
+        { "arabic": "فَ: فَاء الرَّبْط (أَوْ جَوَاب أَمَّا)", "english": "فَ: connecting fa (or response to أَمَّا)" },
+        { "arabic": "كَرِيمٌ: خَبَر مَرْفُوع بِالضَّمَّة", "english": "كَرِيمٌ: predicate, nominative with damma" }
+      ]
+    },
+    {
+      "title": "Uses of أمّا",
+      "titleArabic": "اسْتِعْمَالَاتُ أَمَّا",
+      "content": [
+        "أَمَّا is used for التَّفْصِيل (detailing/elaboration) - breaking down a topic into parts. It's common when discussing multiple items: أَمَّا الْأَوَّلُ فَكَذَا وَأَمَّا الثَّانِي فَكَذَا.",
+        "It can also be used for التَّوْكِيد (emphasis) and الشَّرْط (condition). The conditional meaning is implicit: 'Whatever else may be, as for X, it is Y.'"
+      ],
+      "keyPoints": [
+        "التَّفْصِيل: detailing multiple items",
+        "التَّوْكِيد: emphasis",
+        "الشَّرْط: implicit condition",
+        "Common for contrasting items"
+      ],
+      "examples": [
+        { "arabic": "أَمَّا الْغَنِيُّ فَيَتَصَدَّقُ وَأَمَّا الْفَقِيرُ فَيَصْبِرُ", "english": "As for the rich, he gives charity; as for the poor, he is patient" },
+        { "arabic": "أَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ", "english": "As for the blessing of your Lord, proclaim it (Quran)" },
+        { "arabic": "أَمَّا السَّفِينَةُ فَكَانَتْ لِمَسَاكِينَ", "english": "As for the ship, it belonged to poor people (Quran)" },
+        { "arabic": "أَمَّا الْجِدَارُ فَكَانَ لِغُلَامَيْنِ يَتِيمَيْنِ", "english": "As for the wall, it belonged to two orphan boys (Quran)" }
+      ]
+    },
+    {
+      "title": "أمّا in the Quran",
+      "titleArabic": "أَمَّا فِي الْقُرْآنِ",
+      "content": [
+        "أَمَّا appears extensively in the Quran, especially in Surah Al-Layl (92) and Surah Ad-Duha (93). It structures the discourse by presenting contrasting scenarios or detailing various aspects.",
+        "In Surah Al-Kahf (18:79-82), أَمَّا is used three times to explain Khidr's actions: أَمَّا السَّفِينَةُ... أَمَّا الْغُلَامُ... وَأَمَّا الْجِدَارُ..."
+      ],
+      "keyPoints": [
+        "Extensive in Quran",
+        "Surah Al-Layl: فَأَمَّا... وَأَمَّا...",
+        "Surah Al-Kahf: three uses explaining Khidr",
+        "Structures Quranic discourse"
+      ],
+      "examples": [
+        { "arabic": "فَأَمَّا مَنْ أَعْطَى وَاتَّقَى... فَسَنُيَسِّرُهُ لِلْيُسْرَى", "english": "As for who gives and fears... We will ease him to ease (92:5-7)" },
+        { "arabic": "وَأَمَّا مَنْ بَخِلَ وَاسْتَغْنَى... فَسَنُيَسِّرُهُ لِلْعُسْرَى", "english": "As for who withholds and thinks himself free... We will ease him to hardship (92:8-10)" },
+        { "arabic": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ", "english": "As for the orphan, do not oppress (93:9)" },
+        { "arabic": "وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ", "english": "As for the petitioner, do not repel (93:10)" }
+      ]
+    },
+    {
+      "title": "Difference from إمّا",
+      "titleArabic": "الْفَرْقُ بَيْنَ أَمَّا وَإِمَّا",
+      "content": [
+        "أَمَّا (with فَتْحَة on hamza) differs from إِمَّا (with كَسْرَة). أَمَّا is for التَّفْصِيل (detailing) and requires فَاء. إِمَّا is for التَّخْيِير أَوْ الشَّكّ (choice or doubt) and uses أَوْ.",
+        "Compare: أَمَّا زَيْدٌ فَذَهَبَ وَأَمَّا عَمْرٌو فَبَقِيَ (detailing) vs. جَاءَ إِمَّا زَيْدٌ وَإِمَّا عَمْرٌو (one of them came - doubt/choice)."
+      ],
+      "keyPoints": [
+        "أَمَّا (فَتْحَة): detailing, requires فَاء",
+        "إِمَّا (كَسْرَة): choice/doubt, uses أَوْ or إِمَّا...إِمَّا",
+        "Different meanings and structures",
+        "Must not be confused"
+      ],
+      "examples": [
+        { "arabic": "أَمَّا زَيْدٌ فَذَهَبَ (تَفْصِيل)", "english": "As for Zayd, he went (detailing)" },
+        { "arabic": "إِمَّا زَيْدٌ وَإِمَّا عَمْرٌو جَاءَ (تَخْيِير)", "english": "Either Zayd or Amr came (choice)" },
+        { "arabic": "إِمَّا شَاكِرًا وَإِمَّا كَفُورًا (الإنسان: ٣)", "english": "Either grateful or ungrateful (76:3)" },
+        { "arabic": "فَأَمَّا الَّذِينَ آمَنُوا فَيَعْلَمُونَ (تَفْصِيل)", "english": "As for those who believe, they know (detailing)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l91-ex01",
+      "type": "fill-blank",
+      "prompt": "أَمَّا زَيْدٌ فَكَرِيمٌ - الْفَاءُ هُنَا تُسَمَّى فَاءَ _____",
+      "promptEn": "أَمَّا زَيْدٌ فَكَرِيمٌ - the فَاء here is called فَاء of _____",
+      "answer": "الرَّبْطِ",
+      "itemIds": ["word-b3-583"]
+    },
+    {
+      "id": "b3-l91-ex02",
+      "type": "fill-blank",
+      "prompt": "الْفَاءُ بَعْدَ أَمَّا _____ (واجبة/جائزة)",
+      "promptEn": "The فَاء after أَمَّا is _____ (obligatory/permissible)",
+      "answer": "وَاجِبَةٌ",
+      "itemIds": ["word-b3-584"]
+    },
+    {
+      "id": "b3-l91-ex03",
+      "type": "fill-blank",
+      "prompt": "أَمَّا حَرْفُ _____ وَتَفْصِيل",
+      "promptEn": "أَمَّا is a particle of _____ and detailing",
+      "answer": "شَرْطٍ",
+      "itemIds": ["word-b3-585"]
+    },
+    {
+      "id": "b3-l91-ex04",
+      "type": "fill-blank",
+      "prompt": "مَعْنَى أَمَّا هُوَ: مَهْمَا يَكُنْ مِنْ _____",
+      "promptEn": "The meaning of أَمَّا is: whatever the _____ may be",
+      "answer": "شَيْءٍ",
+      "itemIds": ["word-b3-586"]
+    },
+    {
+      "id": "b3-l91-ex05",
+      "type": "fill-blank",
+      "prompt": "أَمَّا (بِالْفَتْحَةِ) لِلتَّفْصِيلِ، وَإِمَّا (بِالْكَسْرَةِ) لِلتَّخْيِيرِ أَوْ _____",
+      "promptEn": "أَمَّا (with fatha) is for detailing, while إِمَّا (with kasra) is for choice or _____",
+      "answer": "الشَّكِّ",
+      "itemIds": ["word-b3-587"]
+    },
+    {
+      "id": "b3-l91-ex06",
+      "type": "fill-blank",
+      "prompt": "فَأَمَّا الْيَتِيمَ _____ تَقْهَرْ (سورة الضحى)",
+      "promptEn": "As for the orphan, _____ oppress (Surah Ad-Duha)",
+      "answer": "فَلَا",
+      "itemIds": ["word-b3-583"]
+    },
+    {
+      "id": "b3-l91-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَمَّا الشَّرْطِيَّةُ",
+      "answer": "The conditional أَمَّا (particle meaning 'as for')",
+      "itemIds": ["word-b3-583"]
+    },
+    {
+      "id": "b3-l91-ex08",
+      "type": "word-to-meaning",
+      "prompt": "فَاءُ الرَّبْطِ",
+      "answer": "The connecting فَاء (obligatory after أَمَّا)",
+      "itemIds": ["word-b3-584"]
+    },
+    {
+      "id": "b3-l91-ex09",
+      "type": "word-to-meaning",
+      "prompt": "أَمَّا زَيْدٌ فَكَرِيمٌ",
+      "answer": "As for Zayd, he is generous",
+      "itemIds": ["word-b3-583"]
+    },
+    {
+      "id": "b3-l91-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The particle that means 'as for' and requires فَاء",
+      "answer": "أَمَّا",
+      "itemIds": ["word-b3-583"]
+    },
+    {
+      "id": "b3-l91-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Complete: 'As for the orphan, do not oppress' from Surah Ad-Duha",
+      "answer": "فَأَمَّا الْيَتِيمَ فَلَا تَقْهَرْ",
+      "itemIds": ["word-b3-583"]
+    },
+    {
+      "id": "b3-l91-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The grammatical term for the function of أَمَّا in breaking down topics",
+      "answer": "التَّفْصِيلُ",
+      "itemIds": ["word-b3-586"]
+    }
+  ]
+}

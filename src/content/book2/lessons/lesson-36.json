@@ -1,0 +1,139 @@
+{
+  "id": "b2-l36",
+  "book": 2,
+  "lesson": 36,
+  "title": "الصِّفَةُ الْمُشَبَّهَة",
+  "titleEn": "Resembling Adjective",
+  "description": "Learn permanent quality adjectives: حَسَن (good), كَرِيم (generous), شُجَاع (brave).",
+  "vocabulary": ["word-b2-293", "word-b2-294", "word-b2-295", "word-b2-296", "word-b2-297", "word-b2-298"],
+  "grammarPoints": ["gp-b2-035"],
+  "notes": [
+    {
+      "title": "The Resembling Adjective (الصفة المشبهة)",
+      "titleArabic": "الصفة المشبهة",
+      "content": [
+        "The resembling adjective (الصفة المشبهة) is derived from intransitive verbs and describes permanent qualities or characteristics.",
+        "Unlike the active participle which describes temporary states, the resembling adjective indicates inherent, lasting qualities."
+      ],
+      "keyPoints": [
+        "Derived mainly from Form I intransitive verbs",
+        "Indicates permanent qualities (not temporary actions)",
+        "Multiple patterns: فَعِيل، فَعَل، فَعْل، فُعَال، أَفْعَل",
+        "Resembles the active participle in function but differs in meaning"
+      ],
+      "examples": [
+        { "arabic": "كَرِيمٌ", "english": "generous (permanent trait)" },
+        { "arabic": "شُجَاعٌ", "english": "brave (permanent trait)" },
+        { "arabic": "حَسَنٌ", "english": "good / beautiful" },
+        { "arabic": "صَعْبٌ", "english": "difficult" }
+      ]
+    },
+    {
+      "title": "Common Patterns",
+      "titleArabic": "الأوزان الشائعة",
+      "content": [
+        "The resembling adjective follows several patterns, each indicating a particular type of permanent quality.",
+        "These adjectives can take the regular adjective agreement rules for gender and number."
+      ],
+      "keyPoints": [
+        "فَعِيل: كَرِيم، عَظِيم، جَمِيل (noble, great, beautiful)",
+        "فَعَل: حَسَن، بَطَل (good, hero)",
+        "فَعْل: صَعْب، سَهْل (difficult, easy)",
+        "فُعَال: شُجَاع، طُوَال (brave, tall)",
+        "أَفْعَل: أَحْمَر، أَعْرَج (red, lame)"
+      ],
+      "examples": [
+        { "arabic": "هُوَ رَجُلٌ كَرِيمٌ", "english": "He is a generous man" },
+        { "arabic": "هِيَ اِمْرَأَةٌ شُجَاعَةٌ", "english": "She is a brave woman" },
+        { "arabic": "الدَّرْسُ سَهْلٌ", "english": "The lesson is easy" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l36-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He is generous",
+      "answer": "هُوَ كَرِيمٌ",
+      "itemIds": ["word-b2-293"]
+    },
+    {
+      "id": "b2-l36-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The soldier is brave",
+      "answer": "الْجُنْدِيُّ شُجَاعٌ",
+      "itemIds": ["word-b2-294"]
+    },
+    {
+      "id": "b2-l36-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The lesson is easy",
+      "answer": "الدَّرْسُ سَهْلٌ",
+      "itemIds": ["word-b2-295"]
+    },
+    {
+      "id": "b2-l36-ex04",
+      "type": "fill-blank",
+      "prompt": "هُوَ رَجُلٌ _____ يُسَاعِدُ الْفُقَرَاءَ",
+      "promptEn": "He is a _____ man who helps the poor",
+      "answer": "كَرِيمٌ",
+      "itemIds": ["word-b2-293"]
+    },
+    {
+      "id": "b2-l36-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كَرِيمٌ",
+      "answer": "generous / noble",
+      "itemIds": ["word-b2-293"]
+    },
+    {
+      "id": "b2-l36-ex06",
+      "type": "word-to-meaning",
+      "prompt": "شُجَاعٌ",
+      "answer": "brave / courageous",
+      "itemIds": ["word-b2-294"]
+    },
+    {
+      "id": "b2-l36-ex07",
+      "type": "word-to-meaning",
+      "prompt": "سَهْلٌ",
+      "answer": "easy",
+      "itemIds": ["word-b2-295"]
+    },
+    {
+      "id": "b2-l36-ex08",
+      "type": "word-to-meaning",
+      "prompt": "صَعْبٌ",
+      "answer": "difficult",
+      "itemIds": ["word-b2-296"]
+    },
+    {
+      "id": "b2-l36-ex09",
+      "type": "meaning-to-word",
+      "prompt": "beautiful",
+      "answer": "جَمِيلٌ",
+      "itemIds": ["word-b2-297"]
+    },
+    {
+      "id": "b2-l36-ex10",
+      "type": "meaning-to-word",
+      "prompt": "great / magnificent",
+      "answer": "عَظِيمٌ",
+      "itemIds": ["word-b2-298"]
+    },
+    {
+      "id": "b2-l36-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "This question is difficult",
+      "answer": "هَذَا السُّؤَالُ صَعْبٌ",
+      "itemIds": ["word-b2-296"]
+    },
+    {
+      "id": "b2-l36-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "She is beautiful",
+      "answer": "هِيَ جَمِيلَةٌ",
+      "itemIds": ["word-b2-297"]
+    }
+  ]
+}

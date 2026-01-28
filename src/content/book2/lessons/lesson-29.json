@@ -1,0 +1,169 @@
+{
+  "id": "b2-l29",
+  "book": 2,
+  "lesson": 29,
+  "title": "الفِعْل فِي البَاب الثَّامِن",
+  "titleEn": "Form VIII Verbs (اِفْتَعَلَ)",
+  "vocabulary": [
+    "word-b2-151",
+    "word-b2-152",
+    "word-b2-153",
+    "word-b2-154",
+    "word-b2-155"
+  ],
+  "grammarPoints": ["gp-b2-029"],
+  "notes": [
+    {
+      "title": "Form VIII Verbs (اِفْتَعَلَ)",
+      "titleArabic": "الفعل في الباب الثامن",
+      "content": [
+        "Form VIII verbs follow the pattern اِفْتَعَلَ - يَفْتَعِلُ. This form typically indicates reflexive action, mutual action, or effort/struggle in doing something.",
+        "The distinguishing feature is the infixed ت (ta) after the first radical."
+      ],
+      "keyPoints": [
+        "Past pattern: اِفْتَعَلَ (e.g., اِجْتَمَعَ)",
+        "Present pattern: يَفْتَعِلُ (e.g., يَجْتَمِعُ)",
+        "Meanings: Reflexive, mutual, effort, or acquiring",
+        "جَمَعَ (he gathered) → اِجْتَمَعَ (they gathered together)",
+        "سَمِعَ (he heard) → اِسْتَمَعَ (he listened attentively)"
+      ],
+      "examples": [
+        { "arabic": "اِجْتَمَعَ الطُّلَّابُ", "english": "The students gathered" },
+        { "arabic": "اِسْتَمَعَ إِلَى الْمُعَلِّمِ", "english": "He listened to the teacher" },
+        { "arabic": "اِخْتَارَ الْكِتَابَ", "english": "He chose the book" },
+        { "arabic": "اِسْتَعَدَّ لِلاِمْتِحَانِ", "english": "He prepared for the exam" }
+      ]
+    },
+    {
+      "title": "Common Form VIII Verbs",
+      "titleArabic": "أفعال شائعة من الباب الثامن",
+      "content": [
+        "Many commonly used Arabic verbs belong to Form VIII."
+      ],
+      "keyPoints": [
+        "اِجْتَمَعَ (to gather/meet)",
+        "اِسْتَمَعَ (to listen)",
+        "اِخْتَارَ (to choose)",
+        "اِفْتَخَرَ (to be proud/boast)",
+        "اِحْتَرَمَ (to respect)",
+        "اِنْتَظَرَ (to wait)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l29-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الطُّلاَّبُ لِلاِمْتِحَانِ (اِسْتَعَدَّ)",
+      "answer": "اِسْتَعَدَّ",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He listened to the teacher",
+      "answer": "اِسْتَمَعَ إِلَى المُعَلِّمِ",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الجَمَاعَةُ فِي المَسْجِدِ (اِجْتَمَعَ)",
+      "answer": "اِجْتَمَعَتْ",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِخْتَارَ",
+      "answer": "to choose/select",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to gather/meet",
+      "answer": "اِجْتَمَعَ",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He chose the best book",
+      "answer": "اِخْتَارَ أَحْسَنَ كِتَابٍ",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ لِلدَّرْسِ (يَسْتَعِدُّ)",
+      "answer": "يَسْتَعِدُّ",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِفْتَخَرَ",
+      "answer": "to be proud/boast",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "The people gathered",
+      "answer": "اِجْتَمَعَ النَّاسُ",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ بِعِلْمِهِ (اِفْتَخَرَ)",
+      "answer": "اِفْتَخَرَ",
+      "itemIds": [
+        "word-b2-151",
+        "word-b2-152"
+      ]
+    },
+    {
+      "id": "b2-l29-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The students gathered in the mosque for the lesson",
+      "answer": "اِجْتَمَعَ الطُّلَّابُ فِي الْمَسْجِدِ لِلدَّرْسِ",
+      "itemIds": ["word-b2-153", "word-b2-019", "word-046", "word-007", "word-b2-065"]
+    },
+    {
+      "id": "b2-l29-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He chose the best answer for the question",
+      "answer": "اِخْتَارَ أَحْسَنَ إِجَابَةٍ لِلسُّؤَالِ",
+      "itemIds": ["word-b2-154", "word-b2-056"]
+    }
+  ]
+}

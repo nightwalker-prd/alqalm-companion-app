@@ -1,0 +1,141 @@
+{
+  "id": "b3-l49",
+  "book": 3,
+  "lesson": 49,
+  "title": "مَا وَلَا وَإِنْ الْمُشَبَّهَات بِلَيْسَ",
+  "titleEn": "Particles Resembling Laysa",
+  "description": "Learn how مَا، لَا، and إِنْ can negate like لَيْسَ, making the subject nominative and predicate accusative.",
+  "vocabulary": ["word-b3-345", "word-b3-346", "word-b3-347", "word-b3-348", "word-b3-349", "word-b3-350"],
+  "grammarPoints": ["gp-b3-060", "gp-b3-061"],
+  "notes": [
+    {
+      "title": "مَا as Laysa",
+      "titleArabic": "ما العاملة عمل ليس",
+      "content": [
+        "مَا can work like لَيْسَ, negating nominal sentences with subject in nominative and predicate in accusative.",
+        "This is called مَا الْحِجَازِيَّة because the Hijazi dialect used it this way."
+      ],
+      "keyPoints": [
+        "مَا هَذَا بَشَرًا (This is not a human)",
+        "Predicate takes accusative like with لَيْسَ",
+        "Called مَا الحِجَازِيَّة (Hijazi مَا)",
+        "Conditions: predicate cannot precede subject, no إِلَّا"
+      ],
+      "examples": [
+        { "arabic": "مَا هَذَا بَشَرًا", "english": "This is not a human" },
+        { "arabic": "مَا مُحَمَّدٌ كَاذِبًا", "english": "Muhammad is not a liar" },
+        { "arabic": "مَا الْحَيَاةُ إِلَّا لَعِبٌ", "english": "Life is nothing but play (إِلَّا cancels)" },
+        { "arabic": "مَا هُنَّ أُمَّهَاتِهِمْ", "english": "They are not their mothers" }
+      ]
+    },
+    {
+      "title": "لَا and إِنْ as Laysa",
+      "titleArabic": "لا وإن العاملتان عمل ليس",
+      "content": [
+        "لَا النَّافِيَة لِلْجِنْس can also work like لَيْسَ in certain constructions.",
+        "إِنْ can work like لَيْسَ meaning 'not', though this is rare: إِنْ هَذَا إِلَّا سِحْرٌ (This is nothing but magic)."
+      ],
+      "keyPoints": [
+        "لَا رَجُلَ أَفْضَلُ مِنْهُ (No man is better than him)",
+        "إِنْ = مَا (negation): إِنْ هُوَ إِلَّا نَذِيرٌ",
+        "Both follow similar conditions as مَا",
+        "Common in Quranic Arabic"
+      ],
+      "examples": [
+        { "arabic": "لَا رَجُلَ أَفْضَلُ مِنْهُ", "english": "No man is better than him" },
+        { "arabic": "لَا إِلَهَ إِلَّا اللهُ", "english": "There is no god but Allah" },
+        { "arabic": "إِنْ هُوَ إِلَّا نَذِيرٌ", "english": "He is nothing but a warner" },
+        { "arabic": "إِنْ هَذَا إِلَّا سِحْرٌ مُبِينٌ", "english": "This is nothing but clear magic" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l49-ex01",
+      "type": "fill-blank",
+      "prompt": "مَا _____ بَشَرًا",
+      "promptEn": "This is not a _____",
+      "answer": "هَذَا",
+      "itemIds": ["word-b3-345"]
+    },
+    {
+      "id": "b3-l49-ex02",
+      "type": "fill-blank",
+      "prompt": "لَا _____ أَفْضَلُ مِنْهُ",
+      "promptEn": "No _____ is better than him",
+      "answer": "رَجُلَ",
+      "itemIds": ["word-b3-346"]
+    },
+    {
+      "id": "b3-l49-ex03",
+      "type": "fill-blank",
+      "prompt": "إِنْ هُوَ إِلَّا _____",
+      "promptEn": "He is nothing but a _____",
+      "answer": "نَذِيرٌ",
+      "itemIds": ["word-b3-347"]
+    },
+    {
+      "id": "b3-l49-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "Muhammad is not a liar",
+      "answer": "مَا مُحَمَّدٌ كَاذِبًا",
+      "itemIds": ["word-b3-348"]
+    },
+    {
+      "id": "b3-l49-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "There is no god but Allah",
+      "answer": "لَا إِلَهَ إِلَّا اللهُ",
+      "itemIds": ["word-b3-349"]
+    },
+    {
+      "id": "b3-l49-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "This is nothing but clear magic",
+      "answer": "إِنْ هَذَا إِلَّا سِحْرٌ مُبِينٌ",
+      "itemIds": ["word-b3-350"]
+    },
+    {
+      "id": "b3-l49-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "No woman is more patient than her",
+      "answer": "لَا امْرَأَةَ أَصْبَرُ مِنْهَا",
+      "itemIds": ["word-b3-346"]
+    },
+    {
+      "id": "b3-l49-ex08",
+      "type": "word-to-meaning",
+      "prompt": "بَشَرٌ",
+      "answer": "human being",
+      "itemIds": ["word-b3-345"]
+    },
+    {
+      "id": "b3-l49-ex09",
+      "type": "word-to-meaning",
+      "prompt": "نَذِيرٌ",
+      "answer": "warner",
+      "itemIds": ["word-b3-347"]
+    },
+    {
+      "id": "b3-l49-ex10",
+      "type": "word-to-meaning",
+      "prompt": "كَاذِبٌ",
+      "answer": "liar",
+      "itemIds": ["word-b3-348"]
+    },
+    {
+      "id": "b3-l49-ex11",
+      "type": "meaning-to-word",
+      "prompt": "god / deity",
+      "answer": "إِلَهٌ",
+      "itemIds": ["word-b3-349"]
+    },
+    {
+      "id": "b3-l49-ex12",
+      "type": "meaning-to-word",
+      "prompt": "magic",
+      "answer": "سِحْرٌ",
+      "itemIds": ["word-b3-350"]
+    }
+  ]
+}

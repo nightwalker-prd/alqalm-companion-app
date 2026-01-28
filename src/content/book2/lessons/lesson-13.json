@@ -1,0 +1,130 @@
+{
+  "id": "b2-l13",
+  "book": 2,
+  "lesson": 13,
+  "title": "الْمُضَارِعُ الْمَجْزُوم",
+  "titleEn": "Jussive Mood",
+  "description": "Learn jussive with لَمْ, لَمَّا, لَا (prohibition): لَمْ يَذْهَبْ (he did not go), لَمَّا يَكْتُبْ (he has not yet written).",
+  "vocabulary": ["word-b2-070", "word-b2-071", "word-b2-072", "word-b2-073"],
+  "grammarPoints": ["gp-b2-013"],
+  "notes": [
+    {
+      "title": "The Jussive Mood (المضارع المجزوم)",
+      "titleArabic": "المضارع المجزوم",
+      "content": [
+        "The jussive mood (مجزوم) is triggered by specific particles. The verb loses its final vowel, taking sukūn instead.",
+        "The main particles that cause the jussive are: لَمْ (did not), لَمَّا (not yet), لَا الناهية (prohibitive don't), and conditional particles."
+      ],
+      "keyPoints": [
+        "لَمْ - 'did not' (negates past): لَمْ يَذْهَبْ (He did not go)",
+        "لَمَّا - 'not yet': لَمَّا يَكْتُبْ (He has not yet written)",
+        "The verb ending changes: يَذْهَبُ → لَمْ يَذْهَبْ",
+        "For the five verbs (الأفعال الخمسة), the نون is dropped: يَذْهَبُونَ → لَمْ يَذْهَبُوا"
+      ],
+      "examples": [
+        { "arabic": "لَمْ يَذْهَبْ", "english": "He did not go" },
+        { "arabic": "لَمَّا يَكْتُبْ", "english": "He has not yet written" },
+        { "arabic": "لَمْ أَفْهَمْ", "english": "I did not understand" }
+      ]
+    },
+    {
+      "title": "Difference Between لَمْ and لَمَّا",
+      "titleArabic": "الفرق بين لَمْ ولَمَّا",
+      "content": [
+        "Both particles negate past actions, but لَمَّا implies the action is still expected to happen."
+      ],
+      "keyPoints": [
+        "لَمْ - simple past negation: لَمْ يَحْضُرْ (He did not attend)",
+        "لَمَّا - not yet, expected later: لَمَّا يَحْضُرْ (He has not attended yet)",
+        "لَمَّا implies continuation of the non-occurrence up to now"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l13-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He did not go",
+      "answer": "لَمْ يَذْهَبْ",
+      "itemIds": ["word-b2-070"]
+    },
+    {
+      "id": "b2-l13-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He has not yet written",
+      "answer": "لَمَّا يَكْتُبْ",
+      "itemIds": ["word-b2-071"]
+    },
+    {
+      "id": "b2-l13-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "She did not read",
+      "answer": "لَمْ تَقْرَأْ",
+      "itemIds": ["word-b2-070"]
+    },
+    {
+      "id": "b2-l13-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ يَجْلِسْ فِي الْفَصْلِ",
+      "promptEn": "He did not sit in the classroom",
+      "answer": "لَمْ",
+      "itemIds": ["word-b2-070"]
+    },
+    {
+      "id": "b2-l13-ex05",
+      "type": "word-to-meaning",
+      "prompt": "لَمْ",
+      "answer": "did not (past negation, jussive)",
+      "itemIds": ["word-b2-070"]
+    },
+    {
+      "id": "b2-l13-ex06",
+      "type": "word-to-meaning",
+      "prompt": "لَمَّا",
+      "answer": "not yet",
+      "itemIds": ["word-b2-071"]
+    },
+    {
+      "id": "b2-l13-ex07",
+      "type": "word-to-meaning",
+      "prompt": "لَمْ يَذْهَبْ",
+      "answer": "he did not go",
+      "itemIds": ["word-b2-070"]
+    },
+    {
+      "id": "b2-l13-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَمَّا يَكْتُبْ",
+      "answer": "he has not yet written",
+      "itemIds": ["word-b2-071"]
+    },
+    {
+      "id": "b2-l13-ex09",
+      "type": "meaning-to-word",
+      "prompt": "did not (jussive particle)",
+      "answer": "لَمْ",
+      "itemIds": ["word-b2-070"]
+    },
+    {
+      "id": "b2-l13-ex10",
+      "type": "meaning-to-word",
+      "prompt": "not yet (jussive particle)",
+      "answer": "لَمَّا",
+      "itemIds": ["word-b2-071"]
+    },
+    {
+      "id": "b2-l13-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I did not understand the lesson",
+      "answer": "لَمْ أَفْهَمِ الدَّرْسَ",
+      "itemIds": ["word-b2-070", "word-b2-072", "word-b2-065"]
+    },
+    {
+      "id": "b2-l13-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The student has not yet finished his homework",
+      "answer": "لَمَّا يُنْهِ الطَّالِبُ وَاجِبَهُ",
+      "itemIds": ["word-b2-071", "word-005", "word-093"]
+    }
+  ]
+}

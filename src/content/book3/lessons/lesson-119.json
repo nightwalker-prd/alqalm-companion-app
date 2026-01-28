@@ -1,0 +1,162 @@
+{
+  "id": "b3-l119",
+  "book": 3,
+  "lesson": 119,
+  "title": "أَدَوَاتُ الشَّرْطِ الْمُتَقَدِّمَة",
+  "titleEn": "Advanced Conditional Particles",
+  "description": "لمّا الحينية، كلّما، أين، أنّى، حيثما، أيّان، and مهما - temporal and locative conditional particles",
+  "vocabulary": ["word-b3-723", "word-b3-724", "word-b3-725", "word-b3-726", "word-b3-727"],
+  "grammarPoints": ["gp-b3-200", "gp-b3-201"],
+  "notes": [
+    {
+      "title": "لمّا الحينية (Temporal 'When')",
+      "titleArabic": "لمّا الحينية",
+      "content": [
+        "لمّا الحينية means 'when' and introduces a temporal clause. It differs from لمّا الجازمة which means 'not yet'. The حينية type is followed by a past tense verb and indicates that the main clause occurred at the time of the conditional clause.",
+        "Both فعل الشرط and جواب الشرط are typically in the past tense (ماضٍ). The جواب follows immediately after the شرط."
+      ],
+      "examples": [
+        { "arabic": "لَمَّا جَاءَ زَيْدٌ أَكْرَمْتُهُ", "english": "When Zayd came, I honored him" },
+        { "arabic": "لَمَّا رَأَيْتُهُ سَلَّمْتُ عَلَيْهِ", "english": "When I saw him, I greeted him" }
+      ]
+    },
+    {
+      "title": "كُلَّمَا (Whenever - Repetition)",
+      "titleArabic": "كلّما للتكرار",
+      "content": [
+        "كُلَّمَا indicates repeated action - 'whenever' or 'every time that'. It is composed of كُلّ (every) + ما (what). It emphasizes that the response happens EVERY time the condition occurs.",
+        "Both verbs are typically past tense. كلّما is ظرف زمان منصوب (accusative adverb of time)."
+      ],
+      "examples": [
+        { "arabic": "كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَ", "english": "Whenever Zakariyya entered the sanctuary (Quran 3:37)" },
+        { "arabic": "كُلَّمَا جِئْتُكَ وَجَدْتُكَ مَشْغُولاً", "english": "Whenever I come to you, I find you busy" }
+      ]
+    },
+    {
+      "title": "أَيْنَ وَأَيْنَمَا (Wherever)",
+      "titleArabic": "أين وأينما للمكان",
+      "content": [
+        "أَيْنَ and أَيْنَمَا are conditional adverbs of place meaning 'wherever'. They introduce a condition based on location. Both can cause jazm (جزم) to the verbs that follow.",
+        "أينما is أين + ما الزائدة for emphasis. Both take مضارع مجزوم in both clauses."
+      ],
+      "examples": [
+        { "arabic": "أَيْنَمَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ", "english": "Wherever you are, death will reach you (Quran 4:78)" },
+        { "arabic": "أَيْنَ تَذْهَبْ أَذْهَبْ مَعَكَ", "english": "Wherever you go, I go with you" }
+      ]
+    },
+    {
+      "title": "أَنَّى وَحَيْثُمَا (Wherever/However)",
+      "titleArabic": "أنّى وحيثما",
+      "content": [
+        "أَنَّى means 'wherever' or 'however' - it can indicate place or manner. حَيْثُمَا specifically means 'wherever' (place only). Both are conditional and can cause jazm.",
+        "أنّى appears in the Quran in various meanings. حيثما is حيث + ما الزائدة."
+      ],
+      "examples": [
+        { "arabic": "أَنَّى شِئْتُمْ", "english": "However/wherever you wish (Quran 2:223)" },
+        { "arabic": "حَيْثُمَا تَجْلِسْ أَجْلِسْ", "english": "Wherever you sit, I will sit" }
+      ]
+    },
+    {
+      "title": "أَيَّانَ (Whenever - Future Time)",
+      "titleArabic": "أيّان للزمان المستقبل",
+      "content": [
+        "أَيَّانَ is an interrogative and conditional particle meaning 'when?' (future) or 'whenever'. It is used for future time, unlike متى which can be past or future.",
+        "In conditional usage, it causes jazm. It appears in Quranic contexts asking about the Day of Judgment."
+      ],
+      "examples": [
+        { "arabic": "يَسْأَلُونَ أَيَّانَ يَوْمُ الدِّينِ", "english": "They ask: 'When is the Day of Judgment?' (Quran 51:12)" },
+        { "arabic": "أَيَّانَ تَأْتِ أُكْرِمْكَ", "english": "Whenever you come, I will honor you" }
+      ]
+    },
+    {
+      "title": "مَهْمَا (Whatever/No matter what)",
+      "titleArabic": "مهما",
+      "content": [
+        "مَهْمَا means 'whatever' or 'no matter what'. It is a conditional particle that causes jazm. It refers to non-rational things (unlike مَنْ which is for people).",
+        "مهما is likely derived from ما + ما (what + what), with the second ما becoming ه for ease of pronunciation."
+      ],
+      "examples": [
+        { "arabic": "مَهْمَا تَأْتِنَا بِهِ مِنْ آيَةٍ", "english": "Whatever sign you bring us (Quran 7:132)" },
+        { "arabic": "مَهْمَا تَفْعَلْ فَأَنْتَ مَسْؤُولٌ", "english": "Whatever you do, you are responsible" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l119-ex01",
+      "type": "irab",
+      "question": "أعرب: لمّا جاءَ النصرُ فرحَ المؤمنون",
+      "answer": "لمّا: ظرف زمان بمعنى حين، مبني على السكون. جاءَ: فعل ماضٍ. النصرُ: فاعل مرفوع. فرحَ: فعل ماضٍ (جواب لمّا). المؤمنون: فاعل مرفوع بالواو."
+    },
+    {
+      "id": "b3-l119-ex02",
+      "type": "irab",
+      "question": "أعرب: كلّما رأيتُهُ ازددتُ حبًّا",
+      "answer": "كلّما: كلّ ظرف زمان منصوب، وما مصدرية. رأيتُهُ: فعل وفاعل ومفعول به. ازددتُ: فعل وفاعل (جواب كلّما). حبًّا: تمييز منصوب."
+    },
+    {
+      "id": "b3-l119-ex03",
+      "type": "irab",
+      "question": "أعرب: أينما تكونوا يُدرككم الموتُ",
+      "answer": "أينما: اسم شرط جازم مبني في محل نصب ظرف مكان. تكونوا: فعل الشرط مضارع مجزوم بحذف النون. يُدركْكم: جواب الشرط مجزوم. الموتُ: فاعل مرفوع."
+    },
+    {
+      "id": "b3-l119-ex04",
+      "type": "irab",
+      "question": "أعرب: حيثما تجلسْ أجلسْ",
+      "answer": "حيثما: اسم شرط جازم في محل نصب ظرف مكان. تجلسْ: فعل الشرط مجزوم بالسكون. أجلسْ: جواب الشرط مجزوم بالسكون."
+    },
+    {
+      "id": "b3-l119-ex05",
+      "type": "irab",
+      "question": "أعرب: مهما تفعلْ من خيرٍ تُجْزَ به",
+      "answer": "مهما: اسم شرط جازم مبني في محل رفع مبتدأ. تفعلْ: فعل الشرط مجزوم. من خيرٍ: جار ومجرور. تُجْزَ: جواب الشرط مجزوم بحذف حرف العلة. به: جار ومجرور."
+    },
+    {
+      "id": "b3-l119-ex06",
+      "type": "irab",
+      "question": "أعرب: أيّانَ تسافرْ أسافرْ معكَ",
+      "answer": "أيّانَ: اسم شرط جازم مبني في محل نصب ظرف زمان. تسافرْ: فعل الشرط مجزوم. أسافرْ: جواب الشرط مجزوم. معكَ: ظرف مكان متعلق بأسافر، والكاف مضاف إليه."
+    },
+    {
+      "id": "b3-l119-ex07",
+      "type": "irab",
+      "question": "أعرب: أنّى تذهبْ تجدْ رزقَكَ",
+      "answer": "أنّى: اسم شرط جازم مبني في محل نصب ظرف مكان. تذهبْ: فعل الشرط مجزوم. تجدْ: جواب الشرط مجزوم. رزقَكَ: مفعول به منصوب، والكاف مضاف إليه."
+    },
+    {
+      "id": "b3-l119-ex08",
+      "type": "irab",
+      "question": "أعرب: كلّما أضاءَ لهم مشَوْا فيه",
+      "answer": "كلّما: ظرف زمان. أضاءَ: فعل ماضٍ، والفاعل ضمير مستتر (البرق). لهم: جار ومجرور. مشَوْا: فعل ماضٍ مبني على الضم المقدر، والواو فاعل. فيه: جار ومجرور."
+    },
+    {
+      "id": "b3-l119-ex09",
+      "type": "multipleChoice",
+      "question": "ما الفرق بين 'لمّا الحينية' و'لمّا الجازمة'؟",
+      "options": ["لا فرق بينهما", "الحينية بمعنى 'حين' والجازمة بمعنى 'لم'", "الحينية للمكان والجازمة للزمان", "الحينية للمستقبل والجازمة للماضي"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "b3-l119-ex10",
+      "type": "multipleChoice",
+      "question": "كلّما تدل على:",
+      "options": ["الشرط مرة واحدة", "تكرار الشرط والجواب", "النفي", "الاستفهام"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "b3-l119-ex11",
+      "type": "multipleChoice",
+      "question": "أيّان تستخدم للسؤال عن:",
+      "options": ["المكان", "الزمان المستقبل", "السبب", "الحال"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "b3-l119-ex12",
+      "type": "multipleChoice",
+      "question": "مهما تستخدم لـ:",
+      "options": ["العاقل فقط", "غير العاقل فقط", "المكان", "الزمان"],
+      "correctAnswer": 1
+    }
+  ]
+}

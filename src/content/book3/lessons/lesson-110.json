@@ -1,0 +1,224 @@
+{
+  "id": "b3-l110",
+  "book": 3,
+  "lesson": 110,
+  "title": "أَسْمَاءُ الأَصْوَاتِ",
+  "titleEn": "Names of Sounds (أسماء الأصوات)",
+  "description": "Learn about أسماء الأصوات - special indeclinable words used for animal sounds, calls, and non-verbal human expressions in classical Arabic grammar.",
+  "vocabulary": ["word-b3-678", "word-b3-679", "word-b3-680", "word-b3-681", "word-b3-682"],
+  "grammarPoints": ["gp-b3-182", "gp-b3-183"],
+  "notes": [
+    {
+      "title": "What are أسماء الأصوات?",
+      "titleArabic": "مَا هِيَ أَسْمَاءُ الأَصْوَاتِ؟",
+      "content": [
+        "أَسْمَاء الأَصْوَات are words that represent sounds - both sounds used to call animals and sounds that express emotions or reactions (like interjections in English).",
+        "They are مَبْنِيَّة (indeclinable) and have no إِعْرَاب. They don't function as regular nouns, verbs, or particles in the sentence structure."
+      ],
+      "keyPoints": [
+        "Words representing sounds",
+        "For animal calls and reactions",
+        "مَبْنِيَّة (indeclinable)",
+        "No regular grammatical role"
+      ],
+      "examples": [
+        { "arabic": "صَهْ (اسكت)", "english": "صَهْ - Be quiet! (sound of silencing)" },
+        { "arabic": "هَيْهَاتَ (البُعْد)", "english": "هَيْهَات - Far be it! (expressing distance)" },
+        { "arabic": "آهِ / أَوَّاهُ (التوجع)", "english": "آهِ - Alas! (expressing pain)" },
+        { "arabic": "هَشْ هَشْ (للغنم)", "english": "هَشْ هَشْ - Sound to call sheep" }
+      ]
+    },
+    {
+      "title": "Types of أسماء الأصوات",
+      "titleArabic": "أَنْوَاعُ أَسْمَاءِ الأَصْوَاتِ",
+      "content": [
+        "أَسْمَاء الأَصْوَات are divided into two main types: 1) أَصْوَات لِلْحَيَوَانِ (sounds for calling/driving animals), 2) أَصْوَات لِلإِنْسَانِ (human interjections/reactions).",
+        "Animal sounds include calls to summon, drive, or stop animals. Human sounds include expressions of pain, surprise, disgust, and other emotions."
+      ],
+      "keyPoints": [
+        "أصوات للحيوان: animal calls",
+        "أصوات للإنسان: interjections",
+        "Summoning, driving, stopping",
+        "Emotional expressions"
+      ],
+      "examples": [
+        { "arabic": "هَلَا (زجر للخيل)", "english": "هَلَا - Go! (driving horses)" },
+        { "arabic": "جِئْ جِئْ (للإبل)", "english": "جِئْ جِئْ - Come! (calling camels)" },
+        { "arabic": "نَخْ (لإناخة الإبل)", "english": "نَخْ - Kneel! (making camels kneel)" },
+        { "arabic": "أُفٍّ (التضجر)", "english": "أُفّ - Ugh! (expressing annoyance)" }
+      ]
+    },
+    {
+      "title": "Animal Sounds",
+      "titleArabic": "أَصْوَاتُ الْحَيَوَانَاتِ",
+      "content": [
+        "Arabic has specific sounds for different animals and purposes. For horses: هَلَا (drive forward), سَأْ سَأْ (stop). For camels: جِئْ جِئْ (call), نَخْ (kneel).",
+        "For sheep: هَشْ هَشْ (drive). For donkeys: عَدَسْ (stop). For cats: بِسّ بِسّ (call). These vary by region."
+      ],
+      "keyPoints": [
+        "Specific to animal type",
+        "Purpose: call, drive, stop",
+        "Regional variations exist",
+        "مَبْنِيّ على السكون usually"
+      ],
+      "examples": [
+        { "arabic": "هَلَا / حَلْ (للخيل: تقدّم)", "english": "هَلَا - Go forward (horses)" },
+        { "arabic": "سَأْ (للخيل: قف)", "english": "سَأْ - Stop (horses)" },
+        { "arabic": "هَشْ هَشْ (للغنم)", "english": "هَشْ - Go on (sheep)" },
+        { "arabic": "بِسّ بِسّ (للقط)", "english": "بِسّ - Here kitty (cats)" }
+      ]
+    },
+    {
+      "title": "Human Interjections",
+      "titleArabic": "أَصْوَاتُ الإِنْسَانِ",
+      "content": [
+        "Human أَسْمَاء الأَصْوَات express various emotions and reactions. أُفٍّ (annoyance/disgust), آهِ (pain), هَيْهَاتَ (impossibility/distance), صَهْ (command to be silent).",
+        "Some like هَيْهَاتَ appear in the Quran: 'هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ' (23:36)."
+      ],
+      "keyPoints": [
+        "أُفٍّ: disgust/annoyance",
+        "آهِ: pain/sorrow",
+        "هَيْهَاتَ: far/impossible",
+        "صَهْ: be silent"
+      ],
+      "examples": [
+        { "arabic": "أُفٍّ لَكُمْ (تضجر)", "english": "Uff! (expressing disgust - Quran 21:67)" },
+        { "arabic": "آهِ مِنَ الْأَلَمِ (توجع)", "english": "Ah from pain (expressing hurt)" },
+        { "arabic": "هَيْهَاتَ هَيْهَاتَ (استبعاد)", "english": "Far, far away! (impossibility)" },
+        { "arabic": "صَهْ يَا وَلَدُ (سكوت)", "english": "Shh, boy! (silencing)" }
+      ]
+    },
+    {
+      "title": "Grammatical Treatment",
+      "titleArabic": "الْمُعَامَلَةُ النَّحْوِيَّةُ",
+      "content": [
+        "أَسْمَاء الأَصْوَات are مَبْنِيَّة (indeclinable) - they don't take case endings. Their form doesn't change based on grammatical position.",
+        "In sentence analysis, they are typically described as 'اسم صوت مبني على السكون/الفتح/الكسر لا محل له من الإعراب.'"
+      ],
+      "keyPoints": [
+        "مَبْنِيّ (indeclinable)",
+        "No case endings",
+        "لا محل له من الإعراب",
+        "Built on sukoon/fatha/kasra"
+      ],
+      "examples": [
+        { "arabic": "صَهْ: اسم صوت مبني على السكون", "english": "صَهْ: sound-name built on sukoon" },
+        { "arabic": "هَيْهَاتَ: اسم صوت مبني على الفتح", "english": "هَيْهَاتَ: built on fatha" },
+        { "arabic": "أُفٍّ: اسم صوت مبني على الكسر", "english": "أُفٍّ: built on kasra" },
+        { "arabic": "لَا مَحَلَّ لَهُ مِنَ الإِعْرَابِ", "english": "No grammatical position" }
+      ]
+    },
+    {
+      "title": "Related Expressions",
+      "titleArabic": "تَعْبِيرَاتٌ مُرْتَبِطَةٌ",
+      "content": [
+        "Some expressions are related to أَسْمَاء الأَصْوَات but may have regular grammatical roles. وَيْحَ (woe), وَيْلَ (woe), and similar words can be مَنْصُوب as مَفْعُول مُطْلَق.",
+        "The boundary between أَسْمَاء الأَصْوَات and أَسْمَاء الأَفْعَال (action-nouns like صَهْ = اُسْكُتْ) is discussed by grammarians."
+      ],
+      "keyPoints": [
+        "وَيْحَ، وَيْلَ: can take إعراب",
+        "أَسْمَاء الأَفْعَال: related category",
+        "صَهْ = اسكت (action-noun)",
+        "Grammarians debate categories"
+      ],
+      "examples": [
+        { "arabic": "وَيْحَكَ (تعجب)", "english": "Woe to you! (can be منصوب)" },
+        { "arabic": "وَيْلٌ لِلْمُطَفِّفِينَ", "english": "Woe to the defrauders (Quran 83:1)" },
+        { "arabic": "صَهْ = اُسْكُتْ (اسم فعل)", "english": "صَهْ = be silent (action-noun)" },
+        { "arabic": "هَيْهَاتَ = بَعُدَ (اسم فعل)", "english": "هَيْهَاتَ = it is far (action-noun)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l110-ex01",
+      "type": "fill-blank",
+      "prompt": "أَسْمَاءُ الأَصْوَاتِ _____ لَا تَتَغَيَّرُ حَسَبَ الإِعْرَابِ",
+      "promptEn": "أسماء الأصوات are _____ - they don't change by case",
+      "answer": "مَبْنِيَّةٌ",
+      "itemIds": ["word-b3-678"]
+    },
+    {
+      "id": "b3-l110-ex02",
+      "type": "fill-blank",
+      "prompt": "أُفٍّ تُعَبِّرُ عَنِ _____",
+      "promptEn": "أُفٍّ expresses _____",
+      "answer": "التَّضَجُّرِ / الضَّجَرِ",
+      "itemIds": ["word-b3-679"]
+    },
+    {
+      "id": "b3-l110-ex03",
+      "type": "fill-blank",
+      "prompt": "هَيْهَاتَ تُفِيدُ _____ أَوِ الْبُعْدَ",
+      "promptEn": "هَيْهَاتَ indicates _____ or distance",
+      "answer": "الاسْتِبْعَادَ",
+      "itemIds": ["word-b3-680"]
+    },
+    {
+      "id": "b3-l110-ex04",
+      "type": "fill-blank",
+      "prompt": "صَهْ تَعْنِي: _____",
+      "promptEn": "صَهْ means: _____",
+      "answer": "اُسْكُتْ / اِسْكُتْ",
+      "itemIds": ["word-b3-681"]
+    },
+    {
+      "id": "b3-l110-ex05",
+      "type": "fill-blank",
+      "prompt": "أَصْوَاتُ الْحَيَوَانَاتِ تُسْتَخْدَمُ لِـ_____ أَوْ زَجْرِ الْحَيَوَانِ",
+      "promptEn": "Animal sounds are used to _____ or drive animals",
+      "answer": "دُعَاءِ / نِدَاءِ",
+      "itemIds": ["word-b3-682"]
+    },
+    {
+      "id": "b3-l110-ex06",
+      "type": "fill-blank",
+      "prompt": "آهِ تُعَبِّرُ عَنِ _____ أَوِ الْحُزْنِ",
+      "promptEn": "آهِ expresses _____ or sorrow",
+      "answer": "الْأَلَمِ / التَّوَجُّعِ",
+      "itemIds": ["word-b3-679"]
+    },
+    {
+      "id": "b3-l110-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَسْمَاءُ الأَصْوَاتِ",
+      "answer": "Names of sounds (interjections, animal calls)",
+      "itemIds": ["word-b3-678"]
+    },
+    {
+      "id": "b3-l110-ex08",
+      "type": "word-to-meaning",
+      "prompt": "هَيْهَاتَ",
+      "answer": "Far be it! / How remote! (expressing impossibility)",
+      "itemIds": ["word-b3-680"]
+    },
+    {
+      "id": "b3-l110-ex09",
+      "type": "word-to-meaning",
+      "prompt": "أُفٍّ",
+      "answer": "Ugh! / Fie! (expressing annoyance/disgust)",
+      "itemIds": ["word-b3-679"]
+    },
+    {
+      "id": "b3-l110-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Be silent! (sound-name command)",
+      "answer": "صَهْ",
+      "itemIds": ["word-b3-681"]
+    },
+    {
+      "id": "b3-l110-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Ah! / Alas! (expressing pain)",
+      "answer": "آهِ / أَوَّاهُ",
+      "itemIds": ["word-b3-682"]
+    },
+    {
+      "id": "b3-l110-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Sound to drive horses forward",
+      "answer": "هَلَا / حَلْ",
+      "itemIds": ["word-b3-678"]
+    }
+  ]
+}

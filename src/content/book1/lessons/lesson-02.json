@@ -1,0 +1,148 @@
+{
+  "id": "b1-l02",
+  "book": 1,
+  "lesson": 2,
+  "title": "ذَلِكَ",
+  "titleEn": "That (Masculine)",
+  "description": "Learn to identify distant objects using the demonstrative pronoun ذَلِكَ (that) with masculine nouns.",
+  "vocabulary": ["word-010", "word-011", "word-012", "word-013", "word-014"],
+  "grammarPoints": ["gp-003"],
+  "notes": [
+    {
+      "title": "The Far Demonstrative ذَلِكَ",
+      "titleArabic": "اسم الإشارة للبعيد",
+      "content": [
+        "This lesson introduces ذَلِكَ (that) for masculine nouns referring to distant objects. It is pronounced 'dhālika' but written without the alif after ذ.",
+        "The conjunction وَ (and) is used to connect words and sentences. It is always written attached to the following word."
+      ],
+      "keyPoints": [
+        "ذَلِكَ is used for masculine singular nouns that are far (that)",
+        "The conjunction وَ is written attached to the next word, not separate",
+        "هَذَا is for near objects, ذَلِكَ is for far objects"
+      ],
+      "examples": [
+        { "arabic": "هَذَا بَيْتٌ وَذَلِكَ مَسْجِدٌ", "english": "This is a house and that is a mosque" },
+        { "arabic": "ذَلِكَ نَجْمٌ", "english": "That is a star" },
+        { "arabic": "ذَلِكَ جَبَلٌ", "english": "That is a mountain" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l02-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ نَجْمٌ",
+      "promptEn": "_____ is a star",
+      "answer": "ذَلِكَ",
+      "itemIds": ["word-010", "word-011"]
+    },
+    {
+      "id": "b1-l02-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ قَمَرٌ",
+      "promptEn": "_____ is the moon",
+      "answer": "ذَلِكَ",
+      "itemIds": ["word-010", "word-012"]
+    },
+    {
+      "id": "b1-l02-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ جَبَلٌ",
+      "promptEn": "_____ is a mountain",
+      "answer": "ذَلِكَ",
+      "itemIds": ["word-010", "word-014"]
+    },
+    {
+      "id": "b1-l02-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "That is a star",
+      "answer": "ذَلِكَ نَجْمٌ",
+      "itemIds": ["word-010", "word-011"]
+    },
+    {
+      "id": "b1-l02-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "That is the moon",
+      "answer": "ذَلِكَ قَمَرٌ",
+      "itemIds": ["word-010", "word-012"]
+    },
+    {
+      "id": "b1-l02-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "That is a stone",
+      "answer": "ذَلِكَ حَجَرٌ",
+      "itemIds": ["word-010", "word-013"]
+    },
+    {
+      "id": "b1-l02-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "That is a mountain",
+      "answer": "ذَلِكَ جَبَلٌ",
+      "itemIds": ["word-010", "word-014"]
+    },
+    {
+      "id": "b1-l02-ex08",
+      "type": "word-to-meaning",
+      "prompt": "نَجْمٌ",
+      "answer": "star",
+      "itemIds": ["word-011"]
+    },
+    {
+      "id": "b1-l02-ex09",
+      "type": "word-to-meaning",
+      "prompt": "قَمَرٌ",
+      "answer": "moon",
+      "itemIds": ["word-012"]
+    },
+    {
+      "id": "b1-l02-ex10",
+      "type": "word-to-meaning",
+      "prompt": "حَجَرٌ",
+      "answer": "stone",
+      "itemIds": ["word-013"]
+    },
+    {
+      "id": "b1-l02-ex11",
+      "type": "word-to-meaning",
+      "prompt": "جَبَلٌ",
+      "answer": "mountain",
+      "itemIds": ["word-014"]
+    },
+    {
+      "id": "b1-l02-ex12",
+      "type": "meaning-to-word",
+      "prompt": "star",
+      "answer": "نَجْمٌ",
+      "itemIds": ["word-011"]
+    },
+    {
+      "id": "b1-l02-ex13",
+      "type": "meaning-to-word",
+      "prompt": "that (masc.)",
+      "answer": "ذَلِكَ",
+      "itemIds": ["word-010"]
+    },
+    {
+      "id": "b1-l02-ex14",
+      "type": "fill-blank",
+      "prompt": "هَذَا كِتَابٌ وَ_____ قَلَمٌ",
+      "promptEn": "This is a book and _____ is a pen",
+      "answer": "هَذَا",
+      "itemIds": ["word-001", "word-002", "word-003"]
+    },
+    {
+      "id": "b1-l02-ex15",
+      "type": "translate-to-arabic",
+      "prompt": "This is a book and that is a pen",
+      "answer": "هَذَا كِتَابٌ وَذَلِكَ قَلَمٌ",
+      "itemIds": ["word-001", "word-002", "word-010", "word-003"]
+    },
+    {
+      "id": "b1-l02-ex16",
+      "type": "translate-to-arabic",
+      "prompt": "This is a house and that is a mountain",
+      "answer": "هَذَا بَيْتٌ وَذَلِكَ جَبَلٌ",
+      "itemIds": ["word-001", "word-006", "word-010", "word-014"]
+    }
+  ]
+}

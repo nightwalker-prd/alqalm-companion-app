@@ -1,0 +1,141 @@
+{
+  "id": "b1-l06",
+  "book": 1,
+  "lesson": 6,
+  "title": "تِلْكَ",
+  "titleEn": "That (fem.)",
+  "description": "Learn the feminine far demonstrative تِلْكَ (that) and practice with feminine place nouns like school, university, and room.",
+  "vocabulary": ["word-034", "word-035", "word-036", "word-037", "word-038", "word-039"],
+  "grammarPoints": ["gp-009", "gp-010"],
+  "notes": [
+    {
+      "title": "The Feminine Far Demonstrative تِلْكَ",
+      "titleArabic": "اسم الإشارة للبعيد المؤنث",
+      "content": [
+        "تِلْكَ (tilka) is the feminine equivalent of ذَلِكَ, meaning 'that' for feminine nouns that are far away.",
+        "Now you know all four demonstratives: هَذَا (this, masc.), ذَلِكَ (that, masc.), هَذِهِ (this, fem.), and تِلْكَ (that, fem.)."
+      ],
+      "keyPoints": [
+        "تِلْكَ is 'that' for feminine singular nouns",
+        "Use هَذِهِ for near feminine nouns, تِلْكَ for far feminine nouns",
+        "Place nouns like مَدْرَسَةٌ (school) and جَامِعَةٌ (university) are feminine"
+      ],
+      "examples": [
+        { "arabic": "تِلْكَ مَدْرَسَةٌ", "english": "That is a school" },
+        { "arabic": "تِلْكَ جَامِعَةٌ", "english": "That is a university" },
+        { "arabic": "هَذِهِ غُرْفَةٌ وَتِلْكَ نَافِذَةٌ", "english": "This is a room and that is a window" },
+        { "arabic": "هَذِهِ آمِنَةُ وَتِلْكَ مَرْيَمُ", "english": "This is Aminah and that is Maryam" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l06-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ مَدْرَسَةٌ",
+      "promptEn": "_____ is a school",
+      "answer": "تِلْكَ",
+      "itemIds": ["word-034", "word-035"]
+    },
+    {
+      "id": "b1-l06-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ جَامِعَةٌ",
+      "promptEn": "_____ is a university",
+      "answer": "تِلْكَ",
+      "itemIds": ["word-034", "word-036"]
+    },
+    {
+      "id": "b1-l06-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ غُرْفَةٌ",
+      "promptEn": "_____ is a room",
+      "answer": "تِلْكَ",
+      "itemIds": ["word-034", "word-037"]
+    },
+    {
+      "id": "b1-l06-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "That is a school",
+      "answer": "تِلْكَ مَدْرَسَةٌ",
+      "itemIds": ["word-034", "word-035"]
+    },
+    {
+      "id": "b1-l06-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "That is a university",
+      "answer": "تِلْكَ جَامِعَةٌ",
+      "itemIds": ["word-034", "word-036"]
+    },
+    {
+      "id": "b1-l06-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "That is a window",
+      "answer": "تِلْكَ نَافِذَةٌ",
+      "itemIds": ["word-034", "word-038"]
+    },
+    {
+      "id": "b1-l06-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "That is a picture",
+      "answer": "تِلْكَ صُورَةٌ",
+      "itemIds": ["word-034", "word-039"]
+    },
+    {
+      "id": "b1-l06-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَدْرَسَةٌ",
+      "answer": "school",
+      "itemIds": ["word-035"]
+    },
+    {
+      "id": "b1-l06-ex09",
+      "type": "word-to-meaning",
+      "prompt": "جَامِعَةٌ",
+      "answer": "university",
+      "itemIds": ["word-036"]
+    },
+    {
+      "id": "b1-l06-ex10",
+      "type": "word-to-meaning",
+      "prompt": "غُرْفَةٌ",
+      "answer": "room",
+      "itemIds": ["word-037"]
+    },
+    {
+      "id": "b1-l06-ex11",
+      "type": "meaning-to-word",
+      "prompt": "that (fem.)",
+      "answer": "تِلْكَ",
+      "itemIds": ["word-034"]
+    },
+    {
+      "id": "b1-l06-ex12",
+      "type": "meaning-to-word",
+      "prompt": "window",
+      "answer": "نَافِذَةٌ",
+      "itemIds": ["word-038"]
+    },
+    {
+      "id": "b1-l06-ex13",
+      "type": "meaning-to-word",
+      "prompt": "picture",
+      "answer": "صُورَةٌ",
+      "itemIds": ["word-039"]
+    },
+    {
+      "id": "b1-l06-ex14",
+      "type": "translate-to-arabic",
+      "prompt": "This is a school and that is a university",
+      "answer": "هَذِهِ مَدْرَسَةٌ وَتِلْكَ جَامِعَةٌ",
+      "itemIds": ["word-027", "word-035", "word-034", "word-036"]
+    },
+    {
+      "id": "b1-l06-ex15",
+      "type": "translate-to-arabic",
+      "prompt": "This is a room and that is a window",
+      "answer": "هَذِهِ غُرْفَةٌ وَتِلْكَ نَافِذَةٌ",
+      "itemIds": ["word-027", "word-037", "word-034", "word-038"]
+    }
+  ]
+}

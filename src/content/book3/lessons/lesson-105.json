@@ -1,0 +1,224 @@
+{
+  "id": "b3-l105",
+  "book": 3,
+  "lesson": 105,
+  "title": "لَا سِيَّمَا",
+  "titleEn": "لا سيّما - Especially/Particularly",
+  "description": "Learn about the expression لَا سِيَّمَا (especially, particularly) - its components, grammatical analysis, and the different cases of the noun following it.",
+  "vocabulary": ["word-b3-653", "word-b3-654", "word-b3-655", "word-b3-656", "word-b3-657"],
+  "grammarPoints": ["gp-b3-172", "gp-b3-173"],
+  "notes": [
+    {
+      "title": "What is لا سيّما?",
+      "titleArabic": "مَا هِيَ لَا سِيَّمَا؟",
+      "content": [
+        "لَا سِيَّمَا is a compound expression meaning 'especially' or 'particularly.' It's used to single out one item from a group as being more deserving of what was mentioned.",
+        "It consists of three parts: لَا (negation), سِيّ (equal/like - from سَوَاء), and مَا. The word سِيّ is originally مُضَاف (possessed), and what follows is مُضَاف إِلَيْهِ."
+      ],
+      "keyPoints": [
+        "Means 'especially/particularly'",
+        "لا + سِيّ + ما",
+        "سِيّ = equal/like",
+        "Singles out special item from group"
+      ],
+      "examples": [
+        { "arabic": "أُحِبُّ الْفَوَاكِهَ وَلَا سِيَّمَا التُّفَّاحُ", "english": "I love fruits, especially apples" },
+        { "arabic": "يُعْجِبُنِي الشِّعْرُ وَلَا سِيَّمَا الْقَدِيمُ", "english": "Poetry pleases me, especially classical" },
+        { "arabic": "أَحْتَرِمُ الْعُلَمَاءَ وَلَا سِيَّمَا الصَّادِقِينَ", "english": "I respect scholars, especially the truthful ones" },
+        { "arabic": "زُرْتُ الْمُدُنَ وَلَا سِيَّمَا دِمَشْقَ", "english": "I visited cities, especially Damascus" }
+      ]
+    },
+    {
+      "title": "Components Analysis",
+      "titleArabic": "تَحْلِيلُ الْمُكَوِّنَاتِ",
+      "content": [
+        "لَا: نَافِيَة لِلْجِنْس (negates the genus), making the whole phrase mean 'there is nothing equal to X.' سِيّ: اسْم لَا النَّافِيَة لِلْجِنْس, meaning 'equal/like.'",
+        "مَا: Has multiple possible analyses - it can be مَوْصُولَة (relative), زَائِدَة (extra), or نَكِرَة مَوْصُوفَة (indefinite described). Each affects the case of the following noun."
+      ],
+      "keyPoints": [
+        "لا نافية للجنس",
+        "سِيّ = اسم لا مبني على الفتح",
+        "ما = موصولة / زائدة / نكرة موصوفة",
+        "خبر لا محذوف (موجود)"
+      ],
+      "examples": [
+        { "arabic": "لَا سِيَّ = لَا مِثْلَ", "english": "There is no equal/nothing like" },
+        { "arabic": "سِيّ مَبْنِيّ عَلَى الْفَتْحِ", "english": "سِيّ is built on fatha" },
+        { "arabic": "مَا مَوْصُولَة: وَلَا سِيَّمَا الَّذِي/الَّتِي", "english": "ما as relative pronoun" },
+        { "arabic": "مَا زَائِدَة: وَلَا سِيَّمَا زَيْدٍ", "english": "ما as extra particle" }
+      ]
+    },
+    {
+      "title": "Case of Following Noun: رَفْع",
+      "titleArabic": "حَالَةُ الاسْمِ بَعْدَهَا: الرَّفْعُ",
+      "content": [
+        "The noun after لَا سِيَّمَا can be مَرْفُوع (nominative) when مَا is analyzed as مَوْصُولَة (relative pronoun) and the noun is the مُبْتَدَأ of a deleted predicate.",
+        "Analysis: لَا سِيَّمَا الَّذِي هُوَ التُّفَّاحُ → لَا سِيَّمَا التُّفَّاحُ (with التفاحُ as مبتدأ لخبر محذوف هُوَ)."
+      ],
+      "keyPoints": [
+        "ما = موصولة (relative)",
+        "Following noun = مبتدأ لخبر محذوف",
+        "Deleted خبر = 'هو' or 'هي'",
+        "لا سيّما التفاحُ (raf')"
+      ],
+      "examples": [
+        { "arabic": "أُحِبُّ الْفَوَاكِهَ وَلَا سِيَّمَا التُّفَّاحُ", "english": "التفاحُ = مبتدأ مرفوع" },
+        { "arabic": "يُعْجِبُنِي الْأَدَبُ وَلَا سِيَّمَا الشِّعْرُ", "english": "الشعرُ = nominative" },
+        { "arabic": "أَقْرَأُ الْكُتُبَ وَلَا سِيَّمَا كُتُبُ النَّحْوِ", "english": "كتبُ = nominative" },
+        { "arabic": "زُرْتُ الْبِلَادَ وَلَا سِيَّمَا مِصْرُ", "english": "مصرُ = nominative" }
+      ]
+    },
+    {
+      "title": "Case of Following Noun: جَرّ",
+      "titleArabic": "حَالَةُ الاسْمِ بَعْدَهَا: الْجَرُّ",
+      "content": [
+        "The noun can be مَجْرُور (genitive) when مَا is analyzed as زَائِدَة (extra/emphatic), and the noun is مُضَاف إِلَيْهِ to سِيّ.",
+        "Analysis: سِيّ is مُضَاف, and the following noun is مُضَاف إِلَيْهِ مَجْرُور. This is a common and straightforward analysis."
+      ],
+      "keyPoints": [
+        "ما = زائدة (extra)",
+        "Following noun = مضاف إليه",
+        "سِيّ = مضاف",
+        "لا سيّما التفاحِ (jarr)"
+      ],
+      "examples": [
+        { "arabic": "أُحِبُّ الْفَوَاكِهَ وَلَا سِيَّمَا التُّفَّاحِ", "english": "التفاحِ = مضاف إليه مجرور" },
+        { "arabic": "يَنْفَعُ الْعِلْمُ وَلَا سِيَّمَا عِلْمِ الدِّينِ", "english": "علمِ = genitive" },
+        { "arabic": "أُكْرِمُ الضُّيُوفَ وَلَا سِيَّمَا الْأَقَارِبِ", "english": "الأقاربِ = genitive" },
+        { "arabic": "أَزُورُ الْمَسَاجِدَ وَلَا سِيَّمَا الْحَرَمَيْنِ", "english": "الحرمَيْنِ = genitive (dual)" }
+      ]
+    },
+    {
+      "title": "Case of Following Noun: نَصْب",
+      "titleArabic": "حَالَةُ الاسْمِ بَعْدَهَا: النَّصْبُ",
+      "content": [
+        "The noun can be مَنْصُوب (accusative) when مَا is analyzed as نَكِرَة مَوْصُوفَة (indefinite noun that is described), and the noun is تَمْيِيز or بَدَل.",
+        "This is less common but grammatically valid. Some grammarians also allow نَصْب by treating the noun as مُسْتَثْنَى."
+      ],
+      "keyPoints": [
+        "ما = نكرة موصوفة",
+        "Following noun = تمييز or بدل",
+        "Less common analysis",
+        "لا سيّما التفاحَ (nasb)"
+      ],
+      "examples": [
+        { "arabic": "أُحِبُّ الْفَوَاكِهَ وَلَا سِيَّمَا التُّفَّاحَ", "english": "التفاحَ = تمييز منصوب" },
+        { "arabic": "أُقَدِّرُ الْجُهْدَ وَلَا سِيَّمَا الْمُخْلِصَ", "english": "المخلصَ = accusative" },
+        { "arabic": "يُسْعِدُنِي الْكَرَمُ وَلَا سِيَّمَا كَرَمَ الْعَرَبِ", "english": "كرمَ = accusative" },
+        { "arabic": "أَتَذَوَّقُ الطَّعَامَ وَلَا سِيَّمَا الْحَلْوَى", "english": "الحلوى = accusative" }
+      ]
+    },
+    {
+      "title": "Usage Notes",
+      "titleArabic": "مُلَاحَظَاتٌ اسْتِعْمَالِيَّةٌ",
+      "content": [
+        "All three cases (رَفْع، جَرّ، نَصْب) are grammatically valid. رَفْع and جَرّ are more common. The meaning remains the same regardless of case.",
+        "لَا سِيَّمَا is always preceded by a general statement and followed by a specific item that deserves special attention from that general category."
+      ],
+      "keyPoints": [
+        "All three cases valid",
+        "رفع and جر most common",
+        "Meaning unchanged by case",
+        "General statement + لا سيّما + specific"
+      ],
+      "examples": [
+        { "arabic": "اقْرَأِ الْقُرْآنَ وَلَا سِيَّمَا سُورَةُ يس", "english": "Read the Quran, especially Surah Yasin" },
+        { "arabic": "أَعْجَبَنِي كَلَامُكَ وَلَا سِيَّمَا نُصْحُكَ", "english": "Your words pleased me, especially your advice" },
+        { "arabic": "يَجِبُ احْتِرَامُ الْكِبَارِ وَلَا سِيَّمَا الْوَالِدَيْنِ", "english": "Elders must be respected, especially parents" },
+        { "arabic": "الصِّدْقُ مَحْمُودٌ وَلَا سِيَّمَا عِنْدَ الشِّدَّةِ", "english": "Honesty is praiseworthy, especially in hardship" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l105-ex01",
+      "type": "fill-blank",
+      "prompt": "لَا سِيَّمَا تَعْنِي: _____ أَوْ خُصُوصًا",
+      "promptEn": "لا سيّما means: _____ or particularly",
+      "answer": "خَاصَّةً",
+      "itemIds": ["word-b3-653"]
+    },
+    {
+      "id": "b3-l105-ex02",
+      "type": "fill-blank",
+      "prompt": "سِيّ فِي لَا سِيَّمَا تَعْنِي: _____",
+      "promptEn": "سِيّ in لا سيّما means: _____",
+      "answer": "مِثْل",
+      "itemIds": ["word-b3-654"]
+    },
+    {
+      "id": "b3-l105-ex03",
+      "type": "fill-blank",
+      "prompt": "إِذَا كَانَتْ مَا مَوْصُولَةً، فَالاسْمُ بَعْدَهَا _____",
+      "promptEn": "If ما is relative, the noun after it is _____",
+      "answer": "مَرْفُوعٌ",
+      "itemIds": ["word-b3-655"]
+    },
+    {
+      "id": "b3-l105-ex04",
+      "type": "fill-blank",
+      "prompt": "إِذَا كَانَتْ مَا زَائِدَةً، فَالاسْمُ بَعْدَهَا _____",
+      "promptEn": "If ما is extra, the noun after it is _____",
+      "answer": "مَجْرُورٌ",
+      "itemIds": ["word-b3-656"]
+    },
+    {
+      "id": "b3-l105-ex05",
+      "type": "fill-blank",
+      "prompt": "لَا فِي لَا سِيَّمَا هِيَ لَا النَّافِيَةُ لِـ_____",
+      "promptEn": "لا in لا سيّما is لا that negates _____",
+      "answer": "الْجِنْسِ",
+      "itemIds": ["word-b3-657"]
+    },
+    {
+      "id": "b3-l105-ex06",
+      "type": "fill-blank",
+      "prompt": "أُحِبُّ الْعُلُومَ وَلَا سِيَّمَا _____ (النحوُ/النحوِ/النحوَ - all valid)",
+      "promptEn": "I love sciences, especially grammar (any case valid)",
+      "answer": "النَّحْوِ / النَّحْوُ / النَّحْوَ",
+      "itemIds": ["word-b3-653"]
+    },
+    {
+      "id": "b3-l105-ex07",
+      "type": "word-to-meaning",
+      "prompt": "لَا سِيَّمَا",
+      "answer": "Especially, particularly (singling out special item)",
+      "itemIds": ["word-b3-653"]
+    },
+    {
+      "id": "b3-l105-ex08",
+      "type": "word-to-meaning",
+      "prompt": "سِيّ",
+      "answer": "Equal, like (from سَوَاء)",
+      "itemIds": ["word-b3-654"]
+    },
+    {
+      "id": "b3-l105-ex09",
+      "type": "word-to-meaning",
+      "prompt": "لَا النَّافِيَةُ لِلْجِنْسِ",
+      "answer": "لا that negates the entire genus/category",
+      "itemIds": ["word-b3-657"]
+    },
+    {
+      "id": "b3-l105-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Especially/particularly",
+      "answer": "لَا سِيَّمَا / خَاصَّةً / خُصُوصًا",
+      "itemIds": ["word-b3-653"]
+    },
+    {
+      "id": "b3-l105-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Extra/emphatic particle (not affecting meaning)",
+      "answer": "زَائِدَة",
+      "itemIds": ["word-b3-655"]
+    },
+    {
+      "id": "b3-l105-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Relative pronoun (الذي، التي، ما...)",
+      "answer": "اسْمٌ مَوْصُولٌ / مَوْصُولَة",
+      "itemIds": ["word-b3-656"]
+    }
+  ]
+}

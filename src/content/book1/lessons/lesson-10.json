@@ -1,0 +1,118 @@
+{
+  "id": "b1-l10",
+  "book": 1,
+  "lesson": 10,
+  "title": "الْأَعْدَاد",
+  "titleEn": "Numbers 1-10",
+  "description": "Learn to count from one to ten in Arabic and use numbers with nouns.",
+  "vocabulary": ["word-058", "word-059", "word-060", "word-061", "word-062", "word-063", "word-064", "word-065", "word-066", "word-067"],
+  "grammarPoints": ["gp-015"],
+  "notes": [
+    {
+      "title": "Arabic Numbers 1-10",
+      "titleArabic": "الْأَعْدَاد",
+      "content": [
+        "Arabic numbers 1-10 have a unique rule: numbers 3-10 show reverse gender agreement with the counted noun. If the noun is masculine, the number takes the feminine form (with ة), and vice versa.",
+        "Numbers 1 and 2 agree with the noun normally. The counted noun after numbers 3-10 is plural and in the genitive case."
+      ],
+      "keyPoints": [
+        "Numbers 3-10 have 'reverse' gender agreement with the noun",
+        "With masculine nouns: ثَلَاثَةُ كُتُبٍ (three books - number has ة)",
+        "With feminine nouns: ثَلَاثُ سَيَّارَاتٍ (three cars - number without ة)",
+        "The counted noun is plural genitive after numbers 3-10"
+      ],
+      "examples": [
+        { "arabic": "وَاحِدٌ، اِثْنَانِ، ثَلَاثَةٌ", "english": "one, two, three" },
+        { "arabic": "أَرْبَعَةٌ، خَمْسَةٌ، سِتَّةٌ", "english": "four, five, six" },
+        { "arabic": "سَبْعَةٌ، ثَمَانِيَةٌ، تِسْعَةٌ، عَشَرَةٌ", "english": "seven, eight, nine, ten" },
+        { "arabic": "ثَلَاثَةُ كُتُبٍ", "english": "three books" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l10-ex01",
+      "type": "word-to-meaning",
+      "prompt": "وَاحِدٌ",
+      "answer": "one",
+      "itemIds": ["word-058"]
+    },
+    {
+      "id": "b1-l10-ex02",
+      "type": "word-to-meaning",
+      "prompt": "اِثْنَانِ",
+      "answer": "two",
+      "itemIds": ["word-059"]
+    },
+    {
+      "id": "b1-l10-ex03",
+      "type": "word-to-meaning",
+      "prompt": "ثَلَاثَةٌ",
+      "answer": "three",
+      "itemIds": ["word-060"]
+    },
+    {
+      "id": "b1-l10-ex04",
+      "type": "word-to-meaning",
+      "prompt": "أَرْبَعَةٌ",
+      "answer": "four",
+      "itemIds": ["word-061"]
+    },
+    {
+      "id": "b1-l10-ex05",
+      "type": "word-to-meaning",
+      "prompt": "خَمْسَةٌ",
+      "answer": "five",
+      "itemIds": ["word-062"]
+    },
+    {
+      "id": "b1-l10-ex06",
+      "type": "meaning-to-word",
+      "prompt": "six",
+      "answer": "سِتَّةٌ",
+      "itemIds": ["word-063"]
+    },
+    {
+      "id": "b1-l10-ex07",
+      "type": "meaning-to-word",
+      "prompt": "seven",
+      "answer": "سَبْعَةٌ",
+      "itemIds": ["word-064"]
+    },
+    {
+      "id": "b1-l10-ex08",
+      "type": "meaning-to-word",
+      "prompt": "eight",
+      "answer": "ثَمَانِيَةٌ",
+      "itemIds": ["word-065"]
+    },
+    {
+      "id": "b1-l10-ex09",
+      "type": "meaning-to-word",
+      "prompt": "nine",
+      "answer": "تِسْعَةٌ",
+      "itemIds": ["word-066"]
+    },
+    {
+      "id": "b1-l10-ex10",
+      "type": "meaning-to-word",
+      "prompt": "ten",
+      "answer": "عَشَرَةٌ",
+      "itemIds": ["word-067"]
+    },
+    {
+      "id": "b1-l10-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "three books",
+      "answer": "ثَلَاثَةُ كُتُبٍ",
+      "itemIds": ["word-060", "word-096"]
+    },
+    {
+      "id": "b1-l10-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "five students",
+      "answer": "خَمْسَةُ طُلَّابٍ",
+      "itemIds": ["word-062", "word-005"]
+    }
+  ]
+}

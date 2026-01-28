@@ -1,0 +1,182 @@
+{
+  "id": "b3-l63",
+  "book": 3,
+  "lesson": 63,
+  "title": "الاخْتِصَاص",
+  "titleEn": "Specification Construction",
+  "description": "Learn about الاختصاص, a grammatical construction that specifies who is meant after a pronoun, as in نَحْنُ الْعَرَبَ نُكْرِمُ الضَّيْفَ (We Arabs honor the guest).",
+  "vocabulary": ["word-b3-428", "word-b3-429", "word-b3-430", "word-b3-431", "word-b3-432"],
+  "grammarPoints": ["gp-b3-088", "gp-b3-089"],
+  "notes": [
+    {
+      "title": "What is الاخْتِصَاص?",
+      "titleArabic": "تعريف الاخْتِصَاص",
+      "content": [
+        "الاختصاص is a grammatical construction where a noun in the accusative case follows a pronoun (usually first person نَحْنُ or أَنَا) to specify and clarify who is meant by that pronoun.",
+        "This construction adds emphasis and specificity. In نَحْنُ الْعَرَبَ نُكْرِمُ الضَّيْفَ, the word الْعَرَبَ specifies that 'we' refers specifically to Arabs, distinguishing them from others."
+      ],
+      "keyPoints": [
+        "الاختصاص = specifying who is meant by a pronoun",
+        "The noun (الْمُخْتَصّ) is in the accusative case",
+        "Usually follows أَنَا or نَحْنُ",
+        "Adds emphasis and pride/distinction"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ الْعَرَبَ نُكْرِمُ الضَّيْفَ", "english": "We Arabs honor the guest" },
+        { "arabic": "نَحْنُ الْمُسْلِمِينَ نُؤْمِنُ بِاللهِ", "english": "We Muslims believe in Allah" },
+        { "arabic": "أَنَا الطَّالِبَ أَحْتَرِمُ الْمُعَلِّمَ", "english": "I, the student, respect the teacher" },
+        { "arabic": "نَحْنُ الْأَطِبَّاءَ نَخْدِمُ الْمَرْضَى", "english": "We doctors serve the patients" }
+      ]
+    },
+    {
+      "title": "Types of the Specified Noun",
+      "titleArabic": "أنواع الاسم المختصّ",
+      "content": [
+        "The الْمُخْتَصّ (specified noun) can take three forms: (1) a noun with أل (the definite article): نَحْنُ الْعَرَبَ, (2) a noun in إضافة (genitive construction): نَحْنُ مَعْشَرَ الْأَنْبِيَاءِ, or (3) أَيُّهَا/أَيَّتُهَا followed by a noun.",
+        "The third type (أَيُّهَا) is used when addressing oneself or a group with emphasis: نَحْنُ أَيُّهَا الْمُسْلِمُونَ. Note that أَيُّهَا remains in the nominative as it is مبني."
+      ],
+      "keyPoints": [
+        "المختص المعرَّف بأل: نَحْنُ الطُّلَّابَ",
+        "المختص المضاف: نَحْنُ مَعْشَرَ الْعُلَمَاءِ",
+        "المختص بأيُّها/أيَّتها: نَحْنُ أَيُّهَا الْعَرَبُ",
+        "أَيُّهَا is مبني على الضم in this construction"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ الْمُعَلِّمِينَ نَهْتَمُّ بِالتَّعْلِيمِ", "english": "We teachers care about education" },
+        { "arabic": "نَحْنُ مَعْشَرَ الْأَنْبِيَاءِ لَا نُورَثُ", "english": "We, the group of prophets, are not inherited from" },
+        { "arabic": "نَحْنُ أَيُّهَا الشَّبَابُ أَمَلُ الْأُمَّةِ", "english": "We youth are the hope of the nation" },
+        { "arabic": "أَنَا أَيَّتُهَا الْأُمُّ أَضْحِي لِأَوْلَادِي", "english": "I, the mother, sacrifice for my children" }
+      ]
+    },
+    {
+      "title": "Grammatical Parsing of الاختصاص",
+      "titleArabic": "إعراب أسلوب الاختصاص",
+      "content": [
+        "The الْمُخْتَصّ is parsed as مفعول به لفعل محذوف وجوبًا (object of an obligatorily omitted verb). The estimated verb is أَخُصُّ or أَعْنِي (I specify/I mean).",
+        "The full estimated meaning of نَحْنُ الْعَرَبَ نُكْرِمُ الضَّيْفَ is: نَحْنُ أَخُصُّ الْعَرَبَ نُكْرِمُ الضَّيْفَ (We - I specifically mean the Arabs - honor the guest)."
+      ],
+      "keyPoints": [
+        "المختص: مفعول به منصوب لفعل محذوف",
+        "الفعل المقدَّر: أَخُصُّ أو أَعْنِي",
+        "حذف الفعل وجوبًا (obligatory)",
+        "The pronoun (نَحْنُ/أَنَا) is parsed normally in its sentence"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ الْعَرَبَ: الْعَرَبَ مفعول به منصوب", "english": "الْعَرَبَ is accusative object of omitted أَخُصُّ" },
+        { "arabic": "نَحْنُ الْمُسْلِمِينَ: منصوب بالياء", "english": "الْمُسْلِمِينَ is accusative (يَاء for plural)" },
+        { "arabic": "نَحْنُ مَعْشَرَ الْأَنْبِيَاءِ: مفعول به مضاف", "english": "مَعْشَرَ is accusative and مضاف" },
+        { "arabic": "التقدير: نَحْنُ (أَخُصُّ الْعَرَبَ) نُكْرِمُ", "english": "Estimated: We (I specify Arabs) honor..." }
+      ]
+    },
+    {
+      "title": "Difference from البدل and Usage",
+      "titleArabic": "الفرق بين الاختصاص والبدل",
+      "content": [
+        "الاختصاص differs from البدل (apposition) in that البدل follows the case of what it replaces, while الاختصاص is always accusative. Also, البدل can follow any pronoun, while الاختصاص typically follows first person pronouns.",
+        "This construction is used for emphasis, pride, or to distinguish a group. It appears in Hadith: نَحْنُ مَعَاشِرَ الْأَنْبِيَاءِ لَا نُورَثُ (We prophets are not inherited from)."
+      ],
+      "keyPoints": [
+        "الاختصاص always accusative; البدل follows case",
+        "الاختصاص usually with 1st person; البدل with any",
+        "الاختصاص emphasizes group identity or distinction",
+        "Common in Hadith and classical literature"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ مَعَاشِرَ الْأَنْبِيَاءِ لَا نُورَثُ (حديث)", "english": "We prophets are not inherited from (Hadith)" },
+        { "arabic": "نَحْنُ الطُّلَّابَ نَجْتَهِدُ (اختصاص)", "english": "We students strive (specification)" },
+        { "arabic": "نَحْنُ الطُّلَّابُ نَجْتَهِدُ (بدل)", "english": "We students strive (apposition - nominative)" },
+        { "arabic": "بِنَا أَهْلَ الْإِسْلَامِ اقْتَدِ", "english": "Follow us, the people of Islam" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l63-ex01",
+      "type": "fill-blank",
+      "prompt": "نَحْنُ _____ نُكْرِمُ الضَّيْفَ (العرب - اختصاص)",
+      "promptEn": "We _____ honor the guest (Arabs - specification)",
+      "answer": "الْعَرَبَ",
+      "itemIds": ["word-b3-428"]
+    },
+    {
+      "id": "b3-l63-ex02",
+      "type": "fill-blank",
+      "prompt": "نَحْنُ _____ الْأَنْبِيَاءِ لَا نُورَثُ",
+      "promptEn": "We _____ prophets are not inherited from",
+      "answer": "مَعْشَرَ",
+      "itemIds": ["word-b3-429"]
+    },
+    {
+      "id": "b3-l63-ex03",
+      "type": "fill-blank",
+      "prompt": "في نَحْنُ الْمُسْلِمِينَ، كلمة الْمُسْلِمِينَ تُعرَب _____",
+      "promptEn": "In نَحْنُ الْمُسْلِمِينَ, the word الْمُسْلِمِينَ is parsed as _____",
+      "answer": "مفعول به منصوب بالياء",
+      "itemIds": ["word-b3-430"]
+    },
+    {
+      "id": "b3-l63-ex04",
+      "type": "fill-blank",
+      "prompt": "الفعل المحذوف المقدَّر في أسلوب الاختصاص هو _____",
+      "promptEn": "The estimated omitted verb in الاختصاص is _____",
+      "answer": "أَخُصُّ",
+      "itemIds": ["word-b3-431"]
+    },
+    {
+      "id": "b3-l63-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "We doctors serve the patients",
+      "answer": "نَحْنُ الْأَطِبَّاءَ نَخْدِمُ الْمَرْضَى",
+      "itemIds": ["word-b3-428"]
+    },
+    {
+      "id": "b3-l63-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "We teachers care about education",
+      "answer": "نَحْنُ الْمُعَلِّمِينَ نَهْتَمُّ بِالتَّعْلِيمِ",
+      "itemIds": ["word-b3-429"]
+    },
+    {
+      "id": "b3-l63-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "We Muslims believe in Allah",
+      "answer": "نَحْنُ الْمُسْلِمِينَ نُؤْمِنُ بِاللهِ",
+      "itemIds": ["word-b3-430"]
+    },
+    {
+      "id": "b3-l63-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الاخْتِصَاص",
+      "answer": "specification (grammatical construction)",
+      "itemIds": ["word-b3-428"]
+    },
+    {
+      "id": "b3-l63-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْمُخْتَصّ",
+      "answer": "the specified noun (in accusative)",
+      "itemIds": ["word-b3-429"]
+    },
+    {
+      "id": "b3-l63-ex10",
+      "type": "word-to-meaning",
+      "prompt": "مَعْشَرَ",
+      "answer": "group of / community of",
+      "itemIds": ["word-b3-431"]
+    },
+    {
+      "id": "b3-l63-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The grammatical style of specifying a pronoun",
+      "answer": "الاخْتِصَاص",
+      "itemIds": ["word-b3-431"]
+    },
+    {
+      "id": "b3-l63-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The estimated omitted verb meaning 'I specify'",
+      "answer": "أَخُصُّ",
+      "itemIds": ["word-b3-432"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "b3-l103",
+  "book": 3,
+  "lesson": 103,
+  "title": "الْحُرُوفُ الزَّائِدَةُ",
+  "titleEn": "Extra (Emphatic) Particles",
+  "description": "Learn about الحروف الزائدة (extra/emphatic particles) - particles added for emphasis without affecting meaning, including الباء الزائدة، من الزائدة، اللام الزائدة، and ما الزائدة.",
+  "vocabulary": ["word-b3-643", "word-b3-644", "word-b3-645", "word-b3-646", "word-b3-647"],
+  "grammarPoints": ["gp-b3-168", "gp-b3-169"],
+  "notes": [
+    {
+      "title": "What are Extra Particles?",
+      "titleArabic": "مَا هِيَ الْحُرُوفُ الزَّائِدَةُ؟",
+      "content": [
+        "الْحُرُوف الزَّائِدَة are particles that are added to sentences for emphasis (تَوْكِيد) or rhetorical purposes, but they don't change the core meaning of the sentence.",
+        "They are called 'extra' (زَائِدَة) from a grammatical perspective, not because they are unnecessary - they serve important emphatic and stylistic functions."
+      ],
+      "keyPoints": [
+        "Added for emphasis (توكيد)",
+        "Don't change core meaning",
+        "Have grammatical effects on following words",
+        "Important in Quranic Arabic"
+      ],
+      "examples": [
+        { "arabic": "مَا جَاءَنِي مِنْ أَحَدٍ (من زائدة)", "english": "No one came to me (من is extra)" },
+        { "arabic": "وَمَا رَبُّكَ بِظَلَّامٍ (الباء زائدة)", "english": "And your Lord is not unjust (ب is extra)" },
+        { "arabic": "إِنَّمَا أَنْتَ بَشَرٌ (ما كافة)", "english": "You are only a human (ما neutralizes إن)" },
+        { "arabic": "أَلَيْسَ اللهُ بِكَافٍ عَبْدَهُ", "english": "Is not Allah sufficient for His servant?" }
+      ]
+    },
+    {
+      "title": "Extra ب (الباء الزائدة)",
+      "titleArabic": "الْبَاءُ الزَّائِدَةُ",
+      "content": [
+        "الْباء الزَّائِدة is added for emphasis in several positions: after negation particles (ما، ليس), with the subject of كَفَى, and in certain fixed expressions.",
+        "The word after الباء الزائدة takes jarr in form (لفظًا) but retains its original grammatical position (محلًّا). This is called مجرور لفظًا، مرفوع/منصوب محلًّا."
+      ],
+      "keyPoints": [
+        "After ما، ليس (with predicate)",
+        "With subject of كفى",
+        "مجرور لفظًا، مرفوع محلًّا",
+        "Very common in Quran"
+      ],
+      "examples": [
+        { "arabic": "لَيْسَ زَيْدٌ بِقَائِمٍ", "english": "Zayd is not standing (بقائم = predicate)" },
+        { "arabic": "مَا مُحَمَّدٌ بِكَاذِبٍ", "english": "Muhammad is not a liar" },
+        { "arabic": "كَفَى بِاللهِ شَهِيدًا", "english": "Allah suffices as a witness" },
+        { "arabic": "أَلَيْسَ اللهُ بِأَحْكَمِ الْحَاكِمِينَ", "english": "Is not Allah the most just of judges?" }
+      ]
+    },
+    {
+      "title": "Extra مِن (مِن الزائدة)",
+      "titleArabic": "مِنْ الزَّائِدَةُ",
+      "content": [
+        "مِنْ الزَّائِدة appears after negation (نَفْي), prohibition (نَهْي), or interrogation (اسْتِفْهَام), particularly when the noun is indefinite (نَكِرَة).",
+        "It emphasizes the totality of negation - 'not even one.' The noun after it is مَجْرُور لَفْظًا but holds its grammatical position مَحَلًّا."
+      ],
+      "keyPoints": [
+        "After negation/prohibition/question",
+        "With indefinite nouns",
+        "Emphasizes complete negation",
+        "مَا جَاءَنِي مِنْ أَحَدٍ = no one at all"
+      ],
+      "examples": [
+        { "arabic": "مَا جَاءَنِي مِنْ أَحَدٍ", "english": "No one came to me (not even one person)" },
+        { "arabic": "هَلْ مِنْ خَالِقٍ غَيْرُ اللهِ", "english": "Is there any creator other than Allah?" },
+        { "arabic": "لَا تَأْكُلْ مِنْ شَيْءٍ", "english": "Don't eat anything (at all)" },
+        { "arabic": "مَا فِي الدَّارِ مِنْ رَجُلٍ", "english": "There is no man in the house (at all)" }
+      ]
+    },
+    {
+      "title": "Extra لام (اللام الزائدة)",
+      "titleArabic": "اللَّامُ الزَّائِدَةُ",
+      "content": [
+        "اللَّام الزَّائِدة appears in several contexts for emphasis, most notably with the object of verbs expressing will or desire, and in oaths.",
+        "It's found with verbs like أَرَادَ، أَحَبَّ and in the pattern 'إِنْ كَانَ لَـ...'. Also appears before the object of إِنَّ in some readings."
+      ],
+      "keyPoints": [
+        "With objects of desire verbs",
+        "In oaths (لَأَفْعَلَنَّ)",
+        "إِنْ كَانَ لَكَذَا structure",
+        "Emphatic function"
+      ],
+      "examples": [
+        { "arabic": "إِنْ كُنْتُ لَأَظُنُّكَ صَادِقًا", "english": "I surely thought you were truthful" },
+        { "arabic": "وَإِنْ كَانَتْ لَكَبِيرَةً", "english": "And indeed it is difficult (Quran 2:143)" },
+        { "arabic": "وَاللهِ لَأَفْعَلَنَّ الْخَيْرَ", "english": "By Allah, I will surely do good" },
+        { "arabic": "يُرِيدُ اللهُ لِيُبَيِّنَ لَكُمْ", "english": "Allah wants to make clear to you" }
+      ]
+    },
+    {
+      "title": "Extra ما (ما الزائدة)",
+      "titleArabic": "مَا الزَّائِدَةُ",
+      "content": [
+        "مَا الزَّائِدة is added after certain particles for emphasis, such as إِذَا (إِذَا مَا), إِنْ (إِنْ مَا = إمَّا), and sometimes between الجارّ والمجرور.",
+        "It doesn't change the meaning but adds emphasis. Distinguished from ما الكافة (which neutralizes particles) and ما المصدرية (which creates interpreted masdars)."
+      ],
+      "keyPoints": [
+        "After إذا، إن، and others",
+        "Between preposition and its object",
+        "Purely emphatic",
+        "Different from ما الكافة"
+      ],
+      "examples": [
+        { "arabic": "إِذَا مَا جَاءَكَ الضَّيْفُ فَأَكْرِمْهُ", "english": "Whenever a guest comes to you, honor him" },
+        { "arabic": "إِمَّا تَرَيِنَّ مِنَ الْبَشَرِ أَحَدًا", "english": "If you see any human (Quran 19:26)" },
+        { "arabic": "فَبِمَا رَحْمَةٍ مِنَ اللهِ", "english": "So by mercy from Allah (Quran 3:159)" },
+        { "arabic": "عَمَّا قَلِيلٍ لَيُصْبِحُنَّ نَادِمِينَ", "english": "In a little while, they will be regretful" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis",
+      "titleArabic": "التَّحْلِيلُ النَّحْوِيُّ",
+      "content": [
+        "When analyzing sentences with زَائِدة particles, the noun after them is described as 'مجرور لفظًا' (genitive in pronunciation) but holds its original position 'محلًّا' (in grammatical function).",
+        "This distinction is crucial for correct إِعْراب: the visible jarr is due to the extra particle, while the underlying position (mubtada, khabar, faa'il, etc.) remains unchanged."
+      ],
+      "keyPoints": [
+        "مجرور لفظًا = genitive in form",
+        "مرفوع/منصوب محلًّا = underlying position",
+        "Two-layer analysis needed",
+        "Essential for Quranic إعراب"
+      ],
+      "examples": [
+        { "arabic": "مَا زَيْدٌ بِقَائِمٍ: قائم خبر مرفوع محلًّا", "english": "قائم is predicate (raf' position despite jarr form)" },
+        { "arabic": "مَا جَاءَنِي مِنْ أَحَدٍ: أحد فاعل مرفوع محلًّا", "english": "أحد is subject (raf' position)" },
+        { "arabic": "كَفَى بِاللهِ: الله فاعل مرفوع محلًّا", "english": "الله is subject of كفى" },
+        { "arabic": "هَلْ مِنْ خَالِقٍ: خالق مبتدأ مرفوع محلًّا", "english": "خالق is mubtada (raf' position)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l103-ex01",
+      "type": "fill-blank",
+      "prompt": "الْحُرُوفُ الزَّائِدَةُ تُضَافُ لِـ_____ وَلَا تُغَيِّرُ الْمَعْنَى",
+      "promptEn": "Extra particles are added for _____ and don't change meaning",
+      "answer": "التَّوْكِيدِ",
+      "itemIds": ["word-b3-643"]
+    },
+    {
+      "id": "b3-l103-ex02",
+      "type": "fill-blank",
+      "prompt": "لَيْسَ زَيْدٌ بِقَائِمٍ - الْبَاءُ هُنَا _____",
+      "promptEn": "ليس زيدٌ بقائمٍ - the ب here is _____",
+      "answer": "زَائِدَةٌ",
+      "itemIds": ["word-b3-644"]
+    },
+    {
+      "id": "b3-l103-ex03",
+      "type": "fill-blank",
+      "prompt": "مِنْ الزَّائِدَةُ تَأْتِي بَعْدَ النَّفْيِ وَالنَّهْيِ وَ_____",
+      "promptEn": "Extra من comes after negation, prohibition, and _____",
+      "answer": "الاسْتِفْهَامِ",
+      "itemIds": ["word-b3-645"]
+    },
+    {
+      "id": "b3-l103-ex04",
+      "type": "fill-blank",
+      "prompt": "كَفَى بِاللهِ شَهِيدًا - 'الله' فَاعِلٌ مَرْفُوعٌ _____",
+      "promptEn": "كفى بالله شهيدًا - 'الله' is subject, raf' in _____",
+      "answer": "مَحَلًّا",
+      "itemIds": ["word-b3-646"]
+    },
+    {
+      "id": "b3-l103-ex05",
+      "type": "fill-blank",
+      "prompt": "الاسْمُ بَعْدَ الْحَرْفِ الزَّائِدِ مَجْرُورٌ _____ وَمَرْفُوعٌ أَوْ مَنْصُوبٌ مَحَلًّا",
+      "promptEn": "The noun after an extra particle is majroor _____ and marfoo'/mansoo محلًّا",
+      "answer": "لَفْظًا",
+      "itemIds": ["word-b3-647"]
+    },
+    {
+      "id": "b3-l103-ex06",
+      "type": "fill-blank",
+      "prompt": "مَا جَاءَنِي مِنْ أَحَدٍ - 'أحد' _____",
+      "promptEn": "ما جاءني من أحدٍ - 'أحد' is the _____",
+      "answer": "فَاعِلٌ",
+      "itemIds": ["word-b3-645"]
+    },
+    {
+      "id": "b3-l103-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْبَاءُ الزَّائِدَةُ",
+      "answer": "Extra/emphatic ب (added for emphasis after ليس، ما، etc.)",
+      "itemIds": ["word-b3-644"]
+    },
+    {
+      "id": "b3-l103-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَجْرُورٌ لَفْظًا مَرْفُوعٌ مَحَلًّا",
+      "answer": "Genitive in form, nominative in position (dual analysis)",
+      "itemIds": ["word-b3-647"]
+    },
+    {
+      "id": "b3-l103-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مِنْ الزَّائِدَةُ",
+      "answer": "Extra من (emphasizes totality of negation: 'not even one')",
+      "itemIds": ["word-b3-645"]
+    },
+    {
+      "id": "b3-l103-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Extra particle (added for emphasis)",
+      "answer": "حَرْفٌ زَائِدٌ",
+      "itemIds": ["word-b3-643"]
+    },
+    {
+      "id": "b3-l103-ex11",
+      "type": "meaning-to-word",
+      "prompt": "In form/pronunciation (as opposed to position)",
+      "answer": "لَفْظًا",
+      "itemIds": ["word-b3-647"]
+    },
+    {
+      "id": "b3-l103-ex12",
+      "type": "meaning-to-word",
+      "prompt": "In grammatical position (underlying function)",
+      "answer": "مَحَلًّا",
+      "itemIds": ["word-b3-646"]
+    }
+  ]
+}

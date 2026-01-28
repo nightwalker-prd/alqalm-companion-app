@@ -1,0 +1,224 @@
+{
+  "id": "b3-l107",
+  "book": 3,
+  "lesson": 107,
+  "title": "النِّدَاءُ الْمُتَقَدِّمُ",
+  "titleEn": "Advanced Vocative Constructions",
+  "description": "Learn advanced vocative rules including calling nouns with أل (يا أيها), calling nouns possessed by ياء المتكلم (يا ربّ), and vocative of lamentation (المندوب).",
+  "vocabulary": ["word-b3-663", "word-b3-664", "word-b3-665", "word-b3-666", "word-b3-667"],
+  "grammarPoints": ["gp-b3-176", "gp-b3-177"],
+  "notes": [
+    {
+      "title": "Calling Nouns with أل",
+      "titleArabic": "نِدَاءُ الْمُعَرَّفِ بِأَل",
+      "content": [
+        "In Arabic, you cannot directly call a noun with أل (*يَا الرَّجُلُ is incorrect). Instead, you must use أَيُّهَا (for masculine) or أَيَّتُهَا (for feminine) as an intermediary.",
+        "The structure is: يَا + أَيُّهَا/أَيَّتُهَا + noun with أل. The noun after أَيُّهَا is either تَابِع (follower) or بَدَل (substitute)."
+      ],
+      "keyPoints": [
+        "Cannot directly call noun with أل",
+        "Use أَيُّهَا (m) / أَيَّتُهَا (f)",
+        "أَيُّ = مُنَادَى مَبْنِيّ على الضَّمّ",
+        "هَا = تنبيه (alerting particle)"
+      ],
+      "examples": [
+        { "arabic": "يَا أَيُّهَا الرَّجُلُ", "english": "O man!" },
+        { "arabic": "يَا أَيَّتُهَا النَّفْسُ الْمُطْمَئِنَّةُ", "english": "O tranquil soul! (Quran 89:27)" },
+        { "arabic": "يَا أَيُّهَا الَّذِينَ آمَنُوا", "english": "O you who believe!" },
+        { "arabic": "يَا أَيُّهَا النَّاسُ", "english": "O people!" }
+      ]
+    },
+    {
+      "title": "Analysis of يا أيها",
+      "titleArabic": "إِعْرَابُ يَا أَيُّهَا",
+      "content": [
+        "يَا: حَرْف نِدَاء. أَيُّ: مُنَادَى مَبْنِيّ على الضَّمّ في مَحَلّ نَصْب. هَا: حَرْف تَنْبِيه (for alerting). The noun after is مَرْفُوع.",
+        "The noun following أَيُّهَا can be analyzed as: نَعْت (adjective), بَدَل (substitute), or عَطْف بَيَان. All analyses lead to رَفْع."
+      ],
+      "keyPoints": [
+        "أَيُّ = منادى مبني على الضم",
+        "هَا = للتنبيه",
+        "Noun after = مرفوع",
+        "Adjective/substitute/بيان"
+      ],
+      "examples": [
+        { "arabic": "يَا أَيُّهَا الْمُؤْمِنُ: المؤمنُ = بدل مرفوع", "english": "الْمُؤْمِنُ is substitute (raf')" },
+        { "arabic": "يَا أَيُّهَا الطَّالِبُ: الطالبُ = نعت مرفوع", "english": "الطالبُ is adjective (raf')" },
+        { "arabic": "يَا أَيَّتُهَا الْمُسْلِمَةُ", "english": "O Muslim woman (المسلمةُ = raf')" },
+        { "arabic": "يَا أَيُّهَا النَّبِيُّ", "english": "O Prophet! (النبيُّ = raf')" }
+      ]
+    },
+    {
+      "title": "Calling Nouns with ياء المتكلم",
+      "titleArabic": "نِدَاءُ الْمُضَافِ إِلَى يَاءِ الْمُتَكَلِّمِ",
+      "content": [
+        "When calling a noun that is possessed by the speaker (مُضَاف إِلَى يَاء المُتَكَلِّم), there are multiple options for the ending of the possessed noun.",
+        "Options include: keeping the ي (يَا رَبِّي), deleting ي with kasra (يَا رَبِّ), replacing with alif (يَا رَبَّا), or fatha without ي (يَا رَبَّ)."
+      ],
+      "keyPoints": [
+        "يَا رَبِّي - keep ياء",
+        "يَا رَبِّ - delete ياء, keep kasra",
+        "يَا رَبَّا - replace with alif",
+        "Most common: يَا رَبِّ"
+      ],
+      "examples": [
+        { "arabic": "يَا رَبِّ / يَا رَبِّي", "english": "O my Lord!" },
+        { "arabic": "يَا بُنَيَّ / يَا بُنَيِّ", "english": "O my son!" },
+        { "arabic": "يَا أَبَتِ (special form)", "english": "O my father!" },
+        { "arabic": "يَا أُمَّتَاهُ (with ـتا)", "english": "O my mother!" }
+      ]
+    },
+    {
+      "title": "Special Forms: أَبَت and أُمَّت",
+      "titleArabic": "صِيَغٌ خَاصَّةٌ: أَبَتِ وَأُمَّتِ",
+      "content": [
+        "When calling one's father or mother, Arabic uses special forms: يَا أَبَتِ (O my father) and يَا أُمَّتِ (O my mother). The تَاء replaces the يَاء.",
+        "The تَاء can take different endings: يَا أَبَتِ (with kasra), يَا أَبَتَ (with fatha), يَا أَبَتَا (with alif). These are unique to these two kinship terms."
+      ],
+      "keyPoints": [
+        "يَا أَبَتِ = يَا أَبِي",
+        "يَا أُمَّتِ = يَا أُمِّي",
+        "ـتَ / ـتِ / ـتَا / ـتَاهُ",
+        "Special to father/mother"
+      ],
+      "examples": [
+        { "arabic": "يَا أَبَتِ لِمَ تَعْبُدُ", "english": "O my father, why do you worship...? (Quran 19:42)" },
+        { "arabic": "يَا أَبَتَاهُ", "english": "O my father! (with ـتاه)" },
+        { "arabic": "يَا أُمَّتَاهُ", "english": "O my mother! (lamentation form)" },
+        { "arabic": "يَا بُنَيَّ لَا تُشْرِكْ بِاللهِ", "english": "O my son, do not associate with Allah (Quran 31:13)" }
+      ]
+    },
+    {
+      "title": "Vocative of Lamentation",
+      "titleArabic": "نِدَاءُ الْمَنْدُوبِ",
+      "content": [
+        "نِدَاء الْمَنْدُوب is calling someone in grief or lamentation, typically for the deceased. The particle used is وَا instead of يَا, and the noun ends with ـاهُ or ـاهَا.",
+        "The structure expresses sorrow: وَا زَيْدَاهُ (Alas, Zayd!). It can only be used for specific, known individuals, not general nouns."
+      ],
+      "keyPoints": [
+        "وَا = particle of lamentation",
+        "Ends with ـاهُ / ـاهَا",
+        "Expresses grief/sorrow",
+        "For specific individuals"
+      ],
+      "examples": [
+        { "arabic": "وَا زَيْدَاهُ", "english": "Alas, Zayd!" },
+        { "arabic": "وَا مُحَمَّدَاهُ", "english": "Alas, Muhammad!" },
+        { "arabic": "وَا أَبَتَاهُ", "english": "Alas, my father!" },
+        { "arabic": "وَا رَأْسَاهُ", "english": "Alas, my head! (in pain)" }
+      ]
+    },
+    {
+      "title": "Summary of Vocative Patterns",
+      "titleArabic": "مُلَخَّصُ أَنْمَاطِ النِّدَاءِ",
+      "content": [
+        "Regular vocative: يَا + noun (يَا زَيْدُ). With أل: يَا أَيُّهَا + noun (يَا أَيُّهَا الرَّجُلُ). With ياء المتكلم: يَا رَبِّ. Lamentation: وَا + noun + ـاه.",
+        "The مُنَادَى can be: مَبْنِيّ على الضَّمّ (single definite), مَنْصُوب (مُضَاف or شَبِيه بِالْمُضَاف), or مَبْنِيّ في مَحَلّ نَصْب."
+      ],
+      "keyPoints": [
+        "يَا زَيْدُ (regular)",
+        "يَا أَيُّهَا الرَّجُلُ (with أل)",
+        "يَا رَبِّ (with ياء المتكلم)",
+        "وَا زَيْدَاهُ (lamentation)"
+      ],
+      "examples": [
+        { "arabic": "يَا طَالِبُ (مفرد معرفة - مبني)", "english": "O student (single definite)" },
+        { "arabic": "يَا طَالِبَ الْعِلْمِ (مضاف - منصوب)", "english": "O seeker of knowledge (possessed)" },
+        { "arabic": "يَا أَيُّهَا الْعَالِمُ (معرّف بأل)", "english": "O scholar (with أل)" },
+        { "arabic": "وَا حَبِيبَاهُ (مندوب)", "english": "Alas, beloved! (lamentation)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l107-ex01",
+      "type": "fill-blank",
+      "prompt": "لَا يَجُوزُ نِدَاءُ الْمُعَرَّفِ بِأَل مُبَاشَرَةً، بَلْ نَسْتَخْدِمُ _____",
+      "promptEn": "You cannot directly call a noun with أل, instead use _____",
+      "answer": "أَيُّهَا / أَيَّتُهَا",
+      "itemIds": ["word-b3-663"]
+    },
+    {
+      "id": "b3-l107-ex02",
+      "type": "fill-blank",
+      "prompt": "يَا أَيُّهَا الرَّجُلُ - أَيُّ هُنَا مُنَادَى مَبْنِيٌّ عَلَى _____",
+      "promptEn": "يا أيها الرجل - أَيُّ here is مُنادى built on _____",
+      "answer": "الضَّمِّ",
+      "itemIds": ["word-b3-664"]
+    },
+    {
+      "id": "b3-l107-ex03",
+      "type": "fill-blank",
+      "prompt": "يَا رَبِّ - هٰذَا نِدَاءُ الْمُضَافِ إِلَى _____ الْمُتَكَلِّمِ",
+      "promptEn": "يا ربِّ - this is calling a noun possessed by the speaker's _____",
+      "answer": "يَاءِ",
+      "itemIds": ["word-b3-665"]
+    },
+    {
+      "id": "b3-l107-ex04",
+      "type": "fill-blank",
+      "prompt": "نِدَاءُ الْمَنْدُوبِ يُسْتَخْدَمُ لِلتَّعْبِيرِ عَنِ _____",
+      "promptEn": "Vocative of lamentation is used to express _____",
+      "answer": "الْحُزْنِ / التَّفَجُّعِ",
+      "itemIds": ["word-b3-666"]
+    },
+    {
+      "id": "b3-l107-ex05",
+      "type": "fill-blank",
+      "prompt": "حَرْفُ النِّدَاءِ فِي الْمَنْدُوبِ هُوَ _____",
+      "promptEn": "The vocative particle in lamentation is _____",
+      "answer": "وَا",
+      "itemIds": ["word-b3-667"]
+    },
+    {
+      "id": "b3-l107-ex06",
+      "type": "fill-blank",
+      "prompt": "يَا أَبَتِ - التَّاءُ هُنَا _____ عَنْ يَاءِ الْمُتَكَلِّمِ",
+      "promptEn": "يا أبتِ - the تاء here _____ the ياء of the speaker",
+      "answer": "عِوَضٌ / بَدَلٌ",
+      "itemIds": ["word-b3-665"]
+    },
+    {
+      "id": "b3-l107-ex07",
+      "type": "word-to-meaning",
+      "prompt": "يَا أَيُّهَا",
+      "answer": "O (you) - used to call nouns with أل",
+      "itemIds": ["word-b3-663"]
+    },
+    {
+      "id": "b3-l107-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْمَنْدُوبُ",
+      "answer": "The lamented one (called in grief/sorrow)",
+      "itemIds": ["word-b3-666"]
+    },
+    {
+      "id": "b3-l107-ex09",
+      "type": "word-to-meaning",
+      "prompt": "وَا زَيْدَاهُ",
+      "answer": "Alas, Zayd! (lamentation expression)",
+      "itemIds": ["word-b3-667"]
+    },
+    {
+      "id": "b3-l107-ex10",
+      "type": "meaning-to-word",
+      "prompt": "O you (feminine) who - for calling feminine nouns with أل",
+      "answer": "يَا أَيَّتُهَا",
+      "itemIds": ["word-b3-663"]
+    },
+    {
+      "id": "b3-l107-ex11",
+      "type": "meaning-to-word",
+      "prompt": "O my father (special vocative form)",
+      "answer": "يَا أَبَتِ / يَا أَبَتَا / يَا أَبَتَاهُ",
+      "itemIds": ["word-b3-664"]
+    },
+    {
+      "id": "b3-l107-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Alerting particle (in يا أيها)",
+      "answer": "هَا",
+      "itemIds": ["word-b3-665"]
+    }
+  ]
+}

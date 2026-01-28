@@ -1,0 +1,128 @@
+{
+  "id": "b2-l01",
+  "book": 2,
+  "lesson": 1,
+  "title": "مُرَاجَعَة",
+  "titleEn": "Review",
+  "description": "Review of Book 1 concepts: demonstratives, pronouns, nominal and verbal sentences.",
+  "vocabulary": ["word-b2-001", "word-b2-002", "word-b2-003", "word-b2-004"],
+  "grammarPoints": ["gp-b2-001"],
+  "notes": [
+    {
+      "title": "Introduction to إنَّ and Its Sisters",
+      "titleArabic": "إنَّ وأخواتها",
+      "content": [
+        "Arabic sentences are of two types: nominal (جملة اسمية) starting with a noun, and verbal (جملة فعلية) starting with a verb.",
+        "The particle إنَّ is used for emphasis and changes the case of the subject (mubtada') to accusative (منصوب). The subject after إنَّ is called اسم إنّ."
+      ],
+      "keyPoints": [
+        "إنَّ emphasizes the statement - 'indeed' or 'surely'",
+        "The noun after إنَّ takes fathah (accusative case)",
+        "The predicate (خبر إنّ) remains in the nominative case (مرفوع)"
+      ],
+      "examples": [
+        { "arabic": "إِنَّ الطَّالِبَ مُجْتَهِدٌ", "english": "Indeed, the student is diligent" },
+        { "arabic": "إِنَّ الْكِتَابَ جَدِيدٌ", "english": "Indeed, the book is new" }
+      ]
+    },
+    {
+      "title": "Arabic Sentence Types",
+      "titleArabic": "أنواع الجمل",
+      "content": [
+        "Review of nominal and verbal sentences from Book 1. Nominal sentences begin with a noun (subject/mubtada') and verbal sentences begin with a verb."
+      ],
+      "keyPoints": [
+        "Nominal sentence: الطَّالِبُ مُجْتَهِدٌ (The student is diligent)",
+        "Verbal sentence: ذَهَبَ الطَّالِبُ (The student went)",
+        "Both types are fundamental to Arabic grammar"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l01-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "This is a new book",
+      "answer": "هَذَا كِتَابٌ جَدِيدٌ",
+      "itemIds": ["word-001", "word-002", "word-052"]
+    },
+    {
+      "id": "b2-l01-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The student went to the mosque",
+      "answer": "ذَهَبَ الطَّالِبُ إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-068", "word-005", "word-048", "word-007"]
+    },
+    {
+      "id": "b2-l01-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "She is a female teacher",
+      "answer": "هِيَ مُدَرِّسَةٌ",
+      "itemIds": ["word-028", "word-079"]
+    },
+    {
+      "id": "b2-l01-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ الْكِتَابُ جَدِيدٌ",
+      "promptEn": "_____ the book is new (emphasis)",
+      "answer": "إِنَّ",
+      "itemIds": ["word-124"]
+    },
+    {
+      "id": "b2-l01-ex05",
+      "type": "word-to-meaning",
+      "prompt": "فَصْلٌ",
+      "answer": "classroom / season",
+      "itemIds": ["word-b2-001"]
+    },
+    {
+      "id": "b2-l01-ex06",
+      "type": "word-to-meaning",
+      "prompt": "سَبُّورَةٌ",
+      "answer": "blackboard",
+      "itemIds": ["word-b2-002"]
+    },
+    {
+      "id": "b2-l01-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مَكْتَبٌ",
+      "answer": "desk / office",
+      "itemIds": ["word-b2-003"]
+    },
+    {
+      "id": "b2-l01-ex08",
+      "type": "word-to-meaning",
+      "prompt": "سَاعَةٌ",
+      "answer": "hour / clock / watch",
+      "itemIds": ["word-b2-004"]
+    },
+    {
+      "id": "b2-l01-ex09",
+      "type": "meaning-to-word",
+      "prompt": "classroom",
+      "answer": "فَصْلٌ",
+      "itemIds": ["word-b2-001"]
+    },
+    {
+      "id": "b2-l01-ex10",
+      "type": "meaning-to-word",
+      "prompt": "blackboard",
+      "answer": "سَبُّورَةٌ",
+      "itemIds": ["word-b2-002"]
+    },
+    {
+      "id": "b2-l01-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher wrote on the blackboard",
+      "answer": "كَتَبَ الْمُدَرِّسُ عَلَى السَّبُّورَةِ",
+      "itemIds": ["word-081", "word-004", "word-047", "word-b2-002"]
+    },
+    {
+      "id": "b2-l01-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The clock is on the desk",
+      "answer": "السَّاعَةُ عَلَى الْمَكْتَبِ",
+      "itemIds": ["word-b2-004", "word-047", "word-b2-003"]
+    }
+  ]
+}

@@ -1,0 +1,169 @@
+{
+  "id": "b3-l31",
+  "book": 3,
+  "lesson": 31,
+  "title": "الفِعْل المُضَارِع المَبْنِيّ",
+  "titleEn": "Indeclinable Present Tense",
+  "notes": [
+    {
+      "title": "Ḥāl Review",
+      "titleArabic": "مراجعة الحال",
+      "content": [
+        "The ḥāl describes the state of the subject or object during the action. It answers 'how?' or 'in what state?' and can be a word, phrase, or sentence."
+      ],
+      "keyPoints": [
+        "Single word: جَاءَ رَاكِضًا (he came running)",
+        "Prepositional phrase: جَاءَ بِسُرْعَةٍ",
+        "Sentence: جَاءَ وَهُوَ يَبْكِي (he came while crying)",
+        "Must agree with ṣāḥib al-ḥāl in gender/number"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الطَّالِبُ مُسْرِعًا", "english": "The student came hurrying" },
+        { "arabic": "رَأَيْتُهُ جَالِسًا", "english": "I saw him sitting" }
+      ]
+    },
+    {
+      "title": "Indeclinable Present Tense",
+      "titleArabic": "الفعل المضارع المبني",
+      "content": [
+        "The present tense verb becomes indeclinable (mabnī) when attached to nūn al-niswah (feminine plural) or nūn al-tawkīd (emphatic nūn)."
+      ],
+      "keyPoints": [
+        "With nūn al-niswah: يَكْتُبْنَ (they f. write) - mabnī 'alā sukūn",
+        "With nūn al-tawkīd: لَيَكْتُبَنَّ (he will surely write) - mabnī 'alā fatḥ",
+        "Heavy nūn: نَّ / Light nūn: نْ",
+        "Used in oaths and emphatic statements"
+      ],
+      "examples": [
+        { "arabic": "النِّسَاءُ يَكْتُبْنَ", "english": "The women write" },
+        { "arabic": "وَاللهِ لأَفْعَلَنَّ", "english": "By Allah, I will surely do it" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-163",
+    "word-b3-164",
+    "word-b3-165",
+    "word-b3-166",
+    "word-b3-167"
+  ],
+  "grammarPoints": [
+    "gp-b3-031"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l31-ex01",
+      "type": "fill-blank",
+      "prompt": "النِّسَاءُ _____ الطَّعَامَ (يَطْبُخْنَ)",
+      "answer": "يَطْبُخْنَ",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "They (f.) go",
+      "answer": "هُنَّ يَذْهَبْنَ",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex03",
+      "type": "fill-blank",
+      "prompt": "لَتَكْتُبَ_____ (ـنَّ - nun tawkid)",
+      "answer": "نَّ",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex04",
+      "type": "word-to-meaning",
+      "prompt": "يَعْلَمْنَ",
+      "answer": "they (f.) know",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex05",
+      "type": "meaning-to-word",
+      "prompt": "you will surely write (emphatic)",
+      "answer": "لَتَكْتُبَنَّ",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The women are cooking",
+      "answer": "النِّسَاءُ يَطْبُخْنَ",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex07",
+      "type": "fill-blank",
+      "prompt": "وَاللهِ _____ (لأَفْعَلَنَّ)",
+      "answer": "لأَفْعَلَنَّ",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَيَكْتُبُنَّ",
+      "answer": "they (f.) will surely write",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "By Allah, I will surely do it",
+      "answer": "وَاللهِ لأَفْعَلَنَّهُ",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex10",
+      "type": "fill-blank",
+      "prompt": "المُؤْمِنَاتُ _____ (يُصَلِّينَ)",
+      "answer": "يُصَلِّينَ",
+      "itemIds": [
+        "word-b3-163",
+        "word-b3-164"
+      ]
+    },
+    {
+      "id": "b3-l31-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The believing women fast in Ramadan",
+      "answer": "الْمُؤْمِنَاتُ يَصُمْنَ فِي رَمَضَانَ",
+      "itemIds": ["word-b3-163", "word-b3-164"]
+    },
+    {
+      "id": "b3-l31-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "By Allah, I will surely complete this work",
+      "answer": "وَاللهِ لأُكْمِلَنَّ هَذَا الْعَمَلَ",
+      "itemIds": ["word-b3-163", "word-b3-164"]
+    }
+  ]
+}

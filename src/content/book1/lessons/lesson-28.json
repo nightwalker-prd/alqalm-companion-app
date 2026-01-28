@@ -1,0 +1,141 @@
+{
+  "id": "b1-l28",
+  "book": 1,
+  "lesson": 28,
+  "title": "الْمَفْعُولُ بِهِ",
+  "titleEn": "Direct Object",
+  "description": "Learn about the direct object (المفعول به) and its role in Arabic sentences.",
+  "vocabulary": ["word-245", "word-246", "word-247", "word-248", "word-249", "word-250"],
+  "grammarPoints": ["gp-043", "gp-044"],
+  "notes": [
+    {
+      "title": "The Direct Object (المفعول به)",
+      "titleArabic": "المفعول به",
+      "content": [
+        "The direct object (المفعول به) is the noun that receives the action of the verb.",
+        "It is always in the accusative case (منصوب), shown by fatha or its variants."
+      ],
+      "keyPoints": [
+        "The direct object answers 'what?' or 'whom?' after the verb",
+        "It takes accusative case markers: fatha (ـَ), alif (ًا), or ya (ين) for plurals",
+        "Word order: Verb + Subject + Object (most common)",
+        "Object pronouns attach directly to the verb"
+      ],
+      "examples": [
+        { "arabic": "قَرَأَ الطَّالِبُ الْكِتَابَ", "english": "The student read the book" },
+        { "arabic": "رَأَيْتُ رَجُلًا", "english": "I saw a man" },
+        { "arabic": "سَمِعْتُ الْمُدَرِّسِينَ", "english": "I heard the teachers" },
+        { "arabic": "قَرَأْتُهُ", "english": "I read it" }
+      ]
+    },
+    {
+      "title": "Object Pronouns",
+      "titleArabic": "ضمائر المفعول به",
+      "content": [
+        "Object pronouns attach to the end of the verb to indicate the receiver of the action.",
+        "These are the same suffixes used for possession, but with verbs they indicate the object."
+      ],
+      "keyPoints": [
+        "ـهُ - him/it (رَأَيْتُهُ - I saw him)",
+        "ـهَا - her/it (رَأَيْتُهَا - I saw her)",
+        "ـكَ - you (m.) (رَأَيْتُكَ - I saw you)",
+        "ـنِي - me (رَآنِي - he saw me)"
+      ],
+      "examples": [
+        { "arabic": "رَأَيْتُهُ فِي السُّوقِ", "english": "I saw him in the market" },
+        { "arabic": "سَأَلَتْنِي الْمُدَرِّسَةُ", "english": "The teacher asked me" },
+        { "arabic": "سَاعَدْتُهُمْ", "english": "I helped them" },
+        { "arabic": "أَعْطَاهَا الْكِتَابَ", "english": "He gave her the book" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l28-ex01",
+      "type": "fill-blank",
+      "prompt": "قَرَأَ الطَّالِبُ _____",
+      "promptEn": "The student read _____",
+      "answer": "الْكِتَابَ",
+      "itemIds": ["word-002"]
+    },
+    {
+      "id": "b1-l28-ex02",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ_____ فِي الْمَسْجِدِ",
+      "promptEn": "I saw _____ in the mosque",
+      "answer": "هُ",
+      "itemIds": ["word-245"]
+    },
+    {
+      "id": "b1-l28-ex03",
+      "type": "fill-blank",
+      "prompt": "سَمِعَ الْوَلَدُ _____ الْمُدَرِّسِ",
+      "promptEn": "The boy heard _____ of the teacher",
+      "answer": "كَلَامَ",
+      "itemIds": ["word-246"]
+    },
+    {
+      "id": "b1-l28-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "I saw the teacher",
+      "answer": "رَأَيْتُ الْمُدَرِّسَ",
+      "itemIds": ["word-004"]
+    },
+    {
+      "id": "b1-l28-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "She heard them",
+      "answer": "سَمِعَتْهُمْ",
+      "itemIds": ["word-189"]
+    },
+    {
+      "id": "b1-l28-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He helped me",
+      "answer": "سَاعَدَنِي",
+      "itemIds": ["word-247"]
+    },
+    {
+      "id": "b1-l28-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The boy ate the apple",
+      "answer": "أَكَلَ الْوَلَدُ التُّفَّاحَةَ",
+      "itemIds": ["word-195", "word-023", "word-145"]
+    },
+    {
+      "id": "b1-l28-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَنْصُوب",
+      "answer": "accusative",
+      "itemIds": ["word-248"]
+    },
+    {
+      "id": "b1-l28-ex09",
+      "type": "word-to-meaning",
+      "prompt": "سَاعَدَ",
+      "answer": "he helped",
+      "itemIds": ["word-247"]
+    },
+    {
+      "id": "b1-l28-ex10",
+      "type": "word-to-meaning",
+      "prompt": "سَمِعَ",
+      "answer": "he heard",
+      "itemIds": ["word-189"]
+    },
+    {
+      "id": "b1-l28-ex11",
+      "type": "meaning-to-word",
+      "prompt": "speech / words",
+      "answer": "كَلَام",
+      "itemIds": ["word-246"]
+    },
+    {
+      "id": "b1-l28-ex12",
+      "type": "meaning-to-word",
+      "prompt": "market",
+      "answer": "سُوق",
+      "itemIds": ["word-249"]
+    }
+  ]
+}

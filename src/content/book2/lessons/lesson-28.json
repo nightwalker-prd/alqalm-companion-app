@@ -1,0 +1,167 @@
+{
+  "id": "b2-l28",
+  "book": 2,
+  "lesson": 28,
+  "title": "الأَفْعَال الضَّعِيفَة فِي الأَحَادِيث",
+  "titleEn": "Weak Verbs in Hadith",
+  "vocabulary": [
+    "word-b2-146",
+    "word-b2-147",
+    "word-b2-148",
+    "word-b2-149",
+    "word-b2-150"
+  ],
+  "grammarPoints": ["gp-b2-028"],
+  "notes": [
+    {
+      "title": "Weak Verbs in Religious Texts",
+      "titleArabic": "الأفعال الضعيفة في الأحاديث",
+      "content": [
+        "Understanding weak verbs is essential for reading Islamic texts, especially hadith. Many common religious terms come from weak verb roots.",
+        "This lesson applies previous knowledge of weak verbs to religious vocabulary."
+      ],
+      "keyPoints": [
+        "قَالَ (hollow): قَالَ النَّبِيُّ ﷺ (The Prophet said)",
+        "رَوَى (doubly weak): رَوَى الْحَدِيثَ (He narrated the hadith)",
+        "صَلَّى (defective): صَلَّى النَّبِيُّ (The Prophet prayed)",
+        "هَدَى (defective): هَدَاهُ اللهُ (Allah guided him)",
+        "رَضِيَ (defective): رَضِيَ اللهُ عَنْهُ (May Allah be pleased with him)"
+      ],
+      "examples": [
+        { "arabic": "قَالَ النَّبِيُّ ﷺ", "english": "The Prophet ﷺ said" },
+        { "arabic": "رَوَى الْبُخَارِيُّ", "english": "Al-Bukhari narrated" },
+        { "arabic": "هَدَانَا اللهُ", "english": "Allah guided us" },
+        { "arabic": "دَعَا إِلَى اللهِ", "english": "He called to Allah" }
+      ]
+    },
+    {
+      "title": "Common Religious Phrases",
+      "titleArabic": "عبارات دينية شائعة",
+      "content": [
+        "These phrases appear frequently in Islamic texts and speech."
+      ],
+      "keyPoints": [
+        "رَضِيَ اللهُ عَنْهُ (May Allah be pleased with him)",
+        "صَلَّى اللهُ عَلَيْهِ وَسَلَّمَ (May Allah's peace and blessings be upon him)",
+        "تَلَا الْقُرْآنَ (He recited the Quran)",
+        "آمَنُوا بِاللهِ (They believed in Allah)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l28-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ النَّبِيُّ ﷺ (قَالَ)",
+      "answer": "قَالَ",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He recited the hadith",
+      "answer": "رَوَى الحَدِيثَ",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الصَّحَابَةُ بِالنَّبِيِّ (آمَنُوا)",
+      "answer": "آمَنُوا",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex04",
+      "type": "word-to-meaning",
+      "prompt": "تَلاَ",
+      "answer": "to recite/follow",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to narrate",
+      "answer": "رَوَى",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The Prophet ﷺ prayed",
+      "answer": "صَلَّى النَّبِيُّ ﷺ",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex07",
+      "type": "fill-blank",
+      "prompt": "_____ الله عَنْهُ (رَضِيَ)",
+      "answer": "رَضِيَ",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex08",
+      "type": "word-to-meaning",
+      "prompt": "هَدَى",
+      "answer": "to guide",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "Allah guided him",
+      "answer": "هَدَاهُ اللهُ",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ إِلَى اللهِ (دَعَا)",
+      "answer": "دَعَا",
+      "itemIds": [
+        "word-b2-146",
+        "word-b2-147"
+      ]
+    },
+    {
+      "id": "b2-l28-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The Prophet ﷺ said the truth",
+      "answer": "قَالَ النَّبِيُّ ﷺ الْحَقَّ",
+      "itemIds": ["word-b2-146", "word-b2-147"]
+    },
+    {
+      "id": "b2-l28-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "May Allah be pleased with him",
+      "answer": "رَضِيَ اللهُ عَنْهُ",
+      "itemIds": ["word-b2-149"]
+    }
+  ]
+}

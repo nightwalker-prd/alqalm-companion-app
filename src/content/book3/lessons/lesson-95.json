@@ -1,0 +1,224 @@
+{
+  "id": "b3-l95",
+  "book": 3,
+  "lesson": 95,
+  "title": "أَمْ الْمُتَّصِلَةُ وَالْمُنْقَطِعَةُ",
+  "titleEn": "Connected and Disconnected Am",
+  "description": "Learn about the two types of أم - المتصلة (connected, for exclusive choice) and المنقطعة (disconnected, introducing a new clause meaning 'or rather/but').",
+  "vocabulary": ["word-b3-603", "word-b3-604", "word-b3-605", "word-b3-606", "word-b3-607"],
+  "grammarPoints": ["gp-b3-152", "gp-b3-153"],
+  "notes": [
+    {
+      "title": "Introduction to أم",
+      "titleArabic": "مُقَدِّمَةٌ عَنْ أَمْ",
+      "content": [
+        "أَمْ is a conjunction particle that has two distinct types: الْمُتَّصِلَة (connected) and الْمُنْقَطِعَة (disconnected). Understanding the difference is essential for proper comprehension of Arabic questions and statements.",
+        "The two types have different meanings, grammatical functions, and contexts. Confusing them leads to misunderstanding sentences."
+      ],
+      "keyPoints": [
+        "أَمْ has two types",
+        "المُتَّصِلَة: connected",
+        "المُنْقَطِعَة: disconnected",
+        "Different meanings and uses"
+      ],
+      "examples": [
+        { "arabic": "أَزَيْدٌ عِنْدَكَ أَمْ عَمْرٌو؟ (متصلة)", "english": "Is Zayd with you or Amr? (connected)" },
+        { "arabic": "إِنَّهَا لَإِحْدَى الْكُبَرِ أَمْ لَا (منقطعة)", "english": "Indeed it is one of the greatest - or isn't it? (disconnected)" },
+        { "arabic": "هَلْ زَيْدٌ قَائِمٌ أَمْ قَاعِدٌ؟", "english": "Is Zayd standing or sitting?" },
+        { "arabic": "أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ", "english": "Are you more difficult to create or the sky?" }
+      ]
+    },
+    {
+      "title": "أم المتصلة (Connected Am)",
+      "titleArabic": "أَمْ الْمُتَّصِلَةُ",
+      "content": [
+        "أَمْ الْمُتَّصِلَة is used in questions asking to specify which of two (or more) options is the case. It follows هَمْزَة الاسْتِفْهَام (أَ) or sometimes هَلْ. The answer must be one of the options, not yes/no.",
+        "It is called 'connected' because the two parts are grammatically connected - they share the same question. The meaning is 'which of these?' Example: أَزَيْدٌ جَاءَ أَمْ عَمْرٌو؟ (Which one came - Zayd or Amr?)"
+      ],
+      "keyPoints": [
+        "Follows أَ (hamza) or هَلْ",
+        "Asks to specify which option",
+        "Answer is one option (not yes/no)",
+        "Called مُعَادِلَة (equating)"
+      ],
+      "examples": [
+        { "arabic": "أَزَيْدٌ جَاءَ أَمْ عَمْرٌو؟", "english": "Did Zayd come or Amr? (Answer: Zayd or Amr)" },
+        { "arabic": "أَتُرِيدُ شَايًا أَمْ قَهْوَةً؟", "english": "Do you want tea or coffee?" },
+        { "arabic": "أَأَنْتُمْ تَزْرَعُونَهُ أَمْ نَحْنُ الزَّارِعُونَ", "english": "Do you plant it or are We the planters? (Quran)" },
+        { "arabic": "هَلْ هَذَا صَحِيحٌ أَمْ خَطَأٌ؟", "english": "Is this correct or wrong?" }
+      ]
+    },
+    {
+      "title": "أم المنقطعة (Disconnected Am)",
+      "titleArabic": "أَمْ الْمُنْقَطِعَةُ",
+      "content": [
+        "أَمْ الْمُنْقَطِعَة introduces a new, separate clause. It doesn't offer a choice but rather means 'or (actually),' 'or rather,' 'but,' or introduces a rhetorical question. It can follow statements or questions.",
+        "It is called 'disconnected' because what follows is grammatically independent. The meaning is close to بَلْ (rather) + أَ (question). Example: أَمْ تُرِيدُونَ أَنْ تَسْأَلُوا = بَلْ أَتُرِيدُونَ (Or do you want...?)."
+      ],
+      "keyPoints": [
+        "Introduces new clause",
+        "Means 'or rather,' 'but,' بَلْ + أ",
+        "Does NOT offer choice",
+        "Follows statements or questions"
+      ],
+      "examples": [
+        { "arabic": "هَلْ زَيْدٌ فِي الدَّارِ أَمْ هَلْ رَأَيْتَهُ؟", "english": "Is Zayd home, or have you seen him? (two separate questions)" },
+        { "arabic": "إِنَّهَا لَإِحْدَى الْكُبَرِ أَمْ لَا", "english": "Indeed it is one of the greatest - isn't it?" },
+        { "arabic": "أَمْ تُرِيدُونَ أَنْ تَسْأَلُوا رَسُولَكُمْ (البقرة: ١٠٨)", "english": "Or do you intend to ask your Messenger? (Quran)" },
+        { "arabic": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ (البقرة: ٢١٤)", "english": "Or did you think you would enter Paradise? (Quran)" }
+      ]
+    },
+    {
+      "title": "How to Distinguish Between Them",
+      "titleArabic": "كَيْفَ نُمَيِّزُ بَيْنَهُمَا؟",
+      "content": [
+        "To distinguish: 1) المتصلة must be preceded by همزة التسوية or همزة الاستفهام in a question seeking specification. 2) المنقطعة follows statements or questions where بَلْ أَ could replace it.",
+        "Test: Can you replace أَمْ with أَيُّهُمَا (which of them)? If yes = متصلة. Can you replace with بَلْ أَ? If yes = منقطعة. Also: does the answer need to specify one option = متصلة, or is it a new question = منقطعة."
+      ],
+      "keyPoints": [
+        "المتصلة: after أَ for specification",
+        "المنقطعة: replaceable with بَلْ أَ",
+        "Test with أَيُّهُمَا (متصلة)",
+        "Test with بَلْ أَ (منقطعة)"
+      ],
+      "examples": [
+        { "arabic": "أَزَيْدٌ أَمْ عَمْرٌو؟ = أَيُّهُمَا؟ → متصلة", "english": "Zayd or Amr = which one? → connected" },
+        { "arabic": "أَمْ تُرِيدُ = بَلْ أَتُرِيدُ → منقطعة", "english": "Or do you want = rather, do you want? → disconnected" },
+        { "arabic": "سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ → متصلة", "english": "Same to them whether you warn or not → connected (همزة التسوية)" },
+        { "arabic": "أَمْ لَهُمْ شُرَكَاءُ؟ → منقطعة", "english": "Or do they have partners? → disconnected" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis",
+      "titleArabic": "الإِعْرَابُ",
+      "content": [
+        "أَمْ الْمُتَّصِلَة: حَرْف عَطْف (conjunction particle). What follows is معطوف على (conjoined to) what came before the أَمْ. Both parts share the same grammatical structure.",
+        "أَمْ الْمُنْقَطِعَة: حَرْف ابْتِدَاء (initiating particle) - starts a new clause. Some call it حَرْف إِضْرَاب (particle of correction). What follows is a new, independent sentence."
+      ],
+      "keyPoints": [
+        "المتصلة: حَرْف عَطْف",
+        "المنقطعة: حَرْف ابْتِدَاء / إِضْرَاب",
+        "متصلة: ما بعدها معطوف",
+        "منقطعة: جملة مستقلة"
+      ],
+      "examples": [
+        { "arabic": "أَزَيْدٌ أَمْ عَمْرٌو: أَمْ حرف عطف، عَمْرٌو معطوف على زَيْدٌ", "english": "أَمْ: conjunction, عَمْرٌو conjoined to زَيْدٌ" },
+        { "arabic": "أَمْ تُرِيدُونَ: أَمْ حرف ابتداء، تُرِيدُونَ جملة مستقلة", "english": "أَمْ: initiating particle, تُرِيدُونَ independent sentence" },
+        { "arabic": "المتصلة تُعرب حرف عطف", "english": "Connected أَمْ: parsed as conjunction" },
+        { "arabic": "المنقطعة تُعرب حرف ابتداء", "english": "Disconnected أَمْ: parsed as initiating particle" }
+      ]
+    },
+    {
+      "title": "Quranic Examples",
+      "titleArabic": "أَمْثِلَةٌ قُرْآنِيَّةٌ",
+      "content": [
+        "Both types appear frequently in the Quran. الْمُتَّصِلَة often appears with هَمْزَة التَّسْوِيَة (equating hamza): سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ (It's equal whether you warn them or not).",
+        "الْمُنْقَطِعَة appears in rhetorical questions: أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ (Or did you think you'd enter Paradise?). Understanding which type helps with proper tafsir."
+      ],
+      "keyPoints": [
+        "Both common in Quran",
+        "همزة التسوية + أَمْ = متصلة",
+        "Rhetorical questions often منقطعة",
+        "Essential for tafsir"
+      ],
+      "examples": [
+        { "arabic": "سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ (البقرة: ٦)", "english": "It is equal whether you warn them or not (2:6) - متصلة" },
+        { "arabic": "أَأَنْتُمْ أَشَدُّ خَلْقًا أَمِ السَّمَاءُ (النازعات: ٢٧)", "english": "Are you harder to create or the sky? (79:27) - متصلة" },
+        { "arabic": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ (البقرة: ٢١٤)", "english": "Or did you think you'd enter Paradise? (2:214) - منقطعة" },
+        { "arabic": "أَمْ لَهُمْ آلِهَةٌ تَمْنَعُهُمْ (الأنبياء: ٤٣)", "english": "Or do they have gods protecting them? (21:43) - منقطعة" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l95-ex01",
+      "type": "fill-blank",
+      "prompt": "أَزَيْدٌ جَاءَ أَمْ عَمْرٌو؟ - 'أَمْ' هُنَا _____",
+      "promptEn": "أَزَيْدٌ جَاءَ أَمْ عَمْرٌو؟ - 'أَمْ' here is _____",
+      "answer": "مُتَّصِلَةٌ",
+      "itemIds": ["word-b3-603"]
+    },
+    {
+      "id": "b3-l95-ex02",
+      "type": "fill-blank",
+      "prompt": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ - 'أَمْ' هُنَا _____",
+      "promptEn": "أَمْ حَسِبْتُمْ أَنْ تَدْخُلُوا الْجَنَّةَ - 'أَمْ' here is _____",
+      "answer": "مُنْقَطِعَةٌ",
+      "itemIds": ["word-b3-604"]
+    },
+    {
+      "id": "b3-l95-ex03",
+      "type": "fill-blank",
+      "prompt": "أَمْ الْمُتَّصِلَةُ تَأْتِي بَعْدَ _____ الاسْتِفْهَامِيَّةِ",
+      "promptEn": "أَمْ المتصلة comes after the interrogative _____",
+      "answer": "الْهَمْزَةِ",
+      "itemIds": ["word-b3-605"]
+    },
+    {
+      "id": "b3-l95-ex04",
+      "type": "fill-blank",
+      "prompt": "أَمْ الْمُنْقَطِعَةُ يُمْكِنُ اسْتِبْدَالُهَا بِـ: _____ + أَ",
+      "promptEn": "أَمْ المنقطعة can be replaced with: _____ + أَ",
+      "answer": "بَلْ",
+      "itemIds": ["word-b3-606"]
+    },
+    {
+      "id": "b3-l95-ex05",
+      "type": "fill-blank",
+      "prompt": "أَمْ الْمُتَّصِلَةُ حَرْفُ _____، وَأَمْ الْمُنْقَطِعَةُ حَرْفُ ابْتِدَاء",
+      "promptEn": "أَمْ المتصلة is a _____ particle, while أَمْ المنقطعة is an initiating particle",
+      "answer": "عَطْفٍ",
+      "itemIds": ["word-b3-607"]
+    },
+    {
+      "id": "b3-l95-ex06",
+      "type": "fill-blank",
+      "prompt": "سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ - هَذِهِ أَمْ _____ مَعَ هَمْزَةِ التَّسْوِيَةِ",
+      "promptEn": "سَوَاءٌ عَلَيْهِمْ أَأَنْذَرْتَهُمْ أَمْ لَمْ تُنْذِرْهُمْ - this أَمْ is _____ with همزة التسوية",
+      "answer": "مُتَّصِلَةٌ",
+      "itemIds": ["word-b3-603"]
+    },
+    {
+      "id": "b3-l95-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَمْ الْمُتَّصِلَةُ",
+      "answer": "Connected أَمْ (offers choice between options in a question)",
+      "itemIds": ["word-b3-603"]
+    },
+    {
+      "id": "b3-l95-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَمْ الْمُنْقَطِعَةُ",
+      "answer": "Disconnected أَمْ (introduces new clause, means 'or rather')",
+      "itemIds": ["word-b3-604"]
+    },
+    {
+      "id": "b3-l95-ex09",
+      "type": "word-to-meaning",
+      "prompt": "هَمْزَةُ التَّسْوِيَةِ",
+      "answer": "The equating hamza (used with سَوَاء showing equal options)",
+      "itemIds": ["word-b3-605"]
+    },
+    {
+      "id": "b3-l95-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The أَمْ that offers a choice between options and follows همزة الاستفهام",
+      "answer": "أَمْ الْمُتَّصِلَةُ",
+      "itemIds": ["word-b3-603"]
+    },
+    {
+      "id": "b3-l95-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The أَمْ that means 'or rather' and can be replaced with بَلْ أَ",
+      "answer": "أَمْ الْمُنْقَطِعَةُ",
+      "itemIds": ["word-b3-604"]
+    },
+    {
+      "id": "b3-l95-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Identify the type: أَتُرِيدُ شَايًا أَمْ قَهْوَةً؟",
+      "answer": "أَمْ مُتَّصِلَةٌ",
+      "itemIds": ["word-b3-603"]
+    }
+  ]
+}

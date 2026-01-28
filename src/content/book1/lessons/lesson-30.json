@@ -1,0 +1,141 @@
+{
+  "id": "b1-l30",
+  "book": 1,
+  "lesson": 30,
+  "title": "مُرَاجَعَة الْكِتَاب الأَوَّل",
+  "titleEn": "Book 1 Review",
+  "description": "Review the key concepts learned in Book 1: demonstratives, pronouns, verb conjugation, and sentence structure.",
+  "vocabulary": ["word-257", "word-258", "word-259", "word-260", "word-261", "word-262"],
+  "grammarPoints": ["gp-047", "gp-048"],
+  "notes": [
+    {
+      "title": "Review of Demonstratives and Pronouns",
+      "titleArabic": "مراجعة أسماء الإشارة والضمائر",
+      "content": [
+        "Demonstratives point to nouns: هَذَا/هَذِهِ (this) and ذَلِكَ/تِلْكَ (that).",
+        "Personal pronouns include: أَنَا، أَنْتَ، هُوَ، هِيَ، نَحْنُ، أَنْتُمْ، هُمْ."
+      ],
+      "keyPoints": [
+        "هَذَا كِتَابٌ - This is a book",
+        "تِلْكَ مَدْرَسَةٌ - That is a school",
+        "هُوَ طَالِبٌ - He is a student",
+        "نَحْنُ مُسْلِمُونَ - We are Muslims"
+      ],
+      "examples": [
+        { "arabic": "هَذَا الْكِتَابُ جَدِيدٌ", "english": "This book is new" },
+        { "arabic": "تِلْكَ السَّيَّارَةُ كَبِيرَةٌ", "english": "That car is big" },
+        { "arabic": "أَنَا طَالِبٌ وَهُوَ مُدَرِّسٌ", "english": "I am a student and he is a teacher" },
+        { "arabic": "هُمْ فِي الْبَيْتِ", "english": "They are in the house" }
+      ]
+    },
+    {
+      "title": "Review of Verb Conjugation",
+      "titleArabic": "مراجعة تصريف الأفعال",
+      "content": [
+        "Past tense verbs change endings based on the subject: كَتَبَ، كَتَبَتْ، كَتَبْتُ، كَتَبْنَا.",
+        "Present tense verbs use prefixes and suffixes: يَكْتُبُ، تَكْتُبُ، أَكْتُبُ، نَكْتُبُ."
+      ],
+      "keyPoints": [
+        "Past: ذَهَبَ (he went), ذَهَبَتْ (she went), ذَهَبْتُ (I went)",
+        "Present: يَذْهَبُ (he goes), تَذْهَبُ (she goes), أَذْهَبُ (I go)",
+        "Negation: لَا يَذْهَبُ، مَا ذَهَبَ، لَيْسَ طَالِبًا",
+        "Questions: هَلْ ذَهَبَ؟، أَيْنَ ذَهَبَ؟، مَتَى ذَهَبَ؟"
+      ],
+      "examples": [
+        { "arabic": "ذَهَبَ الطَّالِبُ إِلَى الْمَدْرَسَةِ", "english": "The student went to the school" },
+        { "arabic": "يَقْرَأُ الْوَلَدُ الْكِتَابَ", "english": "The boy reads the book" },
+        { "arabic": "لَمْ يَذْهَبْ أَمْسِ", "english": "He did not go yesterday" },
+        { "arabic": "هَلْ كَتَبْتَ الدَّرْسَ؟", "english": "Did you write the lesson?" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l30-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ كِتَابٌ جَدِيدٌ",
+      "promptEn": "_____ is a new book",
+      "answer": "هَذَا",
+      "itemIds": ["word-001"]
+    },
+    {
+      "id": "b1-l30-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ طَالِبَةٌ مُجْتَهِدَةٌ",
+      "promptEn": "_____ is a diligent (female) student",
+      "answer": "هِيَ",
+      "itemIds": ["word-028"]
+    },
+    {
+      "id": "b1-l30-ex03",
+      "type": "fill-blank",
+      "prompt": "ذَهَبَ_____ إِلَى الْمَسْجِدِ",
+      "promptEn": "He went _____ to the mosque",
+      "answer": "تُ",
+      "itemIds": ["word-068"]
+    },
+    {
+      "id": "b1-l30-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "This is my book",
+      "answer": "هَذَا كِتَابِي",
+      "itemIds": ["word-001", "word-002"]
+    },
+    {
+      "id": "b1-l30-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "She is a teacher",
+      "answer": "هِيَ مُدَرِّسَةٌ",
+      "itemIds": ["word-028", "word-079"]
+    },
+    {
+      "id": "b1-l30-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "We went to the school",
+      "answer": "ذَهَبْنَا إِلَى الْمَدْرَسَةِ",
+      "itemIds": ["word-068", "word-035"]
+    },
+    {
+      "id": "b1-l30-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Where is the teacher?",
+      "answer": "أَيْنَ الْمُدَرِّسُ؟",
+      "itemIds": ["word-184", "word-004"]
+    },
+    {
+      "id": "b1-l30-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مُرَاجَعَة",
+      "answer": "review",
+      "itemIds": ["word-257"]
+    },
+    {
+      "id": "b1-l30-ex09",
+      "type": "word-to-meaning",
+      "prompt": "جُمْلَة",
+      "answer": "sentence",
+      "itemIds": ["word-258"]
+    },
+    {
+      "id": "b1-l30-ex10",
+      "type": "word-to-meaning",
+      "prompt": "قَاعِدَة",
+      "answer": "rule / grammar rule",
+      "itemIds": ["word-259"]
+    },
+    {
+      "id": "b1-l30-ex11",
+      "type": "meaning-to-word",
+      "prompt": "exercise",
+      "answer": "تَمْرِين",
+      "itemIds": ["word-260"]
+    },
+    {
+      "id": "b1-l30-ex12",
+      "type": "meaning-to-word",
+      "prompt": "example",
+      "answer": "مِثَال",
+      "itemIds": ["word-261"]
+    }
+  ]
+}

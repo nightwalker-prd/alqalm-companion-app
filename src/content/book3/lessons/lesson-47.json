@@ -1,0 +1,141 @@
+{
+  "id": "b3-l47",
+  "book": 3,
+  "lesson": 47,
+  "title": "إِعْمَال اسْم الْفَاعِل",
+  "titleEn": "Active Participle Acting as a Verb",
+  "description": "Learn how اسم الفاعل (active participle) can take objects like its verb under certain conditions.",
+  "vocabulary": ["word-b3-333", "word-b3-334", "word-b3-335", "word-b3-336", "word-b3-337", "word-b3-338"],
+  "grammarPoints": ["gp-b3-056", "gp-b3-057"],
+  "notes": [
+    {
+      "title": "When اسم الفاعل Takes Objects",
+      "titleArabic": "شروط إعمال اسم الفاعل",
+      "content": [
+        "اسم الفاعل can take a direct object like its verb, but this requires certain conditions.",
+        "It must indicate present or future time and be preceded by negation, a question, or describe a noun."
+      ],
+      "keyPoints": [
+        "Must indicate present/future (not past)",
+        "Conditions: 1) Preceded by negation (ما ضاربٌ)",
+        "2) Preceded by question particle (أَضَارِبٌ أَنْتَ؟)",
+        "3) Used as a description (هذا رجلٌ ضاربٌ زيدًا)"
+      ],
+      "examples": [
+        { "arabic": "مَا ضَارِبٌ زَيْدًا أَخُوكَ", "english": "Your brother is not hitting Zaid" },
+        { "arabic": "أَقَارِئٌ الْكِتَابَ مُحَمَّدٌ؟", "english": "Is Muhammad reading the book?" },
+        { "arabic": "هَذَا رَجُلٌ ضَارِبٌ ابْنَهُ", "english": "This is a man hitting his son" },
+        { "arabic": "الطَّالِبُ حَافِظٌ دَرْسَهُ", "english": "The student is memorizing his lesson" }
+      ]
+    },
+    {
+      "title": "اسم الفاعل with ال",
+      "titleArabic": "اسم الفاعل المعرف بأل",
+      "content": [
+        "When اسم الفاعل has ال, it can take an object without the previous conditions.",
+        "It acts more like a noun but retains its verbal force. Example: الضَّارِبُ زَيْدًا (the one hitting Zaid)."
+      ],
+      "keyPoints": [
+        "With ال: acts freely as verb - الضَّارِبُ زَيْدًا",
+        "Without ال: needs conditions (negation/question/description)",
+        "Object always in accusative case",
+        "Can also take prepositional complements"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الضَّارِبُ زَيْدًا", "english": "The one hitting Zaid came" },
+        { "arabic": "رَأَيْتُ الْقَارِئَ الْكِتَابَ", "english": "I saw the one reading the book" },
+        { "arabic": "الْكَاتِبُ الرِّسَالَةَ حَاضِرٌ", "english": "The one writing the letter is present" },
+        { "arabic": "هُوَ الْحَافِظُ الْقُرْآنَ", "english": "He is the one memorizing the Quran" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l47-ex01",
+      "type": "fill-blank",
+      "prompt": "مَا _____ زَيْدًا أَخُوكَ",
+      "promptEn": "Your brother is not _____ Zaid",
+      "answer": "ضَارِبٌ",
+      "itemIds": ["word-b3-333"]
+    },
+    {
+      "id": "b3-l47-ex02",
+      "type": "fill-blank",
+      "prompt": "أَ_____ الْكِتَابَ مُحَمَّدٌ؟",
+      "promptEn": "Is Muhammad _____ the book?",
+      "answer": "قَارِئٌ",
+      "itemIds": ["word-b3-334"]
+    },
+    {
+      "id": "b3-l47-ex03",
+      "type": "fill-blank",
+      "prompt": "الطَّالِبُ _____ دَرْسَهُ",
+      "promptEn": "The student is _____ his lesson",
+      "answer": "حَافِظٌ",
+      "itemIds": ["word-b3-335"]
+    },
+    {
+      "id": "b3-l47-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The one hitting Zaid came",
+      "answer": "جَاءَ الضَّارِبُ زَيْدًا",
+      "itemIds": ["word-b3-333"]
+    },
+    {
+      "id": "b3-l47-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "This is a man writing a letter",
+      "answer": "هَذَا رَجُلٌ كَاتِبٌ رِسَالَةً",
+      "itemIds": ["word-b3-336"]
+    },
+    {
+      "id": "b3-l47-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Are you attending the lecture?",
+      "answer": "أَحَاضِرٌ أَنْتَ الْمُحَاضَرَةَ؟",
+      "itemIds": ["word-b3-337"]
+    },
+    {
+      "id": "b3-l47-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "He is not eating the food",
+      "answer": "مَا آكِلٌ الطَّعَامَ هُوَ",
+      "itemIds": ["word-b3-338"]
+    },
+    {
+      "id": "b3-l47-ex08",
+      "type": "word-to-meaning",
+      "prompt": "ضَارِبٌ",
+      "answer": "hitting / one who hits",
+      "itemIds": ["word-b3-333"]
+    },
+    {
+      "id": "b3-l47-ex09",
+      "type": "word-to-meaning",
+      "prompt": "قَارِئٌ",
+      "answer": "reading / reader",
+      "itemIds": ["word-b3-334"]
+    },
+    {
+      "id": "b3-l47-ex10",
+      "type": "word-to-meaning",
+      "prompt": "حَافِظٌ",
+      "answer": "memorizing / one who memorizes",
+      "itemIds": ["word-b3-335"]
+    },
+    {
+      "id": "b3-l47-ex11",
+      "type": "meaning-to-word",
+      "prompt": "writer / one who writes",
+      "answer": "كَاتِبٌ",
+      "itemIds": ["word-b3-336"]
+    },
+    {
+      "id": "b3-l47-ex12",
+      "type": "meaning-to-word",
+      "prompt": "attending / one who attends",
+      "answer": "حَاضِرٌ",
+      "itemIds": ["word-b3-337"]
+    }
+  ]
+}

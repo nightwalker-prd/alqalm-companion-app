@@ -1,0 +1,145 @@
+{
+  "id": "b3-l01",
+  "book": 3,
+  "lesson": 1,
+  "title": "مُرَاجَعَةٌ",
+  "titleEn": "Review of Books 1 & 2",
+  "description": "Comprehensive review of fundamental concepts from Books 1 and 2 before advancing to derived forms.",
+  "vocabulary": ["word-b3-001", "word-b3-002", "word-b3-003", "word-b3-004"],
+  "grammarPoints": ["gp-b3-001"],
+  "notes": [
+    {
+      "title": "Declension of Nouns (الإعراب)",
+      "titleArabic": "الإعراب",
+      "content": [
+        "Declinable nouns indicate their grammatical function by their endings (علامات الإعراب). Understanding these endings is fundamental to reading and writing Arabic correctly.",
+        "The three primary cases are: nominative (الرفع) marked by dammah, accusative (النصب) marked by fathah, and genitive (الجر) marked by kasrah."
+      ],
+      "keyPoints": [
+        "Dammah (ـُ) indicates nominative case - the noun is مرفوع",
+        "Fathah (ـَ) indicates accusative case - the noun is منصوب",
+        "Kasrah (ـِ) indicates genitive case - the noun is مجرور"
+      ],
+      "examples": [
+        { "arabic": "دَخَلَ المدرسُ", "english": "The teacher entered (nominative - subject)" },
+        { "arabic": "سألت المدرسَ", "english": "I asked the teacher (accusative - object)" },
+        { "arabic": "هذه سيارة المدرسِ", "english": "This is the teacher's car (genitive - possessive)" }
+      ]
+    },
+    {
+      "title": "Secondary Endings",
+      "titleArabic": "علامات الإعراب الفرعية",
+      "content": [
+        "Certain noun groups use secondary endings instead of the primary ones. These include the sound feminine plural, diptotes, the five nouns, sound masculine plural, and dual nouns."
+      ],
+      "keyPoints": [
+        "Sound feminine plural: nasb takes kasrah instead of fathah",
+        "Diptotes: jarr takes fathah instead of kasrah",
+        "The five nouns use waw for raf', alif for nasb, and ya' for jarr",
+        "Sound masculine plural ends with -ūna (raf') and -īna (nasb/jarr)",
+        "Dual nouns end with -āni (raf') and -ayni (nasb/jarr)"
+      ]
+    },
+    {
+      "title": "Moods of Verbs",
+      "titleArabic": "أحوال الفعل",
+      "content": [
+        "Arabic verbs have three forms: māḍī (past), muḍāri' (present/future), and amr (imperative). The māḍī and amr are mabnī (fixed endings), while the muḍāri' is mu'rab (endings change).",
+        "The muḍāri' has three moods: marfū' (indicative) with -u ending, manṣūb (subjunctive) with -a ending, and majzūm (jussive) where the ending is dropped or changed."
+      ],
+      "examples": [
+        { "arabic": "يَكْتُبُ", "english": "He writes (indicative)" },
+        { "arabic": "لَن يَكْتُبَ", "english": "He will not write (subjunctive)" },
+        { "arabic": "لَم يَكْتُبْ", "english": "He did not write (jussive)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l01-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The students who succeeded",
+      "answer": "الطُّلَّابُ الَّذِينَ نَجَحُوا",
+      "itemIds": ["word-b2-019", "word-b2-025"]
+    },
+    {
+      "id": "b3-l01-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I saw him sitting",
+      "answer": "رَأَيْتُهُ جَالِسًا",
+      "itemIds": ["word-b2-005", "word-b2-033"]
+    },
+    {
+      "id": "b3-l01-ex03",
+      "type": "fill-blank",
+      "prompt": "الْكِتَابُ _____ قَرَأْتُهُ مُفِيدٌ",
+      "promptEn": "The book _____ I read is beneficial",
+      "answer": "الَّذِي",
+      "itemIds": ["word-b2-023"]
+    },
+    {
+      "id": "b3-l01-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "Don't go now!",
+      "answer": "لَا تَذْهَبْ الْآنَ",
+      "itemIds": ["word-b2-041"]
+    },
+    {
+      "id": "b3-l01-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مُرَاجَعَة",
+      "answer": "review / revision",
+      "itemIds": ["word-b3-001"]
+    },
+    {
+      "id": "b3-l01-ex06",
+      "type": "word-to-meaning",
+      "prompt": "تَقَدُّم",
+      "answer": "progress / advancement",
+      "itemIds": ["word-b3-002"]
+    },
+    {
+      "id": "b3-l01-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مُسْتَوَى",
+      "answer": "level",
+      "itemIds": ["word-b3-003"]
+    },
+    {
+      "id": "b3-l01-ex08",
+      "type": "meaning-to-word",
+      "prompt": "advanced",
+      "answer": "مُتَقَدِّم",
+      "itemIds": ["word-b3-004"]
+    },
+    {
+      "id": "b3-l01-ex09",
+      "type": "fill-blank",
+      "prompt": "هَؤُلَاءِ _____ مُجْتَهِدُونَ",
+      "promptEn": "These students are hardworking",
+      "answer": "طُلَّابٌ",
+      "itemIds": ["word-b2-019"]
+    },
+    {
+      "id": "b3-l01-ex10",
+      "type": "translate-to-arabic",
+      "prompt": "He is bigger than me",
+      "answer": "هُوَ أَكْبَرُ مِنِّي",
+      "itemIds": ["word-b2-058"]
+    },
+    {
+      "id": "b3-l01-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The students who succeeded are more diligent than the others",
+      "answer": "الطُّلَّابُ الَّذِينَ نَجَحُوا أَكْثَرُ اجْتِهَادًا مِنَ الآخَرِينَ",
+      "itemIds": ["word-b2-019", "word-b2-014", "word-b2-078"]
+    },
+    {
+      "id": "b3-l01-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I saw the teacher standing in front of the classroom",
+      "answer": "رَأَيْتُ الْمُدَرِّسَ وَاقِفًا أَمَامَ الْفَصْلِ",
+      "itemIds": ["word-b2-005", "word-004", "word-b2-034", "word-b2-094", "word-b2-001"]
+    }
+  ]
+}

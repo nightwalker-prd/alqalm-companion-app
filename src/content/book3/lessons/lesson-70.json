@@ -1,0 +1,182 @@
+{
+  "id": "b3-l70",
+  "book": 3,
+  "lesson": 70,
+  "title": "رُبَّ",
+  "titleEn": "The Particle Rubba",
+  "description": "Learn about the particle رُبَّ - its meaning indicating paucity or abundance, its grammatical effects on the noun it governs, and its usage in classical Arabic poetry and prose.",
+  "vocabulary": ["word-b3-469", "word-b3-470", "word-b3-471", "word-b3-472", "word-b3-473"],
+  "grammarPoints": ["gp-b3-102", "gp-b3-103"],
+  "notes": [
+    {
+      "title": "What is رُبَّ?",
+      "titleArabic": "تَعْرِيفُ رُبَّ",
+      "content": [
+        "رُبَّ is a حَرْفُ جَرٍّ شَبِيهٌ بِالزَّائِدِ (a preposition resembling the extra/redundant particles). It is used to indicate either قِلَّة (paucity/fewness) or كَثْرَة (abundance/many), depending on context.",
+        "Unlike regular prepositions, رُبَّ only attaches to نَكِرَة (indefinite nouns) that are مَوْصُوفَة (described by an adjective or clause). This is a key grammatical rule for its usage."
+      ],
+      "keyPoints": [
+        "رُبَّ = حَرْفُ جَرٍّ شَبِيهٌ بِالزَّائِدِ",
+        "Indicates قِلَّة (fewness) or كَثْرَة (abundance)",
+        "Only enters on نَكِرَة مَوْصُوفَة (described indefinite noun)",
+        "The noun after it takes جَرّ in form but رَفْع in meaning"
+      ],
+      "examples": [
+        { "arabic": "رُبَّ أَخٍ لَكَ لَمْ تَلِدْهُ أُمُّكَ", "english": "Many a brother you have whom your mother did not bear" },
+        { "arabic": "رُبَّ رَجُلٍ كَرِيمٍ لَقِيتُهُ", "english": "Many a generous man I have met" },
+        { "arabic": "رُبَّ ضَارَّةٍ نَافِعَةٌ", "english": "Many a harmful thing is (actually) beneficial" },
+        { "arabic": "رُبَّ كَلِمَةٍ قَالَتْ لِصَاحِبِهَا دَعْنِي", "english": "Many a word said to its speaker: Leave me alone" }
+      ]
+    },
+    {
+      "title": "The Grammatical Effect of رُبَّ",
+      "titleArabic": "عَمَلُ رُبَّ",
+      "content": [
+        "رُبَّ causes its noun (مَجْرُور) to take كَسْرَة in pronunciation (لَفْظًا), but in terms of grammatical function (مَحَلًّا), the noun serves as the مُبْتَدَأ (subject) of the sentence in the رَفْع position.",
+        "This is why رُبَّ is called شَبِيهٌ بِالزَّائِدِ - it affects pronunciation but doesn't change the underlying grammatical role. The noun is مَجْرُورٌ لَفْظًا مَرْفُوعٌ مَحَلًّا (genitive in form, nominative in function)."
+      ],
+      "keyPoints": [
+        "Noun after رُبَّ: مَجْرُورٌ لَفْظًا (genitive in pronunciation)",
+        "Same noun: مَرْفُوعٌ مَحَلًّا (nominative in function)",
+        "Functions as مُبْتَدَأ (subject) of the sentence",
+        "The خَبَر (predicate) comes after the noun"
+      ],
+      "examples": [
+        { "arabic": "رُبَّ رَجُلٍ صَالِحٍ لَقِيتُهُ", "english": "رَجُلٍ: مجرور لفظًا، مبتدأ محلًّا" },
+        { "arabic": "رُبَّ أَمْرٍ سَرَّكَ مَضَرَّتُهُ", "english": "Many a matter that pleased you, its harm (was great)" },
+        { "arabic": "رُبَّ يَوْمٍ بَكَيْتُ فِيهِ", "english": "Many a day I cried in it" },
+        { "arabic": "رُبَّ لَيْلَةٍ سَهِرْتُهَا", "english": "Many a night I stayed awake through it" }
+      ]
+    },
+    {
+      "title": "رُبَّ for Paucity vs. Abundance",
+      "titleArabic": "رُبَّ لِلتَّقْلِيلِ وَالتَّكْثِيرِ",
+      "content": [
+        "Grammarians differ on whether رُبَّ primarily indicates تَقْلِيل (paucity) or تَكْثِير (abundance). The Basran school holds that رُبَّ is primarily for تَقْلِيل (making few), while the Kufan school and some others argue it is often used for تَكْثِير (making many).",
+        "In practice, رُبَّ is frequently used for تَكْثِير in poetry and eloquent speech, especially when the speaker wants to boast or emphasize frequency. Context determines the intended meaning."
+      ],
+      "keyPoints": [
+        "تَقْلِيل: indicating fewness (Basran view as primary)",
+        "تَكْثِير: indicating abundance (common in poetry)",
+        "Context determines the meaning",
+        "Often used for تَفَاخُر (boasting) = تَكْثِير"
+      ],
+      "examples": [
+        { "arabic": "رُبَّ رَمْيَةٍ مِنْ غَيْرِ رَامٍ (تقليل)", "english": "Perhaps a shot from one who is not an archer (paucity)" },
+        { "arabic": "رُبَّ حَامِلِ فِقْهٍ إِلَى مَنْ هُوَ أَفْقَهُ مِنْهُ", "english": "Many a carrier of fiqh (carries it) to one more learned than him" },
+        { "arabic": "رُبَّ مَعْذِرَةٍ أَوْقَعَتْ صَاحِبَهَا فِي ذَنْبٍ", "english": "Many an excuse landed its maker in sin" },
+        { "arabic": "أَلَا رُبَّ مَوْلُودٍ وَلَيْسَ لَهُ أَبٌ (شعر)", "english": "Indeed many a born child has no father (poetry)" }
+      ]
+    },
+    {
+      "title": "Special Forms and Usage",
+      "titleArabic": "صِيَغُ رُبَّ وَاسْتِعْمَالَاتُهَا",
+      "content": [
+        "رُبَّ has variant forms: رُبَّ (most common), رُبَ (without shadda), رُبَّمَا (with مَا الكَافَّة which allows it to enter on verbs), and رُبَّتَ (with تَاء التَّأْنِيث). These variants appear in classical texts.",
+        "When مَا is attached (رُبَّمَا), it كَفَّتْهَا عَنِ الْعَمَلِ (prevents رُبَّ from governing), allowing it to precede verbs. This is common in both Quran and poetry."
+      ],
+      "keyPoints": [
+        "رُبَّ، رُبَ، رُبَّمَا، رُبَّتَ: variant forms",
+        "رُبَّمَا: مَا is كَافَّة (preventing governance)",
+        "رُبَّمَا can precede verbs",
+        "All forms share the same essential meaning"
+      ],
+      "examples": [
+        { "arabic": "رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ (القرآن ١٥:٢)", "english": "Perhaps those who disbelieved will wish they had been Muslims (Quran 15:2)" },
+        { "arabic": "رُبَّمَا أَوْفَيْتُ فِي عَلَمٍ (شعر)", "english": "Often I have ascended to a peak (poetry)" },
+        { "arabic": "رُبَّتَ لَيْلَةٍ سَهِرْتُهَا", "english": "Many a night I stayed up through" },
+        { "arabic": "رُبَّمَا تَكْرَهُ النُّفُوسُ مِنَ الْأَمْرِ لَهُ فُرْجَةٌ", "english": "Often souls hate a matter that has relief (in it)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l70-ex01",
+      "type": "fill-blank",
+      "prompt": "رُبَّ حَرْفُ جَرٍّ شَبِيهٌ بِ_____",
+      "promptEn": "رُبَّ is a preposition resembling _____",
+      "answer": "الزَّائِدِ",
+      "itemIds": ["word-b3-469"]
+    },
+    {
+      "id": "b3-l70-ex02",
+      "type": "fill-blank",
+      "prompt": "رُبَّ لَا تَدْخُلُ إِلَّا عَلَى النَّكِرَةِ _____",
+      "promptEn": "رُبَّ only enters on the _____ indefinite noun",
+      "answer": "الْمَوْصُوفَةِ",
+      "itemIds": ["word-b3-470"]
+    },
+    {
+      "id": "b3-l70-ex03",
+      "type": "fill-blank",
+      "prompt": "الِاسْمُ بَعْدَ رُبَّ مَجْرُورٌ لَفْظًا _____ مَحَلًّا",
+      "promptEn": "The noun after رُبَّ is genitive in form, _____ in function",
+      "answer": "مَرْفُوعٌ",
+      "itemIds": ["word-b3-471"]
+    },
+    {
+      "id": "b3-l70-ex04",
+      "type": "fill-blank",
+      "prompt": "رُبَّمَا تَدْخُلُ عَلَى _____ لِأَنَّ مَا كَافَّةٌ",
+      "promptEn": "رُبَّمَا can enter on _____ because مَا is preventive",
+      "answer": "الْفِعْلِ",
+      "itemIds": ["word-b3-472"]
+    },
+    {
+      "id": "b3-l70-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "Many a brother you have whom your mother did not bear",
+      "answer": "رُبَّ أَخٍ لَكَ لَمْ تَلِدْهُ أُمُّكَ",
+      "itemIds": ["word-b3-469"]
+    },
+    {
+      "id": "b3-l70-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Many a generous man I have met",
+      "answer": "رُبَّ رَجُلٍ كَرِيمٍ لَقِيتُهُ",
+      "itemIds": ["word-b3-470"]
+    },
+    {
+      "id": "b3-l70-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Many a night I stayed awake through it",
+      "answer": "رُبَّ لَيْلَةٍ سَهِرْتُهَا",
+      "itemIds": ["word-b3-471"]
+    },
+    {
+      "id": "b3-l70-ex08",
+      "type": "word-to-meaning",
+      "prompt": "رُبَّ",
+      "answer": "many a / perhaps (particle of paucity or abundance)",
+      "itemIds": ["word-b3-469"]
+    },
+    {
+      "id": "b3-l70-ex09",
+      "type": "word-to-meaning",
+      "prompt": "تَقْلِيل",
+      "answer": "indicating fewness/paucity",
+      "itemIds": ["word-b3-471"]
+    },
+    {
+      "id": "b3-l70-ex10",
+      "type": "word-to-meaning",
+      "prompt": "تَكْثِير",
+      "answer": "indicating abundance/many",
+      "itemIds": ["word-b3-472"]
+    },
+    {
+      "id": "b3-l70-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The مَا that prevents a particle from governing",
+      "answer": "مَا الْكَافَّة",
+      "itemIds": ["word-b3-473"]
+    },
+    {
+      "id": "b3-l70-ex12",
+      "type": "meaning-to-word",
+      "prompt": "A particle meaning 'many a' that takes indefinite described nouns",
+      "answer": "رُبَّ",
+      "itemIds": ["word-b3-473"]
+    }
+  ]
+}

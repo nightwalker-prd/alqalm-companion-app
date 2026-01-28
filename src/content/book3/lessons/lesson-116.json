@@ -1,0 +1,224 @@
+{
+  "id": "b3-l116",
+  "book": 3,
+  "lesson": 116,
+  "title": "تَوْسِعَة نِعْمَ وَبِئْسَ وَالتَّعَجُّب",
+  "titleEn": "Expansion of نعم/بئس and تعجب",
+  "description": "Advanced coverage of نِعْمَ وَبِئْسَ (praise and blame verbs) and التعجب (exclamation of wonder) including conditions and special cases.",
+  "vocabulary": ["word-b3-708", "word-b3-709", "word-b3-710", "word-b3-711", "word-b3-712"],
+  "grammarPoints": ["gp-b3-194", "gp-b3-195"],
+  "notes": [
+    {
+      "title": "Review of نِعْمَ وَبِئْسَ",
+      "titleArabic": "مُرَاجَعَةُ نِعْمَ وَبِئْسَ",
+      "content": [
+        "نِعْمَ (how excellent) and بِئْسَ (how bad) are أفعال المدح والذم (praise and blame verbs). They are جامدة (frozen - no conjugation).",
+        "Structure: نِعْمَ/بِئْسَ + الفاعل + المخصوص بالمدح/الذم. Example: نِعْمَ الرَّجُلُ زَيْدٌ (How excellent a man - Zayd)."
+      ],
+      "keyPoints": [
+        "نِعْمَ: praise verb",
+        "بِئْسَ: blame verb",
+        "جامدة (frozen form)",
+        "فاعل + مخصوص"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ الرَّجُلُ زَيْدٌ", "english": "How excellent a man - Zayd" },
+        { "arabic": "بِئْسَ الْخُلُقُ الْكَذِبُ", "english": "How bad a trait - lying" },
+        { "arabic": "نِعْمَ الْعَبْدُ إِنَّهُ أَوَّابٌ (القرآن)", "english": "Excellent is the servant - he was oft-returning" },
+        { "arabic": "بِئْسَ الْمَصِيرُ", "english": "How evil a destination" }
+      ]
+    },
+    {
+      "title": "فاعل نِعْمَ وَبِئْسَ",
+      "titleArabic": "فَاعِلُ نِعْمَ وَبِئْسَ",
+      "content": [
+        "The فاعل of نِعْمَ/بِئْسَ can be: (1) مُعَرَّف بِأَل (الرَّجُلُ), (2) مُضَاف إِلَى مُعَرَّف (رَجُلُ الْعِلْمِ), (3) ضَمِير مُسْتَتِر followed by تمييز (نِعْمَ رَجُلًا زَيْدٌ).",
+        "The فاعل must be عام (general) - not a specific person but a category."
+      ],
+      "keyPoints": [
+        "معرَّف بأل: نِعْمَ الرَّجُلُ",
+        "مضاف: نِعْمَ رَجُلُ الْعِلْمِ",
+        "تمييز: نِعْمَ رَجُلًا",
+        "الفاعل عام لا خاص"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ الرَّجُلُ زَيْدٌ (معرف بأل)", "english": "How excellent the man - Zayd (with أل)" },
+        { "arabic": "نِعْمَ طَالِبُ الْعِلْمِ زَيْدٌ (مضاف)", "english": "How excellent a seeker of knowledge - Zayd" },
+        { "arabic": "نِعْمَ رَجُلًا زَيْدٌ (تمييز)", "english": "How excellent as a man - Zayd (tamyeez)" },
+        { "arabic": "الْفَاعِلُ يَجِبُ أَنْ يَكُونَ عَامًّا", "english": "The subject must be general" }
+      ]
+    },
+    {
+      "title": "المخصوص بالمدح والذم",
+      "titleArabic": "الْمَخْصُوصُ بِالْمَدْحِ وَالذَّمِّ",
+      "content": [
+        "المَخْصُوص is the specific person/thing being praised or blamed. Its i'rab has multiple valid analyses: (1) مبتدأ مؤخر والجملة قبله خبره, (2) خبر لمبتدأ محذوف.",
+        "Both analyses are accepted by grammarians. The مخصوص is always مرفوع."
+      ],
+      "keyPoints": [
+        "المخصوص = specific praised/blamed",
+        "مبتدأ مؤخر (one view)",
+        "خبر لمبتدأ محذوف (another)",
+        "Always مرفوع"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ الرَّجُلُ زَيْدٌ: زَيْدٌ مبتدأ مؤخر", "english": "Zayd: delayed subject (one analysis)" },
+        { "arabic": "نِعْمَ الرَّجُلُ زَيْدٌ: زَيْدٌ خبر لـ«هُوَ»", "english": "Zayd: predicate of deleted 'he'" },
+        { "arabic": "بِئْسَ الصِّفَةُ الْكَذِبُ: الكذبُ مخصوص", "english": "Lying is the مخصوص" },
+        { "arabic": "الْمَخْصُوصُ مَرْفُوعٌ دَائِمًا", "english": "المخصوص is always مرفوع" }
+      ]
+    },
+    {
+      "title": "صيغ التعجب",
+      "titleArabic": "صِيَغُ التَّعَجُّبِ",
+      "content": [
+        "التعجب (exclamation) has two standard forms: مَا أَفْعَلَهُ (مَا أَجْمَلَ السَّمَاءَ - How beautiful the sky!) and أَفْعِلْ بِهِ (أَجْمِلْ بِالسَّمَاءِ - How beautiful is the sky!).",
+        "Both express wonder or amazement at a quality."
+      ],
+      "keyPoints": [
+        "مَا أَفْعَلَهُ: first form",
+        "أَفْعِلْ بِهِ: second form",
+        "Express wonder/amazement",
+        "مَا أَجْمَلَ! أَجْمِلْ بِـ!"
+      ],
+      "examples": [
+        { "arabic": "مَا أَجْمَلَ السَّمَاءَ!", "english": "How beautiful the sky is!" },
+        { "arabic": "أَجْمِلْ بِالسَّمَاءِ!", "english": "How beautiful the sky is!" },
+        { "arabic": "مَا أَكْرَمَ زَيْدًا!", "english": "How generous Zayd is!" },
+        { "arabic": "أَكْرِمْ بِزَيْدٍ!", "english": "How generous Zayd is!" }
+      ]
+    },
+    {
+      "title": "شروط فعل التعجب",
+      "titleArabic": "شُرُوطُ فِعْلِ التَّعَجُّبِ",
+      "content": [
+        "التعجب requires the verb to be: ثُلَاثِيّ (triliteral), تَامّ (complete, not ناقص), مُتَصَرِّف (conjugable), مُثْبَت (affirmative), قَابِل للتفاوت (admits degrees), not describing colors/defects.",
+        "If any condition is unmet, use circumlocution: مَا أَشَدَّ + the quality."
+      ],
+      "keyPoints": [
+        "ثلاثي: triliteral root",
+        "تام: complete (not كان)",
+        "متصرف: conjugable",
+        "Colors/defects: use أَشَدَّ"
+      ],
+      "examples": [
+        { "arabic": "مَا أَجْمَلَهُ! (جَمُلَ: ثلاثي تام ✓)", "english": "How beautiful! (meets conditions)" },
+        { "arabic": "مَا أَشَدَّ حُمْرَتَهُ! (لا: ما أَحْمَرَهُ)", "english": "How intensely red! (not: ما أحمره)" },
+        { "arabic": "مَا أَشَدَّ عَرَجَهُ! (لا: ما أَعْرَجَهُ)", "english": "How severely he limps! (circumlocution)" },
+        { "arabic": "مَا أَحْسَنَ الاسْتِقَامَةَ! (استفعل → لا يُتَعَجَّب)", "english": "Use أَشَدَّ for non-triliteral" }
+      ]
+    },
+    {
+      "title": "إعراب صيغ التعجب",
+      "titleArabic": "إِعْرَابُ صِيَغِ التَّعَجُّبِ",
+      "content": [
+        "مَا أَفْعَلَهُ: مَا = تعجبية (مبتدأ), أَفْعَلَ = فعل ماض (فاعله ضمير يعود على ما), الهاء/المفعول = مفعول به.",
+        "أَفْعِلْ بِهِ: أَفْعِلْ = فعل أمر (للتعجب), الباء زائدة, الضمير = فاعل في المحل."
+      ],
+      "keyPoints": [
+        "مَا: تعجبية/موصولة",
+        "أَفْعَلَ: فعل ماض",
+        "أَفْعِلْ: صيغة أمر",
+        "الباء زائدة في الثاني"
+      ],
+      "examples": [
+        { "arabic": "مَا أَجْمَلَ زَيْدًا: ما مبتدأ، أجملَ فعل، زيدًا مفعول", "english": "ما = subject, أجملَ = verb, زيدًا = object" },
+        { "arabic": "أَجْمِلْ بِزَيْدٍ: أجملْ فعل، بزيدٍ فاعل مجرور لفظًا", "english": "أجملْ = verb, بزيدٍ = subject" },
+        { "arabic": "مَا أَكْبَرَ اللهَ!", "english": "How great Allah is! (Takbir)" },
+        { "arabic": "صِيغَتَانِ لِمَعْنًى وَاحِدٍ", "english": "Two forms, one meaning" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l116-ex01",
+      "type": "fill-blank",
+      "prompt": "نِعْمَ وَبِئْسَ تُسَمَّيَانِ أَفْعَالَ _____",
+      "promptEn": "نِعْمَ and بِئْسَ are called verbs of _____",
+      "answer": "الْمَدْحِ وَالذَّمِّ",
+      "itemIds": ["word-b3-708"]
+    },
+    {
+      "id": "b3-l116-ex02",
+      "type": "fill-blank",
+      "prompt": "فَاعِلُ نِعْمَ وَبِئْسَ يَجِبُ أَنْ يَكُونَ _____ لَا خَاصًّا",
+      "promptEn": "The subject of نِعْمَ/بِئْسَ must be _____ not specific",
+      "answer": "عَامًّا",
+      "itemIds": ["word-b3-709"]
+    },
+    {
+      "id": "b3-l116-ex03",
+      "type": "fill-blank",
+      "prompt": "الشَّخْصُ الَّذِي يُمْدَحُ أَوْ يُذَمُّ يُسَمَّى _____ بِالْمَدْحِ أَوِ الذَّمِّ",
+      "promptEn": "The person praised or blamed is called _____ with praise or blame",
+      "answer": "الْمَخْصُوصَ",
+      "itemIds": ["word-b3-710"]
+    },
+    {
+      "id": "b3-l116-ex04",
+      "type": "fill-blank",
+      "prompt": "صِيغَتَا التَّعَجُّبِ هُمَا: _____ وَأَفْعِلْ بِهِ",
+      "promptEn": "The two forms of تعجب are: _____ and أَفْعِلْ بِهِ",
+      "answer": "مَا أَفْعَلَهُ",
+      "itemIds": ["word-b3-711"]
+    },
+    {
+      "id": "b3-l116-ex05",
+      "type": "fill-blank",
+      "prompt": "لَا يُتَعَجَّبُ مِنَ الأَلْوَانِ مُبَاشَرَةً فَنَقُولُ: مَا _____ حُمْرَتَهُ",
+      "promptEn": "We don't exclaim directly about colors, so we say: مَا _____ حُمْرَتَهُ",
+      "answer": "أَشَدَّ",
+      "itemIds": ["word-b3-712"]
+    },
+    {
+      "id": "b3-l116-ex06",
+      "type": "fill-blank",
+      "prompt": "فِعْلُ التَّعَجُّبِ يَجِبُ أَنْ يَكُونَ _____ (ثَلَاثَةُ أَحْرُفٍ)",
+      "promptEn": "The تعجب verb must be _____ (three letters)",
+      "answer": "ثُلَاثِيًّا",
+      "itemIds": ["word-b3-711"]
+    },
+    {
+      "id": "b3-l116-ex07",
+      "type": "word-to-meaning",
+      "prompt": "نِعْمَ",
+      "answer": "How excellent! (praise verb)",
+      "itemIds": ["word-b3-708"]
+    },
+    {
+      "id": "b3-l116-ex08",
+      "type": "word-to-meaning",
+      "prompt": "بِئْسَ",
+      "answer": "How bad! (blame verb)",
+      "itemIds": ["word-b3-708"]
+    },
+    {
+      "id": "b3-l116-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْمَخْصُوصُ بِالْمَدْحِ",
+      "answer": "The specific person/thing being praised",
+      "itemIds": ["word-b3-710"]
+    },
+    {
+      "id": "b3-l116-ex10",
+      "type": "meaning-to-word",
+      "prompt": "First form of تعجب (How X is...!)",
+      "answer": "مَا أَفْعَلَهُ",
+      "itemIds": ["word-b3-711"]
+    },
+    {
+      "id": "b3-l116-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Second form of تعجب (How X is...!)",
+      "answer": "أَفْعِلْ بِهِ",
+      "itemIds": ["word-b3-711"]
+    },
+    {
+      "id": "b3-l116-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Circumlocution word for colors/defects in تعجب",
+      "answer": "أَشَدَّ",
+      "itemIds": ["word-b3-712"]
+    }
+  ]
+}

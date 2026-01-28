@@ -1,0 +1,118 @@
+{
+  "id": "b1-l15",
+  "book": 1,
+  "lesson": 15,
+  "title": "الْجَمْع",
+  "titleEn": "Plurals",
+  "description": "Learn sound masculine and feminine plurals in Arabic: مُدَرِّسُونَ (teachers m.), طَالِبَاتٌ (students f.).",
+  "vocabulary": ["word-090", "word-091", "word-092", "word-093", "word-094", "word-095"],
+  "grammarPoints": ["gp-020"],
+  "notes": [
+    {
+      "title": "Sound Plurals (جمع السالم)",
+      "titleArabic": "الْجَمْعُ السَّالِم",
+      "content": [
+        "Sound plurals are regular plurals formed by adding endings to the singular. Masculine sound plural adds ونَ (nominative) or ينَ (genitive/accusative). Feminine sound plural adds اتٌ.",
+        "Sound masculine plurals are typically used for male rational beings (humans). Sound feminine plurals are used for female rational beings and some inanimate nouns."
+      ],
+      "keyPoints": [
+        "Masculine sound plural: مُدَرِّسٌ → مُدَرِّسُونَ (teachers, m.)",
+        "Feminine sound plural: طَالِبَةٌ → طَالِبَاتٌ (students, f.)",
+        "The ة is dropped when adding اتٌ",
+        "Genitive masculine plural: مُدَرِّسِينَ"
+      ],
+      "examples": [
+        { "arabic": "مُدَرِّسُونَ", "english": "teachers (m.)" },
+        { "arabic": "طَالِبَاتٌ", "english": "students (f.)" },
+        { "arabic": "مُسْلِمُونَ", "english": "Muslims (m.)" },
+        { "arabic": "مُسْلِمَاتٌ", "english": "Muslims (f.)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l15-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "teachers (m.)",
+      "answer": "مُدَرِّسُونَ",
+      "itemIds": ["word-090"]
+    },
+    {
+      "id": "b1-l15-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "students (f.)",
+      "answer": "طَالِبَاتٌ",
+      "itemIds": ["word-091"]
+    },
+    {
+      "id": "b1-l15-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "engineers (m.)",
+      "answer": "مُهَنْدِسُونَ",
+      "itemIds": ["word-092"]
+    },
+    {
+      "id": "b1-l15-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "teachers (f.)",
+      "answer": "مُدَرِّسَاتٌ",
+      "itemIds": ["word-093"]
+    },
+    {
+      "id": "b1-l15-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مُدَرِّسُونَ",
+      "answer": "teachers (m.)",
+      "itemIds": ["word-090"]
+    },
+    {
+      "id": "b1-l15-ex06",
+      "type": "word-to-meaning",
+      "prompt": "طَالِبَاتٌ",
+      "answer": "students (f.)",
+      "itemIds": ["word-091"]
+    },
+    {
+      "id": "b1-l15-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مُهَنْدِسُونَ",
+      "answer": "engineers (m.)",
+      "itemIds": ["word-092"]
+    },
+    {
+      "id": "b1-l15-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مُدَرِّسَاتٌ",
+      "answer": "teachers (f.)",
+      "itemIds": ["word-093"]
+    },
+    {
+      "id": "b1-l15-ex09",
+      "type": "meaning-to-word",
+      "prompt": "Muslims (m.)",
+      "answer": "مُسْلِمُونَ",
+      "itemIds": ["word-094"]
+    },
+    {
+      "id": "b1-l15-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Muslims (f.)",
+      "answer": "مُسْلِمَاتٌ",
+      "itemIds": ["word-095"]
+    },
+    {
+      "id": "b1-l15-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The teachers went to the school",
+      "answer": "ذَهَبَ الْمُدَرِّسُونَ إِلَى الْمَدْرَسَةِ",
+      "itemIds": ["word-068", "word-090", "word-048", "word-035"]
+    },
+    {
+      "id": "b1-l15-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The female students are in the room",
+      "answer": "الطَّالِبَاتُ فِي الْغُرْفَةِ",
+      "itemIds": ["word-091", "word-046", "word-037"]
+    }
+  ]
+}

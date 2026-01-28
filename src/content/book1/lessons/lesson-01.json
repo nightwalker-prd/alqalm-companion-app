@@ -1,0 +1,165 @@
+{
+  "id": "b1-l01",
+  "book": 1,
+  "lesson": 1,
+  "title": "هَذَا",
+  "titleEn": "This (Masculine)",
+  "description": "Learn to identify nearby objects using the demonstrative pronoun هَذَا (this) with masculine nouns.",
+  "vocabulary": ["word-001", "word-002", "word-003", "word-004", "word-005", "word-006", "word-007", "word-008", "word-009"],
+  "grammarPoints": ["gp-001", "gp-002"],
+  "notes": [
+    {
+      "title": "Basic Demonstratives and Indefiniteness",
+      "titleArabic": "اسم الإشارة والتنكير",
+      "content": [
+        "This lesson introduces the demonstrative pronoun هَذَا (this) for masculine nouns. It is pronounced 'hādhā' but written without the initial alif.",
+        "Arabic has no copula - there is no word for 'is'. The sentence هَذَا كِتَابٌ literally translates to 'this book' but means 'this is a book'.",
+        "There is no separate indefinite article like 'a/an' in English. Instead, tanwīn (the -n sound at the end of nouns) indicates indefiniteness."
+      ],
+      "keyPoints": [
+        "هَذَا is used for masculine singular nouns (this)",
+        "Arabic sentences don't require 'is' - subject and predicate are simply placed together",
+        "Tanwīn (-ٌ, -ً, -ٍ) marks indefinite nouns",
+        "The interrogative particle أَ at the beginning turns statements into yes/no questions"
+      ],
+      "examples": [
+        { "arabic": "مَا هَذَا؟", "english": "What is this?" },
+        { "arabic": "هَذَا كِتَابٌ", "english": "This is a book" },
+        { "arabic": "أَهَذَا بَيْتٌ؟", "english": "Is this a house?" },
+        { "arabic": "نَعَم، هَذَا بَيْتٌ", "english": "Yes, this is a house" },
+        { "arabic": "لَا، هَذَا مَسْجِدٌ", "english": "No, this is a mosque" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l01-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ كِتَابٌ",
+      "promptEn": "_____ is a book",
+      "answer": "هَذَا",
+      "itemIds": ["word-001", "word-002"]
+    },
+    {
+      "id": "b1-l01-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ قَلَمٌ",
+      "promptEn": "_____ is a pen",
+      "answer": "هَذَا",
+      "itemIds": ["word-001", "word-003"]
+    },
+    {
+      "id": "b1-l01-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ بَيْتٌ",
+      "promptEn": "_____ is a house",
+      "answer": "هَذَا",
+      "itemIds": ["word-001", "word-006"]
+    },
+    {
+      "id": "b1-l01-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "This is a book",
+      "answer": "هَذَا كِتَابٌ",
+      "itemIds": ["word-001", "word-002"]
+    },
+    {
+      "id": "b1-l01-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "This is a pen",
+      "answer": "هَذَا قَلَمٌ",
+      "itemIds": ["word-001", "word-003"]
+    },
+    {
+      "id": "b1-l01-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "This is a key",
+      "answer": "هَذَا مِفْتَاحٌ",
+      "itemIds": ["word-001", "word-004"]
+    },
+    {
+      "id": "b1-l01-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "This is a door",
+      "answer": "هَذَا بَابٌ",
+      "itemIds": ["word-001", "word-005"]
+    },
+    {
+      "id": "b1-l01-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "This is a mosque",
+      "answer": "هَذَا مَسْجِدٌ",
+      "itemIds": ["word-001", "word-007"]
+    },
+    {
+      "id": "b1-l01-ex09",
+      "type": "word-to-meaning",
+      "prompt": "كِتَابٌ",
+      "answer": "book",
+      "itemIds": ["word-002"]
+    },
+    {
+      "id": "b1-l01-ex10",
+      "type": "word-to-meaning",
+      "prompt": "قَلَمٌ",
+      "answer": "pen",
+      "itemIds": ["word-003"]
+    },
+    {
+      "id": "b1-l01-ex11",
+      "type": "word-to-meaning",
+      "prompt": "مِفْتَاحٌ",
+      "answer": "key",
+      "itemIds": ["word-004"]
+    },
+    {
+      "id": "b1-l01-ex12",
+      "type": "word-to-meaning",
+      "prompt": "بَابٌ",
+      "answer": "door",
+      "itemIds": ["word-005"]
+    },
+    {
+      "id": "b1-l01-ex13",
+      "type": "meaning-to-word",
+      "prompt": "house",
+      "answer": "بَيْتٌ",
+      "itemIds": ["word-006"]
+    },
+    {
+      "id": "b1-l01-ex14",
+      "type": "meaning-to-word",
+      "prompt": "mosque",
+      "answer": "مَسْجِدٌ",
+      "itemIds": ["word-007"]
+    },
+    {
+      "id": "b1-l01-ex15",
+      "type": "meaning-to-word",
+      "prompt": "bed",
+      "answer": "سَرِيرٌ",
+      "itemIds": ["word-008"]
+    },
+    {
+      "id": "b1-l01-ex16",
+      "type": "meaning-to-word",
+      "prompt": "chair",
+      "answer": "كُرْسِيٌّ",
+      "itemIds": ["word-009"]
+    },
+    {
+      "id": "b1-l01-ex17",
+      "type": "translate-to-arabic",
+      "prompt": "This is a house and this is a book",
+      "answer": "هَذَا بَيْتٌ وَهَذَا كِتَابٌ",
+      "itemIds": ["word-001", "word-006", "word-002"]
+    },
+    {
+      "id": "b1-l01-ex18",
+      "type": "translate-to-arabic",
+      "prompt": "This is a teacher and this is a student",
+      "answer": "هَذَا مُدَرِّسٌ وَهَذَا طَالِبٌ",
+      "itemIds": ["word-001", "word-004", "word-005"]
+    }
+  ]
+}

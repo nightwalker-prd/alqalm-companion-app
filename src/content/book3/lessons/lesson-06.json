@@ -1,0 +1,134 @@
+{
+  "id": "b3-l06",
+  "book": 3,
+  "lesson": 6,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب تَفَاعَلَ",
+  "titleEn": "Derived Form VI (تَفَاعَلَ)",
+  "description": "Learn Form VI verbs (reciprocal): تَبَادَلَ (to exchange), تَعَاوَنَ (to cooperate), تَسَاءَلَ (to wonder).",
+  "vocabulary": ["word-b3-028", "word-b3-029", "word-b3-030", "word-b3-031", "word-b3-032"],
+  "grammarPoints": ["gp-b3-006"],
+  "notes": [
+    {
+      "title": "Nouns of Place and Time (أسماء المكان والزمان)",
+      "titleArabic": "أسماء المكان والزمان",
+      "content": [
+        "Nouns of place and time indicate where or when an action takes place. They are derived from verbs using specific patterns depending on the verb type."
+      ],
+      "keyPoints": [
+        "Pattern مَفْعَل is used when the middle radical has fathah or dammah",
+        "Pattern مَفْعِل is used when the middle radical has kasrah",
+        "These nouns indicate location or time of the verbal action"
+      ],
+      "examples": [
+        { "arabic": "مَكْتَب", "english": "office / desk (place of writing)" },
+        { "arabic": "مَطْبَخ", "english": "kitchen (place of cooking)" },
+        { "arabic": "مَوْعِد", "english": "appointment / time of promise" }
+      ]
+    },
+    {
+      "title": "Form VI Verbs (تَفَاعَلَ)",
+      "titleArabic": "باب تَفَاعَلَ",
+      "content": [
+        "Form VI verbs are formed by prefixing تَ to Form III. This pattern typically indicates reciprocal action between two or more parties, or pretending to do an action."
+      ],
+      "keyPoints": [
+        "Pattern: تَفَاعَلَ (tafā'ala) - prefix tā' to Form III",
+        "Maṣdar pattern: تَفَاعُل (tafā'ul)",
+        "Indicates mutual/reciprocal action between parties",
+        "Can indicate pretending: تَمَارَضَ (to pretend to be sick)"
+      ],
+      "examples": [
+        { "arabic": "تَبَادَلَ", "english": "to exchange (with each other)" },
+        { "arabic": "تَعَاوَنَ", "english": "to cooperate" },
+        { "arabic": "تَسَاءَلَ", "english": "to wonder / ask oneself" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l06-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "They exchanged gifts",
+      "answer": "تَبَادَلُوا الْهَدَايَا",
+      "itemIds": ["word-b3-028", "word-b3-033"]
+    },
+    {
+      "id": "b3-l06-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The students cooperated",
+      "answer": "تَعَاوَنَ الطُّلَّابُ",
+      "itemIds": ["word-b3-029", "word-b2-019"]
+    },
+    {
+      "id": "b3-l06-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ عَنْ سَبَبِ غِيَابِهِ",
+      "promptEn": "I wondered about the reason for his absence",
+      "answer": "تَسَاءَلْتُ",
+      "itemIds": ["word-b3-030"]
+    },
+    {
+      "id": "b3-l06-ex04",
+      "type": "word-to-meaning",
+      "prompt": "تَبَادَلَ",
+      "answer": "to exchange",
+      "itemIds": ["word-b3-028"]
+    },
+    {
+      "id": "b3-l06-ex05",
+      "type": "word-to-meaning",
+      "prompt": "تَعَاوَنَ",
+      "answer": "to cooperate",
+      "itemIds": ["word-b3-029"]
+    },
+    {
+      "id": "b3-l06-ex06",
+      "type": "word-to-meaning",
+      "prompt": "تَسَاءَلَ",
+      "answer": "to wonder",
+      "itemIds": ["word-b3-030"]
+    },
+    {
+      "id": "b3-l06-ex07",
+      "type": "word-to-meaning",
+      "prompt": "تَوَاصَلَ",
+      "answer": "to communicate / stay in touch",
+      "itemIds": ["word-b3-031"]
+    },
+    {
+      "id": "b3-l06-ex08",
+      "type": "word-to-meaning",
+      "prompt": "تَنَافَسَ",
+      "answer": "to compete",
+      "itemIds": ["word-b3-032"]
+    },
+    {
+      "id": "b3-l06-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to cooperate (Form VI)",
+      "answer": "تَعَاوَنَ",
+      "itemIds": ["word-b3-029"]
+    },
+    {
+      "id": "b3-l06-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to compete (Form VI)",
+      "answer": "تَنَافَسَ",
+      "itemIds": ["word-b3-032"]
+    },
+    {
+      "id": "b3-l06-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The students competed in the Arabic language exam",
+      "answer": "تَنَافَسَ الطُّلَّابُ فِي امْتِحَانِ اللُّغَةِ الْعَرَبِيَّةِ",
+      "itemIds": ["word-b3-032", "word-b2-019"]
+    },
+    {
+      "id": "b3-l06-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The friends communicated through letters",
+      "answer": "تَوَاصَلَ الْأَصْدِقَاءُ عَبْرَ الرَّسَائِلِ",
+      "itemIds": ["word-b3-031"]
+    }
+  ]
+}

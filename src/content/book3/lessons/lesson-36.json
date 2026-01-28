@@ -1,0 +1,138 @@
+{
+  "id": "b3-l36",
+  "book": 3,
+  "lesson": 36,
+  "title": "أُسْلُوبُ الْمَدْحِ وَالذَّمّ",
+  "titleEn": "Style of Praise and Blame",
+  "description": "Learn expressions of praise (نِعْمَ) and blame (بِئْسَ): نِعْمَ الرَّجُلُ (what an excellent man).",
+  "vocabulary": ["word-b3-267", "word-b3-268", "word-b3-269", "word-b3-270", "word-b3-271", "word-b3-272"],
+  "grammarPoints": ["gp-b3-035"],
+  "notes": [
+    {
+      "title": "Expressions of Praise and Blame",
+      "titleArabic": "أسلوب المدح والذم",
+      "content": [
+        "Arabic has special frozen verbs for expressing praise (مدح) and blame (ذم).",
+        "نِعْمَ (what an excellent) and بِئْسَ (what a wretched) are the primary verbs for this purpose."
+      ],
+      "keyPoints": [
+        "نِعْمَ - for praise (ni'ma = what an excellent)",
+        "بِئْسَ - for blame (bi'sa = what a wretched)",
+        "حَبَّذَا - for praise (how good!)",
+        "لَا حَبَّذَا - for blame (how bad!)"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ الرَّجُلُ مُحَمَّدٌ", "english": "What an excellent man Muhammad is!" },
+        { "arabic": "بِئْسَ الْخُلُقُ الْكَذِبُ", "english": "What a wretched trait lying is!" },
+        { "arabic": "حَبَّذَا الصِّدْقُ", "english": "How good is honesty!" },
+        { "arabic": "نِعْمَ مَا فَعَلْتَ", "english": "How excellent is what you did!" }
+      ]
+    },
+    {
+      "title": "Structure of Praise/Blame Sentences",
+      "titleArabic": "تركيب جملة المدح والذم",
+      "content": [
+        "The sentence structure consists of the praise/blame verb, a general noun (فاعل), and a specific noun being praised/blamed (مخصوص).",
+        "The general noun must be definite with ال or in an idafa construction."
+      ],
+      "keyPoints": [
+        "Verb (نِعْمَ/بِئْسَ) + General noun (الفاعل) + Specific noun (المخصوص)",
+        "General noun must be معرفة بأل or مضاف",
+        "Specific noun can be a name, demonstrative, or noun",
+        "نِعْمَ and بِئْسَ are frozen - they don't conjugate"
+      ],
+      "examples": [
+        { "arabic": "نِعْمَ الصَّدِيقُ الْكِتَابُ", "english": "What an excellent friend the book is!" },
+        { "arabic": "بِئْسَ الصِّفَةُ الْكِبْرُ", "english": "What a wretched quality pride is!" },
+        { "arabic": "نِعْمَ مَنْ تَصَادِقُهُ الْعَالِمُ", "english": "What an excellent person to befriend - the scholar!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l36-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "What an excellent man!",
+      "answer": "نِعْمَ الرَّجُلُ",
+      "itemIds": ["word-b3-267"]
+    },
+    {
+      "id": "b3-l36-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "What a wretched trait lying is!",
+      "answer": "بِئْسَ الْخُلُقُ الْكَذِبُ",
+      "itemIds": ["word-b3-268"]
+    },
+    {
+      "id": "b3-l36-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "How good is honesty!",
+      "answer": "حَبَّذَا الصِّدْقُ",
+      "itemIds": ["word-b3-269"]
+    },
+    {
+      "id": "b3-l36-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ الصَّدِيقُ الْوَفِيُّ",
+      "promptEn": "What an excellent friend the loyal one is!",
+      "answer": "نِعْمَ",
+      "itemIds": ["word-b3-267"]
+    },
+    {
+      "id": "b3-l36-ex05",
+      "type": "word-to-meaning",
+      "prompt": "نِعْمَ",
+      "answer": "what an excellent (praise verb)",
+      "itemIds": ["word-b3-267"]
+    },
+    {
+      "id": "b3-l36-ex06",
+      "type": "word-to-meaning",
+      "prompt": "بِئْسَ",
+      "answer": "what a wretched (blame verb)",
+      "itemIds": ["word-b3-268"]
+    },
+    {
+      "id": "b3-l36-ex07",
+      "type": "word-to-meaning",
+      "prompt": "حَبَّذَا",
+      "answer": "how good! (praise expression)",
+      "itemIds": ["word-b3-269"]
+    },
+    {
+      "id": "b3-l36-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الصِّدْقُ",
+      "answer": "honesty / truthfulness",
+      "itemIds": ["word-b3-270"]
+    },
+    {
+      "id": "b3-l36-ex09",
+      "type": "meaning-to-word",
+      "prompt": "lying / falsehood",
+      "answer": "الْكَذِبُ",
+      "itemIds": ["word-b3-271"]
+    },
+    {
+      "id": "b3-l36-ex10",
+      "type": "meaning-to-word",
+      "prompt": "pride / arrogance",
+      "answer": "الْكِبْرُ",
+      "itemIds": ["word-b3-272"]
+    },
+    {
+      "id": "b3-l36-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "What an excellent student Fatima is!",
+      "answer": "نِعْمَ الطَّالِبَةُ فَاطِمَةُ",
+      "itemIds": ["word-b3-267"]
+    },
+    {
+      "id": "b3-l36-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "What a wretched action stealing is!",
+      "answer": "بِئْسَ الْفِعْلُ السَّرِقَةُ",
+      "itemIds": ["word-b3-268"]
+    }
+  ]
+}

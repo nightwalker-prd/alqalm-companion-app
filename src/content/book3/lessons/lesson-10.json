@@ -1,0 +1,134 @@
+{
+  "id": "b3-l10",
+  "book": 3,
+  "lesson": 10,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب اِسْتَفْعَلَ",
+  "titleEn": "Derived Form X (اِسْتَفْعَلَ)",
+  "description": "Learn Form X verbs (seeking/considering): اِسْتَغْفَرَ (to seek forgiveness), اِسْتَخْدَمَ (to use), اِسْتَقْبَلَ (to receive).",
+  "vocabulary": ["word-b3-053", "word-b3-054", "word-b3-055", "word-b3-056", "word-b3-057"],
+  "grammarPoints": ["gp-b3-010"],
+  "notes": [
+    {
+      "title": "Types of Arabic Sentences",
+      "titleArabic": "أنواع الجمل العربية",
+      "content": [
+        "Arabic has two main sentence types: nominal (jumla ismiyya) beginning with a noun, and verbal (jumla fi'liyya) beginning with a verb. Each has distinct grammatical rules."
+      ],
+      "keyPoints": [
+        "Nominal sentences begin with mubtada' (subject)",
+        "Verbal sentences begin with a verb",
+        "Maṣdar mu'awwal (أن + verb) can act as a noun",
+        "Complete and incomplete verbs have different behaviors"
+      ],
+      "examples": [
+        { "arabic": "الطَّالِبُ مُجْتَهِدٌ", "english": "The student is diligent (nominal)" },
+        { "arabic": "ذَهَبَ الطَّالِبُ", "english": "The student went (verbal)" }
+      ]
+    },
+    {
+      "title": "Form X Verbs (اِسْتَفْعَلَ)",
+      "titleArabic": "باب اِسْتَفْعَلَ",
+      "content": [
+        "Form X verbs are formed by prefixing اِسْتَ to the root. This pattern typically indicates seeking, asking for, or considering something to have a quality."
+      ],
+      "keyPoints": [
+        "Pattern: اِسْتَفْعَلَ (istaf'ala) - with prefix ista",
+        "Maṣdar pattern: اِسْتِفْعَال (istif'āl)",
+        "Indicates seeking: اِسْتَغْفَرَ (to seek forgiveness)",
+        "Can mean considering: اِسْتَحْسَنَ (to consider good)"
+      ],
+      "examples": [
+        { "arabic": "اِسْتَغْفَرَ", "english": "to seek forgiveness" },
+        { "arabic": "اِسْتَخْدَمَ", "english": "to use / employ" },
+        { "arabic": "اِسْتَقْبَلَ", "english": "to receive / welcome" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l10-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I seek forgiveness from Allah",
+      "answer": "أَسْتَغْفِرُ اللهَ",
+      "itemIds": ["word-b3-053"]
+    },
+    {
+      "id": "b3-l10-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He used the computer",
+      "answer": "اِسْتَخْدَمَ الْحَاسُوبَ",
+      "itemIds": ["word-b3-054", "word-b3-058"]
+    },
+    {
+      "id": "b3-l10-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الضُّيُوفَ عِنْدَ الْبَابِ",
+      "promptEn": "He received the guests at the door",
+      "answer": "اِسْتَقْبَلَ",
+      "itemIds": ["word-b3-055"]
+    },
+    {
+      "id": "b3-l10-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَغْفَرَ",
+      "answer": "to seek forgiveness",
+      "itemIds": ["word-b3-053"]
+    },
+    {
+      "id": "b3-l10-ex05",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَخْدَمَ",
+      "answer": "to use",
+      "itemIds": ["word-b3-054"]
+    },
+    {
+      "id": "b3-l10-ex06",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَقْبَلَ",
+      "answer": "to receive / welcome",
+      "itemIds": ["word-b3-055"]
+    },
+    {
+      "id": "b3-l10-ex07",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَطَاعَ",
+      "answer": "to be able",
+      "itemIds": ["word-b3-056"]
+    },
+    {
+      "id": "b3-l10-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَمَرَّ",
+      "answer": "to continue",
+      "itemIds": ["word-b3-057"]
+    },
+    {
+      "id": "b3-l10-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to use (Form X)",
+      "answer": "اِسْتَخْدَمَ",
+      "itemIds": ["word-b3-054"]
+    },
+    {
+      "id": "b3-l10-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to be able (Form X)",
+      "answer": "اِسْتَطَاعَ",
+      "itemIds": ["word-b3-056"]
+    },
+    {
+      "id": "b3-l10-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The family received the guests with happiness",
+      "answer": "اِسْتَقْبَلَتِ الْأُسْرَةُ الضُّيُوفَ بِسَعَادَةٍ",
+      "itemIds": ["word-b3-055"]
+    },
+    {
+      "id": "b3-l10-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The meeting continued until the evening",
+      "answer": "اِسْتَمَرَّ الِاجْتِمَاعُ حَتَّى الْمَسَاءِ",
+      "itemIds": ["word-b3-057"]
+    }
+  ]
+}

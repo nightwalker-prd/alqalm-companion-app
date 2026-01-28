@@ -1,0 +1,164 @@
+{
+  "id": "b2-l47",
+  "book": 2,
+  "lesson": 47,
+  "title": "العَطْف",
+  "titleEn": "Conjunction",
+  "description": "Learn about العطف (conjunction), one of the التوابع (followers), and the various conjunction particles (حروف العطف) and their specific meanings.",
+  "vocabulary": ["word-b2-359", "word-b2-360", "word-b2-361", "word-b2-362", "word-b2-363", "word-b2-364"],
+  "grammarPoints": ["gp-b2-061", "gp-b2-062"],
+  "notes": [
+    {
+      "title": "What is العطف?",
+      "titleArabic": "تعريف العطف",
+      "content": [
+        "العطف (conjunction) connects a following word (المعطوف) to a preceding word (المعطوف عليه) using a conjunction particle (حرف العطف).",
+        "The conjoined word takes the same grammatical case as the word it follows. If the first is مرفوع, the second is also مرفوع."
+      ],
+      "keyPoints": [
+        "العطف connects two words sharing the same grammatical function",
+        "المعطوف follows المعطوف عليه in case (إعراب)",
+        "Connected by حروف العطف (conjunction particles)",
+        "Part of the four التوابع: النعت، التوكيد، العطف، البدل"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ مُحَمَّدٌ وَعَلِيٌّ", "english": "Muhammad and Ali came" },
+        { "arabic": "رَأَيْتُ الطَّالِبَ وَالْمُعَلِّمَ", "english": "I saw the student and the teacher" },
+        { "arabic": "سَافَرْتُ إِلَى مِصْرَ ثُمَّ الْمَغْرِبِ", "english": "I traveled to Egypt then Morocco" },
+        { "arabic": "اقْرَأْ أَوِ اكْتُبْ", "english": "Read or write" }
+      ]
+    },
+    {
+      "title": "Conjunction Particles - Part 1",
+      "titleArabic": "حروف العطف - الجزء الأول",
+      "content": [
+        "The main conjunction particles are: وَ (and), فَ (and then), ثُمَّ (then, later). Each has a specific meaning.",
+        "وَ simply adds without implying order. فَ implies immediate sequence. ثُمَّ implies sequence with a delay."
+      ],
+      "keyPoints": [
+        "وَ (wa): simple addition, no order implied - جَاءَ زَيْدٌ وَعَمْرٌو",
+        "فَ (fa): immediate sequence - دَخَلَ فَجَلَسَ (he entered then sat immediately)",
+        "ثُمَّ (thumma): sequence with delay - أَكَلْتُ ثُمَّ شَرِبْتُ (I ate, then later drank)",
+        "حَتَّى (hatta): means 'even' or 'until' - جَاءَ الطُّلَّابُ حَتَّى الْمَرِيضُ"
+      ],
+      "examples": [
+        { "arabic": "قَرَأْتُ وَكَتَبْتُ", "english": "I read and wrote (order unspecified)" },
+        { "arabic": "دَخَلَ فَسَلَّمَ", "english": "He entered and immediately greeted" },
+        { "arabic": "تَعَلَّمَ ثُمَّ عَمِلَ", "english": "He learned, then (later) worked" },
+        { "arabic": "أَكَلْتُ السَّمَكَ حَتَّى رَأْسَهُ", "english": "I ate the fish, even its head" }
+      ]
+    },
+    {
+      "title": "Conjunction Particles - Part 2",
+      "titleArabic": "حروف العطف - الجزء الثاني",
+      "content": [
+        "Other conjunction particles include: أَوْ (or), أَمْ (or - in questions), بَلْ (rather), لَكِنْ (but), لَا (not).",
+        "These particles convey different relationships: choice, correction, exception, or negation."
+      ],
+      "keyPoints": [
+        "أَوْ (aw): choice or doubt - هَذَا قَلَمٌ أَوْ مِسْطَرَةٌ (this is a pen or ruler)",
+        "أَمْ (am): exclusive choice in questions - أَجَاءَ زَيْدٌ أَمْ عَمْرٌو؟",
+        "بَلْ (bal): correction - مَا جَاءَ زَيْدٌ بَلْ عَمْرٌو (Zaid didn't come, rather Amr)",
+        "لَكِنْ (lakin): contrast - مَا جَاءَ زَيْدٌ لَكِنْ عَمْرٌو",
+        "لَا (la): negating the second - جَاءَ زَيْدٌ لَا عَمْرٌو (Zaid came, not Amr)"
+      ],
+      "examples": [
+        { "arabic": "اشْتَرِ تُفَّاحًا أَوْ بُرْتُقَالًا", "english": "Buy apples or oranges" },
+        { "arabic": "أَتُرِيدُ شَايًا أَمْ قَهْوَةً؟", "english": "Do you want tea or coffee?" },
+        { "arabic": "مَا هَذَا قَلَمٌ بَلْ مِفْتَاحٌ", "english": "This is not a pen, rather a key" },
+        { "arabic": "نَجَحَ الطَّالِبُ لَا الْكَسُولُ", "english": "The student passed, not the lazy one" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l47-ex01",
+      "type": "fill-blank",
+      "prompt": "جَاءَ مُحَمَّدٌ _____ عَلِيٌّ",
+      "promptEn": "Muhammad _____ Ali came",
+      "answer": "وَ",
+      "itemIds": ["word-b2-359"]
+    },
+    {
+      "id": "b2-l47-ex02",
+      "type": "fill-blank",
+      "prompt": "دَخَلَ _____ سَلَّمَ",
+      "promptEn": "He entered _____ greeted immediately",
+      "answer": "فَ",
+      "itemIds": ["word-b2-360"]
+    },
+    {
+      "id": "b2-l47-ex03",
+      "type": "fill-blank",
+      "prompt": "تَعَلَّمَ _____ عَمِلَ",
+      "promptEn": "He learned _____ (later) worked",
+      "answer": "ثُمَّ",
+      "itemIds": ["word-b2-361"]
+    },
+    {
+      "id": "b2-l47-ex04",
+      "type": "fill-blank",
+      "prompt": "اشْتَرِ تُفَّاحًا _____ بُرْتُقَالًا",
+      "promptEn": "Buy apples _____ oranges",
+      "answer": "أَوْ",
+      "itemIds": ["word-b2-362"]
+    },
+    {
+      "id": "b2-l47-ex05",
+      "type": "fill-blank",
+      "prompt": "مَا هَذَا كِتَابٌ _____ دَفْتَرٌ",
+      "promptEn": "This is not a book, _____ a notebook",
+      "answer": "بَلْ",
+      "itemIds": ["word-b2-363"]
+    },
+    {
+      "id": "b2-l47-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I read and wrote",
+      "answer": "قَرَأْتُ وَكَتَبْتُ",
+      "itemIds": ["word-b2-359"]
+    },
+    {
+      "id": "b2-l47-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "He entered then immediately sat",
+      "answer": "دَخَلَ فَجَلَسَ",
+      "itemIds": ["word-b2-360"]
+    },
+    {
+      "id": "b2-l47-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "Do you want tea or coffee?",
+      "answer": "أَتُرِيدُ شَايًا أَمْ قَهْوَةً؟",
+      "itemIds": ["word-b2-364"]
+    },
+    {
+      "id": "b2-l47-ex09",
+      "type": "word-to-meaning",
+      "prompt": "ثُمَّ",
+      "answer": "then (with delay)",
+      "itemIds": ["word-b2-361"]
+    },
+    {
+      "id": "b2-l47-ex10",
+      "type": "word-to-meaning",
+      "prompt": "بَلْ",
+      "answer": "rather / but rather",
+      "itemIds": ["word-b2-363"]
+    },
+    {
+      "id": "b2-l47-ex11",
+      "type": "meaning-to-word",
+      "prompt": "and (immediate sequence)",
+      "answer": "فَ",
+      "itemIds": ["word-b2-360"]
+    },
+    {
+      "id": "b2-l47-ex12",
+      "type": "meaning-to-word",
+      "prompt": "or (in questions, exclusive)",
+      "answer": "أَمْ",
+      "itemIds": ["word-b2-364"]
+    }
+  ]
+}

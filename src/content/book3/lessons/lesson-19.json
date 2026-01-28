@@ -1,0 +1,132 @@
+{
+  "id": "b3-l19",
+  "book": 3,
+  "lesson": 19,
+  "title": "التَّمْيِيز",
+  "titleEn": "Specification (Tamyiz)",
+  "description": "Learn tamyiz for clarification: عِنْدِي عِشْرُونَ كِتَابًا (I have twenty books).",
+  "vocabulary": ["word-b3-103", "word-b3-104", "word-b3-105", "word-b3-106", "word-b3-107"],
+  "grammarPoints": ["gp-b3-019"],
+  "notes": [
+    {
+      "title": "Tamyīz (التمييز)",
+      "titleArabic": "التمييز",
+      "content": [
+        "Tamyīz (specification) is a noun that specifies and clarifies a vague concept. It removes ambiguity from words indicating quantity, measure, or comparison."
+      ],
+      "keyPoints": [
+        "Always indefinite and singular",
+        "Always manṣūb (accusative)",
+        "Two types: tamyīz al-dhāt (after quantities) and tamyīz al-nisba (sentence specification)"
+      ],
+      "examples": [
+        { "arabic": "عِنْدِي عِشْرُونَ كِتَابًا", "english": "I have twenty books" },
+        { "arabic": "اِشْتَرَيْتُ رِطْلًا عَسَلًا", "english": "I bought a pound of honey" }
+      ]
+    },
+    {
+      "title": "Types of Tamyīz",
+      "titleArabic": "أنواع التمييز",
+      "content": [
+        "Tamyīz al-dhāt specifies after quantity words (numbers, measures, weights). Tamyīz al-nisba (or al-jumla) specifies vague meaning in a sentence."
+      ],
+      "keyPoints": [
+        "Tamyīz al-dhāt: after numbers 11-99, measures, weights",
+        "Tamyīz al-nisba: with comparatives, expressions of wonder",
+        "Example with comparative: هُوَ أَكْبَرُ مِنِّي سِنًّا",
+        "Example with 'āmil: طَابَ الْمَكَانُ هَوَاءً"
+      ],
+      "examples": [
+        { "arabic": "هُوَ أَكْبَرُ مِنِّي سِنًّا", "english": "He is older than me (in age)" },
+        { "arabic": "الْعَالِمُ أَعْظَمُنَا عِلْمًا", "english": "The scholar is the greatest of us in knowledge" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l19-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I have twenty books",
+      "answer": "عِنْدِي عِشْرُونَ كِتَابًا",
+      "itemIds": ["word-b2-086", "word-002"]
+    },
+    {
+      "id": "b3-l19-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The garden is beautiful in flowers",
+      "answer": "الْحَدِيقَةُ جَمِيلَةٌ أَزْهَارًا",
+      "itemIds": ["word-b3-103"]
+    },
+    {
+      "id": "b3-l19-ex03",
+      "type": "fill-blank",
+      "prompt": "الْوَلَدُ أَكْبَرُ _____ مِنْ أَخِيهِ",
+      "promptEn": "The boy is bigger in age than his brother",
+      "answer": "سِنًّا",
+      "itemIds": ["word-b3-104"]
+    },
+    {
+      "id": "b3-l19-ex04",
+      "type": "word-to-meaning",
+      "prompt": "كِتَابًا (tamyiz)",
+      "answer": "book (as specification after number)",
+      "itemIds": ["word-002"]
+    },
+    {
+      "id": "b3-l19-ex05",
+      "type": "word-to-meaning",
+      "prompt": "أَزْهَارًا",
+      "answer": "flowers (as specification)",
+      "itemIds": ["word-b3-103"]
+    },
+    {
+      "id": "b3-l19-ex06",
+      "type": "word-to-meaning",
+      "prompt": "سِنًّا",
+      "answer": "age (as specification)",
+      "itemIds": ["word-b3-104"]
+    },
+    {
+      "id": "b3-l19-ex07",
+      "type": "word-to-meaning",
+      "prompt": "عِلْمًا",
+      "answer": "knowledge (as specification)",
+      "itemIds": ["word-b3-105"]
+    },
+    {
+      "id": "b3-l19-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَالًا",
+      "answer": "wealth (as specification)",
+      "itemIds": ["word-b3-106"]
+    },
+    {
+      "id": "b3-l19-ex09",
+      "type": "meaning-to-word",
+      "prompt": "age (tamyiz)",
+      "answer": "سِنًّا",
+      "itemIds": ["word-b3-104"]
+    },
+    {
+      "id": "b3-l19-ex10",
+      "type": "meaning-to-word",
+      "prompt": "knowledge (tamyiz)",
+      "answer": "عِلْمًا",
+      "itemIds": ["word-b3-105"]
+    },
+    {
+      "id": "b3-l19-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The scholar is the greatest in knowledge among us",
+      "answer": "الْعَالِمُ أَعْظَمُنَا عِلْمًا",
+      "itemIds": ["word-b3-105"]
+    },
+    {
+      "id": "b3-l19-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I bought fifteen pens from the market",
+      "answer": "اِشْتَرَيْتُ خَمْسَةَ عَشَرَ قَلَمًا مِنَ السُّوقِ",
+      "itemIds": ["word-001"]
+    }
+  ]
+}

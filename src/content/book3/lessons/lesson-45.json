@@ -1,0 +1,143 @@
+{
+  "id": "b3-l45",
+  "book": 3,
+  "lesson": 45,
+  "title": "مُرَاجَعَة الْكِتَاب الثَّالِث",
+  "titleEn": "Book 3 Review",
+  "description": "Review the key concepts learned in Book 3: verb forms, weak verbs, derived nouns, and advanced sentence structures.",
+  "vocabulary": ["word-b3-321", "word-b3-322", "word-b3-323", "word-b3-324", "word-b3-325", "word-b3-326"],
+  "grammarPoints": ["gp-b3-052", "gp-b3-053"],
+  "notes": [
+    {
+      "title": "Review of Verb Forms (II-X)",
+      "titleArabic": "مراجعة الأبواب المزيدة",
+      "content": [
+        "Book 3 covered all ten verb forms and their meanings.",
+        "Each form has specific patterns and semantic implications."
+      ],
+      "keyPoints": [
+        "Form II (فَعَّلَ): intensive/causative - عَلَّمَ (teach)",
+        "Form III (فَاعَلَ): mutual action - كَاتَبَ (correspond)",
+        "Form IV (أَفْعَلَ): causative - أَرْسَلَ (send)",
+        "Form V (تَفَعَّلَ): reflexive of II - تَعَلَّمَ (learn)",
+        "Form VI (تَفَاعَلَ): reciprocal - تَعَاوَنَ (cooperate)",
+        "Forms VII-X: various passive/reflexive meanings"
+      ],
+      "examples": [
+        { "arabic": "عَلَّمَ الْمُدَرِّسُ الطُّلَّابَ", "english": "The teacher taught the students (II)" },
+        { "arabic": "تَعَلَّمْتُ الْعَرَبِيَّةَ", "english": "I learned Arabic (V)" },
+        { "arabic": "تَعَاوَنُوا عَلَى الْخَيْرِ", "english": "They cooperated in good (VI)" },
+        { "arabic": "اِسْتَغْفَرَ اللهَ", "english": "He sought forgiveness from Allah (X)" }
+      ]
+    },
+    {
+      "title": "Review of Advanced Grammar",
+      "titleArabic": "مراجعة النحو المتقدم",
+      "content": [
+        "Book 3 covered advanced grammatical concepts including special verb categories and complex sentences.",
+        "Understanding these is essential for reading classical Arabic texts."
+      ],
+      "keyPoints": [
+        "كَادَ وَأَخَوَاتُهَا - verbs of nearness",
+        "عَسَى وَأَخَوَاتُهَا - verbs of hope",
+        "شَرَعَ وَأَخَوَاتُهَا - verbs of beginning",
+        "الجملة المركبة - complex sentences"
+      ],
+      "examples": [
+        { "arabic": "كَادَ يَسْقُطُ", "english": "He almost fell (nearness)" },
+        { "arabic": "عَسَى أَنْ يَنْجَحَ", "english": "May he succeed (hope)" },
+        { "arabic": "شَرَعَ يَكْتُبُ", "english": "He began writing (beginning)" },
+        { "arabic": "جَاءَ وَهُوَ يَضْحَكُ", "english": "He came while laughing (complex)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l45-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الطُّلَّابُ النَّحْوَ",
+      "promptEn": "The students _____ grammar",
+      "answer": "تَعَلَّمَ",
+      "itemIds": ["word-b3-023"]
+    },
+    {
+      "id": "b3-l45-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ اللهُ أَنْ يَغْفِرَ لَنَا",
+      "promptEn": "May Allah _____ forgive us",
+      "answer": "عَسَى",
+      "itemIds": ["word-b3-292"]
+    },
+    {
+      "id": "b3-l45-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّالِبُ يَكْتُبُ الْوَاجِبَ",
+      "promptEn": "The student _____ writing the homework",
+      "answer": "شَرَعَ",
+      "itemIds": ["word-b3-309"]
+    },
+    {
+      "id": "b3-l45-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "I taught him Arabic",
+      "answer": "عَلَّمْتُهُ الْعَرَبِيَّةَ",
+      "itemIds": ["word-b3-005"]
+    },
+    {
+      "id": "b3-l45-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "They cooperated in the work",
+      "answer": "تَعَاوَنُوا فِي الْعَمَلِ",
+      "itemIds": ["word-b3-321"]
+    },
+    {
+      "id": "b3-l45-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He almost forgot",
+      "answer": "كَادَ يَنْسَى",
+      "itemIds": ["word-b3-297"]
+    },
+    {
+      "id": "b3-l45-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I began to understand",
+      "answer": "شَرَعْتُ أَفْهَمُ",
+      "itemIds": ["word-b3-309"]
+    },
+    {
+      "id": "b3-l45-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مُرَاجَعَة",
+      "answer": "review",
+      "itemIds": ["word-b3-001"]
+    },
+    {
+      "id": "b3-l45-ex09",
+      "type": "word-to-meaning",
+      "prompt": "اِسْتَغْفَرَ",
+      "answer": "sought forgiveness",
+      "itemIds": ["word-b3-322"]
+    },
+    {
+      "id": "b3-l45-ex10",
+      "type": "word-to-meaning",
+      "prompt": "تَعَاوَنَ",
+      "answer": "cooperated",
+      "itemIds": ["word-b3-321"]
+    },
+    {
+      "id": "b3-l45-ex11",
+      "type": "meaning-to-word",
+      "prompt": "completion / end",
+      "answer": "إِتْمَام",
+      "itemIds": ["word-b3-323"]
+    },
+    {
+      "id": "b3-l45-ex12",
+      "type": "meaning-to-word",
+      "prompt": "success",
+      "answer": "نَجَاح",
+      "itemIds": ["word-b3-324"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "b3-l97",
+  "book": 3,
+  "lesson": 97,
+  "title": "الْمَبْنِيُّ مِنَ الأَسْمَاءِ",
+  "titleEn": "Indeclinable Nouns",
+  "description": "Learn about المبني من الأسماء - nouns that don't change their endings regardless of grammatical position, including pronouns, demonstratives, relative pronouns, and more.",
+  "vocabulary": ["word-b3-613", "word-b3-614", "word-b3-615", "word-b3-616", "word-b3-617"],
+  "grammarPoints": ["gp-b3-156", "gp-b3-157"],
+  "notes": [
+    {
+      "title": "Declinable vs. Indeclinable",
+      "titleArabic": "الْمُعْرَبُ وَالْمَبْنِيُّ",
+      "content": [
+        "Arabic nouns are divided into مُعْرَب (declinable) and مَبْنِيّ (indeclinable). Declinable nouns change their endings based on grammatical position (رَفْع، نَصْب، جَرّ). Indeclinable nouns have fixed endings regardless of position.",
+        "Most nouns are مُعْرَب. However, certain categories are مَبْنِيّ - they don't change form but still occupy grammatical positions (في محل رفع/نصب/جر)."
+      ],
+      "keyPoints": [
+        "مُعْرَب: endings change with position",
+        "مَبْنِيّ: endings stay fixed",
+        "مَبْنِيّ still has grammatical position",
+        "في مَحَلِّ رَفْع/نَصْب/جَرّ"
+      ],
+      "examples": [
+        { "arabic": "كِتَابٌ، كِتَابًا، كِتَابٍ (معرب)", "english": "Book: changes form - declinable" },
+        { "arabic": "هَذَا، هَذَا، هَذَا (مبني)", "english": "This: same form - indeclinable" },
+        { "arabic": "جَاءَ هَذَا: هَذَا في محل رفع فاعل", "english": "This came: هَذَا in nominative position as subject" },
+        { "arabic": "رَأَيْتُ هَذَا: هَذَا في محل نصب مفعول", "english": "I saw this: هَذَا in accusative position as object" }
+      ]
+    },
+    {
+      "title": "1. Pronouns (الضمائر)",
+      "titleArabic": "الضَّمَائِرُ",
+      "content": [
+        "All pronouns (ضَمَائِر) are مَبْنِيَّة - both separate (مُنْفَصِلَة) and attached (مُتَّصِلَة). They don't change form regardless of their grammatical function.",
+        "Separate: أَنَا، أَنْتَ، هُوَ، هِيَ، نَحْنُ، أَنْتُمْ، هُمْ, etc. Attached: ـهُ، ـهَا، ـكَ، ـنَا، ـي, etc. All are مَبْنِيّ عَلَى [their final vowel/sukun]."
+      ],
+      "keyPoints": [
+        "All pronouns are مَبْنِيّ",
+        "Separate: أَنَا، هُوَ، etc.",
+        "Attached: ـهُ، ـكَ، ـي",
+        "مَبْنِيّ عَلَى السُّكُونِ/الضَّمِّ/الْفَتْحِ"
+      ],
+      "examples": [
+        { "arabic": "هُوَ: ضمير مبني على الفتح", "english": "هُوَ: pronoun built on fatha" },
+        { "arabic": "أَنَا: ضمير مبني على السكون", "english": "أَنَا: pronoun built on sukun" },
+        { "arabic": "نَحْنُ: ضمير مبني على الضم", "english": "نَحْنُ: pronoun built on damma" },
+        { "arabic": "كِتَابُهُ: الهاء ضمير مبني في محل جر", "english": "His book: ـهُ is built, in genitive position" }
+      ]
+    },
+    {
+      "title": "2. Demonstratives (أسماء الإشارة)",
+      "titleArabic": "أَسْمَاءُ الإِشَارَةِ",
+      "content": [
+        "Demonstrative pronouns are مَبْنِيَّة: هَذَا، هَذِهِ، ذَلِكَ، تِلْكَ، هَؤُلَاءِ، أُولَئِكَ, etc. Exception: the duals هَذَانِ/هَاتَانِ and ذَانِكَ/تَانِكَ are مُعْرَبَة (change with case).",
+        "Most are مَبْنِيّ عَلَى السُّكُونِ or عَلَى الْفَتْحِ. We say: في مَحَلِّ + their grammatical position."
+      ],
+      "keyPoints": [
+        "Most are مَبْنِيّ",
+        "هَذَا، هَذِهِ، ذَلِكَ: مَبْنِيّ",
+        "Exception: duals are مُعْرَب",
+        "هَذَانِ/هَاتَانِ: change form"
+      ],
+      "examples": [
+        { "arabic": "هَذَا: اسم إشارة مبني على السكون", "english": "هَذَا: demonstrative built on sukun" },
+        { "arabic": "جَاءَ هَذَانِ / رَأَيْتُ هَذَيْنِ (معرب)", "english": "These two came / I saw these two (declinable)" },
+        { "arabic": "هَؤُلَاءِ: مبني على الكسر", "english": "هَؤُلَاءِ: built on kasra" },
+        { "arabic": "ذَلِكَ: مبني على الفتح", "english": "ذَلِكَ: built on fatha" }
+      ]
+    },
+    {
+      "title": "3. Relative Pronouns (الأسماء الموصولة)",
+      "titleArabic": "الأَسْمَاءُ الْمَوْصُولَةُ",
+      "content": [
+        "Relative pronouns are mostly مَبْنِيَّة: الَّذِي، الَّتِي، الَّذِينَ، اللَّاتِي، اللَّوَاتِي، مَنْ، مَا. Exception: duals اللَّذَانِ/اللَّتَانِ are مُعْرَبَة.",
+        "These don't change form: جَاءَ الَّذِي... / رَأَيْتُ الَّذِي... / مَرَرْتُ بِالَّذِي... - same form in all positions."
+      ],
+      "keyPoints": [
+        "الَّذِي، الَّتِي: مَبْنِيّ",
+        "مَنْ، مَا: مَبْنِيّ",
+        "Duals: مُعْرَب",
+        "Same form in all positions"
+      ],
+      "examples": [
+        { "arabic": "الَّذِي: اسم موصول مبني على السكون", "english": "الَّذِي: relative pronoun built on sukun" },
+        { "arabic": "جَاءَ الَّذِي نَجَحَ: في محل رفع فاعل", "english": "Who succeeded came: in nominative as subject" },
+        { "arabic": "مَنْ: مبني على السكون في محل...", "english": "مَنْ: built on sukun, in position of..." },
+        { "arabic": "اللَّذَانِ / اللَّذَيْنِ (معرب)", "english": "The two who: changes form (declinable)" }
+      ]
+    },
+    {
+      "title": "4. Interrogatives and Conditions",
+      "titleArabic": "أَسْمَاءُ الاسْتِفْهَامِ وَالشَّرْطِ",
+      "content": [
+        "Interrogative nouns are مَبْنِيَّة: مَنْ (who), مَا (what), مَتَى (when), أَيْنَ (where), كَيْفَ (how), كَمْ (how many). Exception: أَيُّ is مُعْرَب.",
+        "Conditional nouns are also مَبْنِيَّة: مَنْ، مَا، مَهْمَا، أَيْنَمَا، حَيْثُمَا، مَتَى، أَيَّانَ. Exception: أَيُّ is مُعْرَب in conditional use too."
+      ],
+      "keyPoints": [
+        "Interrogatives: mostly مَبْنِيّ",
+        "مَنْ، مَا، أَيْنَ، كَيْفَ: مَبْنِيّ",
+        "أَيُّ: exception - مُعْرَب",
+        "Conditionals: same pattern"
+      ],
+      "examples": [
+        { "arabic": "مَنْ جَاءَ؟: مَنْ مبني في محل رفع مبتدأ", "english": "Who came?: مَنْ built, in nominative as subject" },
+        { "arabic": "مَاذَا تُرِيدُ؟: مَا مبني في محل نصب", "english": "What do you want?: مَا in accusative position" },
+        { "arabic": "أَيْنَ تَذْهَبُ؟: أَيْنَ مبني على الفتح", "english": "Where are you going?: أَيْنَ built on fatha" },
+        { "arabic": "أَيَّ كِتَابٍ تُرِيدُ؟ (معرب)", "english": "Which book do you want? (أَيّ is declinable)" }
+      ]
+    },
+    {
+      "title": "5. Other Indeclinable Nouns",
+      "titleArabic": "أَسْمَاءٌ مَبْنِيَّةٌ أُخْرَى",
+      "content": [
+        "Other indeclinable nouns include: أَسْمَاء الأَفْعَال (verbal nouns like هَيْهَاتَ، صَهْ), أَسْمَاء الأَصْوَات (sound words), بَعْض الظُّرُوف (some adverbs like أَمْسِ، الآنَ، حَيْثُ), and compound numbers (أَحَدَ عَشَرَ to تِسْعَةَ عَشَرَ).",
+        "These all maintain fixed forms regardless of their grammatical function in the sentence. The i'rab says: مَبْنِيٌّ عَلَى [الفتح/الكسر/السكون] فِي مَحَلِّ [رفع/نصب/جر]."
+      ],
+      "keyPoints": [
+        "أَسْمَاء الأَفْعَال: هَيْهَاتَ، صَهْ",
+        "Some adverbs: أَمْسِ، الآنَ، حَيْثُ",
+        "Compound numbers: أَحَدَ عَشَرَ",
+        "All مَبْنِيّ في مَحَلِّ..."
+      ],
+      "examples": [
+        { "arabic": "هَيْهَاتَ: مبني على الفتح", "english": "هَيْهَاتَ (far be it): built on fatha" },
+        { "arabic": "الآنَ: مبني على الفتح في محل نصب", "english": "الآنَ (now): built on fatha, in accusative" },
+        { "arabic": "أَمْسِ: مبني على الكسر", "english": "أَمْسِ (yesterday): built on kasra" },
+        { "arabic": "خَمْسَةَ عَشَرَ: مبني على فتح الجزأين", "english": "Fifteen: both parts built on fatha" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l97-ex01",
+      "type": "fill-blank",
+      "prompt": "الأَسْمَاءُ نَوْعَانِ: مُعْرَبٌ وَ_____",
+      "promptEn": "Nouns are two types: declinable and _____",
+      "answer": "مَبْنِيٌّ",
+      "itemIds": ["word-b3-613"]
+    },
+    {
+      "id": "b3-l97-ex02",
+      "type": "fill-blank",
+      "prompt": "جَمِيعُ الضَّمَائِرِ _____ (معربة/مبنية)",
+      "promptEn": "All pronouns are _____ (declinable/indeclinable)",
+      "answer": "مَبْنِيَّةٌ",
+      "itemIds": ["word-b3-614"]
+    },
+    {
+      "id": "b3-l97-ex03",
+      "type": "fill-blank",
+      "prompt": "هَذَا: اسْمُ إِشَارَةٍ _____ عَلَى السُّكُونِ",
+      "promptEn": "هَذَا: demonstrative _____ on sukun",
+      "answer": "مَبْنِيٌّ",
+      "itemIds": ["word-b3-615"]
+    },
+    {
+      "id": "b3-l97-ex04",
+      "type": "fill-blank",
+      "prompt": "الأَسْمَاءُ الْمَوْصُولَةُ مَبْنِيَّةٌ إِلَّا _____ (المثنى)",
+      "promptEn": "Relative pronouns are indeclinable except for the _____ (dual)",
+      "answer": "الْمُثَنَّى",
+      "itemIds": ["word-b3-616"]
+    },
+    {
+      "id": "b3-l97-ex05",
+      "type": "fill-blank",
+      "prompt": "مَنْ وَمَا وَأَيْنَ مَبْنِيَّةٌ، لَكِنَّ _____ مُعْرَبَةٌ",
+      "promptEn": "مَنْ، مَا، أَيْنَ are indeclinable, but _____ is declinable",
+      "answer": "أَيُّ",
+      "itemIds": ["word-b3-617"]
+    },
+    {
+      "id": "b3-l97-ex06",
+      "type": "fill-blank",
+      "prompt": "جَاءَ هَذَا: هَذَا مَبْنِيٌّ فِي _____ رَفْعٍ فَاعِل",
+      "promptEn": "جَاءَ هَذَا: هَذَا is built, in the _____ of nominative as subject",
+      "answer": "مَحَلِّ",
+      "itemIds": ["word-b3-613"]
+    },
+    {
+      "id": "b3-l97-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الاسْمُ الْمَبْنِيُّ",
+      "answer": "The indeclinable noun (doesn't change form with grammatical position)",
+      "itemIds": ["word-b3-613"]
+    },
+    {
+      "id": "b3-l97-ex08",
+      "type": "word-to-meaning",
+      "prompt": "فِي مَحَلِّ رَفْعٍ",
+      "answer": "In the position of nominative (for indeclinable nouns)",
+      "itemIds": ["word-b3-614"]
+    },
+    {
+      "id": "b3-l97-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مَبْنِيٌّ عَلَى السُّكُونِ",
+      "answer": "Built on sukun (ends in sukun, doesn't change)",
+      "itemIds": ["word-b3-615"]
+    },
+    {
+      "id": "b3-l97-ex10",
+      "type": "meaning-to-word",
+      "prompt": "A noun that doesn't change its ending regardless of grammatical function",
+      "answer": "الاسْمُ الْمَبْنِيُّ",
+      "itemIds": ["word-b3-613"]
+    },
+    {
+      "id": "b3-l97-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The phrase used to indicate an indeclinable noun's function: 'in the position of nominative'",
+      "answer": "فِي مَحَلِّ رَفْعٍ",
+      "itemIds": ["word-b3-614"]
+    },
+    {
+      "id": "b3-l97-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The only interrogative/relative that is declinable (changes form)",
+      "answer": "أَيُّ",
+      "itemIds": ["word-b3-617"]
+    }
+  ]
+}

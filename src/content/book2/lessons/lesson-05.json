@@ -1,0 +1,137 @@
+{
+  "id": "b2-l05",
+  "book": 2,
+  "lesson": 5,
+  "title": "الْأَمْر",
+  "titleEn": "Imperative (Command)",
+  "description": "Learn command forms: اِذْهَبْ (go!), اُكْتُبْ (write!), اِقْرَأْ (read!).",
+  "vocabulary": ["word-b2-021", "word-b2-022", "word-b2-023", "word-b2-024", "word-b2-025", "word-b2-026"],
+  "grammarPoints": ["gp-b2-005"],
+  "notes": [
+    {
+      "title": "Formation of the Imperative",
+      "titleArabic": "صيغة الأمر",
+      "content": [
+        "The imperative (الأمر) is formed from the present tense (المضارع) by removing the present tense prefix and adding hamzat al-wasl at the beginning if needed.",
+        "The formation follows specific rules based on the vowel pattern of the mudāri' verb."
+      ],
+      "keyPoints": [
+        "Remove the prefix (ت/ي/أ/ن) from the mudāri'",
+        "If the remaining form starts with sukūn, add همزة الوصل",
+        "The vowel of hamzat al-wasl depends on the verb's pattern",
+        "Use kasrah if the middle vowel is kasrah or fathah (اِفْعَلْ)",
+        "Use dammah if the middle vowel is dammah (اُفْعُلْ)"
+      ],
+      "examples": [
+        { "arabic": "يَذْهَبُ → اِذْهَبْ", "english": "he goes → Go!" },
+        { "arabic": "يَكْتُبُ → اُكْتُبْ", "english": "he writes → Write!" },
+        { "arabic": "يَقْرَأُ → اِقْرَأْ", "english": "he reads → Read!" },
+        { "arabic": "يَجْلِسُ → اِجْلِسْ", "english": "he sits → Sit!" }
+      ]
+    },
+    {
+      "title": "Imperative for Different Persons",
+      "titleArabic": "الأمر مع الضمائر",
+      "content": [
+        "The imperative has different forms for masculine, feminine, dual, and plural addressees."
+      ],
+      "keyPoints": [
+        "Masculine singular: اِفْعَلْ (ending with sukūn)",
+        "Feminine singular: اِفْعَلِي (ending with ي)",
+        "Masculine plural: اِفْعَلُوا (ending with وا)",
+        "Feminine plural: اِفْعَلْنَ (ending with نَ)"
+      ],
+      "examples": [
+        { "arabic": "اِذْهَبْ", "english": "Go! (to one male)" },
+        { "arabic": "اِذْهَبِي", "english": "Go! (to one female)" },
+        { "arabic": "اِذْهَبُوا", "english": "Go! (to males)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l05-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "Go! (to a male)",
+      "answer": "اِذْهَبْ",
+      "itemIds": ["word-b2-021"]
+    },
+    {
+      "id": "b2-l05-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Write! (to a male)",
+      "answer": "اُكْتُبْ",
+      "itemIds": ["word-b2-022"]
+    },
+    {
+      "id": "b2-l05-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "Read! (to a female)",
+      "answer": "اِقْرَئِي",
+      "itemIds": ["word-b2-023"]
+    },
+    {
+      "id": "b2-l05-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "Sit! (to a male)",
+      "answer": "اِجْلِسْ",
+      "itemIds": ["word-b2-024"]
+    },
+    {
+      "id": "b2-l05-ex05",
+      "type": "word-to-meaning",
+      "prompt": "اِذْهَبْ",
+      "answer": "Go! (m.)",
+      "itemIds": ["word-b2-021"]
+    },
+    {
+      "id": "b2-l05-ex06",
+      "type": "word-to-meaning",
+      "prompt": "اُكْتُبْ",
+      "answer": "Write! (m.)",
+      "itemIds": ["word-b2-022"]
+    },
+    {
+      "id": "b2-l05-ex07",
+      "type": "word-to-meaning",
+      "prompt": "اِقْرَأْ",
+      "answer": "Read! (m.)",
+      "itemIds": ["word-b2-023"]
+    },
+    {
+      "id": "b2-l05-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِجْلِسْ",
+      "answer": "Sit! (m.)",
+      "itemIds": ["word-b2-024"]
+    },
+    {
+      "id": "b2-l05-ex09",
+      "type": "meaning-to-word",
+      "prompt": "Enter! (m.)",
+      "answer": "اُدْخُلْ",
+      "itemIds": ["word-b2-025"]
+    },
+    {
+      "id": "b2-l05-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Exit! (m.)",
+      "answer": "اُخْرُجْ",
+      "itemIds": ["word-b2-026"]
+    },
+    {
+      "id": "b2-l05-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "Go to the mosque!",
+      "answer": "اِذْهَبْ إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-b2-021", "word-048", "word-007"]
+    },
+    {
+      "id": "b2-l05-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Write your homework now!",
+      "answer": "اُكْتُبْ وَاجِبَكَ الْآنَ",
+      "itemIds": ["word-b2-022", "word-093", "word-094"]
+    }
+  ]
+}

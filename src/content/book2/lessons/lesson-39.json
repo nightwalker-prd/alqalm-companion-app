@@ -1,0 +1,141 @@
+{
+  "id": "b2-l39",
+  "book": 2,
+  "lesson": 39,
+  "title": "اسْمُ الْهَيْئَة",
+  "titleEn": "Noun of Manner",
+  "description": "Learn about the noun of manner (اسم الهيئة) which describes the way an action is performed.",
+  "vocabulary": ["word-b2-311", "word-b2-312", "word-b2-313", "word-b2-314", "word-b2-315", "word-b2-316"],
+  "grammarPoints": ["gp-b2-045", "gp-b2-046"],
+  "notes": [
+    {
+      "title": "Noun of Manner (اسم الهيئة)",
+      "titleArabic": "اسم الهيئة",
+      "content": [
+        "The noun of manner (اسم الهيئة) describes how an action is performed - its manner or state.",
+        "For Form I verbs, it follows the pattern فِعْلَة: جِلْسَة (manner of sitting), مِشْيَة (manner of walking)."
+      ],
+      "keyPoints": [
+        "Pattern for Form I: فِعْلَة",
+        "جَلَسَ → جِلْسَة (manner of sitting)",
+        "مَشَى → مِشْيَة (manner of walking)",
+        "وَقَفَ → وِقْفَة (manner of standing)"
+      ],
+      "examples": [
+        { "arabic": "جَلَسَ جِلْسَةَ الْعَالِمِ", "english": "He sat in the manner of a scholar" },
+        { "arabic": "مَشَتْ مِشْيَةَ الْمُتَكَبِّرِ", "english": "She walked the walk of an arrogant person" },
+        { "arabic": "وَقَفَ وِقْفَةَ الْبَطَلِ", "english": "He stood like a hero" },
+        { "arabic": "أَكَلَ أِكْلَةَ الْجَائِعِ", "english": "He ate like a hungry person" }
+      ]
+    },
+    {
+      "title": "Difference Between المرة and الهيئة",
+      "titleArabic": "الفرق بين اسم المرة واسم الهيئة",
+      "content": [
+        "اسم المرة (فَعْلَة) indicates ONE occurrence of the action.",
+        "اسم الهيئة (فِعْلَة) describes HOW the action was performed."
+      ],
+      "keyPoints": [
+        "جَلْسَة (فَعْلَة) - one sitting (noun of instance)",
+        "جِلْسَة (فِعْلَة) - manner of sitting (noun of manner)",
+        "Note the kasra on the first letter for noun of manner",
+        "اسم الهيئة is only formed from Form I verbs"
+      ],
+      "examples": [
+        { "arabic": "جَلَسَ جَلْسَةً وَاحِدَةً", "english": "He sat once (instance)" },
+        { "arabic": "جَلَسَ جِلْسَةً حَسَنَةً", "english": "He sat in a good manner" },
+        { "arabic": "ضَرَبَهُ ضَرْبَةً", "english": "He hit him once (instance)" },
+        { "arabic": "ضَرَبَهُ ضِرْبَةً قَوِيَّةً", "english": "He hit him in a strong manner" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l39-ex01",
+      "type": "fill-blank",
+      "prompt": "جَلَسَ _____ الْعَالِمِ",
+      "promptEn": "He sat in the manner of _____",
+      "answer": "جِلْسَةَ",
+      "itemIds": ["word-b2-311"]
+    },
+    {
+      "id": "b2-l39-ex02",
+      "type": "fill-blank",
+      "prompt": "مَشَى _____ الرِّجَالِ",
+      "promptEn": "He walked the walk of _____",
+      "answer": "مِشْيَةَ",
+      "itemIds": ["word-b2-312"]
+    },
+    {
+      "id": "b2-l39-ex03",
+      "type": "fill-blank",
+      "prompt": "وَقَفَ _____ الْبَطَلِ",
+      "promptEn": "He stood like _____",
+      "answer": "وِقْفَةَ",
+      "itemIds": ["word-b2-313"]
+    },
+    {
+      "id": "b2-l39-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "She walked in a beautiful manner",
+      "answer": "مَشَتْ مِشْيَةً جَمِيلَةً",
+      "itemIds": ["word-b2-312"]
+    },
+    {
+      "id": "b2-l39-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "He sat like a scholar",
+      "answer": "جَلَسَ جِلْسَةَ الْعَالِمِ",
+      "itemIds": ["word-b2-311"]
+    },
+    {
+      "id": "b2-l39-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He ate like a hungry person",
+      "answer": "أَكَلَ أِكْلَةَ الْجَائِعِ",
+      "itemIds": ["word-b2-314"]
+    },
+    {
+      "id": "b2-l39-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "He slept the sleep of the exhausted",
+      "answer": "نَامَ نِيمَةَ الْمُتْعَبِ",
+      "itemIds": ["word-b2-315"]
+    },
+    {
+      "id": "b2-l39-ex08",
+      "type": "word-to-meaning",
+      "prompt": "جِلْسَة",
+      "answer": "manner of sitting",
+      "itemIds": ["word-b2-311"]
+    },
+    {
+      "id": "b2-l39-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مِشْيَة",
+      "answer": "manner of walking",
+      "itemIds": ["word-b2-312"]
+    },
+    {
+      "id": "b2-l39-ex10",
+      "type": "word-to-meaning",
+      "prompt": "وِقْفَة",
+      "answer": "manner of standing",
+      "itemIds": ["word-b2-313"]
+    },
+    {
+      "id": "b2-l39-ex11",
+      "type": "meaning-to-word",
+      "prompt": "manner of eating",
+      "answer": "أِكْلَة",
+      "itemIds": ["word-b2-314"]
+    },
+    {
+      "id": "b2-l39-ex12",
+      "type": "meaning-to-word",
+      "prompt": "manner of riding",
+      "answer": "رِكْبَة",
+      "itemIds": ["word-b2-316"]
+    }
+  ]
+}

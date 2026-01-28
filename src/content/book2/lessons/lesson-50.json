@@ -1,0 +1,187 @@
+{
+  "id": "b2-l50",
+  "book": 2,
+  "lesson": 50,
+  "title": "التَّنَازُعُ",
+  "titleEn": "Conflict in Governance",
+  "description": "Learn about التنازع, a grammatical phenomenon where two verbs compete to govern a single noun, and how Arabic resolves this conflict.",
+  "vocabulary": ["word-b2-377", "word-b2-378", "word-b2-379", "word-b2-380", "word-b2-381", "word-b2-382"],
+  "grammarPoints": ["gp-b2-067", "gp-b2-068"],
+  "notes": [
+    {
+      "title": "What is التنازع?",
+      "titleArabic": "تعريف التنازع",
+      "content": [
+        "التنازع is a grammatical phenomenon that occurs when two or more verbs (عاملان) precede a single noun (معمول واحد), and each verb seeks to govern that noun grammatically.",
+        "For example, in the sentence: قَامَ وَقَعَدَ زَيْدٌ (Zaid stood and sat), both قام and قعد are competing to make زيد their subject (فاعل).",
+        "This creates a 'conflict' that Arabic grammar must resolve by determining which verb takes the noun as its actual grammatical dependent."
+      ],
+      "keyPoints": [
+        "التنازع requires at least two verbs (or verb-like elements)",
+        "Both verbs must be capable of governing the shared noun",
+        "The noun typically appears after both verbs",
+        "One verb will take the noun; the other requires a pronoun reference"
+      ],
+      "examples": [
+        { "arabic": "قَامَ وَقَعَدَ زَيْدٌ", "english": "Zaid stood and sat" },
+        { "arabic": "ضَرَبْتُ وَأَكْرَمْتُ خَالِدًا", "english": "I hit and honored Khalid" },
+        { "arabic": "جَاءَنِي وَأَكْرَمْتُ مُحَمَّدًا", "english": "Muhammad came to me and I honored him" },
+        { "arabic": "يُحِبُّنِي وَأُحِبُّ عَلِيًّا", "english": "Ali loves me and I love him" }
+      ]
+    },
+    {
+      "title": "The Two Schools of Thought",
+      "titleArabic": "مذهب البصريين والكوفيين",
+      "content": [
+        "The Basran grammarians (البصريون) prefer giving governance to the closer verb (الثاني/the second), because it is nearer to the noun and proximity strengthens the connection.",
+        "The Kufan grammarians (الكوفيون) prefer giving governance to the first verb (الأول), because it came first and has priority by precedence.",
+        "Both views are acceptable in Arabic, though the Basran view is more commonly followed in later grammatical tradition."
+      ],
+      "keyPoints": [
+        "البصريون: The second (closer) verb governs the noun",
+        "الكوفيون: The first verb governs the noun",
+        "The non-governing verb needs a pronoun (ضمير) referring to the noun",
+        "Both approaches are grammatically valid"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبَنِي وَضَرَبْتُ زَيْدًا (بصري)", "english": "Zaid hit me and I hit him (Basran: second verb governs)" },
+        { "arabic": "ضَرَبَنِي وَضَرَبْتُهُ زَيْدٌ (كوفي)", "english": "Zaid hit me and I hit him (Kufan: first verb governs)" },
+        { "arabic": "أَكْرَمْتُ وَأَكْرَمَنِي خَالِدٌ", "english": "I honored Khalid and he honored me" },
+        { "arabic": "عَلَّمْتُ وَعَلَّمَنِي الْأُسْتَاذُ", "english": "I taught and the teacher taught me" }
+      ]
+    },
+    {
+      "title": "Conditions for التنازع",
+      "titleArabic": "شروط التنازع",
+      "content": [
+        "For التنازع to occur properly, several conditions must be met. The verbs must be capable of taking the shared element as their grammatical dependent.",
+        "The shared element can be a subject (فاعل), object (مفعول به), or other governed element. Both verbs must require this element grammatically.",
+        "If one verb requires a subject and another requires an object, each may take what it needs, or one will govern and the other will have a pronoun."
+      ],
+      "keyPoints": [
+        "Both verbs must be transitive or intransitive as needed",
+        "The shared noun must fit grammatically with both verbs",
+        "If verbs differ in transitivity, resolution becomes more complex",
+        "A pronoun (مستتر or متصل) compensates for the non-governing verb"
+      ],
+      "examples": [
+        { "arabic": "قَرَأَ وَكَتَبَ الطَّالِبُ الدَّرْسَ", "english": "The student read and wrote the lesson" },
+        { "arabic": "سَافَرَ وَعَادَ الْمُسَافِرُ", "english": "The traveler traveled and returned" },
+        { "arabic": "زَارَنِي وَزُرْتُ الصَّدِيقَ", "english": "The friend visited me and I visited him" },
+        { "arabic": "نَصَرْتُ وَنَصَرَنِي أَخِي", "english": "I helped my brother and he helped me" }
+      ]
+    },
+    {
+      "title": "Examples from Classical Arabic",
+      "titleArabic": "أمثلة من التراث العربي",
+      "content": [
+        "التنازع appears in the Quran and classical Arabic poetry, demonstrating its natural occurrence in eloquent Arabic discourse.",
+        "The Quran contains examples where two verbs share a grammatical element, resolved elegantly through context and meaning.",
+        "Understanding التنازع helps in parsing complex classical Arabic sentences and appreciating the flexibility of Arabic syntax."
+      ],
+      "keyPoints": [
+        "التنازع is found in the Quran and hadith",
+        "Classical poets used it for metrical and stylistic purposes",
+        "It demonstrates Arabic's syntactic flexibility",
+        "Understanding it is essential for advanced Arabic study"
+      ],
+      "examples": [
+        { "arabic": "آتُونِي أُفْرِغْ عَلَيْهِ قِطْرًا (الكهف: ٩٦)", "english": "Bring me, I will pour over it molten copper" },
+        { "arabic": "هَاؤُمُ اقْرَؤُوا كِتَابِيَهْ (الحاقة: ١٩)", "english": "Here, read my record!" },
+        { "arabic": "تَعَالَوْا يَسْتَغْفِرْ لَكُمْ رَسُولُ اللهِ", "english": "Come, the Messenger of Allah will seek forgiveness for you" },
+        { "arabic": "جَاءَ وَذَهَبَ الضَّيْفُ مَسْرُورًا", "english": "The guest came and went happily" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l50-ex01",
+      "type": "fill-blank",
+      "prompt": "قَامَ وَ_____ زَيْدٌ",
+      "promptEn": "Zaid stood and _____",
+      "answer": "قَعَدَ",
+      "itemIds": ["word-b2-377"]
+    },
+    {
+      "id": "b2-l50-ex02",
+      "type": "fill-blank",
+      "prompt": "ضَرَبْتُ وَأَكْرَمْتُ _____",
+      "promptEn": "I hit and honored _____",
+      "answer": "خَالِدًا",
+      "itemIds": ["word-b2-378"]
+    },
+    {
+      "id": "b2-l50-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ وَعَادَ الْمُسَافِرُ",
+      "promptEn": "The traveler _____ and returned",
+      "answer": "سَافَرَ",
+      "itemIds": ["word-b2-379"]
+    },
+    {
+      "id": "b2-l50-ex04",
+      "type": "fill-blank",
+      "prompt": "زَارَنِي وَزُرْتُ _____ أَمْسِ",
+      "promptEn": "I visited the _____ yesterday and he visited me",
+      "answer": "الصَّدِيقَ",
+      "itemIds": ["word-b2-380"]
+    },
+    {
+      "id": "b2-l50-ex05",
+      "type": "fill-blank",
+      "prompt": "نَصَرْتُ وَنَصَرَنِي _____ فِي الْحَرْبِ",
+      "promptEn": "My _____ helped me in the war and I helped him",
+      "answer": "أَخِي",
+      "itemIds": ["word-b2-381"]
+    },
+    {
+      "id": "b2-l50-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Zaid stood and sat",
+      "answer": "قَامَ وَقَعَدَ زَيْدٌ",
+      "itemIds": ["word-b2-377"]
+    },
+    {
+      "id": "b2-l50-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I honored and respected the teacher",
+      "answer": "أَكْرَمْتُ وَاحْتَرَمْتُ الْأُسْتَاذَ",
+      "itemIds": ["word-b2-378"]
+    },
+    {
+      "id": "b2-l50-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "The student read and wrote the lesson",
+      "answer": "قَرَأَ وَكَتَبَ الطَّالِبُ الدَّرْسَ",
+      "itemIds": ["word-b2-382"]
+    },
+    {
+      "id": "b2-l50-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "The traveler traveled and returned",
+      "answer": "سَافَرَ وَعَادَ الْمُسَافِرُ",
+      "itemIds": ["word-b2-379"]
+    },
+    {
+      "id": "b2-l50-ex10",
+      "type": "word-to-meaning",
+      "prompt": "التَّنَازُعُ",
+      "answer": "conflict in governance (when two verbs compete for one noun)",
+      "itemIds": ["word-b2-377"]
+    },
+    {
+      "id": "b2-l50-ex11",
+      "type": "word-to-meaning",
+      "prompt": "الْعَامِلُ",
+      "answer": "the governing element / operator",
+      "itemIds": ["word-b2-378"]
+    },
+    {
+      "id": "b2-l50-ex12",
+      "type": "meaning-to-word",
+      "prompt": "the governed element / dependent",
+      "answer": "الْمَعْمُولُ",
+      "itemIds": ["word-b2-379"]
+    }
+  ]
+}

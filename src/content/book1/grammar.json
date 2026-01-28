@@ -1,0 +1,697 @@
+[
+  {
+    "id": "gp-001",
+    "title": "اسم الإشارة للقريب: هَذَا",
+    "titleEn": "Demonstrative Pronoun (Near): This",
+    "explanation": "هَذَا is used to point to a masculine singular noun that is near. It means 'this'. Arabic has no verb 'is' in the present tense, so هَذَا كِتَابٌ means 'This is a book'.",
+    "examples": [
+      { "arabic": "هَذَا كِتَابٌ", "english": "This is a book" },
+      { "arabic": "هَذَا قَلَمٌ", "english": "This is a pen" },
+      { "arabic": "هَذَا بَيْتٌ", "english": "This is a house" }
+    ],
+    "lesson": "b1-l01"
+  },
+  {
+    "id": "gp-002",
+    "title": "التنوين",
+    "titleEn": "Tanween (Nunation)",
+    "explanation": "Tanween is the 'n' sound added to indefinite nouns. It appears as doubled vowel marks: ٌ (un), ً (an), ٍ (in). كِتَابٌ (kitaabun) means 'a book'. The ٌ indicates it's indefinite.",
+    "examples": [
+      { "arabic": "كِتَابٌ", "english": "a book" },
+      { "arabic": "قَلَمٌ", "english": "a pen" },
+      { "arabic": "بَابٌ", "english": "a door" }
+    ],
+    "lesson": "b1-l01"
+  },
+  {
+    "id": "gp-003",
+    "title": "اسم الإشارة للبعيد: ذَلِكَ",
+    "titleEn": "Demonstrative Pronoun (Far): That",
+    "explanation": "ذَلِكَ is used to point to a masculine singular noun that is far. It means 'that'. Just like هَذَا, no verb 'is' is needed: ذَلِكَ نَجْمٌ means 'That is a star'.",
+    "examples": [
+      { "arabic": "ذَلِكَ نَجْمٌ", "english": "That is a star" },
+      { "arabic": "ذَلِكَ قَمَرٌ", "english": "That is the moon" },
+      { "arabic": "ذَلِكَ جَبَلٌ", "english": "That is a mountain" }
+    ],
+    "lesson": "b1-l02"
+  },
+  {
+    "id": "gp-004",
+    "title": "الاستفهام بـ \"مَا\"",
+    "titleEn": "Question with 'What'",
+    "explanation": "مَا means 'what' and is used to ask about things. The question مَا هَذَا؟ means 'What is this?' The answer uses the same structure: هَذَا كِتَابٌ (This is a book).",
+    "examples": [
+      { "arabic": "مَا هَذَا؟", "english": "What is this?" },
+      { "arabic": "مَا ذَلِكَ؟", "english": "What is that?" }
+    ],
+    "lesson": "b1-l03"
+  },
+  {
+    "id": "gp-005",
+    "title": "الاستفهام بـ \"مَنْ\"",
+    "titleEn": "Question with 'Who'",
+    "explanation": "مَنْ means 'who' and is used to ask about people. The question مَنْ هَذَا؟ means 'Who is this?' The answer identifies the person: هَذَا طَالِبٌ (This is a student).",
+    "examples": [
+      { "arabic": "مَنْ هَذَا؟", "english": "Who is this?" },
+      { "arabic": "مَنْ ذَلِكَ؟", "english": "Who is that?" },
+      { "arabic": "هَذَا مُدَرِّسٌ", "english": "This is a teacher" }
+    ],
+    "lesson": "b1-l03"
+  },
+  {
+    "id": "gp-006",
+    "title": "الضمير المنفصل: هُوَ",
+    "titleEn": "Separate Pronoun: He",
+    "explanation": "هُوَ is the third person masculine singular pronoun meaning 'he'. It can replace a noun: هُوَ طَالِبٌ means 'He is a student'. It replaces هَذَا when referring to someone already mentioned.",
+    "examples": [
+      { "arabic": "هُوَ طَالِبٌ", "english": "He is a student" },
+      { "arabic": "هُوَ مُدَرِّسٌ", "english": "He is a teacher" },
+      { "arabic": "مَنْ هُوَ؟", "english": "Who is he?" }
+    ],
+    "lesson": "b1-l04"
+  },
+  {
+    "id": "gp-007",
+    "title": "اسم الإشارة للمؤنث: هَذِهِ",
+    "titleEn": "Feminine Demonstrative: This (fem.)",
+    "explanation": "هَذِهِ is used to point to a feminine singular noun that is near. Arabic nouns have gender, and feminine nouns typically end in ة (taa marbuta). هَذِهِ سَيَّارَةٌ means 'This is a car'.",
+    "examples": [
+      { "arabic": "هَذِهِ سَيَّارَةٌ", "english": "This is a car" },
+      { "arabic": "هَذِهِ طَاوِلَةٌ", "english": "This is a table" },
+      { "arabic": "هَذِهِ أُخْتٌ", "english": "This is a sister" }
+    ],
+    "lesson": "b1-l05"
+  },
+  {
+    "id": "gp-008",
+    "title": "الضمير المنفصل: هِيَ",
+    "titleEn": "Separate Pronoun: She",
+    "explanation": "هِيَ is the third person feminine singular pronoun meaning 'she'. It's used for feminine nouns: هِيَ طَالِبَةٌ means 'She is a (female) student'.",
+    "examples": [
+      { "arabic": "هِيَ طَالِبَةٌ", "english": "She is a (female) student" },
+      { "arabic": "هِيَ أُمٌّ", "english": "She is a mother" },
+      { "arabic": "مَنْ هِيَ؟", "english": "Who is she?" }
+    ],
+    "lesson": "b1-l05"
+  },
+  {
+    "id": "gp-009",
+    "title": "اسم الإشارة للبعيد المؤنث: تِلْكَ",
+    "titleEn": "Feminine Demonstrative (Far): That (fem.)",
+    "explanation": "تِلْكَ is used to point to a feminine singular noun that is far. It means 'that' for feminine nouns. تِلْكَ مَدْرَسَةٌ means 'That is a school'.",
+    "examples": [
+      { "arabic": "تِلْكَ مَدْرَسَةٌ", "english": "That is a school" },
+      { "arabic": "تِلْكَ جَامِعَةٌ", "english": "That is a university" },
+      { "arabic": "تِلْكَ غُرْفَةٌ", "english": "That is a room" }
+    ],
+    "lesson": "b1-l06"
+  },
+  {
+    "id": "gp-010",
+    "title": "التاء المربوطة",
+    "titleEn": "Taa Marbuta (ة)",
+    "explanation": "Most feminine nouns in Arabic end with ة (taa marbuta). This letter indicates feminine gender. When the noun has tanween, it sounds like 'tun': مَدْرَسَةٌ (madrasatun). Without tanween, it's silent: المَدْرَسَة (al-madrasa).",
+    "examples": [
+      { "arabic": "سَيَّارَةٌ", "english": "a car (fem.)" },
+      { "arabic": "غُرْفَةٌ", "english": "a room (fem.)" },
+      { "arabic": "نَافِذَةٌ", "english": "a window (fem.)" }
+    ],
+    "lesson": "b1-l06"
+  },
+  {
+    "id": "gp-011",
+    "title": "الإِضَافَة",
+    "titleEn": "The Possessive Construction (Idaafa)",
+    "explanation": "Idaafa is how Arabic expresses possession. Two nouns are placed together: the possessed noun (mudaaf) loses its tanween and is followed by the possessor (mudaaf ilayhi) in the genitive case. كِتَابُ الطَّالِبِ means 'the student's book'.",
+    "examples": [
+      { "arabic": "كِتَابُ الطَّالِبِ", "english": "the student's book" },
+      { "arabic": "بَابُ الْبَيْتِ", "english": "the door of the house" },
+      { "arabic": "قَلَمُ الْمُدَرِّسِ", "english": "the teacher's pen" }
+    ],
+    "lesson": "b1-l07"
+  },
+  {
+    "id": "gp-012",
+    "title": "الإِضَافَة مَعَ الضَّمَائِر",
+    "titleEn": "Possessive with Pronouns",
+    "explanation": "Possessive pronouns attach to the end of nouns. كِتَابِي means 'my book', كِتَابُكَ means 'your book'. The noun loses its tanween when a pronoun attaches.",
+    "examples": [
+      { "arabic": "كِتَابِي", "english": "my book" },
+      { "arabic": "بَيْتُهُ", "english": "his house" },
+      { "arabic": "قَلَمُهَا", "english": "her pen" }
+    ],
+    "lesson": "b1-l07"
+  },
+  {
+    "id": "gp-013",
+    "title": "حُرُوفُ الْجَرِّ",
+    "titleEn": "Prepositions",
+    "explanation": "Prepositions in Arabic cause the following noun to be in the genitive case (majroor). Common prepositions include فِي (in), مِنْ (from), إِلَى (to), عَلَى (on), and مَعَ (with).",
+    "examples": [
+      { "arabic": "فِي الْبَيْتِ", "english": "in the house" },
+      { "arabic": "مِنَ الْمَدْرَسَةِ", "english": "from the school" },
+      { "arabic": "إِلَى الْمَسْجِدِ", "english": "to the mosque" }
+    ],
+    "lesson": "b1-l08"
+  },
+  {
+    "id": "gp-014",
+    "title": "الصِّفَة",
+    "titleEn": "Adjectives",
+    "explanation": "In Arabic, adjectives follow the noun they describe and must agree in gender, number, and definiteness. كِتَابٌ جَدِيدٌ means 'a new book'. Both words are indefinite (have tanween).",
+    "examples": [
+      { "arabic": "كِتَابٌ جَدِيدٌ", "english": "a new book" },
+      { "arabic": "بَيْتٌ كَبِيرٌ", "english": "a big house" },
+      { "arabic": "سَيَّارَةٌ جَمِيلَةٌ", "english": "a beautiful car" }
+    ],
+    "lesson": "b1-l09"
+  },
+  {
+    "id": "gp-015",
+    "title": "الْأَعْدَاد مِنْ 1-10",
+    "titleEn": "Numbers 1-10",
+    "explanation": "Arabic numbers 1-10 have special rules. Numbers 3-10 show reverse gender agreement: masculine nouns use feminine numbers. وَاحِدٌ and اِثْنَانِ agree normally with the noun.",
+    "examples": [
+      { "arabic": "ثَلَاثَةُ كُتُبٍ", "english": "three books" },
+      { "arabic": "خَمْسَةُ طُلَّابٍ", "english": "five students" },
+      { "arabic": "كِتَابٌ وَاحِدٌ", "english": "one book" }
+    ],
+    "lesson": "b1-l10"
+  },
+  {
+    "id": "gp-016",
+    "title": "الْفِعْلُ الْمَاضِي",
+    "titleEn": "Past Tense Verbs",
+    "explanation": "Arabic past tense verbs are built from a three-letter root. The base form is third person masculine singular: كَتَبَ (he wrote), ذَهَبَ (he went). This form indicates completed actions.",
+    "examples": [
+      { "arabic": "ذَهَبَ الطَّالِبُ", "english": "The student went" },
+      { "arabic": "كَتَبَ الْمُدَرِّسُ", "english": "The teacher wrote" },
+      { "arabic": "قَرَأَ الْوَلَدُ", "english": "The boy read" }
+    ],
+    "lesson": "b1-l11"
+  },
+  {
+    "id": "gp-017",
+    "title": "تَصْرِيفُ الْفِعْلِ الْمَاضِي",
+    "titleEn": "Past Tense Conjugation",
+    "explanation": "Past tense verbs change endings based on the subject. ذَهَبْتُ (I went), ذَهَبْتَ (you m. went), ذَهَبَتْ (she went). The endings are suffixes attached to the verb root.",
+    "examples": [
+      { "arabic": "ذَهَبْتُ", "english": "I went" },
+      { "arabic": "ذَهَبْتَ", "english": "you (m.) went" },
+      { "arabic": "ذَهَبْنَا", "english": "we went" }
+    ],
+    "lesson": "b1-l12"
+  },
+  {
+    "id": "gp-018",
+    "title": "الْمُؤَنَّث",
+    "titleEn": "Feminine Forms",
+    "explanation": "Feminine nouns typically end in ة (taa marbuta). Feminine verbs in the past tense add تْ: ذَهَبَتْ (she went). Adjectives become feminine by adding ة: كَبِيرَةٌ (big, fem.).",
+    "examples": [
+      { "arabic": "طَالِبَةٌ", "english": "female student" },
+      { "arabic": "ذَهَبَتْ", "english": "she went" },
+      { "arabic": "جَمِيلَةٌ", "english": "beautiful (fem.)" }
+    ],
+    "lesson": "b1-l13"
+  },
+  {
+    "id": "gp-019",
+    "title": "الْمُثَنَّى",
+    "titleEn": "The Dual Form",
+    "explanation": "Arabic has a special form for exactly two things. Add انِ for nominative: كِتَابَانِ (two books). Add يْنِ for genitive/accusative: كِتَابَيْنِ. The dual is used instead of the number two.",
+    "examples": [
+      { "arabic": "كِتَابَانِ", "english": "two books (nom.)" },
+      { "arabic": "طَالِبَانِ", "english": "two students (nom.)" },
+      { "arabic": "طَالِبَتَانِ", "english": "two female students" }
+    ],
+    "lesson": "b1-l14"
+  },
+  {
+    "id": "gp-020",
+    "title": "جَمْعُ الْمُذَكَّرِ السَّالِم وَجَمْعُ الْمُؤَنَّثِ السَّالِم",
+    "titleEn": "Sound Masculine and Feminine Plurals",
+    "explanation": "Sound masculine plural adds ونَ (nom.) or ينَ (gen./acc.): مُدَرِّسُونَ (teachers). Sound feminine plural replaces ة with اتٌ: طَالِبَاتٌ (female students). These are 'sound' because they follow regular patterns.",
+    "examples": [
+      { "arabic": "مُدَرِّسُونَ", "english": "teachers (m.)" },
+      { "arabic": "طَالِبَاتٌ", "english": "students (f.)" },
+      { "arabic": "مُسْلِمُونَ", "english": "Muslims (m.)" }
+    ],
+    "lesson": "b1-l15"
+  },
+  {
+    "id": "gp-021",
+    "title": "جَمْعُ التَّكْسِير",
+    "titleEn": "Broken Plurals",
+    "explanation": "Many Arabic nouns form plurals by changing internal vowels (broken plurals). These must be memorized: كِتَابٌ → كُتُبٌ (books), بَيْتٌ → بُيُوتٌ (houses). They follow patterns like فُعُول and أَفْعَال.",
+    "examples": [
+      { "arabic": "كُتُبٌ", "english": "books" },
+      { "arabic": "بُيُوتٌ", "english": "houses" },
+      { "arabic": "رِجَالٌ", "english": "men" }
+    ],
+    "lesson": "b1-l16"
+  },
+  {
+    "id": "gp-022",
+    "title": "الْفِعْلُ الْمُضَارِع",
+    "titleEn": "Present/Future Tense Verbs",
+    "explanation": "Present tense verbs indicate ongoing or future actions. They are formed by adding prefixes to the root: يَذْهَبُ (he goes/will go). The prefix indicates the subject: أَ (I), تَ (you), يَ (he), نَ (we).",
+    "examples": [
+      { "arabic": "يَذْهَبُ", "english": "he goes" },
+      { "arabic": "يَكْتُبُ", "english": "he writes" },
+      { "arabic": "يَقْرَأُ", "english": "he reads" }
+    ],
+    "lesson": "b1-l17"
+  },
+  {
+    "id": "gp-023",
+    "title": "تَصْرِيفُ الْفِعْلِ الْمُضَارِع",
+    "titleEn": "Present Tense Conjugation",
+    "explanation": "Present tense verbs change prefixes and sometimes suffixes: أَذْهَبُ (I go), تَذْهَبُ (you m. go), نَذْهَبُ (we go). The prefix indicates the person, and suffixes show gender/number.",
+    "examples": [
+      { "arabic": "أَذْهَبُ", "english": "I go" },
+      { "arabic": "تَذْهَبُ", "english": "you (m.) go" },
+      { "arabic": "نَذْهَبُ", "english": "we go" }
+    ],
+    "lesson": "b1-l18"
+  },
+  {
+    "id": "gp-024",
+    "title": "أَدَوَاتُ النَّفْي",
+    "titleEn": "Negation Particles",
+    "explanation": "Arabic uses different particles for negation: لَا negates present tense (لَا يَذْهَبُ - he doesn't go), مَا negates past tense (مَا ذَهَبَ - he didn't go), لَيْسَ negates nominal sentences (لَيْسَ طَالِبًا - he is not a student).",
+    "examples": [
+      { "arabic": "لَا يَذْهَبُ", "english": "he doesn't go" },
+      { "arabic": "مَا ذَهَبَ", "english": "he didn't go" },
+      { "arabic": "لَيْسَ هَذَا كِتَابًا", "english": "this is not a book" }
+    ],
+    "lesson": "b1-l19"
+  },
+  {
+    "id": "gp-025",
+    "title": "الْجُمْلَة الْفِعْلِيَّة",
+    "titleEn": "Verbal Sentences",
+    "explanation": "A verbal sentence (جُمْلَة فِعْلِيَّة) begins with a verb. The typical order is Verb-Subject-Object: ذَهَبَ الطَّالِبُ (The student went). When the verb comes first, it stays singular even with plural subjects.",
+    "examples": [
+      { "arabic": "ذَهَبَ الطَّالِبُ", "english": "The student went" },
+      { "arabic": "كَتَبَ الْمُدَرِّسُ الدَّرْسَ", "english": "The teacher wrote the lesson" },
+      { "arabic": "قَرَأَتِ الْبِنْتُ", "english": "The girl read" }
+    ],
+    "lesson": "b1-l20"
+  },
+  {
+    "id": "gp-026",
+    "title": "الْجُمْلَة الاسْمِيَّة",
+    "titleEn": "Nominal Sentences",
+    "explanation": "A nominal sentence (جُمْلَة اسْمِيَّة) begins with a noun (the subject/mubtada) followed by the predicate (khabar). No verb 'to be' is needed: الطَّالِبُ مُجْتَهِدٌ means 'The student is diligent'.",
+    "examples": [
+      { "arabic": "الطَّالِبُ مُجْتَهِدٌ", "english": "The student is diligent" },
+      { "arabic": "الْبَيْتُ كَبِيرٌ", "english": "The house is big" },
+      { "arabic": "الْكِتَابُ جَدِيدٌ", "english": "The book is new" }
+    ],
+    "lesson": "b1-l21"
+  },
+  {
+    "id": "gp-027",
+    "title": "إِنَّ وَأَخَوَاتُهَا",
+    "titleEn": "Inna and Its Sisters",
+    "explanation": "إِنَّ and similar particles (أَنَّ، لَكِنَّ، لَعَلَّ) emphasize nominal sentences. They make the subject accusative (منصوب): إِنَّ الطَّالِبَ مُجْتَهِدٌ (Indeed, the student is diligent). The predicate remains nominative.",
+    "examples": [
+      { "arabic": "إِنَّ الْكِتَابَ جَدِيدٌ", "english": "Indeed, the book is new" },
+      { "arabic": "لَكِنَّ الْبَيْتَ صَغِيرٌ", "english": "But the house is small" },
+      { "arabic": "لَعَلَّ الطَّالِبَ حَاضِرٌ", "english": "Perhaps the student is present" }
+    ],
+    "lesson": "b1-l22"
+  },
+  {
+    "id": "gp-028",
+    "title": "كَانَ وَأَخَوَاتُهَا",
+    "titleEn": "Kana and Its Sisters",
+    "explanation": "كَانَ (was) and similar verbs (أَصْبَحَ، صَارَ، لَيْسَ) modify nominal sentences for past or changed states. The subject stays nominative, but the predicate becomes accusative: كَانَ الطَّالِبُ مُجْتَهِدًا (The student was diligent).",
+    "examples": [
+      { "arabic": "كَانَ الطَّالِبُ مُجْتَهِدًا", "english": "The student was diligent" },
+      { "arabic": "أَصْبَحَ الْوَلَدُ طَالِبًا", "english": "The boy became a student" },
+      { "arabic": "لَيْسَ الْبَيْتُ كَبِيرًا", "english": "The house is not big" }
+    ],
+    "lesson": "b1-l23"
+  },
+  {
+    "id": "gp-029",
+    "title": "الاستفهام بـ \"أَيْنَ\"",
+    "titleEn": "Question with 'Where'",
+    "explanation": "أَيْنَ means 'where' and is used to ask about location. It appears at the beginning of the question: أَيْنَ الْكِتَابُ؟ (Where is the book?). The answer typically uses a preposition like فِي.",
+    "examples": [
+      { "arabic": "أَيْنَ الْمُدَرِّسُ؟", "english": "Where is the teacher?" },
+      { "arabic": "أَيْنَ ذَهَبْتَ؟", "english": "Where did you go?" },
+      { "arabic": "هُوَ فِي الْبَيْتِ", "english": "He is in the house" }
+    ],
+    "lesson": "b1-l14"
+  },
+  {
+    "id": "gp-030",
+    "title": "الاستفهام بـ \"مَتَى\" و \"كَيْفَ\"",
+    "titleEn": "Questions with 'When' and 'How'",
+    "explanation": "مَتَى means 'when' and asks about time: مَتَى جِئْتَ؟ (When did you come?). كَيْفَ means 'how' and asks about manner or state: كَيْفَ حَالُكَ؟ (How are you?).",
+    "examples": [
+      { "arabic": "مَتَى تَذْهَبُ؟", "english": "When are you going?" },
+      { "arabic": "كَيْفَ حَالُكَ؟", "english": "How are you?" },
+      { "arabic": "كَيْفَ الْجَوُّ؟", "english": "How is the weather?" }
+    ],
+    "lesson": "b1-l15"
+  },
+  {
+    "id": "gp-031",
+    "title": "الألوان",
+    "titleEn": "Colors",
+    "explanation": "Arabic colors follow the pattern أَفْعَل for masculine (أَحْمَرُ - red) and فَعْلَاء for feminine (حَمْرَاءُ - red f.). They don't take tanween and are diptotes. Colors are adjectives that follow the noun they describe.",
+    "examples": [
+      { "arabic": "كِتَابٌ أَحْمَرُ", "english": "a red book" },
+      { "arabic": "سَيَّارَةٌ زَرْقَاءُ", "english": "a blue car" },
+      { "arabic": "قَمِيصٌ أَبْيَضُ", "english": "a white shirt" }
+    ],
+    "lesson": "b1-l10"
+  },
+  {
+    "id": "gp-032",
+    "title": "ظُرُوف الزَّمَان",
+    "titleEn": "Adverbs of Time",
+    "explanation": "Time adverbs indicate when an action occurs. Common ones include: الْيَوْمَ (today), غَدًا (tomorrow), أَمْسِ (yesterday), الآنَ (now). They typically come after the verb.",
+    "examples": [
+      { "arabic": "ذَهَبَ أَمْسِ", "english": "He went yesterday" },
+      { "arabic": "سَيَذْهَبُ غَدًا", "english": "He will go tomorrow" },
+      { "arabic": "أَدْرُسُ الآنَ", "english": "I am studying now" }
+    ],
+    "lesson": "b1-l13"
+  },
+  {
+    "id": "gp-033",
+    "title": "ظُرُوف الْمَكَان",
+    "titleEn": "Adverbs of Place",
+    "explanation": "Place adverbs indicate where something is located. Common ones include: هُنَا (here), هُنَاكَ (there), فَوْقَ (above), تَحْتَ (below), أَمَامَ (in front), وَرَاءَ (behind).",
+    "examples": [
+      { "arabic": "الْكِتَابُ هُنَا", "english": "The book is here" },
+      { "arabic": "الطَّالِبُ هُنَاكَ", "english": "The student is there" },
+      { "arabic": "الْقَلَمُ فَوْقَ الطَّاوِلَةِ", "english": "The pen is on the table" }
+    ],
+    "lesson": "b1-l14"
+  },
+  {
+    "id": "gp-034",
+    "title": "أَدَوَات الرَّبْط",
+    "titleEn": "Conjunctions",
+    "explanation": "Arabic uses conjunctions to connect words and sentences. وَ (and) connects similar items, أَوْ (or) shows alternatives, ثُمَّ (then) shows sequence with delay, فَ (and/so) shows immediate sequence or result.",
+    "examples": [
+      { "arabic": "قَلَمٌ وَكِتَابٌ", "english": "a pen and a book" },
+      { "arabic": "شَايٌ أَوْ قَهْوَةٌ", "english": "tea or coffee" },
+      { "arabic": "أَكَلَ ثُمَّ شَرِبَ", "english": "He ate then drank" }
+    ],
+    "lesson": "b1-l20"
+  },
+  {
+    "id": "gp-035",
+    "title": "هَلْ وَالْهَمْزَة الاسْتِفْهَامِيَّة",
+    "titleEn": "Yes/No Question Particles",
+    "explanation": "هَلْ and أَ are used to form yes/no questions. هَلْ هَذَا كِتَابٌ؟ (Is this a book?). أَ is less common and attaches directly: أَهَذَا كِتَابٌ؟ The answer uses نَعَمْ (yes) or لَا (no).",
+    "examples": [
+      { "arabic": "هَلْ أَنْتَ طَالِبٌ؟", "english": "Are you a student?" },
+      { "arabic": "أَذَهَبْتَ إِلَى الْمَدْرَسَةِ؟", "english": "Did you go to school?" },
+      { "arabic": "نَعَمْ، أَنَا طَالِبٌ", "english": "Yes, I am a student" }
+    ],
+    "lesson": "b1-l15"
+  },
+  {
+    "id": "gp-036",
+    "title": "الْمُضَاف وَالْمُضَاف إِلَيْهِ",
+    "titleEn": "The Possessor and Possessed",
+    "explanation": "In الإِضَافَة (genitive construction), the first noun (مُضَاف) is the possessed and loses tanween. The second (مُضَاف إِلَيْهِ) is the possessor and takes kasra. Both become definite even without الـ on the first.",
+    "examples": [
+      { "arabic": "كِتَابُ مُحَمَّدٍ", "english": "Muhammad's book" },
+      { "arabic": "بَابُ الْفَصْلِ", "english": "the classroom door" },
+      { "arabic": "مُدَرِّسُ اللُّغَةِ", "english": "the language teacher" }
+    ],
+    "lesson": "b1-l07"
+  },
+  {
+    "id": "gp-037",
+    "title": "أَنْوَاع الْجُمُوع",
+    "titleEn": "Types of Plurals",
+    "explanation": "Arabic has three plural types: جَمْع سَالِم (sound) adds endings, جَمْع تَكْسِير (broken) changes internal pattern, and جَمْع قِلَّة (paucity) for 3-10 items. Most nouns have broken plurals that must be memorized.",
+    "examples": [
+      { "arabic": "مُدَرِّسُونَ (سَالِم)", "english": "teachers (sound m.)" },
+      { "arabic": "طَالِبَاتٌ (سَالِم)", "english": "students (sound f.)" },
+      { "arabic": "كُتُبٌ (تَكْسِير)", "english": "books (broken)" }
+    ],
+    "lesson": "b1-l16"
+  },
+  {
+    "id": "gp-038",
+    "title": "الْجِنْس فِي الأَسْمَاء",
+    "titleEn": "Gender in Nouns",
+    "explanation": "Arabic nouns are either masculine or feminine. Feminine markers include: تَاء مَرْبُوطَة (ة), أَلِف مَقْصُورَة (ى), أَلِف مَمْدُودَة (اء). Some nouns are naturally feminine without markers (أُمّ، أَرْض).",
+    "examples": [
+      { "arabic": "مَدْرَسَةٌ (feminine)", "english": "school" },
+      { "arabic": "كُبْرَى (feminine)", "english": "bigger (f.)" },
+      { "arabic": "صَحْرَاءُ (feminine)", "english": "desert" }
+    ],
+    "lesson": "b1-l05"
+  },
+  {
+    "id": "gp-039",
+    "title": "الْفِعْل الْمُتَعَدِّي",
+    "titleEn": "Transitive Verbs",
+    "explanation": "Transitive verbs (الفعل المتعدي) require a direct object (مفعول به) to complete their meaning. The object takes the accusative case. Examples: كَتَبَ الدَّرْسَ (he wrote the lesson), أَكَلَ الطَّعَامَ (he ate the food).",
+    "examples": [
+      { "arabic": "كَتَبَ الطَّالِبُ الدَّرْسَ", "english": "The student wrote the lesson" },
+      { "arabic": "قَرَأَتِ الْبِنْتُ الْكِتَابَ", "english": "The girl read the book" },
+      { "arabic": "أَكَلَ الْوَلَدُ التُّفَّاحَةَ", "english": "The boy ate the apple" }
+    ],
+    "lesson": "b1-l26"
+  },
+  {
+    "id": "gp-040",
+    "title": "الأَفْعَال الَّتِي تَنْصِب مَفْعُولَيْنِ",
+    "titleEn": "Verbs Taking Two Objects",
+    "explanation": "Some transitive verbs take two direct objects. These include verbs of giving (أَعْطَى), teaching (عَلَّمَ), and informing (أَخْبَرَ). Both objects are in the accusative case.",
+    "examples": [
+      { "arabic": "أَعْطَى الْمُدَرِّسُ الطَّالِبَ كِتَابًا", "english": "The teacher gave the student a book" },
+      { "arabic": "عَلَّمَ الأُسْتَاذُ الطُّلَّابَ النَّحْوَ", "english": "The professor taught the students grammar" },
+      { "arabic": "سَأَلَ الطَّبِيبُ الْمَرِيضَ سُؤَالًا", "english": "The doctor asked the patient a question" }
+    ],
+    "lesson": "b1-l26"
+  },
+  {
+    "id": "gp-041",
+    "title": "الْفِعْل اللَّازِم",
+    "titleEn": "Intransitive Verbs",
+    "explanation": "Intransitive verbs (الفعل اللازم) do not require a direct object to complete their meaning. They express complete actions on their own: ذَهَبَ (went), جَلَسَ (sat), نَامَ (slept).",
+    "examples": [
+      { "arabic": "ذَهَبَ الطَّالِبُ", "english": "The student went" },
+      { "arabic": "جَلَسَ الرَّجُلُ", "english": "The man sat" },
+      { "arabic": "نَامَ الْوَلَدُ", "english": "The boy slept" }
+    ],
+    "lesson": "b1-l27"
+  },
+  {
+    "id": "gp-042",
+    "title": "الْفِعْل اللَّازِم مَعَ حُرُوف الْجَرّ",
+    "titleEn": "Intransitive Verbs with Prepositions",
+    "explanation": "Intransitive verbs often take prepositional phrases to provide additional information. The preposition connects the verb to its complement indirectly.",
+    "examples": [
+      { "arabic": "ذَهَبَ إِلَى الْمَدْرَسَةِ", "english": "He went to the school" },
+      { "arabic": "جَلَسَ عَلَى الْكُرْسِيِّ", "english": "He sat on the chair" },
+      { "arabic": "نَظَرَ إِلَى السَّمَاءِ", "english": "He looked at the sky" }
+    ],
+    "lesson": "b1-l27"
+  },
+  {
+    "id": "gp-043",
+    "title": "الْمَفْعُول بِهِ",
+    "titleEn": "The Direct Object",
+    "explanation": "The direct object (المفعول به) is the noun that receives the action of the verb. It is always in the accusative case (منصوب). It answers 'what?' or 'whom?' after the verb.",
+    "examples": [
+      { "arabic": "قَرَأَ الطَّالِبُ الْكِتَابَ", "english": "The student read the book" },
+      { "arabic": "رَأَيْتُ رَجُلًا", "english": "I saw a man" },
+      { "arabic": "سَمِعْتُ الْمُدَرِّسِينَ", "english": "I heard the teachers" }
+    ],
+    "lesson": "b1-l28"
+  },
+  {
+    "id": "gp-044",
+    "title": "ضَمَائِر الْمَفْعُول بِهِ",
+    "titleEn": "Object Pronouns",
+    "explanation": "Object pronouns attach to the end of the verb to indicate the receiver of the action: ـهُ (him), ـهَا (her), ـكَ (you m.), ـنِي (me). These are the same suffixes used for possession.",
+    "examples": [
+      { "arabic": "رَأَيْتُهُ", "english": "I saw him" },
+      { "arabic": "سَمِعَتْنِي", "english": "She heard me" },
+      { "arabic": "سَاعَدْتُهُمْ", "english": "I helped them" }
+    ],
+    "lesson": "b1-l28"
+  },
+  {
+    "id": "gp-045",
+    "title": "حُرُوف الْجَرّ",
+    "titleEn": "Prepositions",
+    "explanation": "Prepositions (حروف الجر) connect nouns to other elements in the sentence. Common prepositions: فِي (in), مِنْ (from), إِلَى (to), عَلَى (on), عَنْ (about), بِـ (with), لِـ (for).",
+    "examples": [
+      { "arabic": "فِي الْبَيْتِ", "english": "in the house" },
+      { "arabic": "مِنَ الْمَدْرَسَةِ", "english": "from the school" },
+      { "arabic": "إِلَى الْمَسْجِدِ", "english": "to the mosque" }
+    ],
+    "lesson": "b1-l29"
+  },
+  {
+    "id": "gp-046",
+    "title": "حَالَة الْجَرّ",
+    "titleEn": "The Genitive Case",
+    "explanation": "Nouns after prepositions take the genitive case (مجرور), shown by kasra. The genitive is also used in possessive constructions (الإضافة). Singular uses kasra, sound masculine plural uses ya (ين).",
+    "examples": [
+      { "arabic": "فِي الْبَيْتِ", "english": "in the house (kasra)" },
+      { "arabic": "مِنَ الْمُدَرِّسِينَ", "english": "from the teachers (ya)" },
+      { "arabic": "إِلَى الطَّالِبَاتِ", "english": "to the students (kasra)" }
+    ],
+    "lesson": "b1-l29"
+  },
+  {
+    "id": "gp-047",
+    "title": "مُرَاجَعَة: أَسْمَاء الإِشَارَة وَالضَّمَائِر",
+    "titleEn": "Review: Demonstratives and Pronouns",
+    "explanation": "Demonstratives point to nouns: هَذَا/هَذِهِ (this) and ذَلِكَ/تِلْكَ (that). Personal pronouns include: أَنَا (I), أَنْتَ (you m.), هُوَ (he), هِيَ (she), نَحْنُ (we), هُمْ (they).",
+    "examples": [
+      { "arabic": "هَذَا كِتَابٌ جَدِيدٌ", "english": "This is a new book" },
+      { "arabic": "أَنَا طَالِبٌ", "english": "I am a student" },
+      { "arabic": "هُمْ مُسْلِمُونَ", "english": "They are Muslims" }
+    ],
+    "lesson": "b1-l30"
+  },
+  {
+    "id": "gp-048",
+    "title": "مُرَاجَعَة: تَصْرِيف الأَفْعَال",
+    "titleEn": "Review: Verb Conjugation",
+    "explanation": "Past tense verbs change endings based on the subject. Present tense verbs use prefixes and suffixes. Negation uses لَا (present), مَا (past), لَيْسَ (nominal).",
+    "examples": [
+      { "arabic": "ذَهَبْتُ / أَذْهَبُ", "english": "I went / I go" },
+      { "arabic": "لَا يَذْهَبُ", "english": "He doesn't go" },
+      { "arabic": "مَا ذَهَبَ", "english": "He didn't go" }
+    ],
+    "lesson": "b1-l30"
+  },
+  {
+    "id": "gp-049",
+    "title": "الأَسْمَاء السِّتَّة - تَعْرِيف",
+    "titleEn": "The Six Nouns - Definition",
+    "explanation": "الأسماء الستة are six special nouns: أَب (father), أَخ (brother), حَم (father-in-law), فَم (mouth), ذُو (possessor of), and هَن (a thing). They have unique case endings when possessed.",
+    "examples": [
+      { "arabic": "جَاءَ أَبُو مُحَمَّدٍ", "english": "Muhammad's father came" },
+      { "arabic": "هُوَ ذُو مَالٍ", "english": "He is a possessor of wealth" },
+      { "arabic": "أَخُوكَ كَرِيمٌ", "english": "Your brother is generous" }
+    ],
+    "lesson": "b1-l31"
+  },
+  {
+    "id": "gp-050",
+    "title": "الأَسْمَاء السِّتَّة - شُرُوط الإِعْرَاب",
+    "titleEn": "The Six Nouns - Conditions",
+    "explanation": "For the six nouns to take special endings, they must be: singular, in genitive construction (مضاف), and the possessor cannot be ي (my). Without these conditions, they decline normally.",
+    "examples": [
+      { "arabic": "جَاءَ أَبُوكَ", "english": "Your father came (special)" },
+      { "arabic": "جَاءَ أَبِي", "english": "My father came (normal - ي)" },
+      { "arabic": "جَاءَ الأَبُ", "english": "The father came (normal - no possession)" }
+    ],
+    "lesson": "b1-l31"
+  },
+  {
+    "id": "gp-051",
+    "title": "إِعْرَاب الأَسْمَاء السِّتَّة بِالْحُرُوف",
+    "titleEn": "Case Endings of the Six Nouns",
+    "explanation": "The six nouns show case through letters: nominative uses و (أَبُوكَ), accusative uses ا (أَبَاكَ), genitive uses ي (أَبِيكَ). These replace standard damma, fatha, kasra.",
+    "examples": [
+      { "arabic": "جَاءَ أَبُوكَ (مرفوع)", "english": "Your father came (nominative)" },
+      { "arabic": "رَأَيْتُ أَبَاكَ (منصوب)", "english": "I saw your father (accusative)" },
+      { "arabic": "سَلَّمْتُ عَلَى أَبِيكَ (مجرور)", "english": "I greeted your father (genitive)" }
+    ],
+    "lesson": "b1-l32"
+  },
+  {
+    "id": "gp-052",
+    "title": "أَمْثِلَة عَلَى الأَسْمَاء السِّتَّة",
+    "titleEn": "Examples of the Six Nouns",
+    "explanation": "The case of six nouns depends on grammatical function: subject (nominative/و), object (accusative/ا), after preposition (genitive/ي), and after إِنَّ (accusative/ا).",
+    "examples": [
+      { "arabic": "أَخُوكَ فِي الْبَيْتِ", "english": "Your brother is in the house" },
+      { "arabic": "إِنَّ أَبَاكَ عَالِمٌ", "english": "Indeed your father is a scholar" },
+      { "arabic": "تَكَلَّمْتُ مَعَ أَخِيكَ", "english": "I spoke with your brother" }
+    ],
+    "lesson": "b1-l32"
+  },
+  {
+    "id": "gp-053",
+    "title": "الاسْم الْمَقْصُور - تَعْرِيف",
+    "titleEn": "Shortened Nouns - Definition",
+    "explanation": "الاسم المقصور is a noun ending in unchangeable alif (ا or ى), like فَتًى (young man), هُدًى (guidance). All case endings are estimated on the alif.",
+    "examples": [
+      { "arabic": "جَاءَ الْفَتَى", "english": "The young man came (nom. estimated)" },
+      { "arabic": "رَأَيْتُ الْفَتَى", "english": "I saw the young man (acc. estimated)" },
+      { "arabic": "الْهُدَى مِنَ اللهِ", "english": "Guidance is from Allah" }
+    ],
+    "lesson": "b1-l33"
+  },
+  {
+    "id": "gp-054",
+    "title": "الاسْم الْمَقْصُور - التَّثْنِيَة وَالْجَمْع",
+    "titleEn": "Shortened Nouns - Dual and Plural",
+    "explanation": "In dual, the alif changes to ي (فَتَيَانِ). Sound masculine plural drops the alif (مُصْطَفَوْنَ). Sound feminine plural changes alif to fatha before ات (فَتَيَاتٌ).",
+    "examples": [
+      { "arabic": "جَاءَ فَتَيَانِ", "english": "Two young men came" },
+      { "arabic": "الْمُصْطَفَوْنَ صَالِحُونَ", "english": "The chosen ones are righteous" },
+      { "arabic": "الدُّنْيَا فَانِيَةٌ", "english": "The worldly life is temporary" }
+    ],
+    "lesson": "b1-l33"
+  },
+  {
+    "id": "gp-055",
+    "title": "الاسْم الْمَنْقُوص - تَعْرِيف",
+    "titleEn": "Deficient Nouns - Definition",
+    "explanation": "الاسم المنقوص is a noun ending in ي preceded by kasra, like القَاضِي (judge). Nominative and genitive have estimated vowels; accusative has visible fatha.",
+    "examples": [
+      { "arabic": "جَاءَ الْقَاضِي", "english": "The judge came (nom. estimated)" },
+      { "arabic": "رَأَيْتُ الْقَاضِيَ", "english": "I saw the judge (acc. visible)" },
+      { "arabic": "سَلَّمْتُ عَلَى الْقَاضِي", "english": "I greeted the judge (gen. estimated)" }
+    ],
+    "lesson": "b1-l34"
+  },
+  {
+    "id": "gp-056",
+    "title": "الاسْم الْمَنْقُوص - التَّنْوِين",
+    "titleEn": "Deficient Nouns - Tanween",
+    "explanation": "When indefinite with tanween, the ya is dropped in nominative/genitive (قَاضٍ), but kept in accusative (قَاضِيًا). The tanween replaces the dropped ya.",
+    "examples": [
+      { "arabic": "جَاءَ قَاضٍ عَادِلٌ", "english": "A just judge came (ya dropped)" },
+      { "arabic": "رَأَيْتُ قَاضِيًا", "english": "I saw a judge (ya kept)" },
+      { "arabic": "هُوَ رَاعٍ لِلْغَنَمِ", "english": "He is a shepherd of sheep" }
+    ],
+    "lesson": "b1-l34"
+  },
+  {
+    "id": "gp-057",
+    "title": "الاسْم الْمَمْدُود - تَعْرِيف",
+    "titleEn": "Extended Nouns - Definition",
+    "explanation": "الاسم الممدود is a noun ending in alif followed by hamza (اء), like السَّمَاء (sky). Unlike المقصور and المنقوص, it takes visible case endings on the hamza.",
+    "examples": [
+      { "arabic": "السَّمَاءُ زَرْقَاءُ", "english": "The sky is blue (nominative)" },
+      { "arabic": "رَأَيْتُ السَّمَاءَ", "english": "I saw the sky (accusative)" },
+      { "arabic": "نَظَرْتُ إِلَى السَّمَاءِ", "english": "I looked at the sky (genitive)" }
+    ],
+    "lesson": "b1-l35"
+  },
+  {
+    "id": "gp-058",
+    "title": "الاسْم الْمَمْدُود - أَنْوَاع الْهَمْزَة",
+    "titleEn": "Extended Nouns - Types of Hamza",
+    "explanation": "The hamza can be original (أصلية), for feminization (للتأنيث), or transformed (منقلبة). Original stays in all forms. Feminization hamza changes to و in dual (صَحْرَاء → صَحْرَاوَانِ).",
+    "examples": [
+      { "arabic": "صَحْرَاوَانِ وَاسِعَتَانِ", "english": "Two vast deserts" },
+      { "arabic": "الدُّعَاءُ سِلَاحُ الْمُؤْمِنِ", "english": "Supplication is the believer's weapon" },
+      { "arabic": "الْبِنَاءُ عَالٍ", "english": "The building is tall" }
+    ],
+    "lesson": "b1-l35"
+  }
+]

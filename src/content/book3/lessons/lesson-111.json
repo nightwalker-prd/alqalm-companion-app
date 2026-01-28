@@ -1,0 +1,224 @@
+{
+  "id": "b3-l111",
+  "book": 3,
+  "lesson": 111,
+  "title": "الْحِكَايَة",
+  "titleEn": "Quotation (الحكاية)",
+  "description": "Learn about الحكاية - the grammatical treatment of quoted speech and words in classical Arabic, including direct quotation and metalinguistic reference.",
+  "vocabulary": ["word-b3-683", "word-b3-684", "word-b3-685", "word-b3-686", "word-b3-687"],
+  "grammarPoints": ["gp-b3-184", "gp-b3-185"],
+  "notes": [
+    {
+      "title": "What is الحكاية?",
+      "titleArabic": "مَا هِيَ الْحِكَايَةُ؟",
+      "content": [
+        "الحِكَايَة is the grammatical phenomenon of quoting words or speech exactly as they were said, preserving their original form. The quoted element is called مَحْكِيّ (quoted).",
+        "In حكاية, the quoted word or phrase maintains its original إعراب regardless of its position in the new sentence. This is essential for understanding classical texts."
+      ],
+      "keyPoints": [
+        "Exact quotation of speech/words",
+        "Preserves original form",
+        "المحكيّ = quoted element",
+        "Original إعراب maintained"
+      ],
+      "examples": [
+        { "arabic": "قَالَ: «الْحَمْدُ لِلَّهِ»", "english": "He said: 'Praise be to Allah' (exact quote)" },
+        { "arabic": "سَمِعْتُ «لَا إِلَهَ إِلَّا اللهُ»", "english": "I heard 'There is no god but Allah'" },
+        { "arabic": "كَتَبَ: «بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيمِ»", "english": "He wrote: 'In the name of Allah...'" },
+        { "arabic": "الْمَحْكِيُّ لَا يَتَغَيَّرُ", "english": "The quoted does not change" }
+      ]
+    },
+    {
+      "title": "Types of الحكاية",
+      "titleArabic": "أَنْوَاعُ الْحِكَايَةِ",
+      "content": [
+        "There are two main types: حِكَايَة الْجُمَل (quoting sentences) and حِكَايَة الْمُفْرَدَات (quoting individual words). The first is for reported speech, the second for metalinguistic reference.",
+        "حكاية الجمل preserves the entire sentence. حكاية المفردات is used when discussing words themselves, as in grammar books."
+      ],
+      "keyPoints": [
+        "حكاية الجمل: sentence quotation",
+        "حكاية المفردات: word quotation",
+        "Reported speech vs. metalinguistic",
+        "Common in grammar texts"
+      ],
+      "examples": [
+        { "arabic": "قَالَ النَّبِيُّ ﷺ: «إِنَّمَا الأَعْمَالُ بِالنِّيَّاتِ»", "english": "The Prophet ﷺ said: 'Actions are by intentions'" },
+        { "arabic": "«ضَرَبَ» فِعْلٌ مَاضٍ", "english": "'Daraba' is a past tense verb (word quotation)" },
+        { "arabic": "«زَيْدٌ» اسْمٌ مَرْفُوعٌ", "english": "'Zayd' is a noun in nominative (metalinguistic)" },
+        { "arabic": "مَعْنَى «الْحَمْدِ» الثَّنَاءُ", "english": "The meaning of 'al-hamd' is praise" }
+      ]
+    },
+    {
+      "title": "الحكاية بالحرف",
+      "titleArabic": "الْحِكَايَةُ بِالْحَرْفِ",
+      "content": [
+        "الحكاية بالحرف means quoting letter-by-letter or word-for-word. This is used in grammar explanations when referring to words as linguistic objects rather than their meanings.",
+        "When a word is محكيّ, it becomes مبني (indeclinable) in its quoted position, though its internal structure remains unchanged."
+      ],
+      "keyPoints": [
+        "Letter-by-letter quotation",
+        "Words as linguistic objects",
+        "محكيّ becomes مبني",
+        "Internal structure unchanged"
+      ],
+      "examples": [
+        { "arabic": "حَرْفُ «الْبَاءِ» حَرْفُ جَرٍّ", "english": "The letter 'ba' is a preposition" },
+        { "arabic": "كَلِمَةُ «اللهِ» لَفْظُ الْجَلَالَةِ", "english": "The word 'Allah' is the word of majesty" },
+        { "arabic": "«مِنْ» حَرْفٌ، «مَنْ» اسْمٌ", "english": "'Min' is a particle, 'man' is a noun" },
+        { "arabic": "نَحْوُ «قَامَ زَيْدٌ»", "english": "Like 'Zayd stood' (quoting example)" }
+      ]
+    },
+    {
+      "title": "الحكاية في الأسماء المبهمة",
+      "titleArabic": "الْحِكَايَةُ فِي الأَسْمَاءِ الْمُبْهَمَةِ",
+      "content": [
+        "When asking about someone's name using مَنْ, the response can use حكاية - echoing the case of the question. If asked 'مَنْ جَاءَ؟' (nominative), the answer can be 'مَنْ؟' echoing the رفع.",
+        "This is particularly relevant in classical texts where names are introduced with their full i'rab maintained."
+      ],
+      "keyPoints": [
+        "Echoing case in questions",
+        "مَنْ جَاءَ؟ - مَنْ؟ (رفع)",
+        "رَأَيْتُ مَنْ؟ - مَنْ؟ (نصب)",
+        "Classical text convention"
+      ],
+      "examples": [
+        { "arabic": "مَنْ جَاءَ؟ قُلْتُ: زَيْدٌ (حكاية الرفع)", "english": "Who came? I said: Zayd (echoing nominative)" },
+        { "arabic": "رَأَيْتُ مَنْ؟ قُلْتُ: زَيْدًا (حكاية النصب)", "english": "You saw whom? I said: Zayd (echoing accusative)" },
+        { "arabic": "مَرَرْتُ بِمَنْ؟ قُلْتُ: بِزَيْدٍ (حكاية الجر)", "english": "You passed by whom? I said: by Zayd (echoing genitive)" },
+        { "arabic": "الْحِكَايَةُ تَتْبَعُ الإِعْرَابَ", "english": "Quotation follows the i'rab" }
+      ]
+    },
+    {
+      "title": "الحكاية في الشعر والنثر",
+      "titleArabic": "الْحِكَايَةُ فِي الشِّعْرِ وَالنَّثْرِ",
+      "content": [
+        "In poetry and classical prose, حكاية allows authors to quote verses, proverbs, and famous sayings exactly. This preserves the original wording and rhythm.",
+        "Scholars use حكاية extensively when citing evidence (شواهد) from Quran, Hadith, and poetry to support grammatical rules."
+      ],
+      "keyPoints": [
+        "Preserves original wording",
+        "Maintains poetic rhythm",
+        "Used for شواهد (evidence)",
+        "Quran, Hadith, poetry citations"
+      ],
+      "examples": [
+        { "arabic": "كَقَوْلِهِ تَعَالَى: «وَمَا رَبُّكَ بِظَلَّامٍ»", "english": "As His saying: 'Your Lord is not unjust'" },
+        { "arabic": "وَفِي الْحَدِيثِ: «الدِّينُ النَّصِيحَةُ»", "english": "In the hadith: 'Religion is sincere advice'" },
+        { "arabic": "كَقَوْلِ الشَّاعِرِ: «...»", "english": "As the poet said: '...'" },
+        { "arabic": "الشَّاهِدُ قَوْلُهُ: «...»", "english": "The evidence is his saying: '...'" }
+      ]
+    },
+    {
+      "title": "إعراب المحكي",
+      "titleArabic": "إِعْرَابُ الْمَحْكِيِّ",
+      "content": [
+        "The محكيّ (quoted element) is مبني على ما سُمِع به (built on what was heard). It has no i'rab change. In sentence analysis, it's described as: مَحْكِيٌّ لَا مَحَلَّ لَهُ، or في محل according to context.",
+        "If the quoted element functions as مفعول به of a verb of saying, the entire quote is في محل نصب مفعول به."
+      ],
+      "keyPoints": [
+        "مبني على ما سُمِع به",
+        "No i'rab change",
+        "في محل... according to context",
+        "Quote as مفعول به of قال"
+      ],
+      "examples": [
+        { "arabic": "«الْحَمْدُ لِلَّهِ»: جملة محكية في محل نصب", "english": "'Praise be to Allah': quoted sentence as object" },
+        { "arabic": "«ضَرَبَ»: كلمة محكية مبنية", "english": "'Daraba': quoted word, indeclinable" },
+        { "arabic": "قَوْلُهُ «لَا إِلَهَ إِلَّا اللهُ» حَقٌّ", "english": "His saying 'There is no god but Allah' is truth" },
+        { "arabic": "الْمَحْكِيُّ مَبْنِيٌّ", "english": "The quoted is indeclinable" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l111-ex01",
+      "type": "fill-blank",
+      "prompt": "الْحِكَايَةُ هِيَ نَقْلُ الْكَلَامِ كَمَا _____ بِهِ",
+      "promptEn": "الحكاية is conveying speech as it was _____",
+      "answer": "سُمِعَ / قِيلَ",
+      "itemIds": ["word-b3-683"]
+    },
+    {
+      "id": "b3-l111-ex02",
+      "type": "fill-blank",
+      "prompt": "الْعُنْصُرُ الْمَنْقُولُ فِي الْحِكَايَةِ يُسَمَّى _____",
+      "promptEn": "The quoted element in حكاية is called _____",
+      "answer": "مَحْكِيّ",
+      "itemIds": ["word-b3-684"]
+    },
+    {
+      "id": "b3-l111-ex03",
+      "type": "fill-blank",
+      "prompt": "«ضَرَبَ» فِعْلٌ مَاضٍ - هَذَا مِثَالٌ عَلَى حِكَايَةِ _____",
+      "promptEn": "'Daraba' is a past verb - this is an example of _____ quotation",
+      "answer": "الْمُفْرَدَاتِ / الْكَلِمَاتِ",
+      "itemIds": ["word-b3-685"]
+    },
+    {
+      "id": "b3-l111-ex04",
+      "type": "fill-blank",
+      "prompt": "الْمَحْكِيُّ _____ عَلَى مَا سُمِعَ بِهِ",
+      "promptEn": "The quoted element is _____ on what was heard",
+      "answer": "مَبْنِيٌّ",
+      "itemIds": ["word-b3-686"]
+    },
+    {
+      "id": "b3-l111-ex05",
+      "type": "fill-blank",
+      "prompt": "قَالَ: «الْحَمْدُ لِلَّهِ» - الْجُمْلَةُ الْمَحْكِيَّةُ فِي مَحَلِّ _____ مَفْعُولٌ بِهِ",
+      "promptEn": "He said: 'Praise be to Allah' - the quoted sentence is in the position of _____ as object",
+      "answer": "نَصْبٍ",
+      "itemIds": ["word-b3-687"]
+    },
+    {
+      "id": "b3-l111-ex06",
+      "type": "fill-blank",
+      "prompt": "الْحِكَايَةُ بِالْحَرْفِ تَعْنِي النَّقْلَ _____ بِحَرْفٍ",
+      "promptEn": "الحكاية بالحرف means quoting _____ by letter",
+      "answer": "حَرْفًا / كَلِمَةً",
+      "itemIds": ["word-b3-683"]
+    },
+    {
+      "id": "b3-l111-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْحِكَايَة",
+      "answer": "Quotation - exact reproduction of speech/words",
+      "itemIds": ["word-b3-683"]
+    },
+    {
+      "id": "b3-l111-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَحْكِيّ",
+      "answer": "Quoted element (in grammar)",
+      "itemIds": ["word-b3-684"]
+    },
+    {
+      "id": "b3-l111-ex09",
+      "type": "word-to-meaning",
+      "prompt": "حِكَايَة الْجُمَل",
+      "answer": "Sentence quotation (reported speech)",
+      "itemIds": ["word-b3-685"]
+    },
+    {
+      "id": "b3-l111-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Quoting words as linguistic objects",
+      "answer": "حِكَايَةُ الْمُفْرَدَاتِ",
+      "itemIds": ["word-b3-685"]
+    },
+    {
+      "id": "b3-l111-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Letter-by-letter quotation",
+      "answer": "الْحِكَايَةُ بِالْحَرْفِ",
+      "itemIds": ["word-b3-686"]
+    },
+    {
+      "id": "b3-l111-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Evidence cited from Quran/Hadith/poetry",
+      "answer": "شَاهِد / شَوَاهِد",
+      "itemIds": ["word-b3-687"]
+    }
+  ]
+}

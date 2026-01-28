@@ -1,0 +1,224 @@
+{
+  "id": "b3-l99",
+  "book": 3,
+  "lesson": 99,
+  "title": "الْمِائَةُ وَالأَلْفُ وَمَا فَوْقَهُمَا",
+  "titleEn": "Hundreds, Thousands, and Beyond",
+  "description": "Learn about numbers 100 and above - hundreds (مائة), thousands (ألف), millions (مليون), and their grammatical rules with counted nouns.",
+  "vocabulary": ["word-b3-623", "word-b3-624", "word-b3-625", "word-b3-626", "word-b3-627"],
+  "grammarPoints": ["gp-b3-160", "gp-b3-161"],
+  "notes": [
+    {
+      "title": "The Hundred (المائة)",
+      "titleArabic": "الْمِائَةُ",
+      "content": [
+        "مِائَة (one hundred) is مُفْرَدَة مُؤَنَّثَة (singular feminine). It can be written مِائَة or مِئَة. The counted noun after it is مُفْرَد مَجْرُور (singular genitive) - added to it in إِضَافَة.",
+        "مِائَة طَالِبٍ (100 students - male), مِائَة طَالِبَةٍ (100 students - female). The gender of مِائَة doesn't change - it's always feminine. Only the counted noun changes."
+      ],
+      "keyPoints": [
+        "مِائَة: singular feminine",
+        "Counted noun: singular genitive",
+        "إِضَافَة structure",
+        "Gender of مِائَة doesn't change"
+      ],
+      "examples": [
+        { "arabic": "مِائَةُ رَجُلٍ", "english": "One hundred men" },
+        { "arabic": "مِائَةُ امْرَأَةٍ", "english": "One hundred women" },
+        { "arabic": "مِائَةُ كِتَابٍ", "english": "One hundred books" },
+        { "arabic": "مِائَةُ سَنَةٍ", "english": "One hundred years" }
+      ]
+    },
+    {
+      "title": "Multiples of Hundred",
+      "titleArabic": "مُضَاعَفَاتُ الْمِائَةِ",
+      "content": [
+        "For 200: مِائَتَانِ (nom.) / مِائَتَيْنِ (acc./gen.) - dual form. For 300-900: cardinal + مِائَة in إضافة: ثَلَاثُمِائَةٍ، أَرْبَعُمِائَةٍ، خَمْسُمِائَةٍ، سِتُّمِائَةٍ، سَبْعُمِائَةٍ، ثَمَانِمِائَةٍ، تِسْعُمِائَةٍ.",
+        "The counted noun remains singular genitive: ثَلَاثُمِائَةِ طَالِبٍ (300 students). Note: 3-9 use the gender-reversed form (ثَلَاث for masculine noun's count)."
+      ],
+      "keyPoints": [
+        "200: مِائَتَانِ / مِائَتَيْنِ (dual)",
+        "300-900: number + مِائَة",
+        "Counted noun: singular genitive",
+        "ثَلَاثُمِائَةٍ (not ثَلَاثَة)"
+      ],
+      "examples": [
+        { "arabic": "مِائَتَا طَالِبٍ / مِائَتَيْ طَالِبٍ", "english": "Two hundred students (nom./gen.)" },
+        { "arabic": "ثَلَاثُمِائَةِ دِينَارٍ", "english": "Three hundred dinars" },
+        { "arabic": "خَمْسُمِائَةِ سَنَةٍ", "english": "Five hundred years" },
+        { "arabic": "تِسْعُمِائَةٍ وَتِسْعَةٌ وَتِسْعُونَ", "english": "Nine hundred ninety-nine" }
+      ]
+    },
+    {
+      "title": "The Thousand (الألف)",
+      "titleArabic": "الأَلْفُ",
+      "content": [
+        "أَلْف (one thousand) is مُفْرَد مُذَكَّر (singular masculine). Its counted noun is مُفْرَد مَجْرُور (singular genitive) in إِضَافَة, just like مِائَة.",
+        "أَلْفُ رَجُلٍ (1000 men), أَلْفُ امْرَأَةٍ (1000 women). Plurals: أَلْفَانِ (2000 - dual), آلَاف (3-10 thousand), أُلُوف (used in Quran)."
+      ],
+      "keyPoints": [
+        "أَلْف: singular masculine",
+        "Counted noun: singular genitive",
+        "أَلْفَانِ: dual (2000)",
+        "آلَاف / أُلُوف: plurals"
+      ],
+      "examples": [
+        { "arabic": "أَلْفُ كِتَابٍ", "english": "One thousand books" },
+        { "arabic": "أَلْفَا طَالِبٍ / أَلْفَيْ طَالِبٍ", "english": "Two thousand students" },
+        { "arabic": "ثَلَاثَةُ آلَافِ دِينَارٍ", "english": "Three thousand dinars" },
+        { "arabic": "عَشَرَةُ آلَافِ سَنَةٍ", "english": "Ten thousand years" }
+      ]
+    },
+    {
+      "title": "Million and Above",
+      "titleArabic": "الْمِلْيُونُ وَمَا فَوْقَهُ",
+      "content": [
+        "مِلْيُون (million) is مُفْرَد مُذَكَّر. Its counted noun is singular genitive: مِلْيُونُ دُولَارٍ. Plural: مَلَايِين. مِلْيُونَانِ (2 million).",
+        "مِلْيَار (billion - مليار/بليون) follows the same pattern. These are relatively modern additions to Arabic from European languages but follow classical patterns."
+      ],
+      "keyPoints": [
+        "مِلْيُون: singular masculine",
+        "Plural: مَلَايِين",
+        "مِلْيَار / بِلْيُون: billion",
+        "Counted noun: singular genitive"
+      ],
+      "examples": [
+        { "arabic": "مِلْيُونُ دُولَارٍ", "english": "One million dollars" },
+        { "arabic": "مِلْيُونَا نَسَمَةٍ", "english": "Two million people" },
+        { "arabic": "خَمْسَةُ مَلَايِينَ طُنٍّ", "english": "Five million tons" },
+        { "arabic": "مِلْيَارُ ريالٍ", "english": "One billion riyals" }
+      ]
+    },
+    {
+      "title": "Compound Numbers",
+      "titleArabic": "الأَعْدَادُ الْمُرَكَّبَةُ",
+      "content": [
+        "For compound numbers like 1,234, each part governs the next: أَلْفٌ وَمِائَتَانِ وَأَرْبَعَةٌ وَثَلَاثُونَ. The final counted noun follows the last number's rule.",
+        "Example: 125 books = مِائَةٌ وَخَمْسَةٌ وَعِشْرُونَ كِتَابًا. The counted noun (كتابًا) is singular accusative because the last element is 25 (العشرون takes singular accusative)."
+      ],
+      "keyPoints": [
+        "Parts connected with وَ",
+        "Largest to smallest",
+        "Counted noun follows last number's rule",
+        "التمييز based on final component"
+      ],
+      "examples": [
+        { "arabic": "مِائَةٌ وَثَلَاثَةٌ وَعِشْرُونَ كِتَابًا", "english": "123 books (singular accusative)" },
+        { "arabic": "أَلْفٌ وَتِسْعُمِائَةٍ وَخَمْسَةٌ وَسِتُّونَ سَنَةً", "english": "1965 years" },
+        { "arabic": "ثَلَاثَةُ آلَافٍ وَمِائَتَانِ", "english": "3,200" },
+        { "arabic": "أَرْبَعَةُ آلَافِ طَالِبٍ", "english": "4,000 students (singular genitive)" }
+      ]
+    },
+    {
+      "title": "Summary of Counted Noun",
+      "titleArabic": "مُلَخَّصُ الْمَعْدُودِ",
+      "content": [
+        "Quick reference for the counted noun (تَمْيِيز) after numbers: 100, 1000, million, billion → singular genitive (مفرد مجرور). This is because they form إِضَافَة with the counted noun.",
+        "Compare with 11-99 → singular accusative, and 3-10 → plural genitive. The pattern for large numbers is simpler and consistent."
+      ],
+      "keyPoints": [
+        "100+: مُفْرَد مَجْرُور",
+        "إِضَافَة structure",
+        "Simpler than 3-99",
+        "Consistent pattern"
+      ],
+      "examples": [
+        { "arabic": "مِائَةُ دِينَارٍ (مفرد مجرور)", "english": "100 dinars (singular genitive)" },
+        { "arabic": "أَلْفُ سَنَةٍ (مفرد مجرور)", "english": "1000 years (singular genitive)" },
+        { "arabic": "عِشْرُونَ دِينَارًا (مفرد منصوب)", "english": "20 dinars (singular accusative)" },
+        { "arabic": "سَبْعَةُ دَنَانِيرَ (جمع مجرور)", "english": "7 dinars (plural genitive)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l99-ex01",
+      "type": "fill-blank",
+      "prompt": "مِائَةُ _____ (singular genitive of 'book')",
+      "promptEn": "مِائَةُ _____ (100 books)",
+      "answer": "كِتَابٍ",
+      "itemIds": ["word-b3-623"]
+    },
+    {
+      "id": "b3-l99-ex02",
+      "type": "fill-blank",
+      "prompt": "200 in Arabic is: _____",
+      "promptEn": "200 in Arabic is: _____",
+      "answer": "مِائَتَانِ / مِائَتَيْنِ",
+      "itemIds": ["word-b3-624"]
+    },
+    {
+      "id": "b3-l99-ex03",
+      "type": "fill-blank",
+      "prompt": "أَلْفُ رَجُلٍ - الْمَعْدُودُ هُنَا _____ مَجْرُور",
+      "promptEn": "أَلْفُ رَجُلٍ - the counted noun here is _____ genitive",
+      "answer": "مُفْرَدٌ",
+      "itemIds": ["word-b3-625"]
+    },
+    {
+      "id": "b3-l99-ex04",
+      "type": "fill-blank",
+      "prompt": "ثَلَاثَةُ _____ طَالِبٍ (3000 students)",
+      "promptEn": "ثَلَاثَةُ _____ طَالِبٍ (3000 students)",
+      "answer": "آلَافِ",
+      "itemIds": ["word-b3-626"]
+    },
+    {
+      "id": "b3-l99-ex05",
+      "type": "fill-blank",
+      "prompt": "مِلْيُون اسْمٌ _____ (مذكر/مؤنث)",
+      "promptEn": "مِلْيُون is a _____ noun (masculine/feminine)",
+      "answer": "مُذَكَّرٌ",
+      "itemIds": ["word-b3-627"]
+    },
+    {
+      "id": "b3-l99-ex06",
+      "type": "fill-blank",
+      "prompt": "خَمْسُمِائَةِ _____ (500 years)",
+      "promptEn": "خَمْسُمِائَةِ _____ (500 years)",
+      "answer": "سَنَةٍ",
+      "itemIds": ["word-b3-623"]
+    },
+    {
+      "id": "b3-l99-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مِائَةٌ",
+      "answer": "One hundred",
+      "itemIds": ["word-b3-623"]
+    },
+    {
+      "id": "b3-l99-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَلْفٌ",
+      "answer": "One thousand",
+      "itemIds": ["word-b3-625"]
+    },
+    {
+      "id": "b3-l99-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مِلْيُونٌ",
+      "answer": "One million",
+      "itemIds": ["word-b3-627"]
+    },
+    {
+      "id": "b3-l99-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Three hundred",
+      "answer": "ثَلَاثُمِائَةٍ",
+      "itemIds": ["word-b3-624"]
+    },
+    {
+      "id": "b3-l99-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Two thousand",
+      "answer": "أَلْفَانِ / أَلْفَيْنِ",
+      "itemIds": ["word-b3-626"]
+    },
+    {
+      "id": "b3-l99-ex12",
+      "type": "meaning-to-word",
+      "prompt": "One thousand books",
+      "answer": "أَلْفُ كِتَابٍ",
+      "itemIds": ["word-b3-625"]
+    }
+  ]
+}

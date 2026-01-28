@@ -1,0 +1,141 @@
+{
+  "id": "b2-l44",
+  "book": 2,
+  "lesson": 44,
+  "title": "النِّسْبَة (٢)",
+  "titleEn": "Relative Adjectives - Special Cases",
+  "description": "Learn the special cases and irregular formations in النِّسْبَة, including changes with ة، ي، و and special city names.",
+  "vocabulary": ["word-b2-341", "word-b2-342", "word-b2-343", "word-b2-344", "word-b2-345", "word-b2-346"],
+  "grammarPoints": ["gp-b2-055", "gp-b2-056"],
+  "notes": [
+    {
+      "title": "Words Ending in ي",
+      "titleArabic": "الكلمات المنتهية بالياء",
+      "content": [
+        "When a noun ends in ي, special rules apply. For مقصور nouns ending in ى, it often changes.",
+        "الدُّنْيَا becomes دُنْيَوِيّ or دُنْيَائِيّ. Some words have established irregular forms."
+      ],
+      "keyPoints": [
+        "الدُّنْيَا → دُنْيَوِيّ (worldly)",
+        "الْمَعْنَى → مَعْنَوِيّ (semantic/spiritual)",
+        "Words in ـِيّ already: may remain unchanged",
+        "Some forms are simply memorized as irregular"
+      ],
+      "examples": [
+        { "arabic": "هَذَا أَمْرٌ دُنْيَوِيٌّ", "english": "This is a worldly matter" },
+        { "arabic": "الْجَانِبُ الْمَعْنَوِيُّ مُهِمٌّ", "english": "The spiritual aspect is important" },
+        { "arabic": "قَضِيَّةٌ يَمَنِيَّةٌ", "english": "A Yemeni issue" },
+        { "arabic": "الْقِيَمُ الرُّوحَانِيَّةُ", "english": "Spiritual values" }
+      ]
+    },
+    {
+      "title": "Irregular Formations",
+      "titleArabic": "التكوينات الشاذة",
+      "content": [
+        "Some relative adjectives have irregular forms that must be memorized.",
+        "For example: يَدٌ → يَدَوِيّ (manual), قَبِيلَة → قَبَلِيّ (tribal), طَبِيعَة → طَبِيعِيّ (natural)."
+      ],
+      "keyPoints": [
+        "يَدٌ → يَدَوِيّ (manual, by hand)",
+        "قَبِيلَة → قَبَلِيّ (tribal, tribal)",
+        "طَبِيعَة → طَبِيعِيّ (natural)",
+        "رُوح → رُوحَانِيّ (spiritual)"
+      ],
+      "examples": [
+        { "arabic": "هَذَا عَمَلٌ يَدَوِيٌّ", "english": "This is manual work" },
+        { "arabic": "النِّظَامُ الْقَبَلِيُّ قَدِيمٌ", "english": "The tribal system is ancient" },
+        { "arabic": "الْجَمَالُ الطَّبِيعِيُّ", "english": "Natural beauty" },
+        { "arabic": "الْغِذَاءُ الطَّبِيعِيُّ صِحِّيٌّ", "english": "Natural food is healthy" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l44-ex01",
+      "type": "fill-blank",
+      "prompt": "هَذَا أَمْرٌ _____",
+      "promptEn": "This is a _____ matter",
+      "answer": "دُنْيَوِيٌّ",
+      "itemIds": ["word-b2-341"]
+    },
+    {
+      "id": "b2-l44-ex02",
+      "type": "fill-blank",
+      "prompt": "هَذَا عَمَلٌ _____",
+      "promptEn": "This is _____ work",
+      "answer": "يَدَوِيٌّ",
+      "itemIds": ["word-b2-342"]
+    },
+    {
+      "id": "b2-l44-ex03",
+      "type": "fill-blank",
+      "prompt": "النِّظَامُ _____ قَدِيمٌ",
+      "promptEn": "The _____ system is ancient",
+      "answer": "الْقَبَلِيُّ",
+      "itemIds": ["word-b2-343"]
+    },
+    {
+      "id": "b2-l44-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The spiritual aspect is important",
+      "answer": "الْجَانِبُ الرُّوحَانِيُّ مُهِمٌّ",
+      "itemIds": ["word-b2-344"]
+    },
+    {
+      "id": "b2-l44-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "Natural beauty is wonderful",
+      "answer": "الْجَمَالُ الطَّبِيعِيُّ رَائِعٌ",
+      "itemIds": ["word-b2-345", "word-b2-346"]
+    },
+    {
+      "id": "b2-l44-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Manual work is valuable",
+      "answer": "الْعَمَلُ الْيَدَوِيُّ قَيِّمٌ",
+      "itemIds": ["word-b2-342"]
+    },
+    {
+      "id": "b2-l44-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "This is a worldly gain",
+      "answer": "هَذَا كَسْبٌ دُنْيَوِيٌّ",
+      "itemIds": ["word-b2-341"]
+    },
+    {
+      "id": "b2-l44-ex08",
+      "type": "word-to-meaning",
+      "prompt": "دُنْيَوِيٌّ",
+      "answer": "worldly",
+      "itemIds": ["word-b2-341"]
+    },
+    {
+      "id": "b2-l44-ex09",
+      "type": "word-to-meaning",
+      "prompt": "يَدَوِيٌّ",
+      "answer": "manual / handmade",
+      "itemIds": ["word-b2-342"]
+    },
+    {
+      "id": "b2-l44-ex10",
+      "type": "word-to-meaning",
+      "prompt": "طَبِيعِيٌّ",
+      "answer": "natural",
+      "itemIds": ["word-b2-345"]
+    },
+    {
+      "id": "b2-l44-ex11",
+      "type": "meaning-to-word",
+      "prompt": "tribal",
+      "answer": "قَبَلِيٌّ",
+      "itemIds": ["word-b2-343"]
+    },
+    {
+      "id": "b2-l44-ex12",
+      "type": "meaning-to-word",
+      "prompt": "spiritual",
+      "answer": "رُوحَانِيٌّ",
+      "itemIds": ["word-b2-344"]
+    }
+  ]
+}

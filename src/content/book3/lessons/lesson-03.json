@@ -1,0 +1,134 @@
+{
+  "id": "b3-l03",
+  "book": 3,
+  "lesson": 3,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب فَاعَلَ",
+  "titleEn": "Derived Form III (فَاعَلَ)",
+  "description": "Learn Form III verbs with alif after first letter: سَافَرَ (to travel), كَاتَبَ (to correspond), قَاتَلَ (to fight).",
+  "vocabulary": ["word-b3-011", "word-b3-012", "word-b3-013", "word-b3-014", "word-b3-015"],
+  "grammarPoints": ["gp-b3-003"],
+  "notes": [
+    {
+      "title": "Passive Voice (الفعل المبني للمجهول)",
+      "titleArabic": "الفعل المبني للمجهول",
+      "content": [
+        "The passive voice in Arabic is formed by omitting the subject (fā'il), and the object becomes the new subject (nā'ib al-fā'il). The verb form changes with specific vowel patterns."
+      ],
+      "keyPoints": [
+        "Māḍī passive: first radical has ḍammah, second has kasrah",
+        "Muḍāri' passive: similar vowel pattern changes",
+        "Object becomes nā'ib al-fā'il (deputy subject)",
+        "Feminine nā'ib al-fā'il requires feminine verb form"
+      ],
+      "examples": [
+        { "arabic": "قَتَلَ → قُتِلَ", "english": "killed → was killed" },
+        { "arabic": "يَقْتُلُ → يُقْتَلُ", "english": "kills → is killed" }
+      ]
+    },
+    {
+      "title": "Form III Verbs (فَاعَلَ)",
+      "titleArabic": "باب فَاعَلَ",
+      "content": [
+        "Form III verbs are formed by inserting an alif after the first radical. This pattern often indicates reciprocal actions or doing something with/to someone, as well as trying or attempting an action."
+      ],
+      "keyPoints": [
+        "Pattern: فَاعَلَ (fā'ala) with alif after first letter",
+        "Two maṣdar patterns: مُفَاعَلَة and فِعَال",
+        "Often reciprocal: كَتَبَ (to write) → كَاتَبَ (to correspond with)",
+        "Can indicate pretended action: مَرِضَ (to be sick) → مَارَضَ (to feign sickness)"
+      ],
+      "examples": [
+        { "arabic": "سَافَرَ", "english": "to travel" },
+        { "arabic": "كَاتَبَ", "english": "to correspond with" },
+        { "arabic": "قَاتَلَ", "english": "to fight (with someone)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l03-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He traveled to Egypt",
+      "answer": "سَافَرَ إِلَى مِصْرَ",
+      "itemIds": ["word-b3-011", "word-b3-016"]
+    },
+    {
+      "id": "b3-l03-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She corresponded with her friend",
+      "answer": "كَاتَبَتْ صَدِيقَتَهَا",
+      "itemIds": ["word-b3-012"]
+    },
+    {
+      "id": "b3-l03-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْجُنُودُ الْعَدُوَّ",
+      "promptEn": "The soldiers fought the enemy",
+      "answer": "قَاتَلَ",
+      "itemIds": ["word-b3-013"]
+    },
+    {
+      "id": "b3-l03-ex04",
+      "type": "word-to-meaning",
+      "prompt": "سَافَرَ",
+      "answer": "to travel",
+      "itemIds": ["word-b3-011"]
+    },
+    {
+      "id": "b3-l03-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كَاتَبَ",
+      "answer": "to correspond with",
+      "itemIds": ["word-b3-012"]
+    },
+    {
+      "id": "b3-l03-ex06",
+      "type": "word-to-meaning",
+      "prompt": "قَاتَلَ",
+      "answer": "to fight",
+      "itemIds": ["word-b3-013"]
+    },
+    {
+      "id": "b3-l03-ex07",
+      "type": "word-to-meaning",
+      "prompt": "شَاهَدَ",
+      "answer": "to watch / witness",
+      "itemIds": ["word-b3-014"]
+    },
+    {
+      "id": "b3-l03-ex08",
+      "type": "word-to-meaning",
+      "prompt": "حَاوَلَ",
+      "answer": "to try / attempt",
+      "itemIds": ["word-b3-015"]
+    },
+    {
+      "id": "b3-l03-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to travel (Form III)",
+      "answer": "سَافَرَ",
+      "itemIds": ["word-b3-011"]
+    },
+    {
+      "id": "b3-l03-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to try (Form III)",
+      "answer": "حَاوَلَ",
+      "itemIds": ["word-b3-015"]
+    },
+    {
+      "id": "b3-l03-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "He traveled to Egypt to study Arabic",
+      "answer": "سَافَرَ إِلَى مِصْرَ لِيَدْرُسَ الْعَرَبِيَّةَ",
+      "itemIds": ["word-b3-011", "word-048", "word-b3-016", "word-019"]
+    },
+    {
+      "id": "b3-l03-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "She tried to understand the lesson but she did not succeed",
+      "answer": "حَاوَلَتْ أَنْ تَفْهَمَ الدَّرْسَ لَكِنَّهَا لَمْ تَنْجَحْ",
+      "itemIds": ["word-b3-015", "word-b2-067", "word-b2-065", "word-b2-078"]
+    }
+  ]
+}

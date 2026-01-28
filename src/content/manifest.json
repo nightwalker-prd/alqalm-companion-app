@@ -1,0 +1,5101 @@
+{
+  "version": 1,
+  "generatedAt": "2026-01-25T12:02:30.976Z",
+  "books": {
+    "1": {
+      "lessonCount": 35,
+      "wordCount": 292,
+      "grammarCount": 58,
+      "exerciseCount": 456,
+      "lessonIds": [
+        "b1-l01",
+        "b1-l02",
+        "b1-l03",
+        "b1-l04",
+        "b1-l05",
+        "b1-l06",
+        "b1-l07",
+        "b1-l08",
+        "b1-l09",
+        "b1-l10",
+        "b1-l11",
+        "b1-l12",
+        "b1-l13",
+        "b1-l14",
+        "b1-l15",
+        "b1-l16",
+        "b1-l17",
+        "b1-l18",
+        "b1-l19",
+        "b1-l20",
+        "b1-l21",
+        "b1-l22",
+        "b1-l23",
+        "b1-l24",
+        "b1-l25",
+        "b1-l26",
+        "b1-l27",
+        "b1-l28",
+        "b1-l29",
+        "b1-l30",
+        "b1-l31",
+        "b1-l32",
+        "b1-l33",
+        "b1-l34",
+        "b1-l35"
+      ],
+      "wordIds": [
+        "word-001",
+        "word-002",
+        "word-003",
+        "word-004",
+        "word-005",
+        "word-006",
+        "word-007",
+        "word-008",
+        "word-009",
+        "word-010",
+        "word-011",
+        "word-012",
+        "word-013",
+        "word-014",
+        "word-015",
+        "word-016",
+        "word-017",
+        "word-018",
+        "word-019",
+        "word-020",
+        "word-021",
+        "word-022",
+        "word-023",
+        "word-024",
+        "word-025",
+        "word-026",
+        "word-027",
+        "word-028",
+        "word-029",
+        "word-030",
+        "word-031",
+        "word-032",
+        "word-033",
+        "word-034",
+        "word-035",
+        "word-036",
+        "word-037",
+        "word-038",
+        "word-039",
+        "word-040",
+        "word-041",
+        "word-042",
+        "word-043",
+        "word-044",
+        "word-045",
+        "word-046",
+        "word-047",
+        "word-048",
+        "word-049",
+        "word-050",
+        "word-051",
+        "word-052",
+        "word-053",
+        "word-054",
+        "word-055",
+        "word-056",
+        "word-057",
+        "word-058",
+        "word-059",
+        "word-060",
+        "word-061",
+        "word-062",
+        "word-063",
+        "word-064",
+        "word-065",
+        "word-066",
+        "word-067",
+        "word-068",
+        "word-069",
+        "word-070",
+        "word-071",
+        "word-072",
+        "word-073",
+        "word-074",
+        "word-075",
+        "word-076",
+        "word-077",
+        "word-078",
+        "word-079",
+        "word-080",
+        "word-081",
+        "word-082",
+        "word-083",
+        "word-084",
+        "word-085",
+        "word-086",
+        "word-087",
+        "word-088",
+        "word-089",
+        "word-090",
+        "word-091",
+        "word-092",
+        "word-093",
+        "word-094",
+        "word-095",
+        "word-096",
+        "word-097",
+        "word-098",
+        "word-099",
+        "word-100",
+        "word-101",
+        "word-102",
+        "word-103",
+        "word-104",
+        "word-105",
+        "word-106",
+        "word-107",
+        "word-108",
+        "word-109",
+        "word-110",
+        "word-111",
+        "word-112",
+        "word-113",
+        "word-114",
+        "word-115",
+        "word-116",
+        "word-117",
+        "word-118",
+        "word-119",
+        "word-120",
+        "word-121",
+        "word-122",
+        "word-123",
+        "word-124",
+        "word-125",
+        "word-126",
+        "word-127",
+        "word-128",
+        "word-129",
+        "word-130",
+        "word-131",
+        "word-132",
+        "word-133",
+        "word-134",
+        "word-135",
+        "word-136",
+        "word-137",
+        "word-138",
+        "word-139",
+        "word-140",
+        "word-141",
+        "word-142",
+        "word-143",
+        "word-144",
+        "word-145",
+        "word-146",
+        "word-147",
+        "word-148",
+        "word-149",
+        "word-150",
+        "word-151",
+        "word-152",
+        "word-153",
+        "word-154",
+        "word-155",
+        "word-156",
+        "word-157",
+        "word-158",
+        "word-159",
+        "word-160",
+        "word-161",
+        "word-162",
+        "word-163",
+        "word-164",
+        "word-165",
+        "word-166",
+        "word-167",
+        "word-168",
+        "word-169",
+        "word-170",
+        "word-171",
+        "word-172",
+        "word-173",
+        "word-174",
+        "word-175",
+        "word-176",
+        "word-177",
+        "word-178",
+        "word-179",
+        "word-180",
+        "word-181",
+        "word-182",
+        "word-183",
+        "word-184",
+        "word-185",
+        "word-186",
+        "word-187",
+        "word-188",
+        "word-189",
+        "word-190",
+        "word-191",
+        "word-192",
+        "word-193",
+        "word-194",
+        "word-195",
+        "word-196",
+        "word-197",
+        "word-198",
+        "word-199",
+        "word-200",
+        "word-201",
+        "word-202",
+        "word-203",
+        "word-204",
+        "word-205",
+        "word-206",
+        "word-207",
+        "word-208",
+        "word-209",
+        "word-210",
+        "word-211",
+        "word-212",
+        "word-213",
+        "word-214",
+        "word-215",
+        "word-216",
+        "word-217",
+        "word-218",
+        "word-219",
+        "word-220",
+        "word-221",
+        "word-222",
+        "word-223",
+        "word-224",
+        "word-225",
+        "word-226",
+        "word-227",
+        "word-228",
+        "word-229",
+        "word-230",
+        "word-231",
+        "word-232",
+        "word-233",
+        "word-234",
+        "word-235",
+        "word-236",
+        "word-237",
+        "word-238",
+        "word-239",
+        "word-240",
+        "word-241",
+        "word-242",
+        "word-243",
+        "word-244",
+        "word-245",
+        "word-246",
+        "word-247",
+        "word-248",
+        "word-249",
+        "word-250",
+        "word-251",
+        "word-252",
+        "word-253",
+        "word-254",
+        "word-255",
+        "word-256",
+        "word-257",
+        "word-258",
+        "word-259",
+        "word-260",
+        "word-261",
+        "word-262",
+        "word-263",
+        "word-264",
+        "word-265",
+        "word-266",
+        "word-267",
+        "word-268",
+        "word-269",
+        "word-270",
+        "word-271",
+        "word-272",
+        "word-273",
+        "word-274",
+        "word-275",
+        "word-276",
+        "word-277",
+        "word-278",
+        "word-279",
+        "word-280",
+        "word-281",
+        "word-282",
+        "word-283",
+        "word-284",
+        "word-285",
+        "word-286",
+        "word-287",
+        "word-288",
+        "word-289",
+        "word-290",
+        "word-291",
+        "word-292"
+      ],
+      "lessons": [
+        {
+          "id": "b1-l01",
+          "lesson": 1,
+          "title": "هَذَا",
+          "titleEn": "This (Masculine)",
+          "exerciseCount": 18,
+          "vocabularyIds": [
+            "word-001",
+            "word-002",
+            "word-003",
+            "word-004",
+            "word-005",
+            "word-006",
+            "word-007",
+            "word-008",
+            "word-009"
+          ],
+          "grammarPointIds": [
+            "gp-001",
+            "gp-002"
+          ]
+        },
+        {
+          "id": "b1-l02",
+          "lesson": 2,
+          "title": "ذَلِكَ",
+          "titleEn": "That (Masculine)",
+          "exerciseCount": 16,
+          "vocabularyIds": [
+            "word-010",
+            "word-011",
+            "word-012",
+            "word-013",
+            "word-014"
+          ],
+          "grammarPointIds": [
+            "gp-003"
+          ]
+        },
+        {
+          "id": "b1-l03",
+          "lesson": 3,
+          "title": "مَا هَذَا؟ / مَنْ هَذَا؟",
+          "titleEn": "What is this? / Who is this?",
+          "exerciseCount": 20,
+          "vocabularyIds": [
+            "word-015",
+            "word-016",
+            "word-017",
+            "word-018",
+            "word-019",
+            "word-020"
+          ],
+          "grammarPointIds": [
+            "gp-004",
+            "gp-005"
+          ]
+        },
+        {
+          "id": "b1-l04",
+          "lesson": 4,
+          "title": "هُوَ",
+          "titleEn": "He (Pronoun)",
+          "exerciseCount": 14,
+          "vocabularyIds": [
+            "word-021",
+            "word-022",
+            "word-023",
+            "word-024",
+            "word-025",
+            "word-026"
+          ],
+          "grammarPointIds": [
+            "gp-006"
+          ]
+        },
+        {
+          "id": "b1-l05",
+          "lesson": 5,
+          "title": "هَذِهِ / هِيَ",
+          "titleEn": "This (fem.) / She",
+          "exerciseCount": 15,
+          "vocabularyIds": [
+            "word-027",
+            "word-028",
+            "word-029",
+            "word-030",
+            "word-031",
+            "word-032",
+            "word-033"
+          ],
+          "grammarPointIds": [
+            "gp-007",
+            "gp-008"
+          ]
+        },
+        {
+          "id": "b1-l06",
+          "lesson": 6,
+          "title": "تِلْكَ",
+          "titleEn": "That (fem.)",
+          "exerciseCount": 15,
+          "vocabularyIds": [
+            "word-034",
+            "word-035",
+            "word-036",
+            "word-037",
+            "word-038",
+            "word-039"
+          ],
+          "grammarPointIds": [
+            "gp-009",
+            "gp-010"
+          ]
+        },
+        {
+          "id": "b1-l07",
+          "lesson": 7,
+          "title": "الإِضَافَة",
+          "titleEn": "Possessive Construction",
+          "exerciseCount": 13,
+          "vocabularyIds": [
+            "word-040",
+            "word-041",
+            "word-042",
+            "word-043",
+            "word-044",
+            "word-045"
+          ],
+          "grammarPointIds": [
+            "gp-011",
+            "gp-012"
+          ]
+        },
+        {
+          "id": "b1-l08",
+          "lesson": 8,
+          "title": "حُرُوفُ الْجَرِّ",
+          "titleEn": "Prepositions",
+          "exerciseCount": 13,
+          "vocabularyIds": [
+            "word-046",
+            "word-047",
+            "word-048",
+            "word-049",
+            "word-050",
+            "word-051"
+          ],
+          "grammarPointIds": [
+            "gp-013"
+          ]
+        },
+        {
+          "id": "b1-l09",
+          "lesson": 9,
+          "title": "الصِّفَة",
+          "titleEn": "Adjectives",
+          "exerciseCount": 13,
+          "vocabularyIds": [
+            "word-052",
+            "word-053",
+            "word-054",
+            "word-055",
+            "word-056",
+            "word-057"
+          ],
+          "grammarPointIds": [
+            "gp-014"
+          ]
+        },
+        {
+          "id": "b1-l10",
+          "lesson": 10,
+          "title": "الْأَعْدَاد",
+          "titleEn": "Numbers 1-10",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-058",
+            "word-059",
+            "word-060",
+            "word-061",
+            "word-062",
+            "word-063",
+            "word-064",
+            "word-065",
+            "word-066",
+            "word-067"
+          ],
+          "grammarPointIds": [
+            "gp-015"
+          ]
+        },
+        {
+          "id": "b1-l11",
+          "lesson": 11,
+          "title": "الْفِعْلُ الْمَاضِي",
+          "titleEn": "Past Tense Verbs",
+          "exerciseCount": 13,
+          "vocabularyIds": [
+            "word-068",
+            "word-069",
+            "word-070",
+            "word-071",
+            "word-072",
+            "word-073"
+          ],
+          "grammarPointIds": [
+            "gp-016"
+          ]
+        },
+        {
+          "id": "b1-l12",
+          "lesson": 12,
+          "title": "الْفِعْلُ مَعَ الضَّمَائِر",
+          "titleEn": "Verbs with Pronouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-074",
+            "word-075",
+            "word-076",
+            "word-077"
+          ],
+          "grammarPointIds": [
+            "gp-017"
+          ]
+        },
+        {
+          "id": "b1-l13",
+          "lesson": 13,
+          "title": "الْمُؤَنَّث",
+          "titleEn": "Feminine Forms",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-078",
+            "word-079",
+            "word-080",
+            "word-081",
+            "word-082",
+            "word-083"
+          ],
+          "grammarPointIds": [
+            "gp-018"
+          ]
+        },
+        {
+          "id": "b1-l14",
+          "lesson": 14,
+          "title": "الْمُثَنَّى",
+          "titleEn": "The Dual Form",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-084",
+            "word-085",
+            "word-086",
+            "word-087",
+            "word-088",
+            "word-089"
+          ],
+          "grammarPointIds": [
+            "gp-019"
+          ]
+        },
+        {
+          "id": "b1-l15",
+          "lesson": 15,
+          "title": "الْجَمْع",
+          "titleEn": "Plurals",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-090",
+            "word-091",
+            "word-092",
+            "word-093",
+            "word-094",
+            "word-095"
+          ],
+          "grammarPointIds": [
+            "gp-020"
+          ]
+        },
+        {
+          "id": "b1-l16",
+          "lesson": 16,
+          "title": "جَمْعُ التَّكْسِير",
+          "titleEn": "Broken Plurals",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-096",
+            "word-097",
+            "word-098",
+            "word-099",
+            "word-100",
+            "word-101"
+          ],
+          "grammarPointIds": [
+            "gp-021"
+          ]
+        },
+        {
+          "id": "b1-l17",
+          "lesson": 17,
+          "title": "الْفِعْلُ الْمُضَارِع",
+          "titleEn": "Present Tense Verbs",
+          "exerciseCount": 13,
+          "vocabularyIds": [
+            "word-102",
+            "word-103",
+            "word-104",
+            "word-105",
+            "word-106",
+            "word-107"
+          ],
+          "grammarPointIds": [
+            "gp-022"
+          ]
+        },
+        {
+          "id": "b1-l18",
+          "lesson": 18,
+          "title": "الْمُضَارِع مَعَ الضَّمَائِر",
+          "titleEn": "Present Tense with Pronouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-108",
+            "word-109",
+            "word-110",
+            "word-111"
+          ],
+          "grammarPointIds": [
+            "gp-023"
+          ]
+        },
+        {
+          "id": "b1-l19",
+          "lesson": 19,
+          "title": "أَدَوَاتُ النَّفْي",
+          "titleEn": "Negation Particles",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-112",
+            "word-113",
+            "word-114",
+            "word-115"
+          ],
+          "grammarPointIds": [
+            "gp-024"
+          ]
+        },
+        {
+          "id": "b1-l20",
+          "lesson": 20,
+          "title": "الْجُمْلَة الْفِعْلِيَّة",
+          "titleEn": "Verbal Sentences",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-116",
+            "word-117",
+            "word-118",
+            "word-119"
+          ],
+          "grammarPointIds": [
+            "gp-025"
+          ]
+        },
+        {
+          "id": "b1-l21",
+          "lesson": 21,
+          "title": "الْجُمْلَة الاسْمِيَّة",
+          "titleEn": "Nominal Sentences",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-120",
+            "word-121",
+            "word-122",
+            "word-123"
+          ],
+          "grammarPointIds": [
+            "gp-026"
+          ]
+        },
+        {
+          "id": "b1-l22",
+          "lesson": 22,
+          "title": "إِنَّ وَأَخَوَاتُهَا",
+          "titleEn": "Inna and Its Sisters",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-124",
+            "word-125",
+            "word-126",
+            "word-127"
+          ],
+          "grammarPointIds": [
+            "gp-027"
+          ]
+        },
+        {
+          "id": "b1-l23",
+          "lesson": 23,
+          "title": "كَانَ وَأَخَوَاتُهَا",
+          "titleEn": "Kana and Its Sisters",
+          "exerciseCount": 13,
+          "vocabularyIds": [
+            "word-128",
+            "word-129",
+            "word-130",
+            "word-131"
+          ],
+          "grammarPointIds": [
+            "gp-028"
+          ]
+        },
+        {
+          "id": "b1-l24",
+          "lesson": 24,
+          "title": "الْمُنَادَى",
+          "titleEn": "The Vocative (Calling)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-221",
+            "word-222",
+            "word-223",
+            "word-224",
+            "word-225",
+            "word-226"
+          ],
+          "grammarPointIds": [
+            "gp-029",
+            "gp-030"
+          ]
+        },
+        {
+          "id": "b1-l25",
+          "lesson": 25,
+          "title": "أَدَوَاتُ الاِسْتِفْهَام",
+          "titleEn": "Interrogative Particles",
+          "exerciseCount": 16,
+          "vocabularyIds": [
+            "word-184",
+            "word-186",
+            "word-185",
+            "word-187",
+            "word-188",
+            "word-227"
+          ],
+          "grammarPointIds": [
+            "gp-031",
+            "gp-032"
+          ]
+        },
+        {
+          "id": "b1-l26",
+          "lesson": 26,
+          "title": "الأَفْعَالُ الْمُتَعَدِّيَة",
+          "titleEn": "Transitive Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-233",
+            "word-234",
+            "word-235",
+            "word-236",
+            "word-237",
+            "word-238"
+          ],
+          "grammarPointIds": [
+            "gp-039",
+            "gp-040"
+          ]
+        },
+        {
+          "id": "b1-l27",
+          "lesson": 27,
+          "title": "الأَفْعَالُ اللَّازِمَة",
+          "titleEn": "Intransitive Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-239",
+            "word-240",
+            "word-241",
+            "word-242",
+            "word-243",
+            "word-244"
+          ],
+          "grammarPointIds": [
+            "gp-041",
+            "gp-042"
+          ]
+        },
+        {
+          "id": "b1-l28",
+          "lesson": 28,
+          "title": "الْمَفْعُولُ بِهِ",
+          "titleEn": "Direct Object",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-245",
+            "word-246",
+            "word-247",
+            "word-248",
+            "word-249",
+            "word-250"
+          ],
+          "grammarPointIds": [
+            "gp-043",
+            "gp-044"
+          ]
+        },
+        {
+          "id": "b1-l29",
+          "lesson": 29,
+          "title": "الْجَارُّ وَالْمَجْرُور",
+          "titleEn": "Preposition & Object",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-251",
+            "word-252",
+            "word-253",
+            "word-254",
+            "word-255",
+            "word-256"
+          ],
+          "grammarPointIds": [
+            "gp-045",
+            "gp-046"
+          ]
+        },
+        {
+          "id": "b1-l30",
+          "lesson": 30,
+          "title": "مُرَاجَعَة الْكِتَاب الأَوَّل",
+          "titleEn": "Book 1 Review",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-257",
+            "word-258",
+            "word-259",
+            "word-260",
+            "word-261",
+            "word-262"
+          ],
+          "grammarPointIds": [
+            "gp-047",
+            "gp-048"
+          ]
+        },
+        {
+          "id": "b1-l31",
+          "lesson": 31,
+          "title": "الأَسْمَاء السِّتَّة (١)",
+          "titleEn": "The Six Nouns - Introduction",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-263",
+            "word-264",
+            "word-265",
+            "word-266",
+            "word-267",
+            "word-268"
+          ],
+          "grammarPointIds": [
+            "gp-049",
+            "gp-050"
+          ]
+        },
+        {
+          "id": "b1-l32",
+          "lesson": 32,
+          "title": "الأَسْمَاء السِّتَّة (٢)",
+          "titleEn": "The Six Nouns - Case Endings",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-269",
+            "word-270",
+            "word-271",
+            "word-272",
+            "word-273",
+            "word-274"
+          ],
+          "grammarPointIds": [
+            "gp-051",
+            "gp-052"
+          ]
+        },
+        {
+          "id": "b1-l33",
+          "lesson": 33,
+          "title": "الْمَقْصُور",
+          "titleEn": "Shortened Nouns (ending in alif)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-275",
+            "word-276",
+            "word-277",
+            "word-278",
+            "word-279",
+            "word-280"
+          ],
+          "grammarPointIds": [
+            "gp-053",
+            "gp-054"
+          ]
+        },
+        {
+          "id": "b1-l34",
+          "lesson": 34,
+          "title": "الْمَنْقُوص",
+          "titleEn": "Deficient Nouns (ending in ya)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-281",
+            "word-282",
+            "word-283",
+            "word-284",
+            "word-285",
+            "word-286"
+          ],
+          "grammarPointIds": [
+            "gp-055",
+            "gp-056"
+          ]
+        },
+        {
+          "id": "b1-l35",
+          "lesson": 35,
+          "title": "الْمَمْدُود",
+          "titleEn": "Extended Nouns (ending in hamza)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-287",
+            "word-288",
+            "word-289",
+            "word-290",
+            "word-291",
+            "word-292"
+          ],
+          "grammarPointIds": [
+            "gp-057",
+            "gp-058"
+          ]
+        }
+      ]
+    },
+    "2": {
+      "lessonCount": 56,
+      "wordCount": 418,
+      "grammarCount": 80,
+      "exerciseCount": 672,
+      "lessonIds": [
+        "b2-l01",
+        "b2-l02",
+        "b2-l03",
+        "b2-l04",
+        "b2-l05",
+        "b2-l06",
+        "b2-l07",
+        "b2-l08",
+        "b2-l09",
+        "b2-l10",
+        "b2-l11",
+        "b2-l12",
+        "b2-l13",
+        "b2-l14",
+        "b2-l15",
+        "b2-l16",
+        "b2-l17",
+        "b2-l18",
+        "b2-l19",
+        "b2-l20",
+        "b2-l21",
+        "b2-l22",
+        "b2-l23",
+        "b2-l24",
+        "b2-l25",
+        "b2-l26",
+        "b2-l27",
+        "b2-l28",
+        "b2-l29",
+        "b2-l30",
+        "b2-l31",
+        "b2-l32",
+        "b2-l33",
+        "b2-l34",
+        "b2-l35",
+        "b2-l36",
+        "b2-l37",
+        "b2-l38",
+        "b2-l39",
+        "b2-l40",
+        "b2-l41",
+        "b2-l42",
+        "b2-l43",
+        "b2-l44",
+        "b2-l45",
+        "b2-l46",
+        "b2-l47",
+        "b2-l48",
+        "b2-l49",
+        "b2-l50",
+        "b2-l51",
+        "b2-l52",
+        "b2-l53",
+        "b2-l54",
+        "b2-l55",
+        "b2-l56"
+      ],
+      "wordIds": [
+        "word-b2-001",
+        "word-b2-002",
+        "word-b2-003",
+        "word-b2-004",
+        "word-b2-005",
+        "word-b2-006",
+        "word-b2-007",
+        "word-b2-008",
+        "word-b2-009",
+        "word-b2-010",
+        "word-b2-011",
+        "word-b2-012",
+        "word-b2-013",
+        "word-b2-014",
+        "word-b2-015",
+        "word-b2-016",
+        "word-b2-017",
+        "word-b2-018",
+        "word-b2-019",
+        "word-b2-020",
+        "word-b2-021",
+        "word-b2-022",
+        "word-b2-023",
+        "word-b2-024",
+        "word-b2-025",
+        "word-b2-026",
+        "word-b2-027",
+        "word-b2-028",
+        "word-b2-029",
+        "word-b2-030",
+        "word-b2-031",
+        "word-b2-032",
+        "word-b2-033",
+        "word-b2-034",
+        "word-b2-035",
+        "word-b2-036",
+        "word-b2-037",
+        "word-b2-038",
+        "word-b2-039",
+        "word-b2-040",
+        "word-b2-041",
+        "word-b2-042",
+        "word-b2-043",
+        "word-b2-044",
+        "word-b2-045",
+        "word-b2-046",
+        "word-b2-047",
+        "word-b2-048",
+        "word-b2-049",
+        "word-b2-050",
+        "word-b2-051",
+        "word-b2-052",
+        "word-b2-053",
+        "word-b2-054",
+        "word-b2-055",
+        "word-b2-056",
+        "word-b2-057",
+        "word-b2-058",
+        "word-b2-059",
+        "word-b2-060",
+        "word-b2-061",
+        "word-b2-062",
+        "word-b2-063",
+        "word-b2-064",
+        "word-b2-065",
+        "word-b2-066",
+        "word-b2-067",
+        "word-b2-068",
+        "word-b2-069",
+        "word-b2-070",
+        "word-b2-071",
+        "word-b2-072",
+        "word-b2-073",
+        "word-b2-074",
+        "word-b2-075",
+        "word-b2-076",
+        "word-b2-077",
+        "word-b2-078",
+        "word-b2-079",
+        "word-b2-080",
+        "word-b2-081",
+        "word-b2-082",
+        "word-b2-083",
+        "word-b2-084",
+        "word-b2-085",
+        "word-b2-086",
+        "word-b2-087",
+        "word-b2-088",
+        "word-b2-089",
+        "word-b2-090",
+        "word-b2-091",
+        "word-b2-092",
+        "word-b2-093",
+        "word-b2-094",
+        "word-b2-095",
+        "word-b2-096",
+        "word-b2-097",
+        "word-b2-098",
+        "word-b2-099",
+        "word-b2-100",
+        "word-b2-101",
+        "word-b2-102",
+        "word-b2-103",
+        "word-b2-104",
+        "word-b2-105",
+        "word-b2-106",
+        "word-b2-107",
+        "word-b2-108",
+        "word-b2-109",
+        "word-b2-110",
+        "word-b2-111",
+        "word-b2-112",
+        "word-b2-113",
+        "word-b2-114",
+        "word-b2-115",
+        "word-b2-116",
+        "word-b2-117",
+        "word-b2-118",
+        "word-b2-119",
+        "word-b2-120",
+        "word-b2-121",
+        "word-b2-122",
+        "word-b2-123",
+        "word-b2-124",
+        "word-b2-125",
+        "word-b2-126",
+        "word-b2-127",
+        "word-b2-128",
+        "word-b2-129",
+        "word-b2-130",
+        "word-b2-131",
+        "word-b2-132",
+        "word-b2-133",
+        "word-b2-134",
+        "word-b2-135",
+        "word-b2-136",
+        "word-b2-137",
+        "word-b2-138",
+        "word-b2-139",
+        "word-b2-140",
+        "word-b2-141",
+        "word-b2-142",
+        "word-b2-143",
+        "word-b2-144",
+        "word-b2-145",
+        "word-b2-146",
+        "word-b2-147",
+        "word-b2-148",
+        "word-b2-149",
+        "word-b2-150",
+        "word-b2-151",
+        "word-b2-152",
+        "word-b2-153",
+        "word-b2-154",
+        "word-b2-155",
+        "word-b2-156",
+        "word-b2-157",
+        "word-b2-158",
+        "word-b2-159",
+        "word-b2-160",
+        "word-b2-161",
+        "word-b2-162",
+        "word-b2-163",
+        "word-b2-164",
+        "word-b2-165",
+        "word-b2-166",
+        "word-b2-167",
+        "word-b2-168",
+        "word-b2-169",
+        "word-b2-170",
+        "word-b2-171",
+        "word-b2-172",
+        "word-b2-173",
+        "word-b2-174",
+        "word-b2-175",
+        "word-b2-176",
+        "word-b2-177",
+        "word-b2-178",
+        "word-b2-179",
+        "word-b2-180",
+        "word-b2-181",
+        "word-b2-182",
+        "word-b2-183",
+        "word-b2-184",
+        "word-b2-185",
+        "word-b2-186",
+        "word-b2-187",
+        "word-b2-188",
+        "word-b2-189",
+        "word-b2-190",
+        "word-b2-191",
+        "word-b2-192",
+        "word-b2-193",
+        "word-b2-194",
+        "word-b2-195",
+        "word-b2-196",
+        "word-b2-197",
+        "word-b2-198",
+        "word-b2-199",
+        "word-b2-200",
+        "word-b2-201",
+        "word-b2-202",
+        "word-b2-203",
+        "word-b2-204",
+        "word-b2-205",
+        "word-b2-206",
+        "word-b2-207",
+        "word-b2-208",
+        "word-b2-209",
+        "word-b2-210",
+        "word-b2-211",
+        "word-b2-212",
+        "word-b2-213",
+        "word-b2-214",
+        "word-b2-215",
+        "word-b2-216",
+        "word-b2-217",
+        "word-b2-218",
+        "word-b2-219",
+        "word-b2-220",
+        "word-b2-221",
+        "word-b2-222",
+        "word-b2-223",
+        "word-b2-224",
+        "word-b2-225",
+        "word-b2-226",
+        "word-b2-227",
+        "word-b2-228",
+        "word-b2-229",
+        "word-b2-230",
+        "word-b2-231",
+        "word-b2-232",
+        "word-b2-233",
+        "word-b2-234",
+        "word-b2-235",
+        "word-b2-236",
+        "word-b2-237",
+        "word-b2-238",
+        "word-b2-239",
+        "word-b2-240",
+        "word-b2-241",
+        "word-b2-242",
+        "word-b2-243",
+        "word-b2-244",
+        "word-b2-245",
+        "word-b2-246",
+        "word-b2-247",
+        "word-b2-248",
+        "word-b2-249",
+        "word-b2-250",
+        "word-b2-251",
+        "word-b2-252",
+        "word-b2-253",
+        "word-b2-254",
+        "word-b2-255",
+        "word-b2-256",
+        "word-b2-257",
+        "word-b2-258",
+        "word-b2-259",
+        "word-b2-260",
+        "word-b2-261",
+        "word-b2-262",
+        "word-b2-263",
+        "word-b2-264",
+        "word-b2-265",
+        "word-b2-266",
+        "word-b2-267",
+        "word-b2-268",
+        "word-b2-269",
+        "word-b2-270",
+        "word-b2-271",
+        "word-b2-272",
+        "word-b2-273",
+        "word-b2-274",
+        "word-b2-275",
+        "word-b2-276",
+        "word-b2-277",
+        "word-b2-278",
+        "word-b2-279",
+        "word-b2-280",
+        "word-b2-281",
+        "word-b2-282",
+        "word-b2-283",
+        "word-b2-284",
+        "word-b2-285",
+        "word-b2-286",
+        "word-b2-287",
+        "word-b2-288",
+        "word-b2-289",
+        "word-b2-290",
+        "word-b2-291",
+        "word-b2-292",
+        "word-b2-293",
+        "word-b2-294",
+        "word-b2-295",
+        "word-b2-296",
+        "word-b2-297",
+        "word-b2-298",
+        "word-b2-299",
+        "word-b2-300",
+        "word-b2-301",
+        "word-b2-302",
+        "word-b2-303",
+        "word-b2-304",
+        "word-b2-305",
+        "word-b2-306",
+        "word-b2-307",
+        "word-b2-308",
+        "word-b2-309",
+        "word-b2-310",
+        "word-b2-311",
+        "word-b2-312",
+        "word-b2-313",
+        "word-b2-314",
+        "word-b2-315",
+        "word-b2-316",
+        "word-b2-317",
+        "word-b2-318",
+        "word-b2-319",
+        "word-b2-320",
+        "word-b2-321",
+        "word-b2-322",
+        "word-b2-323",
+        "word-b2-324",
+        "word-b2-325",
+        "word-b2-326",
+        "word-b2-327",
+        "word-b2-328",
+        "word-b2-329",
+        "word-b2-330",
+        "word-b2-331",
+        "word-b2-332",
+        "word-b2-333",
+        "word-b2-334",
+        "word-b2-335",
+        "word-b2-336",
+        "word-b2-337",
+        "word-b2-338",
+        "word-b2-339",
+        "word-b2-340",
+        "word-b2-341",
+        "word-b2-342",
+        "word-b2-343",
+        "word-b2-344",
+        "word-b2-345",
+        "word-b2-346",
+        "word-b2-347",
+        "word-b2-348",
+        "word-b2-349",
+        "word-b2-350",
+        "word-b2-351",
+        "word-b2-352",
+        "word-b2-353",
+        "word-b2-354",
+        "word-b2-355",
+        "word-b2-356",
+        "word-b2-357",
+        "word-b2-358",
+        "word-b2-359",
+        "word-b2-360",
+        "word-b2-361",
+        "word-b2-362",
+        "word-b2-363",
+        "word-b2-364",
+        "word-b2-365",
+        "word-b2-366",
+        "word-b2-367",
+        "word-b2-368",
+        "word-b2-369",
+        "word-b2-370",
+        "word-b2-371",
+        "word-b2-372",
+        "word-b2-373",
+        "word-b2-374",
+        "word-b2-375",
+        "word-b2-376"
+      ],
+      "lessons": [
+        {
+          "id": "b2-l01",
+          "lesson": 1,
+          "title": "مُرَاجَعَة",
+          "titleEn": "Review",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-001",
+            "word-b2-002",
+            "word-b2-003",
+            "word-b2-004"
+          ],
+          "grammarPointIds": [
+            "gp-b2-001"
+          ]
+        },
+        {
+          "id": "b2-l02",
+          "lesson": 2,
+          "title": "الضَّمَائِرُ الْمُتَّصِلَة (الْمَفْعُول)",
+          "titleEn": "Attached Object Pronouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-005",
+            "word-b2-006",
+            "word-b2-007",
+            "word-b2-008",
+            "word-b2-009",
+            "word-b2-010"
+          ],
+          "grammarPointIds": [
+            "gp-b2-002"
+          ]
+        },
+        {
+          "id": "b2-l03",
+          "lesson": 3,
+          "title": "الاسْمُ الْمَوْصُول",
+          "titleEn": "Relative Pronouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-011",
+            "word-b2-012",
+            "word-b2-013",
+            "word-b2-014",
+            "word-b2-015",
+            "word-b2-016"
+          ],
+          "grammarPointIds": [
+            "gp-b2-003"
+          ]
+        },
+        {
+          "id": "b2-l04",
+          "lesson": 4,
+          "title": "أَسْمَاءُ الإِشَارَة (الْجَمْع)",
+          "titleEn": "Plural Demonstratives",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-017",
+            "word-b2-018",
+            "word-b2-019",
+            "word-b2-020"
+          ],
+          "grammarPointIds": [
+            "gp-b2-004"
+          ]
+        },
+        {
+          "id": "b2-l05",
+          "lesson": 5,
+          "title": "الْأَمْر",
+          "titleEn": "Imperative (Command)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-021",
+            "word-b2-022",
+            "word-b2-023",
+            "word-b2-024",
+            "word-b2-025",
+            "word-b2-026"
+          ],
+          "grammarPointIds": [
+            "gp-b2-005"
+          ]
+        },
+        {
+          "id": "b2-l06",
+          "lesson": 6,
+          "title": "النَّهْي",
+          "titleEn": "Prohibition (Negative Command)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-027",
+            "word-b2-028",
+            "word-b2-029",
+            "word-b2-030"
+          ],
+          "grammarPointIds": [
+            "gp-b2-006"
+          ]
+        },
+        {
+          "id": "b2-l07",
+          "lesson": 7,
+          "title": "اسْمُ الْفَاعِل",
+          "titleEn": "Active Participle",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-031",
+            "word-b2-032",
+            "word-b2-033",
+            "word-b2-034",
+            "word-b2-035",
+            "word-b2-036"
+          ],
+          "grammarPointIds": [
+            "gp-b2-007"
+          ]
+        },
+        {
+          "id": "b2-l08",
+          "lesson": 8,
+          "title": "اسْمُ الْمَفْعُول",
+          "titleEn": "Passive Participle",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-037",
+            "word-b2-038",
+            "word-b2-039",
+            "word-b2-040",
+            "word-b2-041",
+            "word-b2-042"
+          ],
+          "grammarPointIds": [
+            "gp-b2-008"
+          ]
+        },
+        {
+          "id": "b2-l09",
+          "lesson": 9,
+          "title": "الْمَصْدَر",
+          "titleEn": "Verbal Noun (Masdar)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-044",
+            "word-b2-045",
+            "word-b2-046",
+            "word-b2-047",
+            "word-b2-048",
+            "word-b2-049"
+          ],
+          "grammarPointIds": [
+            "gp-b2-009"
+          ]
+        },
+        {
+          "id": "b2-l10",
+          "lesson": 10,
+          "title": "اسْمُ التَّفْضِيل",
+          "titleEn": "Comparative and Superlative",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-053",
+            "word-b2-054",
+            "word-b2-055",
+            "word-b2-056",
+            "word-b2-057",
+            "word-b2-058"
+          ],
+          "grammarPointIds": [
+            "gp-b2-010"
+          ]
+        },
+        {
+          "id": "b2-l11",
+          "lesson": 11,
+          "title": "الْفِعْلُ الْمَجْهُول",
+          "titleEn": "Passive Voice",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-059",
+            "word-b2-060",
+            "word-b2-061",
+            "word-b2-062",
+            "word-b2-063",
+            "word-b2-064"
+          ],
+          "grammarPointIds": [
+            "gp-b2-011"
+          ]
+        },
+        {
+          "id": "b2-l12",
+          "lesson": 12,
+          "title": "الْمُضَارِعُ الْمَنْصُوب",
+          "titleEn": "Subjunctive Mood",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-066",
+            "word-b2-067",
+            "word-b2-068",
+            "word-b2-069"
+          ],
+          "grammarPointIds": [
+            "gp-b2-012"
+          ]
+        },
+        {
+          "id": "b2-l13",
+          "lesson": 13,
+          "title": "الْمُضَارِعُ الْمَجْزُوم",
+          "titleEn": "Jussive Mood",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-070",
+            "word-b2-071",
+            "word-b2-072",
+            "word-b2-073"
+          ],
+          "grammarPointIds": [
+            "gp-b2-013"
+          ]
+        },
+        {
+          "id": "b2-l14",
+          "lesson": 14,
+          "title": "الشَّرْط",
+          "titleEn": "Conditional Sentences",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-074",
+            "word-b2-075",
+            "word-b2-076",
+            "word-b2-077",
+            "word-b2-078",
+            "word-b2-079"
+          ],
+          "grammarPointIds": [
+            "gp-b2-014"
+          ]
+        },
+        {
+          "id": "b2-l15",
+          "lesson": 15,
+          "title": "الاسْتِثْنَاء",
+          "titleEn": "Exception",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-080",
+            "word-b2-081",
+            "word-b2-082",
+            "word-b2-083"
+          ],
+          "grammarPointIds": [
+            "gp-b2-015"
+          ]
+        },
+        {
+          "id": "b2-l16",
+          "lesson": 16,
+          "title": "الْعَدَد وَالْمَعْدُود",
+          "titleEn": "Numbers and Counted Nouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-084",
+            "word-b2-085",
+            "word-b2-086",
+            "word-b2-087",
+            "word-b2-088",
+            "word-b2-089"
+          ],
+          "grammarPointIds": [
+            "gp-b2-016"
+          ]
+        },
+        {
+          "id": "b2-l17",
+          "lesson": 17,
+          "title": "ظَرْفُ الزَّمَانِ وَالْمَكَان",
+          "titleEn": "Adverbs of Time and Place",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-090",
+            "word-b2-091",
+            "word-b2-092",
+            "word-b2-093",
+            "word-b2-094",
+            "word-b2-095"
+          ],
+          "grammarPointIds": [
+            "gp-b2-017"
+          ]
+        },
+        {
+          "id": "b2-l18",
+          "lesson": 18,
+          "title": "الْحَال",
+          "titleEn": "The Circumstantial Accusative (Haal)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-097",
+            "word-b2-098",
+            "word-b2-099",
+            "word-b2-100"
+          ],
+          "grammarPointIds": [
+            "gp-b2-018"
+          ]
+        },
+        {
+          "id": "b2-l19",
+          "lesson": 19,
+          "title": "الفِعْل المَهْمُوز",
+          "titleEn": "Hamzated Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-101",
+            "word-b2-102",
+            "word-b2-103",
+            "word-b2-104",
+            "word-b2-105"
+          ],
+          "grammarPointIds": [
+            "gp-b2-019"
+          ]
+        },
+        {
+          "id": "b2-l20",
+          "lesson": 20,
+          "title": "الفِعْل المُضَعَّف",
+          "titleEn": "Doubled Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-106",
+            "word-b2-107",
+            "word-b2-108",
+            "word-b2-109",
+            "word-b2-110"
+          ],
+          "grammarPointIds": [
+            "gp-b2-020"
+          ]
+        },
+        {
+          "id": "b2-l21",
+          "lesson": 21,
+          "title": "الفِعْل المِثَال",
+          "titleEn": "Assimilated Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-111",
+            "word-b2-112",
+            "word-b2-113",
+            "word-b2-114",
+            "word-b2-115"
+          ],
+          "grammarPointIds": [
+            "gp-b2-021"
+          ]
+        },
+        {
+          "id": "b2-l22",
+          "lesson": 22,
+          "title": "الفِعْل الأَجْوَف",
+          "titleEn": "Hollow Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-116",
+            "word-b2-117",
+            "word-b2-118",
+            "word-b2-119",
+            "word-b2-120"
+          ],
+          "grammarPointIds": [
+            "gp-b2-022"
+          ]
+        },
+        {
+          "id": "b2-l23",
+          "lesson": 23,
+          "title": "جَمْع المُذَكَّر السَّالِم",
+          "titleEn": "Sound Masculine Plural",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-121",
+            "word-b2-122",
+            "word-b2-123",
+            "word-b2-124",
+            "word-b2-125"
+          ],
+          "grammarPointIds": [
+            "gp-b2-023"
+          ]
+        },
+        {
+          "id": "b2-l24",
+          "lesson": 24,
+          "title": "الفِعْل النَّاقِص",
+          "titleEn": "Defective Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-126",
+            "word-b2-127",
+            "word-b2-128",
+            "word-b2-129",
+            "word-b2-130"
+          ],
+          "grammarPointIds": [
+            "gp-b2-024"
+          ]
+        },
+        {
+          "id": "b2-l25",
+          "lesson": 25,
+          "title": "الفِعْل اللَّفِيف",
+          "titleEn": "Doubly Weak Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-131",
+            "word-b2-132",
+            "word-b2-133",
+            "word-b2-134",
+            "word-b2-135"
+          ],
+          "grammarPointIds": [
+            "gp-b2-025"
+          ]
+        },
+        {
+          "id": "b2-l26",
+          "lesson": 26,
+          "title": "اسْم التَّصْغِير",
+          "titleEn": "Diminutive Nouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-136",
+            "word-b2-137",
+            "word-b2-138",
+            "word-b2-139",
+            "word-b2-140"
+          ],
+          "grammarPointIds": [
+            "gp-b2-026"
+          ]
+        },
+        {
+          "id": "b2-l27",
+          "lesson": 27,
+          "title": "الفِعْل فِي البَاب السَّابِع",
+          "titleEn": "Form VII Verbs (اِنْفَعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-141",
+            "word-b2-142",
+            "word-b2-143",
+            "word-b2-144",
+            "word-b2-145"
+          ],
+          "grammarPointIds": [
+            "gp-b2-027"
+          ]
+        },
+        {
+          "id": "b2-l28",
+          "lesson": 28,
+          "title": "الأَفْعَال الضَّعِيفَة فِي الأَحَادِيث",
+          "titleEn": "Weak Verbs in Hadith",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-146",
+            "word-b2-147",
+            "word-b2-148",
+            "word-b2-149",
+            "word-b2-150"
+          ],
+          "grammarPointIds": [
+            "gp-b2-028"
+          ]
+        },
+        {
+          "id": "b2-l29",
+          "lesson": 29,
+          "title": "الفِعْل فِي البَاب الثَّامِن",
+          "titleEn": "Form VIII Verbs (اِفْتَعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-151",
+            "word-b2-152",
+            "word-b2-153",
+            "word-b2-154",
+            "word-b2-155"
+          ],
+          "grammarPointIds": [
+            "gp-b2-029"
+          ]
+        },
+        {
+          "id": "b2-l30",
+          "lesson": 30,
+          "title": "الفِعْل فِي البَاب التَّاسِع",
+          "titleEn": "Form IX Verbs (اِفْعَلَّ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-156",
+            "word-b2-157",
+            "word-b2-158",
+            "word-b2-159",
+            "word-b2-160"
+          ],
+          "grammarPointIds": [
+            "gp-b2-030"
+          ]
+        },
+        {
+          "id": "b2-l31",
+          "lesson": 31,
+          "title": "الفِعْل فِي البَاب العَاشِر",
+          "titleEn": "Form X Verbs (اِسْتَفْعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-161",
+            "word-b2-162",
+            "word-b2-163",
+            "word-b2-164",
+            "word-b2-165"
+          ],
+          "grammarPointIds": [
+            "gp-b2-031"
+          ]
+        },
+        {
+          "id": "b2-l32",
+          "lesson": 32,
+          "title": "المَصَادِر",
+          "titleEn": "Verbal Nouns (Masdar)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-166",
+            "word-b2-167",
+            "word-b2-168",
+            "word-b2-169",
+            "word-b2-170"
+          ],
+          "grammarPointIds": [
+            "gp-b2-032"
+          ]
+        },
+        {
+          "id": "b2-l33",
+          "lesson": 33,
+          "title": "مُرَاجَعَة",
+          "titleEn": "Comprehensive Review",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-101",
+            "word-b2-116",
+            "word-b2-126",
+            "word-b2-141",
+            "word-b2-161"
+          ],
+          "grammarPointIds": [
+            "gp-b2-019",
+            "gp-b2-022",
+            "gp-b2-024",
+            "gp-b2-027",
+            "gp-b2-031"
+          ]
+        },
+        {
+          "id": "b2-l34",
+          "lesson": 34,
+          "title": "اسْمُ الزَّمَانِ وَاسْمُ الْمَكَان",
+          "titleEn": "Nouns of Time and Place",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-281",
+            "word-b2-282",
+            "word-b2-283",
+            "word-b2-284",
+            "word-b2-285",
+            "word-b2-286"
+          ],
+          "grammarPointIds": [
+            "gp-b2-033"
+          ]
+        },
+        {
+          "id": "b2-l35",
+          "lesson": 35,
+          "title": "اسْمُ الآلَة",
+          "titleEn": "Nouns of Instrument",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-287",
+            "word-b2-288",
+            "word-b2-289",
+            "word-b2-290",
+            "word-b2-291",
+            "word-b2-292"
+          ],
+          "grammarPointIds": [
+            "gp-b2-034"
+          ]
+        },
+        {
+          "id": "b2-l36",
+          "lesson": 36,
+          "title": "الصِّفَةُ الْمُشَبَّهَة",
+          "titleEn": "Resembling Adjective",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-293",
+            "word-b2-294",
+            "word-b2-295",
+            "word-b2-296",
+            "word-b2-297",
+            "word-b2-298"
+          ],
+          "grammarPointIds": [
+            "gp-b2-035"
+          ]
+        },
+        {
+          "id": "b2-l37",
+          "lesson": 37,
+          "title": "صِيَغُ الْمُبَالَغَة",
+          "titleEn": "Intensive Forms (Exaggeration)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-299",
+            "word-b2-300",
+            "word-b2-301",
+            "word-b2-302",
+            "word-b2-303",
+            "word-b2-304"
+          ],
+          "grammarPointIds": [
+            "gp-b2-036"
+          ]
+        },
+        {
+          "id": "b2-l38",
+          "lesson": 38,
+          "title": "اسْمُ الْمَرَّة",
+          "titleEn": "Noun of Single Instance",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-305",
+            "word-b2-306",
+            "word-b2-307",
+            "word-b2-308",
+            "word-b2-309",
+            "word-b2-310"
+          ],
+          "grammarPointIds": [
+            "gp-b2-043",
+            "gp-b2-044"
+          ]
+        },
+        {
+          "id": "b2-l39",
+          "lesson": 39,
+          "title": "اسْمُ الْهَيْئَة",
+          "titleEn": "Noun of Manner",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-311",
+            "word-b2-312",
+            "word-b2-313",
+            "word-b2-314",
+            "word-b2-315",
+            "word-b2-316"
+          ],
+          "grammarPointIds": [
+            "gp-b2-045",
+            "gp-b2-046"
+          ]
+        },
+        {
+          "id": "b2-l40",
+          "lesson": 40,
+          "title": "مُرَاجَعَة الْكِتَاب الثَّانِي",
+          "titleEn": "Book 2 Review",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-317",
+            "word-b2-318",
+            "word-b2-319",
+            "word-b2-320",
+            "word-b2-321",
+            "word-b2-322"
+          ],
+          "grammarPointIds": [
+            "gp-b2-047",
+            "gp-b2-048"
+          ]
+        },
+        {
+          "id": "b2-l41",
+          "lesson": 41,
+          "title": "الصِّفَة الْمُشَبَّهَة (١)",
+          "titleEn": "Resembling Adjective - Patterns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-323",
+            "word-b2-324",
+            "word-b2-325",
+            "word-b2-326",
+            "word-b2-327",
+            "word-b2-328"
+          ],
+          "grammarPointIds": [
+            "gp-b2-049",
+            "gp-b2-050"
+          ]
+        },
+        {
+          "id": "b2-l42",
+          "lesson": 42,
+          "title": "الصِّفَة الْمُشَبَّهَة (٢)",
+          "titleEn": "Resembling Adjective - Usage",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-329",
+            "word-b2-330",
+            "word-b2-331",
+            "word-b2-332",
+            "word-b2-333",
+            "word-b2-334"
+          ],
+          "grammarPointIds": [
+            "gp-b2-051",
+            "gp-b2-052"
+          ]
+        },
+        {
+          "id": "b2-l43",
+          "lesson": 43,
+          "title": "النِّسْبَة (١)",
+          "titleEn": "Relative Adjectives - Formation",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-335",
+            "word-b2-336",
+            "word-b2-337",
+            "word-b2-338",
+            "word-b2-339",
+            "word-b2-340"
+          ],
+          "grammarPointIds": [
+            "gp-b2-053",
+            "gp-b2-054"
+          ]
+        },
+        {
+          "id": "b2-l44",
+          "lesson": 44,
+          "title": "النِّسْبَة (٢)",
+          "titleEn": "Relative Adjectives - Special Cases",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-341",
+            "word-b2-342",
+            "word-b2-343",
+            "word-b2-344",
+            "word-b2-345",
+            "word-b2-346"
+          ],
+          "grammarPointIds": [
+            "gp-b2-055",
+            "gp-b2-056"
+          ]
+        },
+        {
+          "id": "b2-l45",
+          "lesson": 45,
+          "title": "عَطْف الْبَيَان",
+          "titleEn": "Explicative Apposition",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-347",
+            "word-b2-348",
+            "word-b2-349",
+            "word-b2-350",
+            "word-b2-351",
+            "word-b2-352"
+          ],
+          "grammarPointIds": [
+            "gp-b2-057",
+            "gp-b2-058"
+          ]
+        },
+        {
+          "id": "b2-l46",
+          "lesson": 46,
+          "title": "التَّوْكِيد",
+          "titleEn": "Corroboration/Emphasis",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-353",
+            "word-b2-354",
+            "word-b2-355",
+            "word-b2-356",
+            "word-b2-357",
+            "word-b2-358"
+          ],
+          "grammarPointIds": [
+            "gp-b2-059",
+            "gp-b2-060"
+          ]
+        },
+        {
+          "id": "b2-l47",
+          "lesson": 47,
+          "title": "العَطْف",
+          "titleEn": "Conjunction",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-359",
+            "word-b2-360",
+            "word-b2-361",
+            "word-b2-362",
+            "word-b2-363",
+            "word-b2-364"
+          ],
+          "grammarPointIds": [
+            "gp-b2-061",
+            "gp-b2-062"
+          ]
+        },
+        {
+          "id": "b2-l48",
+          "lesson": 48,
+          "title": "البَدَل",
+          "titleEn": "Substitution/Apposition",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-365",
+            "word-b2-366",
+            "word-b2-367",
+            "word-b2-368",
+            "word-b2-369",
+            "word-b2-370"
+          ],
+          "grammarPointIds": [
+            "gp-b2-063",
+            "gp-b2-064"
+          ]
+        },
+        {
+          "id": "b2-l49",
+          "lesson": 49,
+          "title": "ظَنَّ وَأَخَوَاتُهَا",
+          "titleEn": "Verbs of Thinking and Their Sisters",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-371",
+            "word-b2-372",
+            "word-b2-373",
+            "word-b2-374",
+            "word-b2-375",
+            "word-b2-376"
+          ],
+          "grammarPointIds": [
+            "gp-b2-065",
+            "gp-b2-066"
+          ]
+        },
+        {
+          "id": "b2-l50",
+          "lesson": 50,
+          "title": "التَّنَازُع",
+          "titleEn": "Conflict in Governance",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-377",
+            "word-b2-378",
+            "word-b2-379",
+            "word-b2-380",
+            "word-b2-381",
+            "word-b2-382"
+          ],
+          "grammarPointIds": [
+            "gp-b2-067",
+            "gp-b2-068"
+          ]
+        },
+        {
+          "id": "b2-l51",
+          "lesson": 51,
+          "title": "الاشْتِغَال",
+          "titleEn": "Occupation",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-383",
+            "word-b2-384",
+            "word-b2-385",
+            "word-b2-386",
+            "word-b2-387",
+            "word-b2-388"
+          ],
+          "grammarPointIds": [
+            "gp-b2-069",
+            "gp-b2-070"
+          ]
+        },
+        {
+          "id": "b2-l52",
+          "lesson": 52,
+          "title": "حَتَّى وَأَحْكَامُهَا",
+          "titleEn": "The Particle Hatta",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-389",
+            "word-b2-390",
+            "word-b2-391",
+            "word-b2-392",
+            "word-b2-393",
+            "word-b2-394"
+          ],
+          "grammarPointIds": [
+            "gp-b2-071",
+            "gp-b2-072"
+          ]
+        },
+        {
+          "id": "b2-l53",
+          "lesson": 53,
+          "title": "فَاء السَّبَبِيَّة",
+          "titleEn": "Fa of Causation",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-395",
+            "word-b2-396",
+            "word-b2-397",
+            "word-b2-398",
+            "word-b2-399"
+          ],
+          "grammarPointIds": [
+            "gp-b2-073",
+            "gp-b2-074"
+          ]
+        },
+        {
+          "id": "b2-l54",
+          "lesson": 54,
+          "title": "لَام الجُحُود",
+          "titleEn": "Lam of Denial",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-400",
+            "word-b2-401",
+            "word-b2-402",
+            "word-b2-403",
+            "word-b2-404"
+          ],
+          "grammarPointIds": [
+            "gp-b2-075",
+            "gp-b2-076"
+          ]
+        },
+        {
+          "id": "b2-l55",
+          "lesson": 55,
+          "title": "كَمْ الاسْتِفْهَامِيَّة وَالخَبَرِيَّة",
+          "titleEn": "Interrogative and Informative Kam",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-405",
+            "word-b2-406",
+            "word-b2-407",
+            "word-b2-408",
+            "word-b2-409",
+            "word-b2-410"
+          ],
+          "grammarPointIds": [
+            "gp-b2-077",
+            "gp-b2-078"
+          ]
+        },
+        {
+          "id": "b2-l56",
+          "lesson": 56,
+          "title": "صِيَغ المُبَالَغَة",
+          "titleEn": "Intensive Forms",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b2-411",
+            "word-b2-412",
+            "word-b2-413",
+            "word-b2-414",
+            "word-b2-415",
+            "word-b2-416",
+            "word-b2-417",
+            "word-b2-418"
+          ],
+          "grammarPointIds": [
+            "gp-b2-079",
+            "gp-b2-080"
+          ]
+        }
+      ]
+    },
+    "3": {
+      "lessonCount": 119,
+      "wordCount": 727,
+      "grammarCount": 201,
+      "exerciseCount": 1428,
+      "lessonIds": [
+        "b3-l01",
+        "b3-l02",
+        "b3-l03",
+        "b3-l04",
+        "b3-l05",
+        "b3-l06",
+        "b3-l07",
+        "b3-l08",
+        "b3-l09",
+        "b3-l10",
+        "b3-l11",
+        "b3-l12",
+        "b3-l13",
+        "b3-l14",
+        "b3-l15",
+        "b3-l16",
+        "b3-l17",
+        "b3-l18",
+        "b3-l19",
+        "b3-l20",
+        "b3-l21",
+        "b3-l22",
+        "b3-l23",
+        "b3-l24",
+        "b3-l25",
+        "b3-l26",
+        "b3-l27",
+        "b3-l28",
+        "b3-l29",
+        "b3-l30",
+        "b3-l31",
+        "b3-l32",
+        "b3-l33",
+        "b3-l34",
+        "b3-l35",
+        "b3-l36",
+        "b3-l37",
+        "b3-l38",
+        "b3-l39",
+        "b3-l40",
+        "b3-l41",
+        "b3-l42",
+        "b3-l43",
+        "b3-l44",
+        "b3-l45",
+        "b3-l46",
+        "b3-l47",
+        "b3-l48",
+        "b3-l49",
+        "b3-l50",
+        "b3-l51",
+        "b3-l52",
+        "b3-l53",
+        "b3-l54",
+        "b3-l55",
+        "b3-l56",
+        "b3-l57",
+        "b3-l58",
+        "b3-l59",
+        "b3-l60",
+        "b3-l61",
+        "b3-l62",
+        "b3-l63",
+        "b3-l64",
+        "b3-l65",
+        "b3-l66",
+        "b3-l67",
+        "b3-l68",
+        "b3-l69",
+        "b3-l70",
+        "b3-l71",
+        "b3-l72",
+        "b3-l73",
+        "b3-l74",
+        "b3-l75",
+        "b3-l76",
+        "b3-l77",
+        "b3-l78",
+        "b3-l79",
+        "b3-l80",
+        "b3-l81",
+        "b3-l82",
+        "b3-l83",
+        "b3-l84",
+        "b3-l85",
+        "b3-l86",
+        "b3-l87",
+        "b3-l88",
+        "b3-l89",
+        "b3-l90",
+        "b3-l91",
+        "b3-l92",
+        "b3-l93",
+        "b3-l94",
+        "b3-l95",
+        "b3-l96",
+        "b3-l97",
+        "b3-l98",
+        "b3-l99",
+        "b3-l100",
+        "b3-l101",
+        "b3-l102",
+        "b3-l103",
+        "b3-l104",
+        "b3-l105",
+        "b3-l106",
+        "b3-l107",
+        "b3-l108",
+        "b3-l109",
+        "b3-l110",
+        "b3-l111",
+        "b3-l112",
+        "b3-l113",
+        "b3-l114",
+        "b3-l115",
+        "b3-l116",
+        "b3-l117",
+        "b3-l118",
+        "b3-l119"
+      ],
+      "wordIds": [
+        "word-b3-001",
+        "word-b3-002",
+        "word-b3-003",
+        "word-b3-004",
+        "word-b3-005",
+        "word-b3-006",
+        "word-b3-007",
+        "word-b3-008",
+        "word-b3-009",
+        "word-b3-010",
+        "word-b3-011",
+        "word-b3-012",
+        "word-b3-013",
+        "word-b3-014",
+        "word-b3-015",
+        "word-b3-016",
+        "word-b3-017",
+        "word-b3-018",
+        "word-b3-019",
+        "word-b3-020",
+        "word-b3-021",
+        "word-b3-022",
+        "word-b3-023",
+        "word-b3-024",
+        "word-b3-025",
+        "word-b3-026",
+        "word-b3-027",
+        "word-b3-028",
+        "word-b3-029",
+        "word-b3-030",
+        "word-b3-031",
+        "word-b3-032",
+        "word-b3-033",
+        "word-b3-034",
+        "word-b3-035",
+        "word-b3-036",
+        "word-b3-037",
+        "word-b3-038",
+        "word-b3-039",
+        "word-b3-040",
+        "word-b3-041",
+        "word-b3-042",
+        "word-b3-043",
+        "word-b3-044",
+        "word-b3-045",
+        "word-b3-046",
+        "word-b3-047",
+        "word-b3-048",
+        "word-b3-049",
+        "word-b3-050",
+        "word-b3-051",
+        "word-b3-052",
+        "word-b3-053",
+        "word-b3-054",
+        "word-b3-055",
+        "word-b3-056",
+        "word-b3-057",
+        "word-b3-058",
+        "word-b3-059",
+        "word-b3-060",
+        "word-b3-061",
+        "word-b3-062",
+        "word-b3-063",
+        "word-b3-064",
+        "word-b3-065",
+        "word-b3-066",
+        "word-b3-067",
+        "word-b3-068",
+        "word-b3-069",
+        "word-b3-070",
+        "word-b3-071",
+        "word-b3-072",
+        "word-b3-073",
+        "word-b3-074",
+        "word-b3-075",
+        "word-b3-076",
+        "word-b3-077",
+        "word-b3-078",
+        "word-b3-079",
+        "word-b3-080",
+        "word-b3-081",
+        "word-b3-082",
+        "word-b3-083",
+        "word-b3-084",
+        "word-b3-085",
+        "word-b3-086",
+        "word-b3-087",
+        "word-b3-088",
+        "word-b3-089",
+        "word-b3-090",
+        "word-b3-091",
+        "word-b3-092",
+        "word-b3-093",
+        "word-b3-094",
+        "word-b3-095",
+        "word-b3-096",
+        "word-b3-097",
+        "word-b3-098",
+        "word-b3-099",
+        "word-b3-100",
+        "word-b3-101",
+        "word-b3-102",
+        "word-b3-103",
+        "word-b3-104",
+        "word-b3-105",
+        "word-b3-106",
+        "word-b3-107",
+        "word-b3-108",
+        "word-b3-109",
+        "word-b3-110",
+        "word-b3-111",
+        "word-b3-112",
+        "word-b3-113",
+        "word-b3-114",
+        "word-b3-115",
+        "word-b3-116",
+        "word-b3-117",
+        "word-b3-118",
+        "word-b3-119",
+        "word-b3-120",
+        "word-b3-121",
+        "word-b3-122",
+        "word-b3-123",
+        "word-b3-124",
+        "word-b3-125",
+        "word-b3-126",
+        "word-b3-127",
+        "word-b3-128",
+        "word-b3-129",
+        "word-b3-130",
+        "word-b3-131",
+        "word-b3-132",
+        "word-b3-133",
+        "word-b3-134",
+        "word-b3-135",
+        "word-b3-136",
+        "word-b3-137",
+        "word-b3-138",
+        "word-b3-139",
+        "word-b3-140",
+        "word-b3-141",
+        "word-b3-142",
+        "word-b3-143",
+        "word-b3-144",
+        "word-b3-145",
+        "word-b3-146",
+        "word-b3-147",
+        "word-b3-148",
+        "word-b3-149",
+        "word-b3-150",
+        "word-b3-151",
+        "word-b3-152",
+        "word-b3-153",
+        "word-b3-154",
+        "word-b3-155",
+        "word-b3-156",
+        "word-b3-157",
+        "word-b3-158",
+        "word-b3-159",
+        "word-b3-160",
+        "word-b3-161",
+        "word-b3-162",
+        "word-b3-163",
+        "word-b3-164",
+        "word-b3-165",
+        "word-b3-166",
+        "word-b3-167",
+        "word-b3-168",
+        "word-b3-169",
+        "word-b3-170",
+        "word-b3-171",
+        "word-b3-172",
+        "word-b3-173",
+        "word-b3-174",
+        "word-b3-175",
+        "word-b3-176",
+        "word-b3-177",
+        "word-b3-178",
+        "word-b3-179",
+        "word-b3-180",
+        "word-b3-181",
+        "word-b3-182",
+        "word-b3-183",
+        "word-b3-184",
+        "word-b3-185",
+        "word-b3-186",
+        "word-b3-187",
+        "word-b3-188",
+        "word-b3-189",
+        "word-b3-190",
+        "word-b3-191",
+        "word-b3-192",
+        "word-b3-193",
+        "word-b3-194",
+        "word-b3-195",
+        "word-b3-196",
+        "word-b3-197",
+        "word-b3-198",
+        "word-b3-199",
+        "word-b3-200",
+        "word-b3-201",
+        "word-b3-202",
+        "word-b3-203",
+        "word-b3-204",
+        "word-b3-205",
+        "word-b3-206",
+        "word-b3-207",
+        "word-b3-208",
+        "word-b3-209",
+        "word-b3-210",
+        "word-b3-211",
+        "word-b3-212",
+        "word-b3-213",
+        "word-b3-214",
+        "word-b3-215",
+        "word-b3-216",
+        "word-b3-217",
+        "word-b3-218",
+        "word-b3-219",
+        "word-b3-220",
+        "word-b3-221",
+        "word-b3-222",
+        "word-b3-223",
+        "word-b3-224",
+        "word-b3-225",
+        "word-b3-226",
+        "word-b3-227",
+        "word-b3-228",
+        "word-b3-229",
+        "word-b3-230",
+        "word-b3-231",
+        "word-b3-232",
+        "word-b3-233",
+        "word-b3-234",
+        "word-b3-235",
+        "word-b3-236",
+        "word-b3-237",
+        "word-b3-238",
+        "word-b3-239",
+        "word-b3-240",
+        "word-b3-241",
+        "word-b3-242",
+        "word-b3-243",
+        "word-b3-244",
+        "word-b3-245",
+        "word-b3-246",
+        "word-b3-247",
+        "word-b3-248",
+        "word-b3-249",
+        "word-b3-250",
+        "word-b3-251",
+        "word-b3-252",
+        "word-b3-253",
+        "word-b3-254",
+        "word-b3-255",
+        "word-b3-256",
+        "word-b3-257",
+        "word-b3-258",
+        "word-b3-259",
+        "word-b3-260",
+        "word-b3-261",
+        "word-b3-262",
+        "word-b3-263",
+        "word-b3-264",
+        "word-b3-265",
+        "word-b3-266",
+        "word-b3-267",
+        "word-b3-268",
+        "word-b3-269",
+        "word-b3-270",
+        "word-b3-271",
+        "word-b3-272",
+        "word-b3-273",
+        "word-b3-274",
+        "word-b3-275",
+        "word-b3-276",
+        "word-b3-277",
+        "word-b3-278",
+        "word-b3-279",
+        "word-b3-280",
+        "word-b3-281",
+        "word-b3-282",
+        "word-b3-283",
+        "word-b3-284",
+        "word-b3-285",
+        "word-b3-286",
+        "word-b3-287",
+        "word-b3-288",
+        "word-b3-289",
+        "word-b3-290",
+        "word-b3-291",
+        "word-b3-292",
+        "word-b3-293",
+        "word-b3-294",
+        "word-b3-295",
+        "word-b3-296",
+        "word-b3-297",
+        "word-b3-298",
+        "word-b3-299",
+        "word-b3-300",
+        "word-b3-301",
+        "word-b3-302",
+        "word-b3-303",
+        "word-b3-304",
+        "word-b3-305",
+        "word-b3-306",
+        "word-b3-307",
+        "word-b3-308",
+        "word-b3-309",
+        "word-b3-310",
+        "word-b3-311",
+        "word-b3-312",
+        "word-b3-313",
+        "word-b3-314",
+        "word-b3-315",
+        "word-b3-316",
+        "word-b3-317",
+        "word-b3-318",
+        "word-b3-319",
+        "word-b3-320",
+        "word-b3-321",
+        "word-b3-322",
+        "word-b3-323",
+        "word-b3-324",
+        "word-b3-325",
+        "word-b3-326",
+        "word-b3-327",
+        "word-b3-328",
+        "word-b3-329",
+        "word-b3-330",
+        "word-b3-331",
+        "word-b3-332",
+        "word-b3-333",
+        "word-b3-334",
+        "word-b3-335",
+        "word-b3-336",
+        "word-b3-337",
+        "word-b3-338",
+        "word-b3-339",
+        "word-b3-340",
+        "word-b3-341",
+        "word-b3-342",
+        "word-b3-343",
+        "word-b3-344",
+        "word-b3-345",
+        "word-b3-346",
+        "word-b3-347",
+        "word-b3-348",
+        "word-b3-349",
+        "word-b3-350",
+        "word-b3-351",
+        "word-b3-352",
+        "word-b3-353",
+        "word-b3-354",
+        "word-b3-355",
+        "word-b3-356",
+        "word-b3-357",
+        "word-b3-358",
+        "word-b3-359",
+        "word-b3-360",
+        "word-b3-361",
+        "word-b3-362",
+        "word-b3-363",
+        "word-b3-364",
+        "word-b3-365",
+        "word-b3-366",
+        "word-b3-367",
+        "word-b3-368",
+        "word-b3-369",
+        "word-b3-370",
+        "word-b3-371",
+        "word-b3-372",
+        "word-b3-373",
+        "word-b3-374",
+        "word-b3-375",
+        "word-b3-376",
+        "word-b3-377",
+        "word-b3-378",
+        "word-b3-379",
+        "word-b3-380",
+        "word-b3-381",
+        "word-b3-382",
+        "word-b3-383",
+        "word-b3-384",
+        "word-b3-385",
+        "word-b3-386",
+        "word-b3-387",
+        "word-b3-388",
+        "word-b3-389",
+        "word-b3-390",
+        "word-b3-391",
+        "word-b3-392"
+      ],
+      "lessons": [
+        {
+          "id": "b3-l01",
+          "lesson": 1,
+          "title": "مُرَاجَعَةٌ",
+          "titleEn": "Review of Books 1 & 2",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-001",
+            "word-b3-002",
+            "word-b3-003",
+            "word-b3-004"
+          ],
+          "grammarPointIds": [
+            "gp-b3-001"
+          ]
+        },
+        {
+          "id": "b3-l02",
+          "lesson": 2,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب فَعَّلَ",
+          "titleEn": "Derived Form II (فَعَّلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-005",
+            "word-b3-006",
+            "word-b3-007",
+            "word-b3-008",
+            "word-b3-009"
+          ],
+          "grammarPointIds": [
+            "gp-b3-002"
+          ]
+        },
+        {
+          "id": "b3-l03",
+          "lesson": 3,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب فَاعَلَ",
+          "titleEn": "Derived Form III (فَاعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-011",
+            "word-b3-012",
+            "word-b3-013",
+            "word-b3-014",
+            "word-b3-015"
+          ],
+          "grammarPointIds": [
+            "gp-b3-003"
+          ]
+        },
+        {
+          "id": "b3-l04",
+          "lesson": 4,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب أَفْعَلَ",
+          "titleEn": "Derived Form IV (أَفْعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-017",
+            "word-b3-018",
+            "word-b3-019",
+            "word-b3-020",
+            "word-b3-021"
+          ],
+          "grammarPointIds": [
+            "gp-b3-004"
+          ]
+        },
+        {
+          "id": "b3-l05",
+          "lesson": 5,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب تَفَعَّلَ",
+          "titleEn": "Derived Form V (تَفَعَّلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-023",
+            "word-b3-024",
+            "word-b3-025",
+            "word-b3-026",
+            "word-b3-027"
+          ],
+          "grammarPointIds": [
+            "gp-b3-005"
+          ]
+        },
+        {
+          "id": "b3-l06",
+          "lesson": 6,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب تَفَاعَلَ",
+          "titleEn": "Derived Form VI (تَفَاعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-028",
+            "word-b3-029",
+            "word-b3-030",
+            "word-b3-031",
+            "word-b3-032"
+          ],
+          "grammarPointIds": [
+            "gp-b3-006"
+          ]
+        },
+        {
+          "id": "b3-l07",
+          "lesson": 7,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب اِنْفَعَلَ",
+          "titleEn": "Derived Form VII (اِنْفَعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-034",
+            "word-b3-035",
+            "word-b3-036",
+            "word-b3-037",
+            "word-b3-038"
+          ],
+          "grammarPointIds": [
+            "gp-b3-007"
+          ]
+        },
+        {
+          "id": "b3-l08",
+          "lesson": 8,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب اِفْتَعَلَ",
+          "titleEn": "Derived Form VIII (اِفْتَعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-039",
+            "word-b3-040",
+            "word-b3-041",
+            "word-b3-042",
+            "word-b3-043"
+          ],
+          "grammarPointIds": [
+            "gp-b3-008"
+          ]
+        },
+        {
+          "id": "b3-l09",
+          "lesson": 9,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب اِفْعَلَّ",
+          "titleEn": "Derived Form IX (اِفْعَلَّ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-046",
+            "word-b3-047",
+            "word-b3-048",
+            "word-b3-049",
+            "word-b3-050"
+          ],
+          "grammarPointIds": [
+            "gp-b3-009"
+          ]
+        },
+        {
+          "id": "b3-l10",
+          "lesson": 10,
+          "title": "الْفِعْلُ الْمَزِيد - بَاب اِسْتَفْعَلَ",
+          "titleEn": "Derived Form X (اِسْتَفْعَلَ)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-053",
+            "word-b3-054",
+            "word-b3-055",
+            "word-b3-056",
+            "word-b3-057"
+          ],
+          "grammarPointIds": [
+            "gp-b3-010"
+          ]
+        },
+        {
+          "id": "b3-l11",
+          "lesson": 11,
+          "title": "الْفِعْلُ الْمِثَال",
+          "titleEn": "Assimilated Verbs (First Weak Letter)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-059",
+            "word-b3-060",
+            "word-b3-061",
+            "word-b3-062",
+            "word-b3-063"
+          ],
+          "grammarPointIds": [
+            "gp-b3-011"
+          ]
+        },
+        {
+          "id": "b3-l12",
+          "lesson": 12,
+          "title": "الْفِعْلُ الأَجْوَف",
+          "titleEn": "Hollow Verbs (Middle Weak Letter)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-064",
+            "word-b3-065",
+            "word-b3-066",
+            "word-b3-067",
+            "word-b3-068"
+          ],
+          "grammarPointIds": [
+            "gp-b3-012"
+          ]
+        },
+        {
+          "id": "b3-l13",
+          "lesson": 13,
+          "title": "الْفِعْلُ النَّاقِص",
+          "titleEn": "Defective Verbs (Final Weak Letter)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-071",
+            "word-b3-072",
+            "word-b3-073",
+            "word-b3-074",
+            "word-b3-075"
+          ],
+          "grammarPointIds": [
+            "gp-b3-013"
+          ]
+        },
+        {
+          "id": "b3-l14",
+          "lesson": 14,
+          "title": "الْفِعْلُ الْمَهْمُوز",
+          "titleEn": "Hamzated Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-076",
+            "word-b3-077",
+            "word-b3-078",
+            "word-b3-079",
+            "word-b3-080"
+          ],
+          "grammarPointIds": [
+            "gp-b3-014"
+          ]
+        },
+        {
+          "id": "b3-l15",
+          "lesson": 15,
+          "title": "الْفِعْلُ الْمُضَعَّف",
+          "titleEn": "Doubled Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-082",
+            "word-b3-083",
+            "word-b3-084",
+            "word-b3-085",
+            "word-b3-086"
+          ],
+          "grammarPointIds": [
+            "gp-b3-015"
+          ]
+        },
+        {
+          "id": "b3-l16",
+          "lesson": 16,
+          "title": "الْفِعْلُ الرُّبَاعِي",
+          "titleEn": "Quadriliteral Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-087",
+            "word-b3-088",
+            "word-b3-089",
+            "word-b3-090",
+            "word-b3-091"
+          ],
+          "grammarPointIds": [
+            "gp-b3-016"
+          ]
+        },
+        {
+          "id": "b3-l17",
+          "lesson": 17,
+          "title": "الْمَفْعُول الْمُطْلَق",
+          "titleEn": "Absolute Object (Cognate Accusative)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-093",
+            "word-b3-094",
+            "word-b3-095",
+            "word-b3-096",
+            "word-b3-097"
+          ],
+          "grammarPointIds": [
+            "gp-b3-017"
+          ]
+        },
+        {
+          "id": "b3-l18",
+          "lesson": 18,
+          "title": "الْمَفْعُول لأَجْلِهِ",
+          "titleEn": "Object of Purpose",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-098",
+            "word-b3-099",
+            "word-b3-100",
+            "word-b3-101",
+            "word-b3-102"
+          ],
+          "grammarPointIds": [
+            "gp-b3-018"
+          ]
+        },
+        {
+          "id": "b3-l19",
+          "lesson": 19,
+          "title": "التَّمْيِيز",
+          "titleEn": "Specification (Tamyiz)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-103",
+            "word-b3-104",
+            "word-b3-105",
+            "word-b3-106",
+            "word-b3-107"
+          ],
+          "grammarPointIds": [
+            "gp-b3-019"
+          ]
+        },
+        {
+          "id": "b3-l20",
+          "lesson": 20,
+          "title": "أُسْلُوب التَّعَجُّب",
+          "titleEn": "Exclamatory Style",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-108",
+            "word-b3-109",
+            "word-b3-110",
+            "word-b3-111",
+            "word-b3-112"
+          ],
+          "grammarPointIds": [
+            "gp-b3-020"
+          ]
+        },
+        {
+          "id": "b3-l21",
+          "lesson": 21,
+          "title": "أَعْلَمَ وَأَخَوَاتُهَا",
+          "titleEn": "Verbs Taking Three Objects",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-113",
+            "word-b3-114",
+            "word-b3-115",
+            "word-b3-116",
+            "word-b3-117"
+          ],
+          "grammarPointIds": [
+            "gp-b3-021"
+          ]
+        },
+        {
+          "id": "b3-l22",
+          "lesson": 22,
+          "title": "لاَ النَّافِيَة لِلْجِنْس",
+          "titleEn": "Absolute Negation",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-118",
+            "word-b3-119",
+            "word-b3-120",
+            "word-b3-121",
+            "word-b3-122"
+          ],
+          "grammarPointIds": [
+            "gp-b3-022"
+          ]
+        },
+        {
+          "id": "b3-l23",
+          "lesson": 23,
+          "title": "المَفْعُول المُطْلَق",
+          "titleEn": "Absolute Object (Cognate Accusative)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-123",
+            "word-b3-124",
+            "word-b3-125",
+            "word-b3-126",
+            "word-b3-127"
+          ],
+          "grammarPointIds": [
+            "gp-b3-023"
+          ]
+        },
+        {
+          "id": "b3-l24",
+          "lesson": 24,
+          "title": "المَفْعُول لأَجْلِهِ",
+          "titleEn": "Accusative of Purpose",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-128",
+            "word-b3-129",
+            "word-b3-130",
+            "word-b3-131",
+            "word-b3-132"
+          ],
+          "grammarPointIds": [
+            "gp-b3-024"
+          ]
+        },
+        {
+          "id": "b3-l25",
+          "lesson": 25,
+          "title": "المَفْعُول مَعَهُ",
+          "titleEn": "Accusative of Accompaniment",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-133",
+            "word-b3-134",
+            "word-b3-135",
+            "word-b3-136",
+            "word-b3-137"
+          ],
+          "grammarPointIds": [
+            "gp-b3-025"
+          ]
+        },
+        {
+          "id": "b3-l26",
+          "lesson": 26,
+          "title": "المَفْعُول فِيهِ",
+          "titleEn": "Adverb of Time and Place (Dharf)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-138",
+            "word-b3-139",
+            "word-b3-140",
+            "word-b3-141",
+            "word-b3-142"
+          ],
+          "grammarPointIds": [
+            "gp-b3-026"
+          ]
+        },
+        {
+          "id": "b3-l27",
+          "lesson": 27,
+          "title": "الجُمْلَة الشَّرْطِيَّة",
+          "titleEn": "Conditional Sentences",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-143",
+            "word-b3-144",
+            "word-b3-145",
+            "word-b3-146",
+            "word-b3-147"
+          ],
+          "grammarPointIds": [
+            "gp-b3-027"
+          ]
+        },
+        {
+          "id": "b3-l28",
+          "lesson": 28,
+          "title": "جَوَاب الشَّرْط",
+          "titleEn": "Apodosis (Answer to Condition)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-148",
+            "word-b3-149",
+            "word-b3-150",
+            "word-b3-151",
+            "word-b3-152"
+          ],
+          "grammarPointIds": [
+            "gp-b3-028"
+          ]
+        },
+        {
+          "id": "b3-l29",
+          "lesson": 29,
+          "title": "الأَفْعَال الخَمْسَة",
+          "titleEn": "Five Verb Forms",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-153",
+            "word-b3-154",
+            "word-b3-155",
+            "word-b3-156",
+            "word-b3-157"
+          ],
+          "grammarPointIds": [
+            "gp-b3-029"
+          ]
+        },
+        {
+          "id": "b3-l30",
+          "lesson": 30,
+          "title": "المَجْزُوم",
+          "titleEn": "The Jussive Mood",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-158",
+            "word-b3-159",
+            "word-b3-160",
+            "word-b3-161",
+            "word-b3-162"
+          ],
+          "grammarPointIds": [
+            "gp-b3-030"
+          ]
+        },
+        {
+          "id": "b3-l31",
+          "lesson": 31,
+          "title": "الفِعْل المُضَارِع المَبْنِيّ",
+          "titleEn": "Indeclinable Present Tense",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-163",
+            "word-b3-164",
+            "word-b3-165",
+            "word-b3-166",
+            "word-b3-167"
+          ],
+          "grammarPointIds": [
+            "gp-b3-031"
+          ]
+        },
+        {
+          "id": "b3-l32",
+          "lesson": 32,
+          "title": "النَّوَاسِخ",
+          "titleEn": "Sentence Modifiers (Nawasikh)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-168",
+            "word-b3-169",
+            "word-b3-170",
+            "word-b3-171",
+            "word-b3-172"
+          ],
+          "grammarPointIds": [
+            "gp-b3-032"
+          ]
+        },
+        {
+          "id": "b3-l33",
+          "lesson": 33,
+          "title": "الإِعْرَاب التَّقْدِيرِيّ",
+          "titleEn": "Estimated Case Endings",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-173",
+            "word-b3-174",
+            "word-b3-175",
+            "word-b3-176",
+            "word-b3-177"
+          ],
+          "grammarPointIds": [
+            "gp-b3-033"
+          ]
+        },
+        {
+          "id": "b3-l34",
+          "lesson": 34,
+          "title": "مُرَاجَعَة",
+          "titleEn": "Comprehensive Review",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-113",
+            "word-b3-123",
+            "word-b3-143",
+            "word-b3-158",
+            "word-b3-168"
+          ],
+          "grammarPointIds": [
+            "gp-b3-021",
+            "gp-b3-023",
+            "gp-b3-027",
+            "gp-b3-030",
+            "gp-b3-032"
+          ]
+        },
+        {
+          "id": "b3-l35",
+          "lesson": 35,
+          "title": "النِّسْبَة",
+          "titleEn": "Relative Adjectives (Nisbah)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-261",
+            "word-b3-262",
+            "word-b3-263",
+            "word-b3-264",
+            "word-b3-265",
+            "word-b3-266"
+          ],
+          "grammarPointIds": [
+            "gp-b3-034"
+          ]
+        },
+        {
+          "id": "b3-l36",
+          "lesson": 36,
+          "title": "أُسْلُوبُ الْمَدْحِ وَالذَّمّ",
+          "titleEn": "Style of Praise and Blame",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-267",
+            "word-b3-268",
+            "word-b3-269",
+            "word-b3-270",
+            "word-b3-271",
+            "word-b3-272"
+          ],
+          "grammarPointIds": [
+            "gp-b3-035"
+          ]
+        },
+        {
+          "id": "b3-l37",
+          "lesson": 37,
+          "title": "النُّدْبَةُ وَالاِسْتِغَاثَة",
+          "titleEn": "Lamentation and Seeking Help",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-273",
+            "word-b3-274",
+            "word-b3-275",
+            "word-b3-276",
+            "word-b3-277",
+            "word-b3-278"
+          ],
+          "grammarPointIds": [
+            "gp-b3-036"
+          ]
+        },
+        {
+          "id": "b3-l38",
+          "lesson": 38,
+          "title": "الاسْمُ الْمَقْصُورُ وَالْمَنْقُوص",
+          "titleEn": "Shortened and Defective Nouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-279",
+            "word-b3-280",
+            "word-b3-281",
+            "word-b3-282",
+            "word-b3-283",
+            "word-b3-284"
+          ],
+          "grammarPointIds": [
+            "gp-b3-037"
+          ]
+        },
+        {
+          "id": "b3-l39",
+          "lesson": 39,
+          "title": "الاسْمُ الْمَمْدُود",
+          "titleEn": "Extended Nouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-285",
+            "word-b3-286",
+            "word-b3-287",
+            "word-b3-288",
+            "word-b3-289",
+            "word-b3-290"
+          ],
+          "grammarPointIds": [
+            "gp-b3-038"
+          ]
+        },
+        {
+          "id": "b3-l40",
+          "lesson": 40,
+          "title": "الأَفْعَالُ الْجَامِدَة",
+          "titleEn": "Frozen (Invariable) Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-291",
+            "word-b3-292",
+            "word-b3-293",
+            "word-b3-294",
+            "word-b3-295",
+            "word-b3-296"
+          ],
+          "grammarPointIds": [
+            "gp-b3-039"
+          ]
+        },
+        {
+          "id": "b3-l41",
+          "lesson": 41,
+          "title": "أَفْعَالُ الْمُقَارَبَة",
+          "titleEn": "Verbs of Imminence",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-297",
+            "word-b3-298",
+            "word-b3-299",
+            "word-b3-300",
+            "word-b3-301",
+            "word-b3-302"
+          ],
+          "grammarPointIds": [
+            "gp-b3-044",
+            "gp-b3-045"
+          ]
+        },
+        {
+          "id": "b3-l42",
+          "lesson": 42,
+          "title": "أَفْعَالُ الرَّجَاء",
+          "titleEn": "Verbs of Hope",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-303",
+            "word-b3-304",
+            "word-b3-305",
+            "word-b3-306",
+            "word-b3-307",
+            "word-b3-308"
+          ],
+          "grammarPointIds": [
+            "gp-b3-046",
+            "gp-b3-047"
+          ]
+        },
+        {
+          "id": "b3-l43",
+          "lesson": 43,
+          "title": "أَفْعَالُ الشُّرُوع",
+          "titleEn": "Verbs of Beginning",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-309",
+            "word-b3-310",
+            "word-b3-311",
+            "word-b3-312",
+            "word-b3-313",
+            "word-b3-314"
+          ],
+          "grammarPointIds": [
+            "gp-b3-048",
+            "gp-b3-049"
+          ]
+        },
+        {
+          "id": "b3-l44",
+          "lesson": 44,
+          "title": "الْجُمْلَةُ الْمُرَكَّبَة",
+          "titleEn": "Complex Sentences",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-315",
+            "word-b3-316",
+            "word-b3-317",
+            "word-b3-318",
+            "word-b3-319",
+            "word-b3-320"
+          ],
+          "grammarPointIds": [
+            "gp-b3-050",
+            "gp-b3-051"
+          ]
+        },
+        {
+          "id": "b3-l45",
+          "lesson": 45,
+          "title": "مُرَاجَعَة الْكِتَاب الثَّالِث",
+          "titleEn": "Book 3 Review",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-321",
+            "word-b3-322",
+            "word-b3-323",
+            "word-b3-324",
+            "word-b3-325",
+            "word-b3-326"
+          ],
+          "grammarPointIds": [
+            "gp-b3-052",
+            "gp-b3-053"
+          ]
+        },
+        {
+          "id": "b3-l46",
+          "lesson": 46,
+          "title": "إِعْمَال الْمَصْدَر",
+          "titleEn": "The Masdar Acting as a Verb",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-327",
+            "word-b3-328",
+            "word-b3-329",
+            "word-b3-330",
+            "word-b3-331",
+            "word-b3-332"
+          ],
+          "grammarPointIds": [
+            "gp-b3-054",
+            "gp-b3-055"
+          ]
+        },
+        {
+          "id": "b3-l47",
+          "lesson": 47,
+          "title": "إِعْمَال اسْم الْفَاعِل",
+          "titleEn": "Active Participle Acting as a Verb",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-333",
+            "word-b3-334",
+            "word-b3-335",
+            "word-b3-336",
+            "word-b3-337",
+            "word-b3-338"
+          ],
+          "grammarPointIds": [
+            "gp-b3-056",
+            "gp-b3-057"
+          ]
+        },
+        {
+          "id": "b3-l48",
+          "lesson": 48,
+          "title": "أَسْمَاء الأَفْعَال",
+          "titleEn": "Verbal Nouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-339",
+            "word-b3-340",
+            "word-b3-341",
+            "word-b3-342",
+            "word-b3-343",
+            "word-b3-344"
+          ],
+          "grammarPointIds": [
+            "gp-b3-058",
+            "gp-b3-059"
+          ]
+        },
+        {
+          "id": "b3-l49",
+          "lesson": 49,
+          "title": "مَا وَلَا وَإِنْ الْمُشَبَّهَات بِلَيْسَ",
+          "titleEn": "Particles Resembling Laysa",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-345",
+            "word-b3-346",
+            "word-b3-347",
+            "word-b3-348",
+            "word-b3-349",
+            "word-b3-350"
+          ],
+          "grammarPointIds": [
+            "gp-b3-060",
+            "gp-b3-061"
+          ]
+        },
+        {
+          "id": "b3-l50",
+          "lesson": 50,
+          "title": "نُونَا التَّوْكِيد",
+          "titleEn": "The Nuns of Emphasis",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-351",
+            "word-b3-352",
+            "word-b3-353",
+            "word-b3-354",
+            "word-b3-355",
+            "word-b3-356"
+          ],
+          "grammarPointIds": [
+            "gp-b3-062",
+            "gp-b3-063"
+          ]
+        },
+        {
+          "id": "b3-l51",
+          "lesson": 51,
+          "title": "المَمْنُوع مِنَ الصَّرْف",
+          "titleEn": "Diptotes (Nouns Forbidden from Full Declension)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-357",
+            "word-b3-358",
+            "word-b3-359",
+            "word-b3-360",
+            "word-b3-361",
+            "word-b3-362"
+          ],
+          "grammarPointIds": [
+            "gp-b3-064",
+            "gp-b3-065"
+          ]
+        },
+        {
+          "id": "b3-l52",
+          "lesson": 52,
+          "title": "لَوْ الشَّرْطِيَّة",
+          "titleEn": "The Conditional Particle لو",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-363",
+            "word-b3-364",
+            "word-b3-365",
+            "word-b3-366",
+            "word-b3-367",
+            "word-b3-368"
+          ],
+          "grammarPointIds": [
+            "gp-b3-066",
+            "gp-b3-067"
+          ]
+        },
+        {
+          "id": "b3-l53",
+          "lesson": 53,
+          "title": "لَوْلَا وَلَوْمَا",
+          "titleEn": "Counterfactual Particles لولا and لوما",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-369",
+            "word-b3-370",
+            "word-b3-371",
+            "word-b3-372",
+            "word-b3-373",
+            "word-b3-374"
+          ],
+          "grammarPointIds": [
+            "gp-b3-068",
+            "gp-b3-069"
+          ]
+        },
+        {
+          "id": "b3-l54",
+          "lesson": 54,
+          "title": "إِعْرَاب الجُمَل",
+          "titleEn": "Sentence-Level I'rab (Parsing Sentences)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-375",
+            "word-b3-376",
+            "word-b3-377",
+            "word-b3-378",
+            "word-b3-379",
+            "word-b3-380"
+          ],
+          "grammarPointIds": [
+            "gp-b3-070",
+            "gp-b3-071"
+          ]
+        },
+        {
+          "id": "b3-l55",
+          "lesson": 55,
+          "title": "الإِعْلَال وَالإِبْدَال",
+          "titleEn": "Vowel Changes and Letter Substitution",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-381",
+            "word-b3-382",
+            "word-b3-383",
+            "word-b3-384",
+            "word-b3-385",
+            "word-b3-386"
+          ],
+          "grammarPointIds": [
+            "gp-b3-072",
+            "gp-b3-073"
+          ]
+        },
+        {
+          "id": "b3-l56",
+          "lesson": 56,
+          "title": "المَوَازِين الصَّرْفِيَّة",
+          "titleEn": "Morphological Scales (Word Patterns)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-387",
+            "word-b3-388",
+            "word-b3-389",
+            "word-b3-390",
+            "word-b3-391",
+            "word-b3-392"
+          ],
+          "grammarPointIds": [
+            "gp-b3-074",
+            "gp-b3-075"
+          ]
+        },
+        {
+          "id": "b3-l57",
+          "lesson": 57,
+          "title": "الاسْتِغَاثَة",
+          "titleEn": "Seeking Help (Vocative)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-393",
+            "word-b3-394",
+            "word-b3-395",
+            "word-b3-396",
+            "word-b3-397",
+            "word-b3-398"
+          ],
+          "grammarPointIds": [
+            "gp-b3-076",
+            "gp-b3-077"
+          ]
+        },
+        {
+          "id": "b3-l58",
+          "lesson": 58,
+          "title": "النَّدْبَة",
+          "titleEn": "Lamentation",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-399",
+            "word-b3-400",
+            "word-b3-401",
+            "word-b3-402",
+            "word-b3-403",
+            "word-b3-404"
+          ],
+          "grammarPointIds": [
+            "gp-b3-078",
+            "gp-b3-079"
+          ]
+        },
+        {
+          "id": "b3-l59",
+          "lesson": 59,
+          "title": "التَّرْخِيم",
+          "titleEn": "Shortening in Vocative",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-405",
+            "word-b3-406",
+            "word-b3-407",
+            "word-b3-408",
+            "word-b3-409"
+          ],
+          "grammarPointIds": [
+            "gp-b3-080",
+            "gp-b3-081"
+          ]
+        },
+        {
+          "id": "b3-l60",
+          "lesson": 60,
+          "title": "نِعْمَ وَبِئْسَ",
+          "titleEn": "Verbs of Praise and Blame",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-410",
+            "word-b3-411",
+            "word-b3-412",
+            "word-b3-413",
+            "word-b3-414",
+            "word-b3-415",
+            "word-b3-416"
+          ],
+          "grammarPointIds": [
+            "gp-b3-082",
+            "gp-b3-083"
+          ]
+        },
+        {
+          "id": "b3-l61",
+          "lesson": 61,
+          "title": "حَبَّذَا وَلَا حَبَّذَا",
+          "titleEn": "Approval Expressions",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-417",
+            "word-b3-418",
+            "word-b3-419",
+            "word-b3-420",
+            "word-b3-421"
+          ],
+          "grammarPointIds": [
+            "gp-b3-084",
+            "gp-b3-085"
+          ]
+        },
+        {
+          "id": "b3-l62",
+          "lesson": 62,
+          "title": "الإِغْرَاء وَالتَّحْذِير",
+          "titleEn": "Encouragement and Warning",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-422",
+            "word-b3-423",
+            "word-b3-424",
+            "word-b3-425",
+            "word-b3-426",
+            "word-b3-427"
+          ],
+          "grammarPointIds": [
+            "gp-b3-086",
+            "gp-b3-087"
+          ]
+        },
+        {
+          "id": "b3-l63",
+          "lesson": 63,
+          "title": "الاخْتِصَاص",
+          "titleEn": "Specification Construction",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-428",
+            "word-b3-429",
+            "word-b3-430",
+            "word-b3-431",
+            "word-b3-432"
+          ],
+          "grammarPointIds": [
+            "gp-b3-088",
+            "gp-b3-089"
+          ]
+        },
+        {
+          "id": "b3-l64",
+          "lesson": 64,
+          "title": "أَمَّا الشَّرْطِيَّة",
+          "titleEn": "Conditional Amma",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-433",
+            "word-b3-434",
+            "word-b3-435",
+            "word-b3-436",
+            "word-b3-437"
+          ],
+          "grammarPointIds": [
+            "gp-b3-090",
+            "gp-b3-091"
+          ]
+        },
+        {
+          "id": "b3-l65",
+          "lesson": 65,
+          "title": "المَصْدَر المُؤَوَّل",
+          "titleEn": "Interpreted Masdar",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-438",
+            "word-b3-439",
+            "word-b3-440",
+            "word-b3-441",
+            "word-b3-442",
+            "word-b3-443"
+          ],
+          "grammarPointIds": [
+            "gp-b3-092",
+            "gp-b3-093"
+          ]
+        },
+        {
+          "id": "b3-l66",
+          "lesson": 66,
+          "title": "المَوْصُول الحَرْفِيّ",
+          "titleEn": "Particle-like Relatives",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-444",
+            "word-b3-445",
+            "word-b3-446",
+            "word-b3-447",
+            "word-b3-448",
+            "word-b3-449"
+          ],
+          "grammarPointIds": [
+            "gp-b3-094",
+            "gp-b3-095"
+          ]
+        },
+        {
+          "id": "b3-l67",
+          "lesson": 67,
+          "title": "الإِدْغَام",
+          "titleEn": "Assimilation",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-450",
+            "word-b3-451",
+            "word-b3-452",
+            "word-b3-453",
+            "word-b3-454",
+            "word-b3-455",
+            "word-b3-456",
+            "word-b3-457"
+          ],
+          "grammarPointIds": [
+            "gp-b3-096",
+            "gp-b3-097"
+          ]
+        },
+        {
+          "id": "b3-l68",
+          "lesson": 68,
+          "title": "الإِمَالَة",
+          "titleEn": "Vowel Tilting",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-458",
+            "word-b3-459",
+            "word-b3-460",
+            "word-b3-461",
+            "word-b3-462",
+            "word-b3-463"
+          ],
+          "grammarPointIds": [
+            "gp-b3-098",
+            "gp-b3-099"
+          ]
+        },
+        {
+          "id": "b3-l69",
+          "lesson": 69,
+          "title": "أَحْكَام إِذَنْ",
+          "titleEn": "Rules of Idhan",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-464",
+            "word-b3-465",
+            "word-b3-466",
+            "word-b3-467",
+            "word-b3-468"
+          ],
+          "grammarPointIds": [
+            "gp-b3-100",
+            "gp-b3-101"
+          ]
+        },
+        {
+          "id": "b3-l70",
+          "lesson": 70,
+          "title": "رُبَّ",
+          "titleEn": "The Particle Rubba",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-469",
+            "word-b3-470",
+            "word-b3-471",
+            "word-b3-472",
+            "word-b3-473"
+          ],
+          "grammarPointIds": [
+            "gp-b3-102",
+            "gp-b3-103"
+          ]
+        },
+        {
+          "id": "b3-l71",
+          "lesson": 71,
+          "title": "جَمْع التَّكْسِير - الأَوْزَان",
+          "titleEn": "Broken Plural Patterns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-474",
+            "word-b3-475",
+            "word-b3-476",
+            "word-b3-477",
+            "word-b3-478",
+            "word-b3-479",
+            "word-b3-480",
+            "word-b3-481",
+            "word-b3-482",
+            "word-b3-483"
+          ],
+          "grammarPointIds": [
+            "gp-b3-104",
+            "gp-b3-105"
+          ]
+        },
+        {
+          "id": "b3-l72",
+          "lesson": 72,
+          "title": "هَمْزَة الوَصْل وَالقَطْع",
+          "titleEn": "Connective and Disjunctive Hamza",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-484",
+            "word-b3-485",
+            "word-b3-486",
+            "word-b3-487",
+            "word-b3-488",
+            "word-b3-489",
+            "word-b3-490",
+            "word-b3-491"
+          ],
+          "grammarPointIds": [
+            "gp-b3-106",
+            "gp-b3-107"
+          ]
+        },
+        {
+          "id": "b3-l73",
+          "lesson": 73,
+          "title": "الْجُمَلُ الَّتِي لَا مَحَلَّ لَهَا مِنَ الإِعْرَابِ",
+          "titleEn": "Sentences Without Grammatical Position",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-492",
+            "word-b3-493",
+            "word-b3-494",
+            "word-b3-495",
+            "word-b3-496",
+            "word-b3-497"
+          ],
+          "grammarPointIds": [
+            "gp-b3-108",
+            "gp-b3-109"
+          ]
+        },
+        {
+          "id": "b3-l74",
+          "lesson": 74,
+          "title": "الْحُرُوفُ الزَّائِدَةُ",
+          "titleEn": "Extra (Redundant) Particles",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-498",
+            "word-b3-499",
+            "word-b3-500",
+            "word-b3-501",
+            "word-b3-502"
+          ],
+          "grammarPointIds": [
+            "gp-b3-110",
+            "gp-b3-111"
+          ]
+        },
+        {
+          "id": "b3-l75",
+          "lesson": 75,
+          "title": "عَدَا وَخَلَا وَحَاشَا",
+          "titleEn": "Exception with Ada, Khala, and Hasha",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-503",
+            "word-b3-504",
+            "word-b3-505",
+            "word-b3-506",
+            "word-b3-507"
+          ],
+          "grammarPointIds": [
+            "gp-b3-112",
+            "gp-b3-113"
+          ]
+        },
+        {
+          "id": "b3-l76",
+          "lesson": 76,
+          "title": "الإِلْغَاءُ وَالتَّعْلِيقُ",
+          "titleEn": "Cancellation and Suspension of Heart Verbs",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-508",
+            "word-b3-509",
+            "word-b3-510",
+            "word-b3-511",
+            "word-b3-512"
+          ],
+          "grammarPointIds": [
+            "gp-b3-114",
+            "gp-b3-115"
+          ]
+        },
+        {
+          "id": "b3-l77",
+          "lesson": 77,
+          "title": "لَا سِيَّمَا",
+          "titleEn": "The Particle La Siyyama (Especially)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-513",
+            "word-b3-514",
+            "word-b3-515",
+            "word-b3-516",
+            "word-b3-517"
+          ],
+          "grammarPointIds": [
+            "gp-b3-116",
+            "gp-b3-117"
+          ]
+        },
+        {
+          "id": "b3-l78",
+          "lesson": 78,
+          "title": "مَا الْكَافَّةُ وَالْمَكْفُوفَةُ",
+          "titleEn": "The Neutralizing Ma and Neutralized Particles",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-518",
+            "word-b3-519",
+            "word-b3-520",
+            "word-b3-521",
+            "word-b3-522"
+          ],
+          "grammarPointIds": [
+            "gp-b3-118",
+            "gp-b3-119"
+          ]
+        },
+        {
+          "id": "b3-l79",
+          "lesson": 79,
+          "title": "كَأَيِّنْ وَكَذَا",
+          "titleEn": "The Numerals Ka'ayyin and Kadha",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-523",
+            "word-b3-524",
+            "word-b3-525",
+            "word-b3-526",
+            "word-b3-527"
+          ],
+          "grammarPointIds": [
+            "gp-b3-120",
+            "gp-b3-121"
+          ]
+        },
+        {
+          "id": "b3-l80",
+          "lesson": 80,
+          "title": "النِّدَاءُ الْمُتَقَدِّمُ",
+          "titleEn": "Advanced Vocative Constructions",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-528",
+            "word-b3-529",
+            "word-b3-530",
+            "word-b3-531",
+            "word-b3-532"
+          ],
+          "grammarPointIds": [
+            "gp-b3-122",
+            "gp-b3-123"
+          ]
+        },
+        {
+          "id": "b3-l81",
+          "lesson": 81,
+          "title": "أَسْمَاءُ الْأَصْوَاتِ",
+          "titleEn": "Names of Sounds (Sound Words)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-533",
+            "word-b3-534",
+            "word-b3-535",
+            "word-b3-536",
+            "word-b3-537"
+          ],
+          "grammarPointIds": [
+            "gp-b3-124",
+            "gp-b3-125"
+          ]
+        },
+        {
+          "id": "b3-l82",
+          "lesson": 82,
+          "title": "الْحِكَايَةُ",
+          "titleEn": "Quotation (Hikaya)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-538",
+            "word-b3-539",
+            "word-b3-540",
+            "word-b3-541",
+            "word-b3-542"
+          ],
+          "grammarPointIds": [
+            "gp-b3-126",
+            "gp-b3-127"
+          ]
+        },
+        {
+          "id": "b3-l83",
+          "lesson": 83,
+          "title": "التَّقْدِيمُ وَالتَّأْخِيرُ",
+          "titleEn": "Word Order (Fronting and Delaying)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-543",
+            "word-b3-544",
+            "word-b3-545",
+            "word-b3-546",
+            "word-b3-547"
+          ],
+          "grammarPointIds": [
+            "gp-b3-128",
+            "gp-b3-129"
+          ]
+        },
+        {
+          "id": "b3-l84",
+          "lesson": 84,
+          "title": "أَقْسَامُ الْعَلَمِ",
+          "titleEn": "Types of Proper Nouns",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-548",
+            "word-b3-549",
+            "word-b3-550",
+            "word-b3-551",
+            "word-b3-552"
+          ],
+          "grammarPointIds": [
+            "gp-b3-130",
+            "gp-b3-131"
+          ]
+        },
+        {
+          "id": "b3-l85",
+          "lesson": 85,
+          "title": "ظُرُوفُ الْمَكَانِ الْمُتَقَدِّمَةُ",
+          "titleEn": "Advanced Adverbs of Place",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-553",
+            "word-b3-554",
+            "word-b3-555",
+            "word-b3-556",
+            "word-b3-557"
+          ],
+          "grammarPointIds": [
+            "gp-b3-132",
+            "gp-b3-133"
+          ]
+        },
+        {
+          "id": "b3-l86",
+          "lesson": 86,
+          "title": "أَدَوَاتُ الشَّرْطِ الْمُتَقَدِّمَةُ",
+          "titleEn": "Advanced Conditional Particles",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-558",
+            "word-b3-559",
+            "word-b3-560",
+            "word-b3-561",
+            "word-b3-562"
+          ],
+          "grammarPointIds": [
+            "gp-b3-134",
+            "gp-b3-135"
+          ]
+        },
+        {
+          "id": "b3-l87",
+          "lesson": 87,
+          "title": "تَعَدُّدُ الْخَبَرِ وَأَحْكَامُ الْحَذْفِ",
+          "titleEn": "Multiple Predicates and Deletion Rules",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-563",
+            "word-b3-564",
+            "word-b3-565",
+            "word-b3-566",
+            "word-b3-567"
+          ],
+          "grammarPointIds": [
+            "gp-b3-136",
+            "gp-b3-137"
+          ]
+        },
+        {
+          "id": "b3-l88",
+          "lesson": 88,
+          "title": "التَّحْذِيرُ وَالإِغْرَاءُ",
+          "titleEn": "Warning and Urging",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-568",
+            "word-b3-569",
+            "word-b3-570",
+            "word-b3-571",
+            "word-b3-572"
+          ],
+          "grammarPointIds": [
+            "gp-b3-138",
+            "gp-b3-139"
+          ]
+        },
+        {
+          "id": "b3-l89",
+          "lesson": 89,
+          "title": "الاخْتِصَاصُ",
+          "titleEn": "Specification (الاختصاص)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-573",
+            "word-b3-574",
+            "word-b3-575",
+            "word-b3-576",
+            "word-b3-577"
+          ],
+          "grammarPointIds": [
+            "gp-b3-140",
+            "gp-b3-141"
+          ]
+        },
+        {
+          "id": "b3-l90",
+          "lesson": 90,
+          "title": "ضَمِيرُ الْفَصْلِ",
+          "titleEn": "Separating Pronoun (ضمير الفصل)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-578",
+            "word-b3-579",
+            "word-b3-580",
+            "word-b3-581",
+            "word-b3-582"
+          ],
+          "grammarPointIds": [
+            "gp-b3-142",
+            "gp-b3-143"
+          ]
+        },
+        {
+          "id": "b3-l91",
+          "lesson": 91,
+          "title": "أَمَّا الشَّرْطِيَّةُ",
+          "titleEn": "Conditional أمّا",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-583",
+            "word-b3-584",
+            "word-b3-585",
+            "word-b3-586",
+            "word-b3-587"
+          ],
+          "grammarPointIds": [
+            "gp-b3-144",
+            "gp-b3-145"
+          ]
+        },
+        {
+          "id": "b3-l92",
+          "lesson": 92,
+          "title": "الْمَصْدَرُ الْمُؤَوَّلُ",
+          "titleEn": "Interpreted Masdar (المصدر المؤول)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-588",
+            "word-b3-589",
+            "word-b3-590",
+            "word-b3-591",
+            "word-b3-592"
+          ],
+          "grammarPointIds": [
+            "gp-b3-146",
+            "gp-b3-147"
+          ]
+        },
+        {
+          "id": "b3-l93",
+          "lesson": 93,
+          "title": "الْجُمَلُ الَّتِي لَهَا مَحَلٌّ مِنَ الإِعْرَابِ",
+          "titleEn": "Sentences with Grammatical Position",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-593",
+            "word-b3-594",
+            "word-b3-595",
+            "word-b3-596",
+            "word-b3-597"
+          ],
+          "grammarPointIds": [
+            "gp-b3-148",
+            "gp-b3-149"
+          ]
+        },
+        {
+          "id": "b3-l94",
+          "lesson": 94,
+          "title": "نُونُ الْوِقَايَةِ",
+          "titleEn": "Protective Nun (نون الوقاية)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-598",
+            "word-b3-599",
+            "word-b3-600",
+            "word-b3-601",
+            "word-b3-602"
+          ],
+          "grammarPointIds": [
+            "gp-b3-150",
+            "gp-b3-151"
+          ]
+        },
+        {
+          "id": "b3-l95",
+          "lesson": 95,
+          "title": "أَمِ الْمُتَّصِلَةُ وَالْمُنْقَطِعَةُ",
+          "titleEn": "Connected and Disconnected أم",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-603",
+            "word-b3-604",
+            "word-b3-605",
+            "word-b3-606",
+            "word-b3-607"
+          ],
+          "grammarPointIds": [
+            "gp-b3-152",
+            "gp-b3-153"
+          ]
+        },
+        {
+          "id": "b3-l96",
+          "lesson": 96,
+          "title": "الضَّمِيرُ الْمُسْتَتِرُ",
+          "titleEn": "Hidden Pronouns (الضمير المستتر)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-608",
+            "word-b3-609",
+            "word-b3-610",
+            "word-b3-611",
+            "word-b3-612"
+          ],
+          "grammarPointIds": [
+            "gp-b3-154",
+            "gp-b3-155"
+          ]
+        },
+        {
+          "id": "b3-l97",
+          "lesson": 97,
+          "title": "الْمَبْنِيُّ مِنَ الأَسْمَاءِ",
+          "titleEn": "Indeclinable Nouns (المبني من الأسماء)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-613",
+            "word-b3-614",
+            "word-b3-615",
+            "word-b3-616",
+            "word-b3-617"
+          ],
+          "grammarPointIds": [
+            "gp-b3-156",
+            "gp-b3-157"
+          ]
+        },
+        {
+          "id": "b3-l98",
+          "lesson": 98,
+          "title": "الأَعْدَادُ التَّرْتِيبِيَّةُ",
+          "titleEn": "Ordinal Numbers",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-618",
+            "word-b3-619",
+            "word-b3-620",
+            "word-b3-621",
+            "word-b3-622"
+          ],
+          "grammarPointIds": [
+            "gp-b3-158",
+            "gp-b3-159"
+          ]
+        },
+        {
+          "id": "b3-l99",
+          "lesson": 99,
+          "title": "الْمِائَةُ وَالأَلْفُ وَمَا فَوْقَهُمَا",
+          "titleEn": "Hundreds, Thousands, and Beyond",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-623",
+            "word-b3-624",
+            "word-b3-625",
+            "word-b3-626",
+            "word-b3-627"
+          ],
+          "grammarPointIds": [
+            "gp-b3-160",
+            "gp-b3-161"
+          ]
+        },
+        {
+          "id": "b3-l100",
+          "lesson": 100,
+          "title": "الْعَدَدُ وَالْمَعْدُودُ - قَوَاعِدُ شَامِلَةٌ",
+          "titleEn": "Numbers and Counted Nouns - Comprehensive Rules",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-628",
+            "word-b3-629",
+            "word-b3-630",
+            "word-b3-631",
+            "word-b3-632"
+          ],
+          "grammarPointIds": [
+            "gp-b3-162",
+            "gp-b3-163"
+          ]
+        },
+        {
+          "id": "b3-l101",
+          "lesson": 101,
+          "title": "الْجُمَلُ الَّتِي لَا مَحَلَّ لَهَا مِنَ الإِعْرَابِ",
+          "titleEn": "Sentences Without Grammatical Position",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-633",
+            "word-b3-634",
+            "word-b3-635",
+            "word-b3-636",
+            "word-b3-637"
+          ],
+          "grammarPointIds": [
+            "gp-b3-164",
+            "gp-b3-165"
+          ]
+        },
+        {
+          "id": "b3-l102",
+          "lesson": 102,
+          "title": "الاسْتِثْنَاءُ بِـ عَدَا وَخَلَا وَحَاشَا",
+          "titleEn": "Exception with عدا، خلا، حاشا",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-638",
+            "word-b3-639",
+            "word-b3-640",
+            "word-b3-641",
+            "word-b3-642"
+          ],
+          "grammarPointIds": [
+            "gp-b3-166",
+            "gp-b3-167"
+          ]
+        },
+        {
+          "id": "b3-l103",
+          "lesson": 103,
+          "title": "الْحُرُوفُ الزَّائِدَةُ",
+          "titleEn": "Extra (Emphatic) Particles",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-643",
+            "word-b3-644",
+            "word-b3-645",
+            "word-b3-646",
+            "word-b3-647"
+          ],
+          "grammarPointIds": [
+            "gp-b3-168",
+            "gp-b3-169"
+          ]
+        },
+        {
+          "id": "b3-l104",
+          "lesson": 104,
+          "title": "أَفْعَالُ الْقُلُوبِ - الإِلْغَاءُ وَالتَّعْلِيقُ",
+          "titleEn": "Verbs of Heart - Cancellation and Suspension",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-648",
+            "word-b3-649",
+            "word-b3-650",
+            "word-b3-651",
+            "word-b3-652"
+          ],
+          "grammarPointIds": [
+            "gp-b3-170",
+            "gp-b3-171"
+          ]
+        },
+        {
+          "id": "b3-l105",
+          "lesson": 105,
+          "title": "لَا سِيَّمَا",
+          "titleEn": "لا سيّما - Especially/Particularly",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-653",
+            "word-b3-654",
+            "word-b3-655",
+            "word-b3-656",
+            "word-b3-657"
+          ],
+          "grammarPointIds": [
+            "gp-b3-172",
+            "gp-b3-173"
+          ]
+        },
+        {
+          "id": "b3-l106",
+          "lesson": 106,
+          "title": "مَا الْكَافَّةُ وَالْمَكْفُوفَةُ",
+          "titleEn": "Neutralizing ما (ما الكافّة)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-658",
+            "word-b3-659",
+            "word-b3-660",
+            "word-b3-661",
+            "word-b3-662"
+          ],
+          "grammarPointIds": [
+            "gp-b3-174",
+            "gp-b3-175"
+          ]
+        },
+        {
+          "id": "b3-l107",
+          "lesson": 107,
+          "title": "النِّدَاءُ الْمُتَقَدِّمُ",
+          "titleEn": "Advanced Vocative Constructions",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-663",
+            "word-b3-664",
+            "word-b3-665",
+            "word-b3-666",
+            "word-b3-667"
+          ],
+          "grammarPointIds": [
+            "gp-b3-176",
+            "gp-b3-177"
+          ]
+        },
+        {
+          "id": "b3-l108",
+          "lesson": 108,
+          "title": "التَّقْدِيمُ وَالتَّأْخِيرُ",
+          "titleEn": "Word Order - Fronting and Delaying",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-668",
+            "word-b3-669",
+            "word-b3-670",
+            "word-b3-671",
+            "word-b3-672"
+          ],
+          "grammarPointIds": [
+            "gp-b3-178",
+            "gp-b3-179"
+          ]
+        },
+        {
+          "id": "b3-l109",
+          "lesson": 109,
+          "title": "كَأَيِّنْ وَكَذَا",
+          "titleEn": "كأيّن and كذا - Quantity Expressions",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-673",
+            "word-b3-674",
+            "word-b3-675",
+            "word-b3-676",
+            "word-b3-677"
+          ],
+          "grammarPointIds": [
+            "gp-b3-180",
+            "gp-b3-181"
+          ]
+        },
+        {
+          "id": "b3-l110",
+          "lesson": 110,
+          "title": "أَسْمَاءُ الأَصْوَاتِ",
+          "titleEn": "Names of Sounds (أسماء الأصوات)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-678",
+            "word-b3-679",
+            "word-b3-680",
+            "word-b3-681",
+            "word-b3-682"
+          ],
+          "grammarPointIds": [
+            "gp-b3-182",
+            "gp-b3-183"
+          ]
+        },
+        {
+          "id": "b3-l111",
+          "lesson": 111,
+          "title": "الْحِكَايَة",
+          "titleEn": "Quotation (الحكاية)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-683",
+            "word-b3-684",
+            "word-b3-685",
+            "word-b3-686",
+            "word-b3-687"
+          ],
+          "grammarPointIds": [
+            "gp-b3-184",
+            "gp-b3-185"
+          ]
+        },
+        {
+          "id": "b3-l112",
+          "lesson": 112,
+          "title": "أَقْسَامُ الْعَلَم",
+          "titleEn": "Types of Proper Nouns (أقسام العلم)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-688",
+            "word-b3-689",
+            "word-b3-690",
+            "word-b3-691",
+            "word-b3-692"
+          ],
+          "grammarPointIds": [
+            "gp-b3-186",
+            "gp-b3-187"
+          ]
+        },
+        {
+          "id": "b3-l113",
+          "lesson": 113,
+          "title": "الْوَقْف وَالابْتِدَاء",
+          "titleEn": "Pause and Continuation (الوقف والابتداء)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-693",
+            "word-b3-694",
+            "word-b3-695",
+            "word-b3-696",
+            "word-b3-697"
+          ],
+          "grammarPointIds": [
+            "gp-b3-188",
+            "gp-b3-189"
+          ]
+        },
+        {
+          "id": "b3-l114",
+          "lesson": 114,
+          "title": "الْمُطَابَقَة الْمُتَقَدِّمَة",
+          "titleEn": "Advanced Agreement Rules (المطابقة المتقدمة)",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-698",
+            "word-b3-699",
+            "word-b3-700",
+            "word-b3-701",
+            "word-b3-702"
+          ],
+          "grammarPointIds": [
+            "gp-b3-190",
+            "gp-b3-191"
+          ]
+        },
+        {
+          "id": "b3-l115",
+          "lesson": 115,
+          "title": "تَعَدُّد الْخَبَر وَأَحْكَام الْحَذْف",
+          "titleEn": "Multiple Predicates and Deletion Rules",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-703",
+            "word-b3-704",
+            "word-b3-705",
+            "word-b3-706",
+            "word-b3-707"
+          ],
+          "grammarPointIds": [
+            "gp-b3-192",
+            "gp-b3-193"
+          ]
+        },
+        {
+          "id": "b3-l116",
+          "lesson": 116,
+          "title": "تَوْسِعَة نِعْمَ وَبِئْسَ وَالتَّعَجُّب",
+          "titleEn": "Expansion of نعم/بئس and تعجب",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-708",
+            "word-b3-709",
+            "word-b3-710",
+            "word-b3-711",
+            "word-b3-712"
+          ],
+          "grammarPointIds": [
+            "gp-b3-194",
+            "gp-b3-195"
+          ]
+        },
+        {
+          "id": "b3-l117",
+          "lesson": 117,
+          "title": "الاستثناء المتقدم",
+          "titleEn": "Advanced Exception",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-713",
+            "word-b3-714",
+            "word-b3-715",
+            "word-b3-716",
+            "word-b3-717"
+          ],
+          "grammarPointIds": [
+            "gp-b3-196",
+            "gp-b3-197"
+          ]
+        },
+        {
+          "id": "b3-l118",
+          "lesson": 118,
+          "title": "الحروف الخاصة المتقدمة",
+          "titleEn": "Advanced Special Particles",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-718",
+            "word-b3-719",
+            "word-b3-720",
+            "word-b3-721",
+            "word-b3-722"
+          ],
+          "grammarPointIds": [
+            "gp-b3-198",
+            "gp-b3-199"
+          ]
+        },
+        {
+          "id": "b3-l119",
+          "lesson": 119,
+          "title": "أَدَوَاتُ الشَّرْطِ الْمُتَقَدِّمَة",
+          "titleEn": "Advanced Conditional Particles",
+          "exerciseCount": 12,
+          "vocabularyIds": [
+            "word-b3-723",
+            "word-b3-724",
+            "word-b3-725",
+            "word-b3-726",
+            "word-b3-727"
+          ],
+          "grammarPointIds": [
+            "gp-b3-200",
+            "gp-b3-201"
+          ]
+        }
+      ]
+    }
+  }
+}

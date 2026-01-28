@@ -1,0 +1,183 @@
+{
+  "id": "b3-l57",
+  "book": 3,
+  "lesson": 57,
+  "title": "الاسْتِغَاثَة",
+  "titleEn": "Seeking Help (Vocative)",
+  "description": "Learn about الاستغاثة, a special form of النداء (vocative) used to seek help or support, formed with يَا followed by a noun with لام: يَا لَلَّهِ، يَا لَلْمُسْلِمِينَ.",
+  "vocabulary": ["word-b3-393", "word-b3-394", "word-b3-395", "word-b3-396", "word-b3-397", "word-b3-398"],
+  "grammarPoints": ["gp-b3-076", "gp-b3-077"],
+  "notes": [
+    {
+      "title": "What is الاستغاثة?",
+      "titleArabic": "تعريف الاستغاثة",
+      "content": [
+        "الاستغاثة is a special form of the vocative (النداء) used to call upon someone for help, support, or rescue. It expresses urgent need and appeals to the one being called.",
+        "It consists of the particle يَا followed by the one called upon (المستغاث به) with a لام, then often followed by the cause of distress (المستغاث له/منه) also with a لام."
+      ],
+      "keyPoints": [
+        "الاستغاثة = seeking help through vocative",
+        "المستغاث به = the one called upon for help",
+        "المستغاث له/منه = the cause or victim",
+        "Always uses يَا as the vocative particle"
+      ],
+      "examples": [
+        { "arabic": "يَا لَلَّهِ!", "english": "O Allah! (calling for God's help)" },
+        { "arabic": "يَا لَلْمُسْلِمِينَ!", "english": "O Muslims! (calling Muslims for help)" },
+        { "arabic": "يَا لَلرِّجَالِ لِلنِّسَاءِ!", "english": "O men! (help) the women!" },
+        { "arabic": "يَا لَقَوْمِي مِنَ الظُّلْمِ!", "english": "O my people! (save us) from oppression!" }
+      ]
+    },
+    {
+      "title": "The لام of الاستغاثة",
+      "titleArabic": "لام الاستغاثة",
+      "content": [
+        "The المستغاث به (one called for help) takes a لام that is مفتوحة (with fatha): يَا لَزَيْدٍ. This لام is a حرف جر (preposition).",
+        "The المستغاث له (the one being helped) takes a لام that is مكسورة (with kasra): يَا لَزَيْدٍ لِعَمْرٍو - 'O Zayd! (help) Amr!'"
+      ],
+      "keyPoints": [
+        "لام المستغاث به: مفتوحة (يَا لَزَيْدٍ)",
+        "لام المستغاث له: مكسورة (لِعَمْرٍو)",
+        "المستغاث به: مجرور بلام مفتوحة",
+        "Exception: If المستغاث به has ال, the لام merges: يَا لَلَّهِ"
+      ],
+      "examples": [
+        { "arabic": "يَا لَخَالِدٍ لِلْمَظْلُومِ!", "english": "O Khalid! (help) the oppressed!" },
+        { "arabic": "يَا لَلْأُمَرَاءِ لِلْفُقَرَاءِ!", "english": "O princes! (help) the poor!" },
+        { "arabic": "يَا لَلَّهِ لِلْإِسْلَامِ!", "english": "O Allah! (save) Islam!" },
+        { "arabic": "يَا لَقَوْمِي لِهَذَا الْأَمْرِ!", "english": "O my people! (attend to) this matter!" }
+      ]
+    },
+    {
+      "title": "الاستغاثة with مِنْ",
+      "titleArabic": "الاستغاثة بـ مِنْ",
+      "content": [
+        "When seeking help against something (المستغاث منه), the preposition مِنْ is used instead of لِ. This indicates the source of harm or the enemy.",
+        "يَا لَلْمُسْلِمِينَ مِنَ الْكُفَّارِ - 'O Muslims! (help against) the disbelievers!'"
+      ],
+      "keyPoints": [
+        "مِنْ = against, from (the source of harm)",
+        "يَا لَزَيْدٍ مِنْ عَمْرٍو = O Zayd! (help me against) Amr",
+        "Expresses seeking help from an oppressor/enemy",
+        "The structure: يَا + لام مفتوحة + مستغاث به + مِنْ + مستغاث منه"
+      ],
+      "examples": [
+        { "arabic": "يَا لَلَّهِ مِنَ الظُّلْمِ!", "english": "O Allah! (save us) from oppression!" },
+        { "arabic": "يَا لَلْمُؤْمِنِينَ مِنَ الْمُنَافِقِينَ!", "english": "O believers! (help against) the hypocrites!" },
+        { "arabic": "يَا لَلنَّاسِ مِنْ هَذَا الْجَوْرِ!", "english": "O people! (save us) from this tyranny!" },
+        { "arabic": "يَا لَلْعَرَبِ مِنَ الْفِتْنَةِ!", "english": "O Arabs! (protect us) from discord!" }
+      ]
+    },
+    {
+      "title": "Classical Examples and Usage",
+      "titleArabic": "شواهد من القرآن والشعر",
+      "content": [
+        "الاستغاثة appears in classical Arabic poetry and prose. The poets used it to express deep emotional appeals for help in times of distress.",
+        "In the Quran, related vocative expressions appear, though the classical الاستغاثة form with double لام is primarily found in poetry and classical prose."
+      ],
+      "keyPoints": [
+        "Common in classical Arabic poetry",
+        "Expresses urgency and deep emotional need",
+        "Used in situations of war, oppression, calamity",
+        "The المستغاث به must be capable of helping"
+      ],
+      "examples": [
+        { "arabic": "يَا لَلرِّجَالِ لِيَوْمِ الْحَرْبِ!", "english": "O men! (rise for) the day of battle!" },
+        { "arabic": "يَا لَبَكْرٍ أَغِيثُوا أَخَاكُمْ!", "english": "O Bakr tribe! Help your brother!" },
+        { "arabic": "يَا لَقُرَيْشٍ لِمُحَمَّدٍ!", "english": "O Quraysh! (what will you do about) Muhammad!" },
+        { "arabic": "يَا لَلْعُقَلَاءِ مِنَ الْجُهَّالِ!", "english": "O wise ones! (save us) from the ignorant!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l57-ex01",
+      "type": "fill-blank",
+      "prompt": "يَا _____! (ندعو الله للاستغاثة)",
+      "promptEn": "O _____! (calling upon Allah for help)",
+      "answer": "لَلَّهِ",
+      "itemIds": ["word-b3-393"]
+    },
+    {
+      "id": "b3-l57-ex02",
+      "type": "fill-blank",
+      "prompt": "يَا لَلْمُسْلِمِينَ _____الْمَظْلُومِ! (لام المستغاث له)",
+      "promptEn": "O Muslims! (help) the oppressed! (insert correct لام)",
+      "answer": "لِ",
+      "itemIds": ["word-b3-394"]
+    },
+    {
+      "id": "b3-l57-ex03",
+      "type": "fill-blank",
+      "prompt": "يَا لَلنَّاسِ _____ الظُّلْمِ! (للاستغاثة ضد شيء)",
+      "promptEn": "O people! (save us) from oppression! (preposition for 'against')",
+      "answer": "مِنَ",
+      "itemIds": ["word-b3-395"]
+    },
+    {
+      "id": "b3-l57-ex04",
+      "type": "fill-blank",
+      "prompt": "لام المستغاث به تكون _____ (الحركة)",
+      "promptEn": "The لام of المستغاث به has _____ (the vowel)",
+      "answer": "مَفْتُوحَة",
+      "itemIds": ["word-b3-396"]
+    },
+    {
+      "id": "b3-l57-ex05",
+      "type": "fill-blank",
+      "prompt": "لام المستغاث له تكون _____",
+      "promptEn": "The لام of المستغاث له has _____",
+      "answer": "مَكْسُورَة",
+      "itemIds": ["word-b3-397"]
+    },
+    {
+      "id": "b3-l57-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "O Khalid! (help) the poor!",
+      "answer": "يَا لَخَالِدٍ لِلْفُقَرَاءِ!",
+      "itemIds": ["word-b3-393"]
+    },
+    {
+      "id": "b3-l57-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "O believers! (help against) the enemies!",
+      "answer": "يَا لَلْمُؤْمِنِينَ مِنَ الْأَعْدَاءِ!",
+      "itemIds": ["word-b3-394"]
+    },
+    {
+      "id": "b3-l57-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "O Allah! (save) Islam!",
+      "answer": "يَا لَلَّهِ لِلْإِسْلَامِ!",
+      "itemIds": ["word-b3-395"]
+    },
+    {
+      "id": "b3-l57-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الاستغاثة",
+      "answer": "seeking help (vocative form)",
+      "itemIds": ["word-b3-393"]
+    },
+    {
+      "id": "b3-l57-ex10",
+      "type": "word-to-meaning",
+      "prompt": "المستغاث به",
+      "answer": "the one called upon for help",
+      "itemIds": ["word-b3-396"]
+    },
+    {
+      "id": "b3-l57-ex11",
+      "type": "meaning-to-word",
+      "prompt": "the cause/person being helped",
+      "answer": "المُسْتَغَاث لَهُ",
+      "itemIds": ["word-b3-397"]
+    },
+    {
+      "id": "b3-l57-ex12",
+      "type": "meaning-to-word",
+      "prompt": "the source of harm (being called against)",
+      "answer": "المُسْتَغَاث مِنْهُ",
+      "itemIds": ["word-b3-398"]
+    }
+  ]
+}

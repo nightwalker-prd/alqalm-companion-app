@@ -1,0 +1,224 @@
+{
+  "id": "b3-l89",
+  "book": 3,
+  "lesson": 89,
+  "title": "الاخْتِصَاصُ",
+  "titleEn": "Specification (Ikhtisas)",
+  "description": "Learn about الاختصاص - a construction where a noun in accusative specifies and limits a preceding pronoun, as in نَحْنُ العربَ نُكرمُ الضيفَ.",
+  "vocabulary": ["word-b3-573", "word-b3-574", "word-b3-575", "word-b3-576", "word-b3-577"],
+  "grammarPoints": ["gp-b3-140", "gp-b3-141"],
+  "notes": [
+    {
+      "title": "What is الاختصاص (Specification)?",
+      "titleArabic": "مَا هُوَ الاخْتِصَاصُ؟",
+      "content": [
+        "الاخْتِصَاص is a grammatical construction where a noun in the accusative case follows a first-person pronoun (نَحْنُ or أَنَا) to specify and limit who is meant. It adds pride, humility, or clarification.",
+        "The specified noun is called الْمَخْصُوص (the specified) and is مَنْصُوب (accusative) as the object of a deleted verb أَخُصُّ or أَعْنِي (I mean, I specify)."
+      ],
+      "keyPoints": [
+        "الاخْتِصَاص: specification after pronoun",
+        "Follows نَحْنُ or أَنَا",
+        "Noun is مَنْصُوب (accusative)",
+        "Deleted verb: أَخُصُّ or أَعْنِي"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ - الْعَرَبَ - نُكْرِمُ الضَّيْفَ", "english": "We - Arabs - honor the guest" },
+        { "arabic": "نَحْنُ - الْمُسْلِمِينَ - نُؤْمِنُ بِاللهِ", "english": "We - Muslims - believe in Allah" },
+        { "arabic": "أَنَا - الطَّالِبَ - أَجْتَهِدُ", "english": "I - the student - strive hard" },
+        { "arabic": "نَحْنُ - مَعْشَرَ الأَنْبِيَاءِ - لَا نُورَثُ", "english": "We - the company of prophets - are not inherited from" }
+      ]
+    },
+    {
+      "title": "Forms of الاختصاص",
+      "titleArabic": "صِيَغُ الاخْتِصَاصِ",
+      "content": [
+        "The مَخْصُوص (specified noun) can take several forms: 1) With أَلْ (definite article): نَحْنُ الْعَرَبَ, 2) With إضافة: نَحْنُ مَعْشَرَ الأَنْبِيَاءِ, 3) With أَيُّهَا/أَيَّتُهَا: نَحْنُ أَيُّهَا الطُّلَّابُ.",
+        "The construction always begins with a first-person pronoun (متكلم). Using second or third person pronouns is not الاختصاص but would be نِدَاء (vocative) or something else."
+      ],
+      "keyPoints": [
+        "With أَلْ: نَحْنُ الْعَرَبَ",
+        "With إضافة: نَحْنُ مَعْشَرَ الأَنْبِيَاءِ",
+        "With أَيُّهَا: نَحْنُ أَيُّهَا الطُّلَّابُ",
+        "Must use first-person pronoun"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ الْمُعَلِّمِينَ نَسْعَى لِلْخَيْرِ", "english": "We teachers seek goodness (with أَلْ)" },
+        { "arabic": "نَحْنُ مَعَاشِرَ الْعُلَمَاءِ نَخْدُمُ الأُمَّةَ", "english": "We scholars serve the nation (with إضافة)" },
+        { "arabic": "نَحْنُ أَيُّهَا النَّاسُ ضُعَفَاءُ", "english": "We, O people, are weak (with أَيُّهَا)" },
+        { "arabic": "أَنَا ابْنَ الْكِرَامِ أَصُونُ الْعَهْدَ", "english": "I, son of nobles, keep the covenant" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis (الإعراب)",
+      "titleArabic": "الإِعْرَابُ",
+      "content": [
+        "The مَخْصُوص is مَفْعُول بِهِ لِفِعْلٍ مَحْذُوفٍ وُجُوبًا (object of an obligatorily deleted verb). The estimated verb is أَخُصُّ (I specify) or أَعْنِي (I mean).",
+        "The pronoun (نَحْنُ/أَنَا) is مُبْتَدَأ, and the verb after الاختصاص is the خَبَر (or contains the خَبَر). The الاختصاص phrase is parenthetical (جُمْلَة اعْتِرَاضِيَّة)."
+      ],
+      "keyPoints": [
+        "المَخْصُوص: مَفْعُول بِهِ لِفِعْلٍ مَحْذُوف",
+        "Deleted verb: أَخُصُّ or أَعْنِي",
+        "نَحْنُ: مُبْتَدَأ",
+        "الاختصاص: parenthetical phrase"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ: ضَمِيرٌ مُنْفَصِلٌ مَبْنِيٌّ فِي مَحَلِّ رَفْعٍ مُبْتَدَأ", "english": "نَحْنُ: separate pronoun, in place of nominative, subject" },
+        { "arabic": "الْعَرَبَ: مَفْعُول بِهِ لِفِعْلٍ مَحْذُوفٍ تَقْدِيرُهُ أَخُصُّ", "english": "الْعَرَبَ: object of deleted verb estimated as أَخُصُّ" },
+        { "arabic": "نُكْرِمُ: فِعْلٌ مُضَارِعٌ وَالْفَاعِلُ ضَمِيرٌ مُسْتَتِر (نَحْنُ)", "english": "نُكْرِمُ: present verb, subject is hidden pronoun" },
+        { "arabic": "الْجُمْلَة الْفِعْلِيَّة فِي مَحَلِّ رَفْعٍ خَبَر", "english": "The verbal sentence is in place of nominative, predicate" }
+      ]
+    },
+    {
+      "title": "Purpose and Usage",
+      "titleArabic": "الْغَرَضُ وَالاسْتِعْمَالُ",
+      "content": [
+        "الاختصاص serves several rhetorical purposes: 1) الْفَخْر (pride): نَحْنُ الْعَرَبَ أَهْلُ الْكَرَمِ, 2) التَّوَاضُع (humility): نَحْنُ الْعَبِيدَ نَرْجُو رَحْمَتَكَ, 3) التَّوْضِيح (clarification): specifying which group is meant.",
+        "It is common in speeches, poetry, and religious texts where the speaker wants to identify with a group while making a statement about that group's characteristics or actions."
+      ],
+      "keyPoints": [
+        "الْفَخْر: expressing pride",
+        "التَّوَاضُع: expressing humility",
+        "التَّوْضِيح: clarifying identity",
+        "Common in speeches and poetry"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ - قُرَيْشًا - سَادَةُ الْعَرَبِ (فَخْر)", "english": "We - Quraysh - are chiefs of Arabs (pride)" },
+        { "arabic": "نَحْنُ - الْفُقَرَاءَ - نَسْأَلُ اللهَ (تَوَاضُع)", "english": "We - the poor - ask Allah (humility)" },
+        { "arabic": "نَحْنُ - أَهْلَ الْبَيْتِ - نُحِبُّ الْخَيْرَ (تَوْضِيح)", "english": "We - people of the house - love goodness (clarification)" },
+        { "arabic": "أَنَا - الْمُذْنِبَ - أَسْتَغْفِرُ اللهَ (تَوَاضُع)", "english": "I - the sinner - seek Allah's forgiveness (humility)" }
+      ]
+    },
+    {
+      "title": "Difference from النداء (Vocative)",
+      "titleArabic": "الْفَرْقُ بَيْنَ الاخْتِصَاصِ وَالنِّدَاءِ",
+      "content": [
+        "الاختصاص differs from النداء in several ways: 1) الاختصاص uses first-person pronouns only (نَحْنُ/أَنَا), while النداء typically addresses second person, 2) The specified noun in الاختصاص is the speaker themselves, not someone being called.",
+        "When أَيُّهَا appears after نَحْنُ, it looks like vocative but is actually الاختصاص. Compare: نَحْنُ أَيُّهَا الطُّلَّابُ نَجْتَهِدُ (specification) vs. يَا أَيُّهَا الطُّلَّابُ اجْتَهِدُوا (vocative)."
+      ],
+      "keyPoints": [
+        "الاختصاص: first-person only",
+        "النداء: typically second-person",
+        "الاختصاص: speaker specifies themselves",
+        "النداء: calling someone else"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ أَيُّهَا الطُّلَّابُ نَجْتَهِدُ (اخْتِصَاص)", "english": "We students strive (specification)" },
+        { "arabic": "يَا أَيُّهَا الطُّلَّابُ اجْتَهِدُوا (نِدَاء)", "english": "O students, strive! (vocative)" },
+        { "arabic": "نَحْنُ الْمُؤْمِنِينَ نَصْبِرُ (اخْتِصَاص)", "english": "We believers are patient (specification)" },
+        { "arabic": "يَا أَيُّهَا الْمُؤْمِنُونَ اصْبِرُوا (نِدَاء)", "english": "O believers, be patient! (vocative)" }
+      ]
+    },
+    {
+      "title": "Classical Examples",
+      "titleArabic": "أَمْثِلَةٌ مِنَ التُّرَاثِ",
+      "content": [
+        "الاختصاص appears frequently in hadith and classical Arabic. The Prophet ﷺ said: نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لَا نُورَثُ (We, the company of prophets, are not inherited from).",
+        "In poetry, it is used for dramatic effect and to establish group identity. Grammarians like Ibn Malik devoted sections to it in their works, considering it essential for understanding classical texts."
+      ],
+      "keyPoints": [
+        "Common in Hadith and classical texts",
+        "نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ: famous example",
+        "Used in poetry for effect",
+        "Essential for classical Arabic"
+      ],
+      "examples": [
+        { "arabic": "نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لَا نُورَثُ", "english": "We, the company of prophets, are not inherited from (Hadith)" },
+        { "arabic": "إِنَّا مَعَاشِرَ الأَنْبِيَاءِ تَنَامُ أَعْيُنُنَا وَلَا تَنَامُ قُلُوبُنَا", "english": "We prophets - our eyes sleep but our hearts do not (Hadith)" },
+        { "arabic": "نَحْنُ بَنِي ضَبَّةَ أَصْحَابُ الْجَمَلِ", "english": "We, sons of Dabba, are companions of the camel" },
+        { "arabic": "أَنَا ابْنَ جَلَا وَطَلَّاعَ الثَّنَايَا", "english": "I am son of prominence, climber of heights (poetry)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l89-ex01",
+      "type": "fill-blank",
+      "prompt": "نَحْنُ - الْعَرَبَ - نُكْرِمُ الضَّيْفَ: هَذَا أُسْلُوبُ _____",
+      "promptEn": "نَحْنُ - الْعَرَبَ - نُكْرِمُ الضَّيْفَ: this is the style of _____",
+      "answer": "الاخْتِصَاصِ",
+      "itemIds": ["word-b3-573"]
+    },
+    {
+      "id": "b3-l89-ex02",
+      "type": "fill-blank",
+      "prompt": "الاسْمُ الْمَنْصُوبُ فِي الاخْتِصَاصِ يُسَمَّى: _____",
+      "promptEn": "The accusative noun in الاختصاص is called: _____",
+      "answer": "الْمَخْصُوصَ",
+      "itemIds": ["word-b3-574"]
+    },
+    {
+      "id": "b3-l89-ex03",
+      "type": "fill-blank",
+      "prompt": "الْفِعْلُ الْمَحْذُوفُ فِي الاخْتِصَاصِ تَقْدِيرُهُ: _____ أَوْ أَعْنِي",
+      "promptEn": "The deleted verb in الاختصاص is estimated as: _____ or أَعْنِي",
+      "answer": "أَخُصُّ",
+      "itemIds": ["word-b3-575"]
+    },
+    {
+      "id": "b3-l89-ex04",
+      "type": "fill-blank",
+      "prompt": "الاخْتِصَاصُ يَأْتِي بَعْدَ ضَمِيرِ _____ فَقَطْ (نَحْنُ أَوْ أَنَا)",
+      "promptEn": "الاختصاص comes only after _____ person pronouns (نَحْنُ or أَنَا)",
+      "answer": "الْمُتَكَلِّمِ",
+      "itemIds": ["word-b3-576"]
+    },
+    {
+      "id": "b3-l89-ex05",
+      "type": "fill-blank",
+      "prompt": "مِنْ أَغْرَاضِ الاخْتِصَاصِ: الْفَخْرُ وَالتَّوَاضُعُ وَ_____",
+      "promptEn": "Among purposes of الاختصاص: pride, humility, and _____",
+      "answer": "التَّوْضِيحُ",
+      "itemIds": ["word-b3-577"]
+    },
+    {
+      "id": "b3-l89-ex06",
+      "type": "fill-blank",
+      "prompt": "نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لَا نُورَثُ - 'مَعَاشِرَ' هُنَا: _____ بِهِ لِفِعْلٍ مَحْذُوف",
+      "promptEn": "نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لَا نُورَثُ - 'مَعَاشِرَ' here is: _____ of a deleted verb",
+      "answer": "مَفْعُولٌ",
+      "itemIds": ["word-b3-573"]
+    },
+    {
+      "id": "b3-l89-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الاخْتِصَاصُ",
+      "answer": "Specification (accusative noun specifying a first-person pronoun)",
+      "itemIds": ["word-b3-573"]
+    },
+    {
+      "id": "b3-l89-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْمَخْصُوصُ",
+      "answer": "The specified noun (the accusative noun in الاختصاص)",
+      "itemIds": ["word-b3-574"]
+    },
+    {
+      "id": "b3-l89-ex09",
+      "type": "word-to-meaning",
+      "prompt": "نَحْنُ الْعَرَبَ نُكْرِمُ الضَّيْفَ",
+      "answer": "We Arabs honor the guest (الاختصاص example)",
+      "itemIds": ["word-b3-573"]
+    },
+    {
+      "id": "b3-l89-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The construction where a noun specifies who is meant after نَحْنُ or أَنَا",
+      "answer": "الاخْتِصَاصُ",
+      "itemIds": ["word-b3-573"]
+    },
+    {
+      "id": "b3-l89-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The hadith 'We, the company of prophets, are not inherited from' in Arabic",
+      "answer": "نَحْنُ مَعَاشِرَ الأَنْبِيَاءِ لَا نُورَثُ",
+      "itemIds": ["word-b3-574"]
+    },
+    {
+      "id": "b3-l89-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The deleted verb estimated in الاختصاص meaning 'I specify'",
+      "answer": "أَخُصُّ",
+      "itemIds": ["word-b3-575"]
+    }
+  ]
+}

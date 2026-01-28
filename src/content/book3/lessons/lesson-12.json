@@ -1,0 +1,134 @@
+{
+  "id": "b3-l12",
+  "book": 3,
+  "lesson": 12,
+  "title": "الْفِعْلُ الأَجْوَف",
+  "titleEn": "Hollow Verbs (Middle Weak Letter)",
+  "description": "Learn verbs with weak middle letter: قَالَ (to say), زَارَ (to visit), نَامَ (to sleep).",
+  "vocabulary": ["word-b3-064", "word-b3-065", "word-b3-066", "word-b3-067", "word-b3-068"],
+  "grammarPoints": ["gp-b3-012"],
+  "notes": [
+    {
+      "title": "Adverbs of Time and Place (الظرف)",
+      "titleArabic": "الظرف",
+      "content": [
+        "Adverbs of time and place (ẓarf) indicate when or where an action takes place. They are always in the accusative case (manṣūb). Some adverbs are declinable while others are indeclinable (mabnī)."
+      ],
+      "keyPoints": [
+        "Ẓarf is always manṣūb",
+        "Some ẓurūf are mabnī (indeclinable): إِذَا, حَيْثُ, أَمْسِ",
+        "لَوْ expresses unfulfilled past condition",
+        "Time adverbs: صَبَاحًا, مَسَاءً, يَوْمًا"
+      ],
+      "examples": [
+        { "arabic": "جَلَسْتُ أَمَامَ الْمُدَرِّسِ", "english": "I sat in front of the teacher" },
+        { "arabic": "سَافَرْتُ صَبَاحًا", "english": "I traveled in the morning" }
+      ]
+    },
+    {
+      "title": "Hollow Verbs (الفعل الأجوف)",
+      "titleArabic": "الفعل الأجوف",
+      "content": [
+        "Hollow verbs have wāw or yā' as their middle radical. The long vowel appears as alif in the past tense but changes in other forms. The middle radical shortens when voweled suffixes are added."
+      ],
+      "keyPoints": [
+        "Middle radical is wāw or yā' (appears as alif in māḍī)",
+        "Vowel shortens with certain suffixes: قَالَ → قُلْتُ",
+        "Present tense shows the underlying vowel: يَقُولُ, يَزُورُ",
+        "Common verbs: قَالَ, زَارَ, نَامَ, صَامَ, عَادَ"
+      ],
+      "examples": [
+        { "arabic": "قَالَ - يَقُولُ - قُلْتُ", "english": "to say (wāw-hollow)" },
+        { "arabic": "زَارَ - يَزُورُ - زُرْتُ", "english": "to visit (wāw-hollow)" },
+        { "arabic": "نَامَ - يَنَامُ - نِمْتُ", "english": "to sleep (yā'-hollow)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l12-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He said the truth",
+      "answer": "قَالَ الْحَقَّ",
+      "itemIds": ["word-b3-064", "word-b3-069"]
+    },
+    {
+      "id": "b3-l12-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I visited my grandmother",
+      "answer": "زُرْتُ جَدَّتِي",
+      "itemIds": ["word-b3-065", "word-b3-070"]
+    },
+    {
+      "id": "b3-l12-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الطِّفْلُ مُبَكِّرًا",
+      "promptEn": "The child slept early",
+      "answer": "نَامَ",
+      "itemIds": ["word-b3-066"]
+    },
+    {
+      "id": "b3-l12-ex04",
+      "type": "word-to-meaning",
+      "prompt": "قَالَ",
+      "answer": "to say",
+      "itemIds": ["word-b3-064"]
+    },
+    {
+      "id": "b3-l12-ex05",
+      "type": "word-to-meaning",
+      "prompt": "زَارَ",
+      "answer": "to visit",
+      "itemIds": ["word-b3-065"]
+    },
+    {
+      "id": "b3-l12-ex06",
+      "type": "word-to-meaning",
+      "prompt": "نَامَ",
+      "answer": "to sleep",
+      "itemIds": ["word-b3-066"]
+    },
+    {
+      "id": "b3-l12-ex07",
+      "type": "word-to-meaning",
+      "prompt": "صَامَ",
+      "answer": "to fast",
+      "itemIds": ["word-b3-067"]
+    },
+    {
+      "id": "b3-l12-ex08",
+      "type": "word-to-meaning",
+      "prompt": "عَادَ",
+      "answer": "to return",
+      "itemIds": ["word-b3-068"]
+    },
+    {
+      "id": "b3-l12-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to say (hollow verb)",
+      "answer": "قَالَ",
+      "itemIds": ["word-b3-064"]
+    },
+    {
+      "id": "b3-l12-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to return (hollow verb)",
+      "answer": "عَادَ",
+      "itemIds": ["word-b3-068"]
+    },
+    {
+      "id": "b3-l12-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The Muslims fasted during the month of Ramadan",
+      "answer": "صَامَ الْمُسْلِمُونَ فِي شَهْرِ رَمَضَانَ",
+      "itemIds": ["word-b3-067"]
+    },
+    {
+      "id": "b3-l12-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The traveler returned to his country after a year",
+      "answer": "عَادَ الْمُسَافِرُ إِلَى بَلَدِهِ بَعْدَ سَنَةٍ",
+      "itemIds": ["word-b3-068"]
+    }
+  ]
+}

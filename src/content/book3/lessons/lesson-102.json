@@ -1,0 +1,224 @@
+{
+  "id": "b3-l102",
+  "book": 3,
+  "lesson": 102,
+  "title": "الاسْتِثْنَاءُ بِـ عَدَا وَخَلَا وَحَاشَا",
+  "titleEn": "Exception with عدا، خلا، حاشا",
+  "description": "Learn about the exception particles عدا، خلا، and حاشا - their dual nature as verbs or prepositions, and how the المستثنى is parsed with each usage.",
+  "vocabulary": ["word-b3-638", "word-b3-639", "word-b3-640", "word-b3-641", "word-b3-642"],
+  "grammarPoints": ["gp-b3-166", "gp-b3-167"],
+  "notes": [
+    {
+      "title": "Introduction to عدا، خلا، حاشا",
+      "titleArabic": "مُقَدِّمَةٌ عَنْ عَدَا وَخَلَا وَحَاشَا",
+      "content": [
+        "عَدَا، خَلَا، and حَاشَا are exception words that mean 'except.' Unlike إِلَّا, these words have a dual grammatical nature: they can function either as verbs or as prepositions.",
+        "This duality affects the grammatical case of the المُسْتَثْنَى (excepted noun). When treated as verbs, the المستثنى is مَنْصُوب (object). When treated as prepositions, it is مَجْرُور."
+      ],
+      "keyPoints": [
+        "Three exception words: عدا، خلا، حاشا",
+        "Dual nature: verb OR preposition",
+        "As verbs: المستثنى is منصوب",
+        "As prepositions: المستثنى is مجرور"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْقَوْمُ عَدَا زَيْدًا / عَدَا زَيْدٍ", "english": "The people came except Zayd (acc/gen)" },
+        { "arabic": "قَامَ الطُّلَّابُ خَلَا مُحَمَّدًا / خَلَا مُحَمَّدٍ", "english": "The students stood except Muhammad" },
+        { "arabic": "حَضَرُوا حَاشَا عَلِيًّا / حَاشَا عَلِيٍّ", "english": "They attended except Ali" },
+        { "arabic": "نَجَحَ الْجَمِيعُ عَدَا وَاحِدًا", "english": "Everyone passed except one" }
+      ]
+    },
+    {
+      "title": "As Verbs (فِعْلِيَّة)",
+      "titleArabic": "عَدَا وَخَلَا وَحَاشَا أَفْعَالًا",
+      "content": [
+        "When عَدَا، خَلَا، and حَاشَا are treated as verbs, they are past tense verbs meaning 'to pass beyond' or 'to leave out.' The المُسْتَثْنَى becomes their مَفْعُول بِهِ (direct object) and takes نَصْب.",
+        "The فَاعِل (subject) of these verbs is a hidden pronoun (ضَمِير مُسْتَتِر) referring to an unspecified doer, often interpreted as 'some matter' or 'the situation.'"
+      ],
+      "keyPoints": [
+        "Past tense verbs",
+        "المستثنى = مفعول به منصوب",
+        "Hidden subject (ضمير مستتر)",
+        "جاء القومُ عدا زيدًا (Zayd = object)"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الطُّلَّابُ عَدَا زَيْدًا", "english": "The students came, excepting Zayd (acc)" },
+        { "arabic": "حَضَرَ الْجَمِيعُ خَلَا وَاحِدًا", "english": "Everyone attended, leaving out one" },
+        { "arabic": "فَازُوا كُلُّهُمْ حَاشَا فَاطِمَةَ", "english": "They all won, except Fatima" },
+        { "arabic": "أَكَلُوا الطَّعَامَ عَدَا اللَّحْمَ", "english": "They ate the food except the meat" }
+      ]
+    },
+    {
+      "title": "As Prepositions (حُرُوف جَرّ)",
+      "titleArabic": "عَدَا وَخَلَا وَحَاشَا حُرُوفَ جَرٍّ",
+      "content": [
+        "When treated as prepositions (حُرُوف جَرّ), عَدَا، خَلَا، and حَاشَا give the المُسْتَثْنَى the genitive case (جَرّ). This is the more common usage in everyday Arabic.",
+        "As prepositions, they function similarly to other exception prepositions, with the noun following them being مَجْرُور."
+      ],
+      "keyPoints": [
+        "Function as حروف جر",
+        "المستثنى = اسم مجرور",
+        "More common in modern usage",
+        "جاء القومُ عدا زيدٍ (Zayd = genitive)"
+      ],
+      "examples": [
+        { "arabic": "حَضَرَ الْجَمِيعُ عَدَا أَحْمَدٍ", "english": "Everyone attended except Ahmad (gen)" },
+        { "arabic": "قَرَأْتُ الْكُتُبَ خَلَا كِتَابٍ", "english": "I read the books except one book" },
+        { "arabic": "أَحَبَّهُمْ حَاشَا الْكَاذِبِ", "english": "He loved them except the liar" },
+        { "arabic": "زَارُوا الْمُدُنَ عَدَا مَدِينَةٍ وَاحِدَةٍ", "english": "They visited the cities except one city" }
+      ]
+    },
+    {
+      "title": "With ما المصدرية",
+      "titleArabic": "مَعَ مَا الْمَصْدَرِيَّةِ",
+      "content": [
+        "When مَا المصدرية precedes عَدَا or خَلَا (ما عدا، ما خلا), they MUST be treated as verbs. The مَا converts the following clause into a مَصْدَر مُؤَوَّل.",
+        "In this case, the المُسْتَثْنَى is obligatorily مَنْصُوب as the مَفْعُول بِهِ of the verb. This is the most common pattern in formal Arabic."
+      ],
+      "keyPoints": [
+        "ما المصدرية makes them verbs only",
+        "المستثنى = obligatorily منصوب",
+        "ما عدا، ما خلا (common patterns)",
+        "حاشا rarely used with ما"
+      ],
+      "examples": [
+        { "arabic": "نَجَحَ الطُّلَّابُ مَا عَدَا وَاحِدًا", "english": "Students passed except one (must be acc)" },
+        { "arabic": "جَاءُوا جَمِيعًا مَا خَلَا زَيْدًا", "english": "They all came except Zayd" },
+        { "arabic": "أُحِبُّ الْفَوَاكِهَ مَا عَدَا الْمَوْزَ", "english": "I like fruits except bananas" },
+        { "arabic": "قَرَأْتُ كُلَّ شَيْءٍ مَا خَلَا الرِّوَايَاتِ", "english": "I read everything except novels" }
+      ]
+    },
+    {
+      "title": "حاشا in Detail",
+      "titleArabic": "حَاشَا بِالتَّفْصِيلِ",
+      "content": [
+        "حَاشَا is used exclusively for rational beings (عَاقِل) and often carries a sense of exoneration or exclusion from blame. It appears frequently in Quranic usage.",
+        "Some grammarians consider حَاشَا to be primarily a preposition, while others allow both usages. It is rarely preceded by مَا."
+      ],
+      "keyPoints": [
+        "Primarily for rational beings",
+        "Sense of exoneration/exclusion",
+        "Quranic usage: حَاشَ لِلهِ",
+        "Rarely with ما المصدرية"
+      ],
+      "examples": [
+        { "arabic": "حَاشَ لِلهِ مَا هٰذَا بَشَرًا", "english": "Allah forbid! This is no mortal (Quran 12:31)" },
+        { "arabic": "كُلُّهُمْ أَخْطَأَ حَاشَا الْمُعَلِّمِ", "english": "All of them erred except the teacher" },
+        { "arabic": "اتَّهَمُوهُمْ حَاشَا الصَّادِقِينَ", "english": "They accused them except the truthful ones" },
+        { "arabic": "حَاشَاهُ أَنْ يَكْذِبَ", "english": "Far be it from him to lie" }
+      ]
+    },
+    {
+      "title": "Summary and Comparison",
+      "titleArabic": "مُلَخَّصٌ وَمُقَارَنَةٌ",
+      "content": [
+        "All three words (عَدَا، خَلَا، حَاشَا) allow both نَصْب and جَرّ for the المُسْتَثْنَى when used alone. With مَا المصدرية, only نَصْب is allowed.",
+        "Compare with إِلَّا which always requires the المُسْتَثْنَى to follow standard exception rules (usually نَصْب in complete affirmative sentences)."
+      ],
+      "keyPoints": [
+        "Alone: نصب (verb) or جر (preposition)",
+        "With ما: نصب only",
+        "إلّا follows different rules",
+        "All mean 'except/other than'"
+      ],
+      "examples": [
+        { "arabic": "عَدَا زَيْدًا / عَدَا زَيْدٍ ✓", "english": "Except Zayd (both valid)" },
+        { "arabic": "مَا عَدَا زَيْدًا ✓ / مَا عَدَا زَيْدٍ ✗", "english": "Except Zayd (only acc with ما)" },
+        { "arabic": "إِلَّا زَيْدًا (قاعدة مختلفة)", "english": "Except Zayd (إلّا has different rules)" },
+        { "arabic": "جَاءُوا خَلَا / عَدَا / حَاشَا زَيْدٍ", "english": "They came except Zayd (all three work)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l102-ex01",
+      "type": "fill-blank",
+      "prompt": "عَدَا وَخَلَا وَحَاشَا تَكُونُ أَفْعَالًا أَوْ _____ جَرٍّ",
+      "promptEn": "عدا، خلا، and حاشا can be verbs or _____ of jarr",
+      "answer": "حُرُوفَ",
+      "itemIds": ["word-b3-638"]
+    },
+    {
+      "id": "b3-l102-ex02",
+      "type": "fill-blank",
+      "prompt": "إِذَا كَانَتْ عَدَا فِعْلًا، فَالْمُسْتَثْنَى يَكُونُ _____",
+      "promptEn": "If عدا is a verb, the المستثنى is _____",
+      "answer": "مَنْصُوبًا",
+      "itemIds": ["word-b3-639"]
+    },
+    {
+      "id": "b3-l102-ex03",
+      "type": "fill-blank",
+      "prompt": "إِذَا سَبَقَتْ مَا الْمَصْدَرِيَّةُ عَدَا، فَالْمُسْتَثْنَى _____ فَقَطْ",
+      "promptEn": "If ما المصدرية precedes عدا, the المستثنى is _____ only",
+      "answer": "مَنْصُوبٌ",
+      "itemIds": ["word-b3-640"]
+    },
+    {
+      "id": "b3-l102-ex04",
+      "type": "fill-blank",
+      "prompt": "حَاشَا تُسْتَخْدَمُ غَالِبًا مَعَ _____ (العاقل/غير العاقل)",
+      "promptEn": "حاشا is mostly used with _____ (rational/non-rational)",
+      "answer": "الْعَاقِلِ",
+      "itemIds": ["word-b3-641"]
+    },
+    {
+      "id": "b3-l102-ex05",
+      "type": "fill-blank",
+      "prompt": "جَاءَ الطُّلَّابُ مَا عَدَا _____ (زيدٍ/زيدًا)",
+      "promptEn": "The students came except _____ (Zayd genitive/accusative)",
+      "answer": "زَيْدًا",
+      "itemIds": ["word-b3-642"]
+    },
+    {
+      "id": "b3-l102-ex06",
+      "type": "fill-blank",
+      "prompt": "حَضَرَ الْجَمِيعُ خَلَا _____ / أَحْمَدًا (both valid without ما)",
+      "promptEn": "Everyone attended except Ahmad (genitive form)",
+      "answer": "أَحْمَدٍ",
+      "itemIds": ["word-b3-638"]
+    },
+    {
+      "id": "b3-l102-ex07",
+      "type": "word-to-meaning",
+      "prompt": "عَدَا",
+      "answer": "Except (verb or preposition meaning to pass beyond)",
+      "itemIds": ["word-b3-638"]
+    },
+    {
+      "id": "b3-l102-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَا عَدَا",
+      "answer": "Except (ما makes عدا obligatorily a verb)",
+      "itemIds": ["word-b3-640"]
+    },
+    {
+      "id": "b3-l102-ex09",
+      "type": "word-to-meaning",
+      "prompt": "حَاشَ لِلهِ",
+      "answer": "Allah forbid! / Far be it from Allah (exoneration expression)",
+      "itemIds": ["word-b3-641"]
+    },
+    {
+      "id": "b3-l102-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Except/other than (can be verb or preposition)",
+      "answer": "خَلَا",
+      "itemIds": ["word-b3-639"]
+    },
+    {
+      "id": "b3-l102-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The excepted noun (in exception constructions)",
+      "answer": "الْمُسْتَثْنَى",
+      "itemIds": ["word-b3-642"]
+    },
+    {
+      "id": "b3-l102-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Far be it from (used for exoneration)",
+      "answer": "حَاشَا",
+      "itemIds": ["word-b3-641"]
+    }
+  ]
+}

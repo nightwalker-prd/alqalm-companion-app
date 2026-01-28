@@ -1,0 +1,143 @@
+{
+  "id": "b1-l31",
+  "book": 1,
+  "lesson": 31,
+  "title": "الأَسْمَاء السِّتَّة (١)",
+  "titleEn": "The Six Nouns - Introduction",
+  "description": "Learn about the six special nouns in Arabic (أب، أخ، حم، فو، ذو، هن) and what makes them unique in their declension.",
+  "vocabulary": ["word-263", "word-264", "word-265", "word-266", "word-267", "word-268"],
+  "grammarPoints": ["gp-049", "gp-050"],
+  "notes": [
+    {
+      "title": "The Six Nouns (الأسماء الستة)",
+      "titleArabic": "الأسماء الستة",
+      "content": [
+        "Arabic has six special nouns that have unique case endings when attached to a possessive pronoun (except ي).",
+        "These six nouns are: أَبٌ (father), أَخٌ (brother), حَمٌ (father-in-law), فَمٌ (mouth), ذُو (possessor of), and هَنٌ (a thing)."
+      ],
+      "keyPoints": [
+        "أَبٌ - father (becomes أَبُو، أَبَا، أَبِي when possessed)",
+        "أَخٌ - brother (becomes أَخُو، أَخَا، أَخِي when possessed)",
+        "حَمٌ - father-in-law (becomes حَمُو، حَمَا، حَمِي when possessed)",
+        "فَمٌ - mouth (becomes فُو، فَا، فِي when possessed)",
+        "ذُو - possessor of (only appears in genitive construction)",
+        "هَنٌ - a thing (rare, euphemistic)"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ أَبُو مُحَمَّدٍ", "english": "Muhammad's father came" },
+        { "arabic": "هَذَا أَخُو عَلِيٍّ", "english": "This is Ali's brother" },
+        { "arabic": "رَأَيْتُ حَمَاهَا", "english": "I saw her father-in-law" },
+        { "arabic": "هُوَ ذُو مَالٍ", "english": "He is a possessor of wealth" }
+      ]
+    },
+    {
+      "title": "Conditions for Special Declension",
+      "titleArabic": "شروط إعراب الأسماء الستة بالحروف",
+      "content": [
+        "For these nouns to take their special endings, they must meet certain conditions.",
+        "They must be singular, attached to a possessive pronoun other than ي, and not in the diminutive form."
+      ],
+      "keyPoints": [
+        "Must be singular (not dual or plural)",
+        "Must be in genitive construction (مضاف)",
+        "The possessive cannot be ي (my)",
+        "Without these conditions, they decline normally"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ أَبُوكَ", "english": "Your father came (special: و)" },
+        { "arabic": "جَاءَ أَبِي", "english": "My father came (normal: ي pronoun)" },
+        { "arabic": "جَاءَ الأَبُ", "english": "The father came (normal: no possession)" },
+        { "arabic": "جَاءَ أَبَوَانِ", "english": "Two fathers came (normal: dual)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l31-ex01",
+      "type": "fill-blank",
+      "prompt": "جَاءَ _____ مُحَمَّدٍ أَمْسِ",
+      "promptEn": "Muhammad's _____ came yesterday",
+      "answer": "أَبُو",
+      "itemIds": ["word-263"]
+    },
+    {
+      "id": "b1-l31-ex02",
+      "type": "fill-blank",
+      "prompt": "هَذَا _____ عَلِيٍّ",
+      "promptEn": "This is Ali's _____",
+      "answer": "أَخُو",
+      "itemIds": ["word-264"]
+    },
+    {
+      "id": "b1-l31-ex03",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ عِلْمٍ وَفَضْلٍ",
+      "promptEn": "He is a possessor of _____ and virtue",
+      "answer": "ذُو",
+      "itemIds": ["word-267"]
+    },
+    {
+      "id": "b1-l31-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "Your father went to the mosque",
+      "answer": "ذَهَبَ أَبُوكَ إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-263", "word-068"]
+    },
+    {
+      "id": "b1-l31-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I saw your brother in the school",
+      "answer": "رَأَيْتُ أَخَاكَ فِي الْمَدْرَسَةِ",
+      "itemIds": ["word-264", "word-250"]
+    },
+    {
+      "id": "b1-l31-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He is a man of wealth",
+      "answer": "هُوَ ذُو مَالٍ",
+      "itemIds": ["word-267", "word-265"]
+    },
+    {
+      "id": "b1-l31-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Her father-in-law is generous",
+      "answer": "حَمُوهَا كَرِيمٌ",
+      "itemIds": ["word-266", "word-268"]
+    },
+    {
+      "id": "b1-l31-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَبٌ",
+      "answer": "father",
+      "itemIds": ["word-263"]
+    },
+    {
+      "id": "b1-l31-ex09",
+      "type": "word-to-meaning",
+      "prompt": "ذُو",
+      "answer": "possessor of",
+      "itemIds": ["word-267"]
+    },
+    {
+      "id": "b1-l31-ex10",
+      "type": "word-to-meaning",
+      "prompt": "حَمٌ",
+      "answer": "father-in-law",
+      "itemIds": ["word-266"]
+    },
+    {
+      "id": "b1-l31-ex11",
+      "type": "meaning-to-word",
+      "prompt": "brother",
+      "answer": "أَخٌ",
+      "itemIds": ["word-264"]
+    },
+    {
+      "id": "b1-l31-ex12",
+      "type": "meaning-to-word",
+      "prompt": "generous",
+      "answer": "كَرِيمٌ",
+      "itemIds": ["word-268"]
+    }
+  ]
+}

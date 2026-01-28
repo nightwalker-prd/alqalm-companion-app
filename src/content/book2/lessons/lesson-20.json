@@ -1,0 +1,167 @@
+{
+  "id": "b2-l20",
+  "book": 2,
+  "lesson": 20,
+  "title": "الفِعْل المُضَعَّف",
+  "titleEn": "Doubled Verbs",
+  "vocabulary": [
+    "word-b2-106",
+    "word-b2-107",
+    "word-b2-108",
+    "word-b2-109",
+    "word-b2-110"
+  ],
+  "grammarPoints": ["gp-b2-020"],
+  "notes": [
+    {
+      "title": "Doubled Verbs (الفعل المضعف)",
+      "titleArabic": "الفعل المضعف",
+      "content": [
+        "Doubled verbs (الفعل المضعف or المضاعف) have the same letter for their second and third radicals. These two identical letters are written as one with a shaddah (ّ).",
+        "In some conjugations, the two letters separate and each appears distinctly."
+      ],
+      "keyPoints": [
+        "Root pattern: فَعَّ (where ع represents the doubled letter)",
+        "Examples: مَدَّ (to extend), رَدَّ (to return), شَدَّ (to tighten)",
+        "Past tense: مَدَّ، رَدَّ، ظَلَّ",
+        "Present tense: يَمُدُّ، يَرُدُّ، يَشُدُّ",
+        "Doubled letter separates in some forms: مَدَدْتُ (I extended)"
+      ],
+      "examples": [
+        { "arabic": "مَدَّ يَدَهُ", "english": "He extended his hand" },
+        { "arabic": "رَدَّ الْكِتَابَ", "english": "He returned the book" },
+        { "arabic": "ظَلَّ فِي الْبَيْتِ", "english": "He stayed in the house" },
+        { "arabic": "يَشُدُّ الْحَبْلَ", "english": "He tightens the rope" }
+      ]
+    },
+    {
+      "title": "Conjugation Patterns",
+      "titleArabic": "تصريف الفعل المضعف",
+      "content": [
+        "When a sukūn would appear on the first of the doubled letters, the letters separate."
+      ],
+      "keyPoints": [
+        "Past with sukūn: مَدَدْتُ، مَدَدْتَ، مَدَدْنَا",
+        "Jussive: لَمْ يَمْدُدْ (or لَمْ يَمُدَّ in some dialects)",
+        "Imperative: مُدَّ (extend!), رُدَّ (return!)",
+        "The shaddah indicates the two identical letters"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l20-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الوَلَدُ يَدَهُ (مَدَّ)",
+      "answer": "مَدَّ",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He returned the book",
+      "answer": "رَدَّ الكِتَابَ",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ السَّمَاءُ الأَرْضَ (ظَلَّ)",
+      "answer": "ظَلَّتِ",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex04",
+      "type": "word-to-meaning",
+      "prompt": "شَدَّ",
+      "answer": "to tighten/pull",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to extend/stretch",
+      "answer": "مَدَّ",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The boy stayed in the house",
+      "answer": "ظَلَّ الوَلَدُ فِي البَيْتِ",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ الحَبْلَ (يَشُدُّ)",
+      "answer": "يَشُدُّ",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex08",
+      "type": "word-to-meaning",
+      "prompt": "رَدَّ",
+      "answer": "to return (something)",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "She stretched her hand",
+      "answer": "مَدَّتْ يَدَهَا",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ عَلَيْهِ السَّلاَمَ (رَدَّ)",
+      "answer": "رَدَّ",
+      "itemIds": [
+        "word-b2-106",
+        "word-b2-107"
+      ]
+    },
+    {
+      "id": "b2-l20-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The boy extended his hand to his father",
+      "answer": "مَدَّ الْوَلَدُ يَدَهُ إِلَى أَبِيهِ",
+      "itemIds": ["word-b2-106", "word-b2-107", "word-082"]
+    },
+    {
+      "id": "b2-l20-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He remained in the house all day",
+      "answer": "ظَلَّ فِي الْبَيْتِ كُلَّ الْيَوْمِ",
+      "itemIds": ["word-b2-108", "word-046", "word-010", "word-b2-083"]
+    }
+  ]
+}

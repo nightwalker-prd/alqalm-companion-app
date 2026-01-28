@@ -1,0 +1,141 @@
+{
+  "id": "b1-l27",
+  "book": 1,
+  "lesson": 27,
+  "title": "الأَفْعَالُ اللَّازِمَة",
+  "titleEn": "Intransitive Verbs",
+  "description": "Learn about intransitive verbs (الفعل اللازم) which do not require a direct object.",
+  "vocabulary": ["word-239", "word-240", "word-241", "word-242", "word-243", "word-244"],
+  "grammarPoints": ["gp-041", "gp-042"],
+  "notes": [
+    {
+      "title": "Intransitive Verbs (الأفعال اللازمة)",
+      "titleArabic": "الأفعال اللازمة",
+      "content": [
+        "Intransitive verbs (الفعل اللازم) do not require a direct object to complete their meaning.",
+        "These verbs express complete actions on their own, though they may be followed by prepositional phrases."
+      ],
+      "keyPoints": [
+        "ذَهَبَ - to go (complete meaning: ذهب الرجل)",
+        "جَلَسَ - to sit (complete meaning: جلس الطالب)",
+        "نَامَ - to sleep (complete meaning: نام الولد)",
+        "قَامَ - to stand (complete meaning: قام المدرس)"
+      ],
+      "examples": [
+        { "arabic": "ذَهَبَ الطَّالِبُ", "english": "The student went" },
+        { "arabic": "جَلَسَ الرَّجُلُ", "english": "The man sat" },
+        { "arabic": "نَامَتِ الْبِنْتُ", "english": "The girl slept" },
+        { "arabic": "قَامَ الْمُدَرِّسُ", "english": "The teacher stood up" }
+      ]
+    },
+    {
+      "title": "Intransitive Verbs with Prepositions",
+      "titleArabic": "الأفعال اللازمة مع حروف الجر",
+      "content": [
+        "Intransitive verbs often take prepositional phrases to provide additional information.",
+        "The preposition makes the verb 'reach' its object indirectly."
+      ],
+      "keyPoints": [
+        "ذَهَبَ إِلَى - went to (ذهب إلى المسجد)",
+        "جَلَسَ عَلَى - sat on (جلس على الكرسي)",
+        "نَظَرَ إِلَى - looked at (نظر إلى السماء)",
+        "دَخَلَ فِي - entered into (دخل في الغرفة)"
+      ],
+      "examples": [
+        { "arabic": "ذَهَبَ الطَّالِبُ إِلَى الْمَدْرَسَةِ", "english": "The student went to the school" },
+        { "arabic": "جَلَسَ الرَّجُلُ عَلَى الْكُرْسِيِّ", "english": "The man sat on the chair" },
+        { "arabic": "نَظَرْتُ إِلَى السَّمَاءِ", "english": "I looked at the sky" },
+        { "arabic": "دَخَلَ الضَّيْفُ فِي الْبَيْتِ", "english": "The guest entered into the house" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l27-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّالِبُ إِلَى الْمَدْرَسَةِ",
+      "promptEn": "The student _____ to the school",
+      "answer": "ذَهَبَ",
+      "itemIds": ["word-068"]
+    },
+    {
+      "id": "b1-l27-ex02",
+      "type": "fill-blank",
+      "prompt": "جَلَسَ الرَّجُلُ _____ الْكُرْسِيِّ",
+      "promptEn": "The man sat _____ the chair",
+      "answer": "عَلَى",
+      "itemIds": ["word-049"]
+    },
+    {
+      "id": "b1-l27-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْوَلَدُ مُبَكِّرًا",
+      "promptEn": "The boy _____ early",
+      "answer": "نَامَ",
+      "itemIds": ["word-201"]
+    },
+    {
+      "id": "b1-l27-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher stood up",
+      "answer": "قَامَ الْمُدَرِّسُ",
+      "itemIds": ["word-202", "word-004"]
+    },
+    {
+      "id": "b1-l27-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "The girl went to the house",
+      "answer": "ذَهَبَتِ الْبِنْتُ إِلَى الْبَيْتِ",
+      "itemIds": ["word-080", "word-030", "word-006"]
+    },
+    {
+      "id": "b1-l27-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I sat on the chair",
+      "answer": "جَلَسْتُ عَلَى الْكُرْسِيِّ",
+      "itemIds": ["word-071", "word-132"]
+    },
+    {
+      "id": "b1-l27-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The boy slept",
+      "answer": "نَامَ الْوَلَدُ",
+      "itemIds": ["word-201", "word-023"]
+    },
+    {
+      "id": "b1-l27-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَازِم",
+      "answer": "intransitive",
+      "itemIds": ["word-239"]
+    },
+    {
+      "id": "b1-l27-ex09",
+      "type": "word-to-meaning",
+      "prompt": "قَامَ",
+      "answer": "he stood up",
+      "itemIds": ["word-202"]
+    },
+    {
+      "id": "b1-l27-ex10",
+      "type": "word-to-meaning",
+      "prompt": "نَامَ",
+      "answer": "he slept",
+      "itemIds": ["word-201"]
+    },
+    {
+      "id": "b1-l27-ex11",
+      "type": "meaning-to-word",
+      "prompt": "he sat",
+      "answer": "جَلَسَ",
+      "itemIds": ["word-071"]
+    },
+    {
+      "id": "b1-l27-ex12",
+      "type": "meaning-to-word",
+      "prompt": "he entered",
+      "answer": "دَخَلَ",
+      "itemIds": ["word-072"]
+    }
+  ]
+}

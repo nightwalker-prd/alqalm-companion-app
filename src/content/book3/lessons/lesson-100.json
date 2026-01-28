@@ -1,0 +1,224 @@
+{
+  "id": "b3-l100",
+  "book": 3,
+  "lesson": 100,
+  "title": "الْعَدَدُ وَالْمَعْدُودُ - قَوَاعِدُ شَامِلَةٌ",
+  "titleEn": "Numbers and Counted Nouns - Comprehensive Rules",
+  "description": "A comprehensive summary of all number-noun agreement rules in Arabic, from 1-10 to millions, covering gender agreement, case, and the counted noun (تمييز).",
+  "vocabulary": ["word-b3-628", "word-b3-629", "word-b3-630", "word-b3-631", "word-b3-632"],
+  "grammarPoints": ["gp-b3-162", "gp-b3-163"],
+  "notes": [
+    {
+      "title": "Numbers 1-2",
+      "titleArabic": "الْعَدَدَانِ 1 وَ 2",
+      "content": [
+        "وَاحِد (1) and اِثْنَانِ (2) AGREE with the noun in gender and follow it as adjectives. They come AFTER the noun: كِتَابٌ وَاحِدٌ، كِتَابَانِ اثْنَانِ.",
+        "Feminine: وَاحِدَة، اثْنَتَانِ. These are the only numbers that agree in gender AND follow the noun. Think of them as adjectives, not true numbers."
+      ],
+      "keyPoints": [
+        "AGREE in gender",
+        "FOLLOW the noun (like adjectives)",
+        "كِتَابٌ وَاحِدٌ / صَفْحَةٌ وَاحِدَةٌ",
+        "Function as adjectives"
+      ],
+      "examples": [
+        { "arabic": "رَجُلٌ وَاحِدٌ / امْرَأَةٌ وَاحِدَةٌ", "english": "One man / one woman" },
+        { "arabic": "كِتَابَانِ اثْنَانِ / صَفْحَتَانِ اثْنَتَانِ", "english": "Two books / two pages" },
+        { "arabic": "طَالِبٌ وَاحِدٌ فَقَطْ", "english": "Only one student" },
+        { "arabic": "يَوْمَانِ اثْنَانِ", "english": "Two days" }
+      ]
+    },
+    {
+      "title": "Numbers 3-10",
+      "titleArabic": "الأَعْدَادُ مِنْ 3 إِلَى 10",
+      "content": [
+        "Numbers 3-10 REVERSE gender: masculine noun = feminine number (with ة), feminine noun = masculine number (without ة). The counted noun is جَمْع مَجْرُور (plural genitive).",
+        "ثَلَاثَةُ رِجَالٍ (3 men - ثَلَاثَة with ة for masc. noun), ثَلَاثُ نِسَاءٍ (3 women - ثَلَاث without ة for fem. noun)."
+      ],
+      "keyPoints": [
+        "REVERSE gender agreement",
+        "Masc. noun → fem. number (with ة)",
+        "Fem. noun → masc. number (no ة)",
+        "Counted: plural genitive"
+      ],
+      "examples": [
+        { "arabic": "أَرْبَعَةُ طُلَّابٍ (مذكر)", "english": "Four students (masc.) - number has ة" },
+        { "arabic": "أَرْبَعُ طَالِبَاتٍ (مؤنث)", "english": "Four students (fem.) - number no ة" },
+        { "arabic": "سَبْعَةُ أَيَّامٍ", "english": "Seven days (masc.)" },
+        { "arabic": "عَشْرُ لَيَالٍ", "english": "Ten nights (fem.)" }
+      ]
+    },
+    {
+      "title": "Numbers 11-12",
+      "titleArabic": "الْعَدَدَانِ 11 وَ 12",
+      "content": [
+        "Numbers 11-12 AGREE in gender in BOTH parts. 11: أَحَدَ عَشَرَ (m) / إِحْدَى عَشْرَةَ (f). 12: اثْنَا عَشَرَ (m) / اثْنَتَا عَشْرَةَ (f).",
+        "Counted noun: مُفْرَد مَنْصُوب (singular accusative). أَحَدَ عَشَرَ كِتَابًا (11 books), إِحْدَى عَشْرَةَ صَفْحَةً (11 pages)."
+      ],
+      "keyPoints": [
+        "BOTH parts agree in gender",
+        "11: أَحَدَ عَشَرَ / إِحْدَى عَشْرَةَ",
+        "12: اثْنَا عَشَرَ / اثْنَتَا عَشْرَةَ",
+        "Counted: singular accusative"
+      ],
+      "examples": [
+        { "arabic": "أَحَدَ عَشَرَ كَوْكَبًا (مذكر)", "english": "Eleven stars (masc.)" },
+        { "arabic": "إِحْدَى عَشْرَةَ سَنَةً (مؤنث)", "english": "Eleven years (fem.)" },
+        { "arabic": "اثْنَا عَشَرَ شَهْرًا", "english": "Twelve months (masc.)" },
+        { "arabic": "اثْنَتَا عَشْرَةَ عَيْنًا", "english": "Twelve springs (fem.)" }
+      ]
+    },
+    {
+      "title": "Numbers 13-19",
+      "titleArabic": "الأَعْدَادُ مِنْ 13 إِلَى 19",
+      "content": [
+        "For 13-19: first part REVERSES gender, second part AGREES. Masculine: ثَلَاثَةَ عَشَرَ (first part has ة, second no ة). Feminine: ثَلَاثَ عَشْرَةَ (first no ة, second has ة).",
+        "Counted noun: مُفْرَد مَنْصُوب (singular accusative). Both number parts are مَبْنِيّ على فتح."
+      ],
+      "keyPoints": [
+        "First part: REVERSES gender",
+        "Second part: AGREES",
+        "Counted: singular accusative",
+        "مَبْنِيّ على الفتح"
+      ],
+      "examples": [
+        { "arabic": "ثَلَاثَةَ عَشَرَ رَجُلًا (ة + no ة)", "english": "13 men (first has ة, second doesn't)" },
+        { "arabic": "ثَلَاثَ عَشْرَةَ امْرَأَةً (no ة + ة)", "english": "13 women (first no ة, second has)" },
+        { "arabic": "خَمْسَةَ عَشَرَ يَوْمًا", "english": "15 days" },
+        { "arabic": "سِتَّ عَشْرَةَ لَيْلَةً", "english": "16 nights" }
+      ]
+    },
+    {
+      "title": "Numbers 20-99",
+      "titleArabic": "الأَعْدَادُ مِنْ 20 إِلَى 99",
+      "content": [
+        "Tens (20, 30...90): عِشْرُونَ، ثَلَاثُونَ، أَرْبَعُونَ، خَمْسُونَ، سِتُّونَ، سَبْعُونَ، ثَمَانُونَ، تِسْعُونَ. No gender change. Counted: singular accusative.",
+        "Compounds (21-99): unit first + وَ + ten. Unit follows 1-9 rules: وَاحِدٌ/إِحْدَى agrees, 3-9 reverse. Counted: singular accusative."
+      ],
+      "keyPoints": [
+        "Tens: no gender change",
+        "Compounds: unit + وَ + ten",
+        "Unit rules apply",
+        "Counted: singular accusative"
+      ],
+      "examples": [
+        { "arabic": "عِشْرُونَ طَالِبًا / عِشْرُونَ طَالِبَةً", "english": "20 students (m/f) - same" },
+        { "arabic": "وَاحِدٌ وَعِشْرُونَ كِتَابًا", "english": "21 books (unit agrees)" },
+        { "arabic": "ثَلَاثَةٌ وَعِشْرُونَ رَجُلًا", "english": "23 men (unit reverses)" },
+        { "arabic": "خَمْسٌ وَتِسْعُونَ سَنَةً", "english": "95 years" }
+      ]
+    },
+    {
+      "title": "Summary Table",
+      "titleArabic": "جَدْوَلٌ مُلَخَّصٌ",
+      "content": [
+        "1-2: agree, follow noun, noun is dual/singular. 3-10: reverse gender, counted is plural genitive. 11-12: both agree, counted is singular accusative.",
+        "13-19: first reverses, second agrees, counted is singular accusative. 20-99: units follow rules, tens unchanged, counted is singular accusative. 100+: singular genitive (إضافة)."
+      ],
+      "keyPoints": [
+        "1-2: agree, follow",
+        "3-10: reverse, plural genitive",
+        "11-99: singular accusative",
+        "100+: singular genitive"
+      ],
+      "examples": [
+        { "arabic": "3-10: خَمْسَةُ كُتُبٍ (جمع مجرور)", "english": "3-10: 5 books (plural genitive)" },
+        { "arabic": "11-99: خَمْسَةَ عَشَرَ كِتَابًا (مفرد منصوب)", "english": "11-99: 15 books (singular accusative)" },
+        { "arabic": "100+: مِائَةُ كِتَابٍ (مفرد مجرور)", "english": "100+: 100 books (singular genitive)" },
+        { "arabic": "1-2: كِتَابَانِ اثْنَانِ", "english": "1-2: two books" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l100-ex01",
+      "type": "fill-blank",
+      "prompt": "الأَعْدَادُ مِنْ 3-10 تُخَالِفُ الْمَعْدُودَ فِي _____",
+      "promptEn": "Numbers 3-10 _____ the counted noun in gender",
+      "answer": "الْجِنْسِ / التَّذْكِيرِ وَالتَّأْنِيثِ",
+      "itemIds": ["word-b3-628"]
+    },
+    {
+      "id": "b3-l100-ex02",
+      "type": "fill-blank",
+      "prompt": "تَمْيِيزُ الأَعْدَادِ 3-10 يَكُونُ: جَمْعًا _____",
+      "promptEn": "The تمييز of numbers 3-10 is: plural _____",
+      "answer": "مَجْرُورًا",
+      "itemIds": ["word-b3-629"]
+    },
+    {
+      "id": "b3-l100-ex03",
+      "type": "fill-blank",
+      "prompt": "تَمْيِيزُ الأَعْدَادِ 11-99 يَكُونُ: مُفْرَدًا _____",
+      "promptEn": "The تمييز of numbers 11-99 is: singular _____",
+      "answer": "مَنْصُوبًا",
+      "itemIds": ["word-b3-630"]
+    },
+    {
+      "id": "b3-l100-ex04",
+      "type": "fill-blank",
+      "prompt": "ثَلَاثَةُ _____ (3 men - plural genitive)",
+      "promptEn": "ثَلَاثَةُ _____ (3 men)",
+      "answer": "رِجَالٍ",
+      "itemIds": ["word-b3-631"]
+    },
+    {
+      "id": "b3-l100-ex05",
+      "type": "fill-blank",
+      "prompt": "خَمْسَةَ عَشَرَ _____ (15 books - singular accusative)",
+      "promptEn": "خَمْسَةَ عَشَرَ _____ (15 books)",
+      "answer": "كِتَابًا",
+      "itemIds": ["word-b3-632"]
+    },
+    {
+      "id": "b3-l100-ex06",
+      "type": "fill-blank",
+      "prompt": "الأَعْدَادُ 1-2 تُوَافِقُ الْمَعْدُودَ وَتَأْتِي _____ (قبله/بعده)",
+      "promptEn": "Numbers 1-2 agree with the noun and come _____ it (before/after)",
+      "answer": "بَعْدَهُ",
+      "itemIds": ["word-b3-628"]
+    },
+    {
+      "id": "b3-l100-ex07",
+      "type": "word-to-meaning",
+      "prompt": "التَّمْيِيزُ",
+      "answer": "The counted noun (specifying what is being counted)",
+      "itemIds": ["word-b3-629"]
+    },
+    {
+      "id": "b3-l100-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْمُخَالَفَةُ فِي التَّذْكِيرِ وَالتَّأْنِيثِ",
+      "answer": "Gender reversal (3-10 rule: masculine noun = feminine number)",
+      "itemIds": ["word-b3-628"]
+    },
+    {
+      "id": "b3-l100-ex09",
+      "type": "word-to-meaning",
+      "prompt": "أَحَدَ عَشَرَ كَوْكَبًا",
+      "answer": "Eleven stars (both parts agree, singular accusative)",
+      "itemIds": ["word-b3-630"]
+    },
+    {
+      "id": "b3-l100-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Five books (using 3-10 rules)",
+      "answer": "خَمْسَةُ كُتُبٍ",
+      "itemIds": ["word-b3-631"]
+    },
+    {
+      "id": "b3-l100-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Fifteen days (using 13-19 rules)",
+      "answer": "خَمْسَةَ عَشَرَ يَوْمًا",
+      "itemIds": ["word-b3-632"]
+    },
+    {
+      "id": "b3-l100-ex12",
+      "type": "meaning-to-word",
+      "prompt": "What case is the تمييز of 100, 1000, and million?",
+      "answer": "مُفْرَد مَجْرُور / الْجَرّ",
+      "itemIds": ["word-b3-629"]
+    }
+  ]
+}

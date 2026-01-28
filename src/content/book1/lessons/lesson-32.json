@@ -1,0 +1,141 @@
+{
+  "id": "b1-l32",
+  "book": 1,
+  "lesson": 32,
+  "title": "الأَسْمَاء السِّتَّة (٢)",
+  "titleEn": "The Six Nouns - Case Endings",
+  "description": "Learn how the six nouns change their endings based on grammatical case: nominative (و), accusative (ا), and genitive (ي).",
+  "vocabulary": ["word-269", "word-270", "word-271", "word-272", "word-273", "word-274"],
+  "grammarPoints": ["gp-051", "gp-052"],
+  "notes": [
+    {
+      "title": "Case Endings with و، ا، ي",
+      "titleArabic": "إعراب الأسماء الستة بالحروف",
+      "content": [
+        "When the six nouns are in genitive construction (not with ي), they show case through letters instead of vowels.",
+        "Nominative uses و (أَبُوكَ), accusative uses ا (أَبَاكَ), and genitive uses ي (أَبِيكَ)."
+      ],
+      "keyPoints": [
+        "Nominative (مرفوع): أَبُوكَ، أَخُوكَ (with و)",
+        "Accusative (منصوب): أَبَاكَ، أَخَاكَ (with ا)",
+        "Genitive (مجرور): أَبِيكَ، أَخِيكَ (with ي)",
+        "These endings replace the standard damma, fatha, kasra"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ أَبُوكَ (مرفوع)", "english": "Your father came (nominative)" },
+        { "arabic": "رَأَيْتُ أَبَاكَ (منصوب)", "english": "I saw your father (accusative)" },
+        { "arabic": "سَلَّمْتُ عَلَى أَبِيكَ (مجرور)", "english": "I greeted your father (genitive)" },
+        { "arabic": "إِنَّ أَخَاكَ مُجْتَهِدٌ", "english": "Indeed your brother is diligent" }
+      ]
+    },
+    {
+      "title": "Examples in Sentences",
+      "titleArabic": "أمثلة في الجمل",
+      "content": [
+        "The case of the six nouns is determined by their grammatical function in the sentence.",
+        "Subject = nominative (و), object = accusative (ا), after preposition = genitive (ي)."
+      ],
+      "keyPoints": [
+        "Subject (فاعل): أَبُوكَ كَرِيمٌ - Your father is generous",
+        "Object (مفعول به): أَكْرَمْتُ أَبَاكَ - I honored your father",
+        "After preposition: مَرَرْتُ بِأَبِيكَ - I passed by your father",
+        "After إِنَّ: إِنَّ أَبَاكَ عَالِمٌ - Indeed your father is a scholar"
+      ],
+      "examples": [
+        { "arabic": "أَخُوكَ فِي الْبَيْتِ", "english": "Your brother is in the house" },
+        { "arabic": "زُرْتُ أَخَاكَ أَمْسِ", "english": "I visited your brother yesterday" },
+        { "arabic": "تَكَلَّمْتُ مَعَ أَخِيكَ", "english": "I spoke with your brother" },
+        { "arabic": "حَمُوهَا رَجُلٌ صَالِحٌ", "english": "Her father-in-law is a righteous man" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l32-ex01",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ _____كَ فِي السُّوقِ",
+      "promptEn": "I saw your _____ in the market",
+      "answer": "أَبَا",
+      "itemIds": ["word-269"]
+    },
+    {
+      "id": "b1-l32-ex02",
+      "type": "fill-blank",
+      "prompt": "سَلَّمْتُ عَلَى _____كَ",
+      "promptEn": "I greeted your _____",
+      "answer": "أَخِي",
+      "itemIds": ["word-270"]
+    },
+    {
+      "id": "b1-l32-ex03",
+      "type": "fill-blank",
+      "prompt": "إِنَّ _____كَ رَجُلٌ فَاضِلٌ",
+      "promptEn": "Indeed your _____ is a virtuous man",
+      "answer": "أَبَا",
+      "itemIds": ["word-269"]
+    },
+    {
+      "id": "b1-l32-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "Your brother is a doctor",
+      "answer": "أَخُوكَ طَبِيبٌ",
+      "itemIds": ["word-270", "word-017"]
+    },
+    {
+      "id": "b1-l32-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I met your father in the mosque",
+      "answer": "قَابَلْتُ أَبَاكَ فِي الْمَسْجِدِ",
+      "itemIds": ["word-269", "word-271"]
+    },
+    {
+      "id": "b1-l32-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I spoke with your brother",
+      "answer": "تَكَلَّمْتُ مَعَ أَخِيكَ",
+      "itemIds": ["word-270", "word-272"]
+    },
+    {
+      "id": "b1-l32-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Indeed your father is a scholar",
+      "answer": "إِنَّ أَبَاكَ عَالِمٌ",
+      "itemIds": ["word-269", "word-273"]
+    },
+    {
+      "id": "b1-l32-ex08",
+      "type": "word-to-meaning",
+      "prompt": "قَابَلَ",
+      "answer": "he met",
+      "itemIds": ["word-271"]
+    },
+    {
+      "id": "b1-l32-ex09",
+      "type": "word-to-meaning",
+      "prompt": "تَكَلَّمَ",
+      "answer": "he spoke",
+      "itemIds": ["word-272"]
+    },
+    {
+      "id": "b1-l32-ex10",
+      "type": "word-to-meaning",
+      "prompt": "عَالِمٌ",
+      "answer": "scholar",
+      "itemIds": ["word-273"]
+    },
+    {
+      "id": "b1-l32-ex11",
+      "type": "meaning-to-word",
+      "prompt": "virtuous",
+      "answer": "فَاضِلٌ",
+      "itemIds": ["word-274"]
+    },
+    {
+      "id": "b1-l32-ex12",
+      "type": "meaning-to-word",
+      "prompt": "he met",
+      "answer": "قَابَلَ",
+      "itemIds": ["word-271"]
+    }
+  ]
+}

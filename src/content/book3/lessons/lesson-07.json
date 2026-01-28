@@ -1,0 +1,134 @@
+{
+  "id": "b3-l07",
+  "book": 3,
+  "lesson": 7,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب اِنْفَعَلَ",
+  "titleEn": "Derived Form VII (اِنْفَعَلَ)",
+  "description": "Learn Form VII verbs (passive/reflexive): اِنْكَسَرَ (to break), اِنْفَتَحَ (to open), اِنْتَشَرَ (to spread).",
+  "vocabulary": ["word-b3-034", "word-b3-035", "word-b3-036", "word-b3-037", "word-b3-038"],
+  "grammarPoints": ["gp-b3-007"],
+  "notes": [
+    {
+      "title": "Nouns of Instrument (اسم الآلة)",
+      "titleArabic": "اسم الآلة",
+      "content": [
+        "The noun of instrument (ism al-āla) denotes the tool or instrument used to perform an action. It follows specific patterns derived from the verb root."
+      ],
+      "keyPoints": [
+        "Pattern مِفْعَال: مِفْتَاح (key), مِيزَان (scale)",
+        "Pattern مِفْعَل: مِبْرَد (file), مِقَصّ (scissors)",
+        "Pattern مِفْعَلَة: مِكْنَسَة (broom), مِطْرَقَة (hammer)"
+      ],
+      "examples": [
+        { "arabic": "مِفْتَاح", "english": "key (instrument for opening)" },
+        { "arabic": "مِكْنَسَة", "english": "broom (instrument for sweeping)" },
+        { "arabic": "مِنْشَار", "english": "saw (instrument for cutting)" }
+      ]
+    },
+    {
+      "title": "Form VII Verbs (اِنْفَعَلَ)",
+      "titleArabic": "باب اِنْفَعَلَ",
+      "content": [
+        "Form VII verbs are formed by prefixing اِنْ to the root. This pattern typically indicates a passive or reflexive meaning, showing that something happens to the subject rather than the subject doing it."
+      ],
+      "keyPoints": [
+        "Pattern: اِنْفَعَلَ (infa'ala) - prefix in to root",
+        "Maṣdar pattern: اِنْفِعَال (infi'āl)",
+        "Mostly intransitive verbs",
+        "Shows result of an action: كَسَرَ (to break) → اِنْكَسَرَ (to become broken)"
+      ],
+      "examples": [
+        { "arabic": "اِنْكَسَرَ", "english": "to break (intransitive)" },
+        { "arabic": "اِنْفَتَحَ", "english": "to open (by itself)" },
+        { "arabic": "اِنْتَشَرَ", "english": "to spread" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l07-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The glass broke",
+      "answer": "اِنْكَسَرَ الزُّجَاجُ",
+      "itemIds": ["word-b3-034", "word-b3-010"]
+    },
+    {
+      "id": "b3-l07-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The door opened",
+      "answer": "اِنْفَتَحَ الْبَابُ",
+      "itemIds": ["word-b3-035", "word-019"]
+    },
+    {
+      "id": "b3-l07-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْخَبَرُ فِي الْمَدِينَةِ",
+      "promptEn": "The news spread in the city",
+      "answer": "اِنْتَشَرَ",
+      "itemIds": ["word-b3-036"]
+    },
+    {
+      "id": "b3-l07-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِنْكَسَرَ",
+      "answer": "to break (intransitive)",
+      "itemIds": ["word-b3-034"]
+    },
+    {
+      "id": "b3-l07-ex05",
+      "type": "word-to-meaning",
+      "prompt": "اِنْفَتَحَ",
+      "answer": "to open (intransitive)",
+      "itemIds": ["word-b3-035"]
+    },
+    {
+      "id": "b3-l07-ex06",
+      "type": "word-to-meaning",
+      "prompt": "اِنْتَشَرَ",
+      "answer": "to spread",
+      "itemIds": ["word-b3-036"]
+    },
+    {
+      "id": "b3-l07-ex07",
+      "type": "word-to-meaning",
+      "prompt": "اِنْقَطَعَ",
+      "answer": "to be cut off / interrupted",
+      "itemIds": ["word-b3-037"]
+    },
+    {
+      "id": "b3-l07-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِنْتَهَى",
+      "answer": "to end / finish",
+      "itemIds": ["word-b3-038"]
+    },
+    {
+      "id": "b3-l07-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to break (Form VII)",
+      "answer": "اِنْكَسَرَ",
+      "itemIds": ["word-b3-034"]
+    },
+    {
+      "id": "b3-l07-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to end (Form VII)",
+      "answer": "اِنْتَهَى",
+      "itemIds": ["word-b3-038"]
+    },
+    {
+      "id": "b3-l07-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The electricity was cut off from the house",
+      "answer": "اِنْقَطَعَ التَّيَّارُ الْكَهْرَبَائِيُّ عَنِ الْبَيْتِ",
+      "itemIds": ["word-b3-037", "word-019"]
+    },
+    {
+      "id": "b3-l07-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The class ended at two o'clock",
+      "answer": "اِنْتَهَى الْفَصْلُ فِي السَّاعَةِ الثَّانِيَةِ",
+      "itemIds": ["word-b3-038"]
+    }
+  ]
+}

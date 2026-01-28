@@ -1,0 +1,3461 @@
+{
+  "exercises": [
+    {
+      "id": "irab-001",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "الطَّالِبُ مُجْتَهِدٌ",
+      "translation": "The student is hardworking",
+      "concept": "nominal-sentence",
+      "words": [
+        {
+          "id": "irab-001-w1",
+          "text": "الطَّالِبُ",
+          "function": "mubtada",
+          "case": "marfu",
+          "explanation": "المبتدأ مرفوع دائماً",
+          "isTarget": true
+        },
+        {
+          "id": "irab-001-w2",
+          "text": "مُجْتَهِدٌ",
+          "function": "khabar",
+          "case": "marfu",
+          "explanation": "الخبر مرفوع"
+        }
+      ],
+      "targetWordIndex": 0,
+      "hint": "ما هو إعراب المبتدأ؟"
+    },
+    {
+      "id": "irab-002",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "الكِتَابُ جَدِيدٌ",
+      "translation": "The book is new",
+      "concept": "nominal-sentence",
+      "words": [
+        {
+          "id": "irab-002-w1",
+          "text": "الكِتَابُ",
+          "function": "mubtada",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-002-w2",
+          "text": "جَدِيدٌ",
+          "function": "khabar",
+          "case": "marfu",
+          "explanation": "الخبر يتبع المبتدأ في الرفع",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 1,
+      "hint": "الخبر يكون في أي حالة إعرابية؟"
+    },
+    {
+      "id": "irab-003",
+      "mode": "identify-function",
+      "difficulty": "beginner",
+      "sentence": "البَيْتُ كَبِيرٌ",
+      "translation": "The house is big",
+      "concept": "nominal-sentence",
+      "words": [
+        {
+          "id": "irab-003-w1",
+          "text": "البَيْتُ",
+          "function": "mubtada",
+          "case": "marfu",
+          "isTarget": true
+        },
+        {
+          "id": "irab-003-w2",
+          "text": "كَبِيرٌ",
+          "function": "khabar",
+          "case": "marfu"
+        }
+      ],
+      "targetWordIndex": 0,
+      "options": ["mubtada", "khabar", "fail", "mafool_bih"],
+      "hint": "الكلمة في بداية الجملة الاسمية هي..."
+    },
+    {
+      "id": "irab-004",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "ذَهَبَ الوَلَدُ إِلَى المَدْرَسَةِ",
+      "translation": "The boy went to the school",
+      "concept": "verbal-sentence",
+      "words": [
+        {
+          "id": "irab-004-w1",
+          "text": "ذَهَبَ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-004-w2",
+          "text": "الوَلَدُ",
+          "function": "fail",
+          "case": "marfu",
+          "explanation": "الفاعل مرفوع دائماً",
+          "isTarget": true
+        },
+        {
+          "id": "irab-004-w3",
+          "text": "إِلَى",
+          "function": "majrur_bi_harf",
+          "case": "majrur"
+        },
+        {
+          "id": "irab-004-w4",
+          "text": "المَدْرَسَةِ",
+          "function": "majrur_bi_harf",
+          "case": "majrur"
+        }
+      ],
+      "targetWordIndex": 1,
+      "hint": "الفاعل يكون في أي حالة؟"
+    },
+    {
+      "id": "irab-005",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "قَرَأَ الطَّالِبُ الكِتَابَ",
+      "translation": "The student read the book",
+      "concept": "verbal-sentence",
+      "words": [
+        {
+          "id": "irab-005-w1",
+          "text": "قَرَأَ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-005-w2",
+          "text": "الطَّالِبُ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-005-w3",
+          "text": "الكِتَابَ",
+          "function": "mafool_bih",
+          "case": "mansub",
+          "explanation": "المفعول به منصوب دائماً",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 2,
+      "hint": "المفعول به يكون..."
+    },
+    {
+      "id": "irab-006",
+      "mode": "identify-function",
+      "difficulty": "beginner",
+      "sentence": "كَتَبَ الأُسْتَاذُ الدَّرْسَ",
+      "translation": "The teacher wrote the lesson",
+      "concept": "verbal-sentence",
+      "words": [
+        {
+          "id": "irab-006-w1",
+          "text": "كَتَبَ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-006-w2",
+          "text": "الأُسْتَاذُ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-006-w3",
+          "text": "الدَّرْسَ",
+          "function": "mafool_bih",
+          "case": "mansub",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 2,
+      "options": ["fail", "mafool_bih", "khabar", "mudaf_ilayh"],
+      "hint": "الكلمة التي يقع عليها فعل الفاعل هي..."
+    },
+    {
+      "id": "irab-007",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "الوَلَدُ فِي البَيْتِ",
+      "translation": "The boy is in the house",
+      "concept": "prepositions",
+      "words": [
+        {
+          "id": "irab-007-w1",
+          "text": "الوَلَدُ",
+          "function": "mubtada",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-007-w2",
+          "text": "فِي",
+          "function": "majrur_bi_harf",
+          "case": "majrur"
+        },
+        {
+          "id": "irab-007-w3",
+          "text": "البَيْتِ",
+          "function": "majrur_bi_harf",
+          "case": "majrur",
+          "explanation": "الاسم بعد حرف الجر يكون مجروراً",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما إعراب الاسم بعد حرف الجر؟"
+    },
+    {
+      "id": "irab-008",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "كِتَابُ الطَّالِبِ جَدِيدٌ",
+      "translation": "The student's book is new",
+      "concept": "idafa",
+      "words": [
+        {
+          "id": "irab-008-w1",
+          "text": "كِتَابُ",
+          "function": "mudaf",
+          "case": "marfu",
+          "isTarget": true
+        },
+        {
+          "id": "irab-008-w2",
+          "text": "الطَّالِبِ",
+          "function": "mudaf_ilayh",
+          "case": "majrur"
+        },
+        {
+          "id": "irab-008-w3",
+          "text": "جَدِيدٌ",
+          "function": "khabar",
+          "case": "marfu"
+        }
+      ],
+      "targetWordIndex": 0,
+      "options": ["mudaf", "mudaf_ilayh", "mubtada", "sifa"],
+      "hint": "الكلمة الأولى في الإضافة تسمى..."
+    },
+    {
+      "id": "irab-009",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "كِتَابُ الطَّالِبِ جَدِيدٌ",
+      "translation": "The student's book is new",
+      "concept": "idafa",
+      "words": [
+        {
+          "id": "irab-009-w1",
+          "text": "كِتَابُ",
+          "function": "mudaf",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-009-w2",
+          "text": "الطَّالِبِ",
+          "function": "mudaf_ilayh",
+          "case": "majrur",
+          "explanation": "المضاف إليه مجرور دائماً",
+          "isTarget": true
+        },
+        {
+          "id": "irab-009-w3",
+          "text": "جَدِيدٌ",
+          "function": "khabar",
+          "case": "marfu"
+        }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المضاف إليه يكون..."
+    },
+    {
+      "id": "irab-010",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "رَأَيْتُ الطَّالِبَ المُجْتَهِدَ",
+      "translation": "I saw the hardworking student",
+      "concept": "adjectives",
+      "words": [
+        {
+          "id": "irab-010-w1",
+          "text": "رَأَيْتُ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-010-w2",
+          "text": "الطَّالِبَ",
+          "function": "mafool_bih",
+          "case": "mansub"
+        },
+        {
+          "id": "irab-010-w3",
+          "text": "المُجْتَهِدَ",
+          "function": "sifa",
+          "case": "mansub",
+          "explanation": "الصفة تتبع الموصوف في الإعراب",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 2,
+      "options": ["sifa", "khabar", "hal", "badal"],
+      "hint": "الكلمة التي تصف ما قبلها تسمى..."
+    },
+    {
+      "id": "irab-011",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "إِنَّ _____ مُجْتَهِدٌ",
+      "translation": "Indeed, the student is hardworking",
+      "concept": "inna-sisters",
+      "words": [
+        {
+          "id": "irab-011-w1",
+          "text": "إِنَّ",
+          "function": "ism_inna",
+          "case": "mansub"
+        },
+        {
+          "id": "irab-011-w2",
+          "text": "الطَّالِبَ",
+          "function": "ism_inna",
+          "case": "mansub",
+          "isTarget": true
+        },
+        {
+          "id": "irab-011-w3",
+          "text": "مُجْتَهِدٌ",
+          "function": "khabar_inna",
+          "case": "marfu"
+        }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["الطَّالِبُ", "الطَّالِبَ", "الطَّالِبِ"],
+      "hint": "اسم إنّ يكون..."
+    },
+    {
+      "id": "irab-012",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "إِنَّ العِلْمَ نُورٌ",
+      "translation": "Indeed, knowledge is light",
+      "concept": "inna-sisters",
+      "words": [
+        {
+          "id": "irab-012-w1",
+          "text": "إِنَّ",
+          "function": "ism_inna",
+          "case": "mansub"
+        },
+        {
+          "id": "irab-012-w2",
+          "text": "العِلْمَ",
+          "function": "ism_inna",
+          "case": "mansub",
+          "explanation": "اسم إنّ منصوب",
+          "isTarget": true
+        },
+        {
+          "id": "irab-012-w3",
+          "text": "نُورٌ",
+          "function": "khabar_inna",
+          "case": "marfu"
+        }
+      ],
+      "targetWordIndex": 1,
+      "hint": "إنّ تنصب الاسم وترفع الخبر"
+    },
+    {
+      "id": "irab-013",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "كَانَ الجَوُّ بَارِداً",
+      "translation": "The weather was cold",
+      "concept": "kana-sisters",
+      "words": [
+        {
+          "id": "irab-013-w1",
+          "text": "كَانَ",
+          "function": "ism_kana",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-013-w2",
+          "text": "الجَوُّ",
+          "function": "ism_kana",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-013-w3",
+          "text": "بَارِداً",
+          "function": "khabar_kana",
+          "case": "mansub",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 2,
+      "options": ["khabar_kana", "khabar", "hal", "sifa"],
+      "hint": "ما وظيفة الكلمة بعد اسم كان؟"
+    },
+    {
+      "id": "irab-014",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "كَانَ المُعَلِّمُ _____",
+      "translation": "The teacher was present",
+      "concept": "kana-sisters",
+      "words": [
+        {
+          "id": "irab-014-w1",
+          "text": "كَانَ",
+          "function": "ism_kana",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-014-w2",
+          "text": "المُعَلِّمُ",
+          "function": "ism_kana",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-014-w3",
+          "text": "حَاضِراً",
+          "function": "khabar_kana",
+          "case": "mansub",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["حَاضِرٌ", "حَاضِراً", "حَاضِرٍ"],
+      "hint": "خبر كان يكون..."
+    },
+    {
+      "id": "irab-015",
+      "mode": "full-parse",
+      "difficulty": "advanced",
+      "sentence": "الطَّالِبُ المُجْتَهِدُ نَاجِحٌ",
+      "translation": "The hardworking student is successful",
+      "concept": "nominal-with-adjective",
+      "words": [
+        {
+          "id": "irab-015-w1",
+          "text": "الطَّالِبُ",
+          "function": "mubtada",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-015-w2",
+          "text": "المُجْتَهِدُ",
+          "function": "sifa",
+          "case": "marfu",
+          "explanation": "الصفة تتبع الموصوف في الإعراب والتعريف"
+        },
+        {
+          "id": "irab-015-w3",
+          "text": "نَاجِحٌ",
+          "function": "khabar",
+          "case": "marfu"
+        }
+      ],
+      "hint": "حدد وظيفة كل كلمة في الجملة"
+    },
+    {
+      "id": "irab-016",
+      "mode": "full-parse",
+      "difficulty": "advanced",
+      "sentence": "شَرِبَ الوَلَدُ الحَلِيبَ البَارِدَ",
+      "translation": "The boy drank the cold milk",
+      "concept": "verbal-with-adjective",
+      "words": [
+        {
+          "id": "irab-016-w1",
+          "text": "شَرِبَ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-016-w2",
+          "text": "الوَلَدُ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-016-w3",
+          "text": "الحَلِيبَ",
+          "function": "mafool_bih",
+          "case": "mansub"
+        },
+        {
+          "id": "irab-016-w4",
+          "text": "البَارِدَ",
+          "function": "sifa",
+          "case": "mansub",
+          "explanation": "الصفة تتبع الموصوف - منصوب لأن الموصوف منصوب"
+        }
+      ],
+      "hint": "الفعل + الفاعل + المفعول به + صفته"
+    },
+    {
+      "id": "irab-017",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "جَلَسَ الطَّالِبُ عَلَى الكُرْسِيِّ",
+      "translation": "The student sat on the chair",
+      "concept": "prepositions",
+      "words": [
+        {
+          "id": "irab-017-w1",
+          "text": "جَلَسَ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-017-w2",
+          "text": "الطَّالِبُ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-017-w3",
+          "text": "عَلَى",
+          "function": "majrur_bi_harf",
+          "case": "majrur"
+        },
+        {
+          "id": "irab-017-w4",
+          "text": "الكُرْسِيِّ",
+          "function": "majrur_bi_harf",
+          "case": "majrur",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 3,
+      "correctExplanation": "مجرور لأنه جاء بعد حرف الجر (على)",
+      "explanationOptions": [
+        "مجرور لأنه جاء بعد حرف الجر (على)",
+        "مجرور لأنه مضاف إليه",
+        "منصوب لأنه مفعول به",
+        "مرفوع لأنه فاعل"
+      ],
+      "hint": "لماذا الكرسي مجرور؟"
+    },
+    {
+      "id": "irab-018",
+      "mode": "fix-case",
+      "difficulty": "advanced",
+      "sentence": "قَرَأَ الطَّالِبُ الكِتَابَ",
+      "translation": "The student read the book",
+      "concept": "verbal-sentence",
+      "incorrectSentence": "قَرَأَ الطَّالِبُ الكِتَابُ",
+      "words": [
+        {
+          "id": "irab-018-w1",
+          "text": "قَرَأَ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-018-w2",
+          "text": "الطَّالِبُ",
+          "function": "fail",
+          "case": "marfu"
+        },
+        {
+          "id": "irab-018-w3",
+          "text": "الكِتَابَ",
+          "function": "mafool_bih",
+          "case": "mansub",
+          "isTarget": true
+        }
+      ],
+      "targetWordIndex": 2,
+      "hint": "المفعول به يجب أن يكون منصوباً"
+    },
+    {
+      "id": "irab-019",
+      "mode": "fix-case",
+      "difficulty": "advanced",
+      "sentence": "إِنَّ الصِّدْقَ فَضِيلَةٌ",
+      "translation": "Indeed, honesty is a virtue",
+      "concept": "inna-sisters",
+      "incorrectSentence": "إِنَّ الصِّدْقُ فَضِيلَةٌ",
+      "words": [
+        {
+          "id": "irab-019-w1",
+          "text": "إِنَّ",
+          "function": "ism_inna",
+          "case": "mansub"
+        },
+        {
+          "id": "irab-019-w2",
+          "text": "الصِّدْقَ",
+          "function": "ism_inna",
+          "case": "mansub",
+          "isTarget": true
+        },
+        {
+          "id": "irab-019-w3",
+          "text": "فَضِيلَةٌ",
+          "function": "khabar_inna",
+          "case": "marfu"
+        }
+      ],
+      "targetWordIndex": 1,
+      "hint": "اسم إنّ يجب أن يكون منصوباً"
+    },
+    {
+      "id": "irab-020",
+      "mode": "full-parse",
+      "difficulty": "advanced",
+      "sentence": "إِنَّ طَلَبَ العِلْمِ فَرِيضَةٌ",
+      "translation": "Indeed, seeking knowledge is an obligation",
+      "concept": "inna-with-idafa",
+      "words": [
+        {
+          "id": "irab-020-w1",
+          "text": "إِنَّ",
+          "function": "ism_inna",
+          "case": "mansub"
+        },
+        {
+          "id": "irab-020-w2",
+          "text": "طَلَبَ",
+          "function": "ism_inna",
+          "case": "mansub",
+          "explanation": "اسم إنّ منصوب وهو مضاف"
+        },
+        {
+          "id": "irab-020-w3",
+          "text": "العِلْمِ",
+          "function": "mudaf_ilayh",
+          "case": "majrur",
+          "explanation": "مضاف إليه مجرور"
+        },
+        {
+          "id": "irab-020-w4",
+          "text": "فَرِيضَةٌ",
+          "function": "khabar_inna",
+          "case": "marfu",
+          "explanation": "خبر إنّ مرفوع"
+        }
+      ],
+      "hint": "إنّ + اسم (مضاف) + مضاف إليه + خبر"
+    },
+    {
+      "id": "irab-021",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "جَاءَ الطَّالِبُ مُسْرِعًا",
+      "translation": "The student came hurrying",
+      "concept": "hal",
+      "words": [
+        { "id": "irab-021-w1", "text": "جَاءَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-021-w2", "text": "الطَّالِبُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-021-w3", "text": "مُسْرِعًا", "function": "hal", "case": "mansub", "isTarget": true, "explanation": "الحال منصوب دائماً" }
+      ],
+      "targetWordIndex": 2,
+      "hint": "الحال يكون منصوباً دائماً"
+    },
+    {
+      "id": "irab-022",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "رَجَعَ الجُنْدِيُّ مُنْتَصِرًا",
+      "translation": "The soldier returned victorious",
+      "concept": "hal",
+      "words": [
+        { "id": "irab-022-w1", "text": "رَجَعَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-022-w2", "text": "الجُنْدِيُّ", "function": "fail", "case": "marfu" },
+        { "id": "irab-022-w3", "text": "مُنْتَصِرًا", "function": "hal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما حالة الكلمة التي تصف هيئة الفاعل؟"
+    },
+    {
+      "id": "irab-023",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "خَرَجَ الأَبُ غَاضِبًا",
+      "translation": "The father left angry",
+      "concept": "hal",
+      "words": [
+        { "id": "irab-023-w1", "text": "خَرَجَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-023-w2", "text": "الأَبُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-023-w3", "text": "غَاضِبًا", "function": "hal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["hal", "sifa", "khabar", "tamyiz"],
+      "hint": "الكلمة تصف حالة الفاعل عند خروجه"
+    },
+    {
+      "id": "irab-024",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "شَرِبْتُ الْمَاءَ بَارِدًا",
+      "translation": "I drank the water cold",
+      "concept": "hal",
+      "words": [
+        { "id": "irab-024-w1", "text": "شَرِبْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-024-w2", "text": "الْمَاءَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-024-w3", "text": "بَارِدًا", "function": "hal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["hal", "sifa", "tamyiz", "mafool_bih"],
+      "hint": "الكلمة تصف حالة الماء عند الشرب"
+    },
+    {
+      "id": "irab-025",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "دَخَلَ الضَّيْفُ _____",
+      "translation": "The guest entered smiling",
+      "concept": "hal",
+      "words": [
+        { "id": "irab-025-w1", "text": "دَخَلَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-025-w2", "text": "الضَّيْفُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-025-w3", "text": "مُبْتَسِمًا", "function": "hal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["مُبْتَسِمٌ", "مُبْتَسِمًا", "مُبْتَسِمٍ"],
+      "hint": "الحال يكون..."
+    },
+    {
+      "id": "irab-026",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "قَابَلْتُ صَدِيقِي فَرِحًا",
+      "translation": "I met my friend happy",
+      "concept": "hal",
+      "words": [
+        { "id": "irab-026-w1", "text": "قَابَلْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-026-w2", "text": "صَدِيقِي", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-026-w3", "text": "فَرِحًا", "function": "hal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "correctExplanation": "منصوب لأنه حال يصف هيئة المفعول به",
+      "explanationOptions": [
+        "منصوب لأنه حال يصف هيئة المفعول به",
+        "منصوب لأنه صفة للصديق",
+        "منصوب لأنه مفعول به ثانٍ",
+        "مرفوع لأنه خبر"
+      ],
+      "hint": "لماذا (فرحاً) منصوب؟"
+    },
+    {
+      "id": "irab-027",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "عِنْدِي عِشْرُونَ كِتَابًا",
+      "translation": "I have twenty books",
+      "concept": "tamyiz",
+      "words": [
+        { "id": "irab-027-w1", "text": "عِنْدِي", "function": "khabar", "case": "marfu" },
+        { "id": "irab-027-w2", "text": "عِشْرُونَ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-027-w3", "text": "كِتَابًا", "function": "tamyiz", "case": "mansub", "isTarget": true, "explanation": "تمييز العدد منصوب" }
+      ],
+      "targetWordIndex": 2,
+      "hint": "التمييز يكون منصوباً"
+    },
+    {
+      "id": "irab-028",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "اشْتَرَيْتُ رِطْلًا تَمْرًا",
+      "translation": "I bought a pound of dates",
+      "concept": "tamyiz",
+      "words": [
+        { "id": "irab-028-w1", "text": "اشْتَرَيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-028-w2", "text": "رِطْلًا", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-028-w3", "text": "تَمْرًا", "function": "tamyiz", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما إعراب الكلمة التي توضح نوع المكيال؟"
+    },
+    {
+      "id": "irab-029",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "الْأَرْضُ أَكْبَرُ مِنَ الْقَمَرِ حَجْمًا",
+      "translation": "The Earth is bigger than the moon in size",
+      "concept": "tamyiz",
+      "words": [
+        { "id": "irab-029-w1", "text": "الْأَرْضُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-029-w2", "text": "أَكْبَرُ", "function": "khabar", "case": "marfu" },
+        { "id": "irab-029-w3", "text": "مِنَ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-029-w4", "text": "الْقَمَرِ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-029-w5", "text": "حَجْمًا", "function": "tamyiz", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 4,
+      "options": ["tamyiz", "hal", "mafool_bih", "mafool_mutlaq"],
+      "hint": "الكلمة توضح وجه المقارنة"
+    },
+    {
+      "id": "irab-030",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "طَابَ مُحَمَّدٌ نَفْسًا",
+      "translation": "Muhammad is content (good in soul)",
+      "concept": "tamyiz",
+      "words": [
+        { "id": "irab-030-w1", "text": "طَابَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-030-w2", "text": "مُحَمَّدٌ", "function": "fail", "case": "marfu" },
+        { "id": "irab-030-w3", "text": "نَفْسًا", "function": "tamyiz", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["tamyiz", "hal", "mafool_bih", "badal"],
+      "hint": "الكلمة توضح الإبهام في الفاعل"
+    },
+    {
+      "id": "irab-031",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "زَادَ الطَّالِبُ _____",
+      "translation": "The student increased in knowledge",
+      "concept": "tamyiz",
+      "words": [
+        { "id": "irab-031-w1", "text": "زَادَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-031-w2", "text": "الطَّالِبُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-031-w3", "text": "عِلْمًا", "function": "tamyiz", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["عِلْمٌ", "عِلْمًا", "عِلْمٍ"],
+      "hint": "التمييز يكون..."
+    },
+    {
+      "id": "irab-032",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "مَلَأْتُ الْإِنَاءَ مَاءً",
+      "translation": "I filled the container with water",
+      "concept": "tamyiz",
+      "words": [
+        { "id": "irab-032-w1", "text": "مَلَأْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-032-w2", "text": "الْإِنَاءَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-032-w3", "text": "مَاءً", "function": "tamyiz", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "correctExplanation": "منصوب لأنه تمييز يوضح ما امتلأ به الإناء",
+      "explanationOptions": [
+        "منصوب لأنه تمييز يوضح ما امتلأ به الإناء",
+        "منصوب لأنه مفعول به ثانٍ",
+        "منصوب لأنه حال",
+        "مجرور لأنه مضاف إليه"
+      ],
+      "hint": "لماذا (ماءً) منصوب؟"
+    },
+    {
+      "id": "irab-033",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "جَاءَ الْخَلِيفَةُ عُمَرُ",
+      "translation": "The caliph Umar came",
+      "concept": "badal",
+      "words": [
+        { "id": "irab-033-w1", "text": "جَاءَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-033-w2", "text": "الْخَلِيفَةُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-033-w3", "text": "عُمَرُ", "function": "badal", "case": "marfu", "isTarget": true, "explanation": "البدل يتبع المبدل منه في الإعراب" }
+      ],
+      "targetWordIndex": 2,
+      "hint": "البدل يتبع المبدل منه في الإعراب"
+    },
+    {
+      "id": "irab-034",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "أَعْجَبَنِي الشَّاعِرُ الْمُتَنَبِّي",
+      "translation": "The poet Al-Mutanabbi impressed me",
+      "concept": "badal",
+      "words": [
+        { "id": "irab-034-w1", "text": "أَعْجَبَنِي", "function": "fail", "case": "marfu" },
+        { "id": "irab-034-w2", "text": "الشَّاعِرُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-034-w3", "text": "الْمُتَنَبِّي", "function": "badal", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما إعراب اسم العلم بعد الوصف؟"
+    },
+    {
+      "id": "irab-035",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "قَرَأْتُ الْكِتَابَ نِصْفَهُ",
+      "translation": "I read the book - half of it",
+      "concept": "badal",
+      "words": [
+        { "id": "irab-035-w1", "text": "قَرَأْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-035-w2", "text": "الْكِتَابَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-035-w3", "text": "نِصْفَهُ", "function": "badal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["badal", "sifa", "atf", "hal"],
+      "hint": "الكلمة بدل بعض من كل"
+    },
+    {
+      "id": "irab-036",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "زُرْتُ مِصْرَ الْقَاهِرَةَ",
+      "translation": "I visited Egypt - Cairo",
+      "concept": "badal",
+      "words": [
+        { "id": "irab-036-w1", "text": "زُرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-036-w2", "text": "مِصْرَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-036-w3", "text": "الْقَاهِرَةَ", "function": "badal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["badal", "atf", "sifa", "mudaf_ilayh"],
+      "hint": "القاهرة جزء من مصر"
+    },
+    {
+      "id": "irab-037",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "رَأَيْتُ أَخَاكَ _____",
+      "translation": "I saw your brother Ali",
+      "concept": "badal",
+      "words": [
+        { "id": "irab-037-w1", "text": "رَأَيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-037-w2", "text": "أَخَاكَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-037-w3", "text": "عَلِيًّا", "function": "badal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["عَلِيٌّ", "عَلِيًّا", "عَلِيٍّ"],
+      "hint": "البدل يتبع المبدل منه..."
+    },
+    {
+      "id": "irab-038",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "سَلَّمْتُ عَلَى الْأُسْتَاذِ مُحَمَّدٍ",
+      "translation": "I greeted Professor Muhammad",
+      "concept": "badal",
+      "words": [
+        { "id": "irab-038-w1", "text": "سَلَّمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-038-w2", "text": "عَلَى", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-038-w3", "text": "الْأُسْتَاذِ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-038-w4", "text": "مُحَمَّدٍ", "function": "badal", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "correctExplanation": "مجرور لأنه بدل من الأستاذ المجرور",
+      "explanationOptions": [
+        "مجرور لأنه بدل من الأستاذ المجرور",
+        "مجرور لأنه مضاف إليه",
+        "منصوب لأنه مفعول به",
+        "مرفوع لأنه فاعل"
+      ],
+      "hint": "لماذا (محمد) مجرور؟"
+    },
+    {
+      "id": "irab-039",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "جَاءَ مُحَمَّدٌ وَعَلِيٌّ",
+      "translation": "Muhammad and Ali came",
+      "concept": "atf",
+      "words": [
+        { "id": "irab-039-w1", "text": "جَاءَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-039-w2", "text": "مُحَمَّدٌ", "function": "fail", "case": "marfu" },
+        { "id": "irab-039-w3", "text": "وَعَلِيٌّ", "function": "atf", "case": "marfu", "isTarget": true, "explanation": "المعطوف يتبع المعطوف عليه في الإعراب" }
+      ],
+      "targetWordIndex": 2,
+      "hint": "المعطوف يتبع المعطوف عليه في الإعراب"
+    },
+    {
+      "id": "irab-040",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "رَأَيْتُ الطَّالِبَ وَالْمُعَلِّمَ",
+      "translation": "I saw the student and the teacher",
+      "concept": "atf",
+      "words": [
+        { "id": "irab-040-w1", "text": "رَأَيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-040-w2", "text": "الطَّالِبَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-040-w3", "text": "وَالْمُعَلِّمَ", "function": "atf", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما إعراب الكلمة المعطوفة على المفعول به؟"
+    },
+    {
+      "id": "irab-041",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "الْبَيْتُ كَبِيرٌ وَجَمِيلٌ",
+      "translation": "The house is big and beautiful",
+      "concept": "atf",
+      "words": [
+        { "id": "irab-041-w1", "text": "الْبَيْتُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-041-w2", "text": "كَبِيرٌ", "function": "khabar", "case": "marfu" },
+        { "id": "irab-041-w3", "text": "وَجَمِيلٌ", "function": "atf", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["atf", "khabar", "sifa", "badal"],
+      "hint": "الكلمة معطوفة على الخبر"
+    },
+    {
+      "id": "irab-042",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "مَرَرْتُ بِخَالِدٍ ثُمَّ عُمَرَ",
+      "translation": "I passed by Khalid then Umar",
+      "concept": "atf",
+      "words": [
+        { "id": "irab-042-w1", "text": "مَرَرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-042-w2", "text": "بِخَالِدٍ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-042-w3", "text": "ثُمَّ", "function": "atf", "case": "majrur" },
+        { "id": "irab-042-w4", "text": "عُمَرَ", "function": "atf", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "options": ["atf", "badal", "mudaf_ilayh", "mafool_bih"],
+      "hint": "(ثم) حرف عطف"
+    },
+    {
+      "id": "irab-043",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "سَافَرَ الْأَبُ وَ_____",
+      "translation": "The father and the mother traveled",
+      "concept": "atf",
+      "words": [
+        { "id": "irab-043-w1", "text": "سَافَرَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-043-w2", "text": "الْأَبُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-043-w3", "text": "الْأُمُّ", "function": "atf", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["الْأُمُّ", "الْأُمَّ", "الْأُمِّ"],
+      "hint": "المعطوف على الفاعل يكون..."
+    },
+    {
+      "id": "irab-044",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "أَكَلْتُ التُّفَّاحَ وَالْبُرْتُقَالَ",
+      "translation": "I ate the apple and the orange",
+      "concept": "atf",
+      "words": [
+        { "id": "irab-044-w1", "text": "أَكَلْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-044-w2", "text": "التُّفَّاحَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-044-w3", "text": "وَالْبُرْتُقَالَ", "function": "atf", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "correctExplanation": "منصوب لأنه معطوف على المفعول به المنصوب",
+      "explanationOptions": [
+        "منصوب لأنه معطوف على المفعول به المنصوب",
+        "منصوب لأنه مفعول به ثانٍ",
+        "منصوب لأنه حال",
+        "مرفوع لأنه فاعل"
+      ],
+      "hint": "لماذا (البرتقال) منصوب؟"
+    },
+    {
+      "id": "irab-045",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "جَاءَ الطُّلَّابُ إِلَّا مُحَمَّدًا",
+      "translation": "The students came except Muhammad",
+      "concept": "istithna",
+      "words": [
+        { "id": "irab-045-w1", "text": "جَاءَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-045-w2", "text": "الطُّلَّابُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-045-w3", "text": "إِلَّا", "function": "mustathna", "case": "mansub" },
+        { "id": "irab-045-w4", "text": "مُحَمَّدًا", "function": "mustathna", "case": "mansub", "isTarget": true, "explanation": "المستثنى بإلا في الكلام التام المثبت منصوب" }
+      ],
+      "targetWordIndex": 3,
+      "hint": "المستثنى بإلا في الكلام التام المثبت يكون منصوباً"
+    },
+    {
+      "id": "irab-046",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "نَجَحَ الطُّلَّابُ إِلَّا الْكَسُولَ",
+      "translation": "The students passed except the lazy one",
+      "concept": "istithna",
+      "words": [
+        { "id": "irab-046-w1", "text": "نَجَحَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-046-w2", "text": "الطُّلَّابُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-046-w3", "text": "إِلَّا", "function": "mustathna", "case": "mansub" },
+        { "id": "irab-046-w4", "text": "الْكَسُولَ", "function": "mustathna", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "hint": "ما إعراب ما بعد إلا في الاستثناء التام المثبت؟"
+    },
+    {
+      "id": "irab-047",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "حَضَرَ الضُّيُوفُ إِلَّا وَاحِدًا",
+      "translation": "The guests attended except one",
+      "concept": "istithna",
+      "words": [
+        { "id": "irab-047-w1", "text": "حَضَرَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-047-w2", "text": "الضُّيُوفُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-047-w3", "text": "إِلَّا", "function": "mustathna", "case": "mansub" },
+        { "id": "irab-047-w4", "text": "وَاحِدًا", "function": "mustathna", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "options": ["mustathna", "mafool_bih", "hal", "tamyiz"],
+      "hint": "الكلمة بعد إلا في الاستثناء"
+    },
+    {
+      "id": "irab-048",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "قَرَأْتُ الكُتُبَ إِلَّا كِتَابًا",
+      "translation": "I read the books except one book",
+      "concept": "istithna",
+      "words": [
+        { "id": "irab-048-w1", "text": "قَرَأْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-048-w2", "text": "الكُتُبَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-048-w3", "text": "إِلَّا", "function": "mustathna", "case": "mansub" },
+        { "id": "irab-048-w4", "text": "كِتَابًا", "function": "mustathna", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "options": ["mustathna", "badal", "mafool_bih", "tamyiz"],
+      "hint": "ما وظيفة (كتاباً) بعد إلا؟"
+    },
+    {
+      "id": "irab-049",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "فَازَ الْمُتَسَابِقُونَ إِلَّا _____",
+      "translation": "The competitors won except the last one",
+      "concept": "istithna",
+      "words": [
+        { "id": "irab-049-w1", "text": "فَازَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-049-w2", "text": "الْمُتَسَابِقُونَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-049-w3", "text": "إِلَّا", "function": "mustathna", "case": "mansub" },
+        { "id": "irab-049-w4", "text": "الْأَخِيرَ", "function": "mustathna", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "wordOptions": ["الْأَخِيرُ", "الْأَخِيرَ", "الْأَخِيرِ"],
+      "hint": "المستثنى في الكلام التام المثبت..."
+    },
+    {
+      "id": "irab-050",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "صَامَ الْمُسْلِمُونَ إِلَّا الْمَرِيضَ",
+      "translation": "The Muslims fasted except the sick one",
+      "concept": "istithna",
+      "words": [
+        { "id": "irab-050-w1", "text": "صَامَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-050-w2", "text": "الْمُسْلِمُونَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-050-w3", "text": "إِلَّا", "function": "mustathna", "case": "mansub" },
+        { "id": "irab-050-w4", "text": "الْمَرِيضَ", "function": "mustathna", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "correctExplanation": "منصوب لأنه مستثنى بإلا في كلام تام مثبت",
+      "explanationOptions": [
+        "منصوب لأنه مستثنى بإلا في كلام تام مثبت",
+        "منصوب لأنه مفعول به",
+        "منصوب لأنه حال",
+        "مرفوع لأنه بدل من المسلمون"
+      ],
+      "hint": "لماذا (المريض) منصوب؟"
+    },
+    {
+      "id": "irab-051",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "حَضَرَ الْمُدِيرُ نَفْسُهُ",
+      "translation": "The director himself attended",
+      "concept": "tawkeed",
+      "words": [
+        { "id": "irab-051-w1", "text": "حَضَرَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-051-w2", "text": "الْمُدِيرُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-051-w3", "text": "نَفْسُهُ", "function": "tawkeed", "case": "marfu", "isTarget": true, "explanation": "التوكيد يتبع المؤكد في الإعراب" }
+      ],
+      "targetWordIndex": 2,
+      "hint": "التوكيد يتبع المؤكد في الإعراب"
+    },
+    {
+      "id": "irab-052",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "رَأَيْتُ الْوَزِيرَ عَيْنَهُ",
+      "translation": "I saw the minister himself",
+      "concept": "tawkeed",
+      "words": [
+        { "id": "irab-052-w1", "text": "رَأَيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-052-w2", "text": "الْوَزِيرَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-052-w3", "text": "عَيْنَهُ", "function": "tawkeed", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما إعراب كلمة التوكيد بعد المفعول به؟"
+    },
+    {
+      "id": "irab-053",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "جَاءَ الطُّلَّابُ كُلُّهُمْ",
+      "translation": "All the students came",
+      "concept": "tawkeed",
+      "words": [
+        { "id": "irab-053-w1", "text": "جَاءَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-053-w2", "text": "الطُّلَّابُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-053-w3", "text": "كُلُّهُمْ", "function": "tawkeed", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["tawkeed", "badal", "atf", "sifa"],
+      "hint": "الكلمة تؤكد شمول الطلاب"
+    },
+    {
+      "id": "irab-054",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "قَرَأْتُ الْكِتَابَ كُلَّهُ",
+      "translation": "I read the whole book",
+      "concept": "tawkeed",
+      "words": [
+        { "id": "irab-054-w1", "text": "قَرَأْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-054-w2", "text": "الْكِتَابَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-054-w3", "text": "كُلَّهُ", "function": "tawkeed", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["tawkeed", "badal", "sifa", "mafool_bih"],
+      "hint": "الكلمة تؤكد شمول الكتاب"
+    },
+    {
+      "id": "irab-055",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "سَلَّمْتُ عَلَى الْأُسْتَاذِ _____",
+      "translation": "I greeted the professor himself",
+      "concept": "tawkeed",
+      "words": [
+        { "id": "irab-055-w1", "text": "سَلَّمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-055-w2", "text": "عَلَى", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-055-w3", "text": "الْأُسْتَاذِ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-055-w4", "text": "نَفْسِهِ", "function": "tawkeed", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "wordOptions": ["نَفْسُهُ", "نَفْسَهُ", "نَفْسِهِ"],
+      "hint": "التوكيد يتبع المؤكد..."
+    },
+    {
+      "id": "irab-056",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "الطُّلَّابُ أَنْفُسُهُمْ اعْتَرَفُوا",
+      "translation": "The students themselves confessed",
+      "concept": "tawkeed",
+      "words": [
+        { "id": "irab-056-w1", "text": "الطُّلَّابُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-056-w2", "text": "أَنْفُسُهُمْ", "function": "tawkeed", "case": "marfu", "isTarget": true },
+        { "id": "irab-056-w3", "text": "اعْتَرَفُوا", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "مرفوع لأنه توكيد معنوي للمبتدأ المرفوع",
+      "explanationOptions": [
+        "مرفوع لأنه توكيد معنوي للمبتدأ المرفوع",
+        "مرفوع لأنه خبر المبتدأ",
+        "منصوب لأنه حال",
+        "مجرور لأنه مضاف إليه"
+      ],
+      "hint": "لماذا (أنفسهم) مرفوع؟"
+    },
+    {
+      "id": "irab-057",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "ضَرَبْتُهُ ضَرْبًا شَدِيدًا",
+      "translation": "I hit him severely",
+      "concept": "mafool-mutlaq",
+      "words": [
+        { "id": "irab-057-w1", "text": "ضَرَبْتُهُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-057-w2", "text": "ضَرْبًا", "function": "mafool_mutlaq", "case": "mansub", "isTarget": true, "explanation": "المفعول المطلق منصوب دائماً" },
+        { "id": "irab-057-w3", "text": "شَدِيدًا", "function": "sifa", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المفعول المطلق منصوب دائماً"
+    },
+    {
+      "id": "irab-058",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "فَهِمْتُ الدَّرْسَ فَهْمًا جَيِّدًا",
+      "translation": "I understood the lesson well",
+      "concept": "mafool-mutlaq",
+      "words": [
+        { "id": "irab-058-w1", "text": "فَهِمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-058-w2", "text": "الدَّرْسَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-058-w3", "text": "فَهْمًا", "function": "mafool_mutlaq", "case": "mansub", "isTarget": true },
+        { "id": "irab-058-w4", "text": "جَيِّدًا", "function": "sifa", "case": "mansub" }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما إعراب المصدر من جذر الفعل؟"
+    },
+    {
+      "id": "irab-059",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "أَكْرَمْتُهُ إِكْرَامًا",
+      "translation": "I honored him (with honoring)",
+      "concept": "mafool-mutlaq",
+      "words": [
+        { "id": "irab-059-w1", "text": "أَكْرَمْتُهُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-059-w2", "text": "إِكْرَامًا", "function": "mafool_mutlaq", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_mutlaq", "mafool_bih", "hal", "tamyiz"],
+      "hint": "الكلمة مصدر من جذر الفعل"
+    },
+    {
+      "id": "irab-060",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "صَبَرْتُ صَبْرًا جَمِيلًا",
+      "translation": "I was patient with beautiful patience",
+      "concept": "mafool-mutlaq",
+      "words": [
+        { "id": "irab-060-w1", "text": "صَبَرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-060-w2", "text": "صَبْرًا", "function": "mafool_mutlaq", "case": "mansub", "isTarget": true },
+        { "id": "irab-060-w3", "text": "جَمِيلًا", "function": "sifa", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_mutlaq", "hal", "tamyiz", "mafool_lahu"],
+      "hint": "الكلمة من جذر الفعل وتبين نوعه"
+    },
+    {
+      "id": "irab-061",
+      "mode": "select-correct",
+      "difficulty": "advanced",
+      "sentence": "أَحْبَبْتُهُ _____ عَظِيمًا",
+      "translation": "I loved him greatly",
+      "concept": "mafool-mutlaq",
+      "words": [
+        { "id": "irab-061-w1", "text": "أَحْبَبْتُهُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-061-w2", "text": "حُبًّا", "function": "mafool_mutlaq", "case": "mansub", "isTarget": true },
+        { "id": "irab-061-w3", "text": "عَظِيمًا", "function": "sifa", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["حُبٌّ", "حُبًّا", "حُبٍّ"],
+      "hint": "المفعول المطلق يكون..."
+    },
+    {
+      "id": "irab-062",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "انْتَصَرَ الْجَيْشُ انْتِصَارًا سَاحِقًا",
+      "translation": "The army achieved a crushing victory",
+      "concept": "mafool-mutlaq",
+      "words": [
+        { "id": "irab-062-w1", "text": "انْتَصَرَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-062-w2", "text": "الْجَيْشُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-062-w3", "text": "انْتِصَارًا", "function": "mafool_mutlaq", "case": "mansub", "isTarget": true },
+        { "id": "irab-062-w4", "text": "سَاحِقًا", "function": "sifa", "case": "mansub" }
+      ],
+      "targetWordIndex": 2,
+      "correctExplanation": "منصوب لأنه مفعول مطلق - مصدر من جذر الفعل لبيان النوع",
+      "explanationOptions": [
+        "منصوب لأنه مفعول مطلق - مصدر من جذر الفعل لبيان النوع",
+        "منصوب لأنه مفعول به",
+        "منصوب لأنه حال",
+        "مرفوع لأنه فاعل"
+      ],
+      "hint": "لماذا (انتصاراً) منصوب؟"
+    },
+    {
+      "id": "irab-063",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "قُمْتُ إِجْلَالًا لِلْمُعَلِّمِ",
+      "translation": "I stood out of respect for the teacher",
+      "concept": "mafool-lahu",
+      "words": [
+        { "id": "irab-063-w1", "text": "قُمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-063-w2", "text": "إِجْلَالًا", "function": "mafool_lahu", "case": "mansub", "isTarget": true, "explanation": "المفعول لأجله منصوب" },
+        { "id": "irab-063-w3", "text": "لِلْمُعَلِّمِ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المفعول لأجله منصوب"
+    },
+    {
+      "id": "irab-064",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "جِئْتُ طَلَبًا لِلْعِلْمِ",
+      "translation": "I came seeking knowledge",
+      "concept": "mafool-lahu",
+      "words": [
+        { "id": "irab-064-w1", "text": "جِئْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-064-w2", "text": "طَلَبًا", "function": "mafool_lahu", "case": "mansub", "isTarget": true },
+        { "id": "irab-064-w3", "text": "لِلْعِلْمِ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب الكلمة التي تبين سبب المجيء؟"
+    },
+    {
+      "id": "irab-065",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "صَلَّيْتُ شُكْرًا للهِ",
+      "translation": "I prayed in gratitude to Allah",
+      "concept": "mafool-lahu",
+      "words": [
+        { "id": "irab-065-w1", "text": "صَلَّيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-065-w2", "text": "شُكْرًا", "function": "mafool_lahu", "case": "mansub", "isTarget": true },
+        { "id": "irab-065-w3", "text": "للهِ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_lahu", "mafool_mutlaq", "hal", "tamyiz"],
+      "hint": "الكلمة تبين سبب الصلاة"
+    },
+    {
+      "id": "irab-066",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "تَعَلَّمْتُ رَغْبَةً فِي النَّجَاحِ",
+      "translation": "I studied out of desire for success",
+      "concept": "mafool-lahu",
+      "words": [
+        { "id": "irab-066-w1", "text": "تَعَلَّمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-066-w2", "text": "رَغْبَةً", "function": "mafool_lahu", "case": "mansub", "isTarget": true },
+        { "id": "irab-066-w3", "text": "فِي", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-066-w4", "text": "النَّجَاحِ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_lahu", "hal", "mafool_mutlaq", "mafool_bih"],
+      "hint": "الكلمة تبين علة التعلم"
+    },
+    {
+      "id": "irab-067",
+      "mode": "select-correct",
+      "difficulty": "advanced",
+      "sentence": "سَافَرْتُ _____ لِلْمَعْرِفَةِ",
+      "translation": "I traveled in pursuit of knowledge",
+      "concept": "mafool-lahu",
+      "words": [
+        { "id": "irab-067-w1", "text": "سَافَرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-067-w2", "text": "طَلَبًا", "function": "mafool_lahu", "case": "mansub", "isTarget": true },
+        { "id": "irab-067-w3", "text": "لِلْمَعْرِفَةِ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["طَلَبٌ", "طَلَبًا", "طَلَبٍ"],
+      "hint": "المفعول لأجله يكون..."
+    },
+    {
+      "id": "irab-068",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "فَرَرْتُ خَوْفًا مِنَ الْعَدُوِّ",
+      "translation": "I fled out of fear of the enemy",
+      "concept": "mafool-lahu",
+      "words": [
+        { "id": "irab-068-w1", "text": "فَرَرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-068-w2", "text": "خَوْفًا", "function": "mafool_lahu", "case": "mansub", "isTarget": true },
+        { "id": "irab-068-w3", "text": "مِنَ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-068-w4", "text": "الْعَدُوِّ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "منصوب لأنه مفعول لأجله يبين سبب الفرار",
+      "explanationOptions": [
+        "منصوب لأنه مفعول لأجله يبين سبب الفرار",
+        "منصوب لأنه حال",
+        "منصوب لأنه مفعول مطلق",
+        "مجرور لأنه مضاف إليه"
+      ],
+      "hint": "لماذا (خوفاً) منصوب؟"
+    },
+    {
+      "id": "irab-069",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "سِرْتُ وَالنَّهْرَ",
+      "translation": "I walked along the river",
+      "concept": "mafool-maahu",
+      "words": [
+        { "id": "irab-069-w1", "text": "سِرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-069-w2", "text": "وَالنَّهْرَ", "function": "mafool_maahu", "case": "mansub", "isTarget": true, "explanation": "المفعول معه منصوب دائماً" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المفعول معه منصوب دائماً"
+    },
+    {
+      "id": "irab-070",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "مَشَيْتُ وَالْجَبَلَ",
+      "translation": "I walked alongside the mountain",
+      "concept": "mafool-maahu",
+      "words": [
+        { "id": "irab-070-w1", "text": "مَشَيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-070-w2", "text": "وَالْجَبَلَ", "function": "mafool_maahu", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب الاسم بعد واو المعية؟"
+    },
+    {
+      "id": "irab-071",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "جَلَسْتُ وَالْبَحْرَ",
+      "translation": "I sat by the sea",
+      "concept": "mafool-maahu",
+      "words": [
+        { "id": "irab-071-w1", "text": "جَلَسْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-071-w2", "text": "وَالْبَحْرَ", "function": "mafool_maahu", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_maahu", "atf", "mafool_bih", "hal"],
+      "hint": "الواو هنا للمصاحبة لا للعطف"
+    },
+    {
+      "id": "irab-072",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "سَهِرْتُ وَالْقَمَرَ",
+      "translation": "I stayed up late with the moon (as companion)",
+      "concept": "mafool-maahu",
+      "words": [
+        { "id": "irab-072-w1", "text": "سَهِرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-072-w2", "text": "وَالْقَمَرَ", "function": "mafool_maahu", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_maahu", "atf", "mafool_fih", "hal"],
+      "hint": "القمر لا يمكن أن يكون فاعلاً مع الشخص"
+    },
+    {
+      "id": "irab-073",
+      "mode": "select-correct",
+      "difficulty": "advanced",
+      "sentence": "سَافَرْتُ وَ_____",
+      "translation": "I traveled along the coast",
+      "concept": "mafool-maahu",
+      "words": [
+        { "id": "irab-073-w1", "text": "سَافَرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-073-w2", "text": "السَّاحِلَ", "function": "mafool_maahu", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["السَّاحِلُ", "السَّاحِلَ", "السَّاحِلِ"],
+      "hint": "المفعول معه يكون..."
+    },
+    {
+      "id": "irab-074",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "اسْتَيْقَظْتُ وَطُلُوعَ الشَّمْسِ",
+      "translation": "I woke up with the sunrise",
+      "concept": "mafool-maahu",
+      "words": [
+        { "id": "irab-074-w1", "text": "اسْتَيْقَظْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-074-w2", "text": "وَطُلُوعَ", "function": "mafool_maahu", "case": "mansub", "isTarget": true },
+        { "id": "irab-074-w3", "text": "الشَّمْسِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "منصوب لأنه مفعول معه بعد واو المعية",
+      "explanationOptions": [
+        "منصوب لأنه مفعول معه بعد واو المعية",
+        "منصوب لأنه معطوف على الفاعل",
+        "منصوب لأنه ظرف زمان",
+        "مجرور لأنه مضاف إليه"
+      ],
+      "hint": "لماذا (طلوع) منصوب؟"
+    },
+    {
+      "id": "irab-075",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "يَا عَبْدَ اللهِ",
+      "translation": "O servant of Allah!",
+      "concept": "munada",
+      "words": [
+        { "id": "irab-075-w1", "text": "يَا", "function": "munada", "case": "mansub" },
+        { "id": "irab-075-w2", "text": "عَبْدَ", "function": "munada", "case": "mansub", "isTarget": true, "explanation": "المنادى المضاف منصوب" },
+        { "id": "irab-075-w3", "text": "اللهِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المنادى المضاف يكون منصوباً"
+    },
+    {
+      "id": "irab-076",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "يَا طَالِبَ الْعِلْمِ",
+      "translation": "O seeker of knowledge!",
+      "concept": "munada",
+      "words": [
+        { "id": "irab-076-w1", "text": "يَا", "function": "munada", "case": "mansub" },
+        { "id": "irab-076-w2", "text": "طَالِبَ", "function": "munada", "case": "mansub", "isTarget": true },
+        { "id": "irab-076-w3", "text": "الْعِلْمِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب المنادى المضاف؟"
+    },
+    {
+      "id": "irab-077",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "يَا مُحَمَّدُ",
+      "translation": "O Muhammad!",
+      "concept": "munada",
+      "words": [
+        { "id": "irab-077-w1", "text": "يَا", "function": "munada", "case": "marfu" },
+        { "id": "irab-077-w2", "text": "مُحَمَّدُ", "function": "munada", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["munada", "mubtada", "fail", "khabar"],
+      "hint": "الاسم بعد (يا) للنداء"
+    },
+    {
+      "id": "irab-078",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "يَا أَيُّهَا الطَّالِبُ",
+      "translation": "O student!",
+      "concept": "munada",
+      "words": [
+        { "id": "irab-078-w1", "text": "يَا", "function": "munada", "case": "marfu" },
+        { "id": "irab-078-w2", "text": "أَيُّهَا", "function": "munada", "case": "marfu" },
+        { "id": "irab-078-w3", "text": "الطَّالِبُ", "function": "sifa", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["sifa", "munada", "badal", "atf"],
+      "hint": "الطالب صفة لأيّ"
+    },
+    {
+      "id": "irab-079",
+      "mode": "select-correct",
+      "difficulty": "advanced",
+      "sentence": "يَا _____ الدِّينِ",
+      "translation": "O defender of the religion!",
+      "concept": "munada",
+      "words": [
+        { "id": "irab-079-w1", "text": "يَا", "function": "munada", "case": "mansub" },
+        { "id": "irab-079-w2", "text": "حَامِيَ", "function": "munada", "case": "mansub", "isTarget": true },
+        { "id": "irab-079-w3", "text": "الدِّينِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["حَامِي", "حَامِيَ", "حَامِيِ"],
+      "hint": "المنادى المضاف يكون..."
+    },
+    {
+      "id": "irab-080",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "يَا رَسُولَ اللهِ",
+      "translation": "O Messenger of Allah!",
+      "concept": "munada",
+      "words": [
+        { "id": "irab-080-w1", "text": "يَا", "function": "munada", "case": "mansub" },
+        { "id": "irab-080-w2", "text": "رَسُولَ", "function": "munada", "case": "mansub", "isTarget": true },
+        { "id": "irab-080-w3", "text": "اللهِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "منصوب لأنه منادى مضاف",
+      "explanationOptions": [
+        "منصوب لأنه منادى مضاف",
+        "مبني على الضم لأنه منادى علم مفرد",
+        "مرفوع لأنه مبتدأ",
+        "مجرور لأنه مضاف إليه"
+      ],
+      "hint": "لماذا (رسول) منصوب؟"
+    },
+    {
+      "id": "irab-081",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "الْمُسْلِمُ صَادِقٌ",
+      "translation": "The Muslim is truthful",
+      "concept": "nominal-sentence",
+      "words": [
+        { "id": "irab-081-w1", "text": "الْمُسْلِمُ", "function": "mubtada", "case": "marfu", "isTarget": true },
+        { "id": "irab-081-w2", "text": "صَادِقٌ", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 0,
+      "hint": "المبتدأ في أول الجملة الاسمية"
+    },
+    {
+      "id": "irab-082",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "الْقُرْآنُ كَرِيمٌ",
+      "translation": "The Quran is noble",
+      "concept": "nominal-sentence",
+      "words": [
+        { "id": "irab-082-w1", "text": "الْقُرْآنُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-082-w2", "text": "كَرِيمٌ", "function": "khabar", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "الخبر يخبر عن المبتدأ"
+    },
+    {
+      "id": "irab-083",
+      "mode": "identify-function",
+      "difficulty": "beginner",
+      "sentence": "الْعِلْمُ نَافِعٌ",
+      "translation": "Knowledge is beneficial",
+      "concept": "nominal-sentence",
+      "words": [
+        { "id": "irab-083-w1", "text": "الْعِلْمُ", "function": "mubtada", "case": "marfu", "isTarget": true },
+        { "id": "irab-083-w2", "text": "نَافِعٌ", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 0,
+      "options": ["mubtada", "khabar", "fail", "mafool_bih"],
+      "hint": "ما وظيفة الكلمة الأولى؟"
+    },
+    {
+      "id": "irab-084",
+      "mode": "identify-function",
+      "difficulty": "beginner",
+      "sentence": "السَّمَاءُ صَافِيَةٌ",
+      "translation": "The sky is clear",
+      "concept": "nominal-sentence",
+      "words": [
+        { "id": "irab-084-w1", "text": "السَّمَاءُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-084-w2", "text": "صَافِيَةٌ", "function": "khabar", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["khabar", "mubtada", "sifa", "hal"],
+      "hint": "ما وظيفة الكلمة الثانية؟"
+    },
+    {
+      "id": "irab-085",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "سَمِعَ الْوَلَدُ الأَذَانَ",
+      "translation": "The boy heard the adhan",
+      "concept": "verbal-sentence",
+      "words": [
+        { "id": "irab-085-w1", "text": "سَمِعَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-085-w2", "text": "الْوَلَدُ", "function": "fail", "case": "marfu", "isTarget": true },
+        { "id": "irab-085-w3", "text": "الأَذَانَ", "function": "mafool_bih", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "الفاعل يكون مرفوعاً"
+    },
+    {
+      "id": "irab-086",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "أَكَلَ الطِّفْلُ التُّفَّاحَةَ",
+      "translation": "The child ate the apple",
+      "concept": "verbal-sentence",
+      "words": [
+        { "id": "irab-086-w1", "text": "أَكَلَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-086-w2", "text": "الطِّفْلُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-086-w3", "text": "التُّفَّاحَةَ", "function": "mafool_bih", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "المفعول به يكون منصوباً"
+    },
+    {
+      "id": "irab-087",
+      "mode": "identify-function",
+      "difficulty": "beginner",
+      "sentence": "فَتَحَ الْمُعَلِّمُ الْبَابَ",
+      "translation": "The teacher opened the door",
+      "concept": "verbal-sentence",
+      "words": [
+        { "id": "irab-087-w1", "text": "فَتَحَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-087-w2", "text": "الْمُعَلِّمُ", "function": "fail", "case": "marfu", "isTarget": true },
+        { "id": "irab-087-w3", "text": "الْبَابَ", "function": "mafool_bih", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["fail", "mubtada", "mafool_bih", "khabar"],
+      "hint": "من الذي فعل الفعل؟"
+    },
+    {
+      "id": "irab-088",
+      "mode": "select-correct",
+      "difficulty": "beginner",
+      "sentence": "شَرِبَ _____ الْحَلِيبَ",
+      "translation": "The boy drank the milk",
+      "concept": "verbal-sentence",
+      "words": [
+        { "id": "irab-088-w1", "text": "شَرِبَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-088-w2", "text": "الْوَلَدُ", "function": "fail", "case": "marfu", "isTarget": true },
+        { "id": "irab-088-w3", "text": "الْحَلِيبَ", "function": "mafool_bih", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["الْوَلَدُ", "الْوَلَدَ", "الْوَلَدِ"],
+      "hint": "الفاعل يكون..."
+    },
+    {
+      "id": "irab-089",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "كُسِرَ الزُّجَاجُ",
+      "translation": "The glass was broken",
+      "concept": "naib-fail",
+      "words": [
+        { "id": "irab-089-w1", "text": "كُسِرَ", "function": "naib_fail", "case": "marfu" },
+        { "id": "irab-089-w2", "text": "الزُّجَاجُ", "function": "naib_fail", "case": "marfu", "isTarget": true, "explanation": "نائب الفاعل مرفوع" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "نائب الفاعل يحل محل الفاعل في الرفع"
+    },
+    {
+      "id": "irab-090",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "فُتِحَ الْبَابُ",
+      "translation": "The door was opened",
+      "concept": "naib-fail",
+      "words": [
+        { "id": "irab-090-w1", "text": "فُتِحَ", "function": "naib_fail", "case": "marfu" },
+        { "id": "irab-090-w2", "text": "الْبَابُ", "function": "naib_fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب الاسم بعد الفعل المبني للمجهول؟"
+    },
+    {
+      "id": "irab-091",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "أُكِلَ الطَّعَامُ",
+      "translation": "The food was eaten",
+      "concept": "naib-fail",
+      "words": [
+        { "id": "irab-091-w1", "text": "أُكِلَ", "function": "naib_fail", "case": "marfu" },
+        { "id": "irab-091-w2", "text": "الطَّعَامُ", "function": "naib_fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["naib_fail", "fail", "mafool_bih", "mubtada"],
+      "hint": "الفعل مبني للمجهول"
+    },
+    {
+      "id": "irab-092",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "قُرِئَ الْكِتَابُ",
+      "translation": "The book was read",
+      "concept": "naib-fail",
+      "words": [
+        { "id": "irab-092-w1", "text": "قُرِئَ", "function": "naib_fail", "case": "marfu" },
+        { "id": "irab-092-w2", "text": "الْكِتَابُ", "function": "naib_fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["naib_fail", "fail", "mubtada", "mafool_bih"],
+      "hint": "ما وظيفة الاسم بعد الفعل المبني للمجهول؟"
+    },
+    {
+      "id": "irab-093",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "شُرِبَ _____",
+      "translation": "The water was drunk",
+      "concept": "naib-fail",
+      "words": [
+        { "id": "irab-093-w1", "text": "شُرِبَ", "function": "naib_fail", "case": "marfu" },
+        { "id": "irab-093-w2", "text": "الْمَاءُ", "function": "naib_fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["الْمَاءُ", "الْمَاءَ", "الْمَاءِ"],
+      "hint": "نائب الفاعل يكون..."
+    },
+    {
+      "id": "irab-094",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "بُنِيَ الْمَسْجِدُ",
+      "translation": "The mosque was built",
+      "concept": "naib-fail",
+      "words": [
+        { "id": "irab-094-w1", "text": "بُنِيَ", "function": "naib_fail", "case": "marfu" },
+        { "id": "irab-094-w2", "text": "الْمَسْجِدُ", "function": "naib_fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "مرفوع لأنه نائب فاعل للفعل المبني للمجهول",
+      "explanationOptions": [
+        "مرفوع لأنه نائب فاعل للفعل المبني للمجهول",
+        "منصوب لأنه مفعول به",
+        "مرفوع لأنه فاعل",
+        "مرفوع لأنه مبتدأ"
+      ],
+      "hint": "لماذا (المسجد) مرفوع؟"
+    },
+    {
+      "id": "irab-095",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "جَلَسْتُ أَمَامَ الْمُعَلِّمِ",
+      "translation": "I sat in front of the teacher",
+      "concept": "mafool-fih",
+      "words": [
+        { "id": "irab-095-w1", "text": "جَلَسْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-095-w2", "text": "أَمَامَ", "function": "mafool_fih", "case": "mansub", "isTarget": true, "explanation": "ظرف المكان منصوب" },
+        { "id": "irab-095-w3", "text": "الْمُعَلِّمِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ظرف المكان يكون منصوباً"
+    },
+    {
+      "id": "irab-096",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "سَافَرْتُ يَوْمَ الْجُمُعَةِ",
+      "translation": "I traveled on Friday",
+      "concept": "mafool-fih",
+      "words": [
+        { "id": "irab-096-w1", "text": "سَافَرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-096-w2", "text": "يَوْمَ", "function": "mafool_fih", "case": "mansub", "isTarget": true, "explanation": "ظرف الزمان منصوب" },
+        { "id": "irab-096-w3", "text": "الْجُمُعَةِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ظرف الزمان يكون منصوباً"
+    },
+    {
+      "id": "irab-097",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "وَقَفْتُ خَلْفَ الْبَابِ",
+      "translation": "I stood behind the door",
+      "concept": "mafool-fih",
+      "words": [
+        { "id": "irab-097-w1", "text": "وَقَفْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-097-w2", "text": "خَلْفَ", "function": "mafool_fih", "case": "mansub", "isTarget": true },
+        { "id": "irab-097-w3", "text": "الْبَابِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_fih", "mafool_bih", "hal", "majrur_bi_harf"],
+      "hint": "الكلمة تدل على مكان الوقوف"
+    },
+    {
+      "id": "irab-098",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "نَمْتُ لَيْلًا",
+      "translation": "I slept at night",
+      "concept": "mafool-fih",
+      "words": [
+        { "id": "irab-098-w1", "text": "نَمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-098-w2", "text": "لَيْلًا", "function": "mafool_fih", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_fih", "hal", "tamyiz", "mafool_mutlaq"],
+      "hint": "الكلمة تدل على زمان النوم"
+    },
+    {
+      "id": "irab-099",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "صَلَّيْتُ _____ الْمَسْجِدِ",
+      "translation": "I prayed inside the mosque",
+      "concept": "mafool-fih",
+      "words": [
+        { "id": "irab-099-w1", "text": "صَلَّيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-099-w2", "text": "دَاخِلَ", "function": "mafool_fih", "case": "mansub", "isTarget": true },
+        { "id": "irab-099-w3", "text": "الْمَسْجِدِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["دَاخِلُ", "دَاخِلَ", "دَاخِلِ"],
+      "hint": "ظرف المكان يكون..."
+    },
+    {
+      "id": "irab-100",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "اسْتَيْقَظْتُ صَبَاحًا",
+      "translation": "I woke up in the morning",
+      "concept": "mafool-fih",
+      "words": [
+        { "id": "irab-100-w1", "text": "اسْتَيْقَظْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-100-w2", "text": "صَبَاحًا", "function": "mafool_fih", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "منصوب لأنه ظرف زمان (مفعول فيه)",
+      "explanationOptions": [
+        "منصوب لأنه ظرف زمان (مفعول فيه)",
+        "منصوب لأنه حال",
+        "منصوب لأنه تمييز",
+        "منصوب لأنه مفعول مطلق"
+      ],
+      "hint": "لماذا (صباحاً) منصوب؟"
+    },
+    {
+      "id": "irab-101",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "ظَنَنْتُ الْأَمْرَ سَهْلًا",
+      "translation": "I thought the matter was easy",
+      "concept": "zann-sisters",
+      "words": [
+        { "id": "irab-101-w1", "text": "ظَنَنْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-101-w2", "text": "الْأَمْرَ", "function": "mafool_bih_awwal", "case": "mansub", "isTarget": true, "explanation": "مفعول به أول منصوب" },
+        { "id": "irab-101-w3", "text": "سَهْلًا", "function": "mafool_bih_thani", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ظن وأخواتها تنصب مفعولين"
+    },
+    {
+      "id": "irab-102",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "حَسِبْتُ الطَّالِبَ مُجْتَهِدًا",
+      "translation": "I supposed the student was hardworking",
+      "concept": "zann-sisters",
+      "words": [
+        { "id": "irab-102-w1", "text": "حَسِبْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-102-w2", "text": "الطَّالِبَ", "function": "mafool_bih_awwal", "case": "mansub" },
+        { "id": "irab-102-w3", "text": "مُجْتَهِدًا", "function": "mafool_bih_thani", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما إعراب المفعول به الثاني؟"
+    },
+    {
+      "id": "irab-103",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "وَجَدْتُ الْعِلْمَ نَافِعًا",
+      "translation": "I found knowledge to be beneficial",
+      "concept": "zann-sisters",
+      "words": [
+        { "id": "irab-103-w1", "text": "وَجَدْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-103-w2", "text": "الْعِلْمَ", "function": "mafool_bih_awwal", "case": "mansub", "isTarget": true },
+        { "id": "irab-103-w3", "text": "نَافِعًا", "function": "mafool_bih_thani", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["mafool_bih_awwal", "mafool_bih", "ism_inna", "mubtada"],
+      "hint": "وجد من أفعال القلوب"
+    },
+    {
+      "id": "irab-104",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "عَلِمْتُ الْخَبَرَ صَحِيحًا",
+      "translation": "I knew the news to be true",
+      "concept": "zann-sisters",
+      "words": [
+        { "id": "irab-104-w1", "text": "عَلِمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-104-w2", "text": "الْخَبَرَ", "function": "mafool_bih_awwal", "case": "mansub" },
+        { "id": "irab-104-w3", "text": "صَحِيحًا", "function": "mafool_bih_thani", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["mafool_bih_thani", "hal", "sifa", "khabar"],
+      "hint": "الكلمة تتمم معنى المفعول الأول"
+    },
+    {
+      "id": "irab-105",
+      "mode": "select-correct",
+      "difficulty": "advanced",
+      "sentence": "ظَنَنْتُ الْمُعَلِّمَ _____",
+      "translation": "I thought the teacher was present",
+      "concept": "zann-sisters",
+      "words": [
+        { "id": "irab-105-w1", "text": "ظَنَنْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-105-w2", "text": "الْمُعَلِّمَ", "function": "mafool_bih_awwal", "case": "mansub" },
+        { "id": "irab-105-w3", "text": "حَاضِرًا", "function": "mafool_bih_thani", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["حَاضِرٌ", "حَاضِرًا", "حَاضِرٍ"],
+      "hint": "المفعول به الثاني يكون..."
+    },
+    {
+      "id": "irab-106",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "خِلْتُ السَّفَرَ قَرِيبًا",
+      "translation": "I imagined the journey to be near",
+      "concept": "zann-sisters",
+      "words": [
+        { "id": "irab-106-w1", "text": "خِلْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-106-w2", "text": "السَّفَرَ", "function": "mafool_bih_awwal", "case": "mansub" },
+        { "id": "irab-106-w3", "text": "قَرِيبًا", "function": "mafool_bih_thani", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "correctExplanation": "منصوب لأنه مفعول به ثانٍ لفعل من أفعال القلوب",
+      "explanationOptions": [
+        "منصوب لأنه مفعول به ثانٍ لفعل من أفعال القلوب",
+        "منصوب لأنه حال",
+        "منصوب لأنه صفة",
+        "مرفوع لأنه خبر"
+      ],
+      "hint": "لماذا (قريباً) منصوب؟"
+    },
+    {
+      "id": "irab-107",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "لَا طَالِبَ فِي الْفَصْلِ",
+      "translation": "There is no student in the class",
+      "concept": "la-nafiya",
+      "words": [
+        { "id": "irab-107-w1", "text": "لَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-107-w2", "text": "طَالِبَ", "function": "ism_la", "case": "mansub", "isTarget": true, "explanation": "اسم لا النافية للجنس مبني على الفتح" },
+        { "id": "irab-107-w3", "text": "فِي", "function": "khabar_la", "case": "marfu" },
+        { "id": "irab-107-w4", "text": "الْفَصْلِ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "اسم لا النافية للجنس يكون مبنياً على الفتح أو منصوباً"
+    },
+    {
+      "id": "irab-108",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "لَا إِلَهَ إِلَّا اللهُ",
+      "translation": "There is no god but Allah",
+      "concept": "la-nafiya",
+      "words": [
+        { "id": "irab-108-w1", "text": "لَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-108-w2", "text": "إِلَهَ", "function": "ism_la", "case": "mansub", "isTarget": true },
+        { "id": "irab-108-w3", "text": "إِلَّا", "function": "mustathna", "case": "marfu" },
+        { "id": "irab-108-w4", "text": "اللهُ", "function": "mubtada", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب اسم لا النافية للجنس؟"
+    },
+    {
+      "id": "irab-109",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللهِ",
+      "translation": "There is no power except with Allah",
+      "concept": "la-nafiya",
+      "words": [
+        { "id": "irab-109-w1", "text": "لَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-109-w2", "text": "حَوْلَ", "function": "ism_la", "case": "mansub", "isTarget": true },
+        { "id": "irab-109-w3", "text": "وَلَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-109-w4", "text": "قُوَّةَ", "function": "ism_la", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["ism_la", "mubtada", "mafool_bih", "ism_inna"],
+      "hint": "ما وظيفة الكلمة بعد لا النافية للجنس؟"
+    },
+    {
+      "id": "irab-110",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "لَا رَيْبَ فِيهِ",
+      "translation": "There is no doubt in it",
+      "concept": "la-nafiya",
+      "words": [
+        { "id": "irab-110-w1", "text": "لَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-110-w2", "text": "رَيْبَ", "function": "ism_la", "case": "mansub", "isTarget": true },
+        { "id": "irab-110-w3", "text": "فِيهِ", "function": "khabar_la", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["ism_la", "mafool_bih", "mubtada", "hal"],
+      "hint": "لا النافية للجنس تعمل عمل إنّ"
+    },
+    {
+      "id": "irab-111",
+      "mode": "select-correct",
+      "difficulty": "advanced",
+      "sentence": "لَا _____ بَعْدَ الْيَوْمِ",
+      "translation": "There is no meeting after today",
+      "concept": "la-nafiya",
+      "words": [
+        { "id": "irab-111-w1", "text": "لَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-111-w2", "text": "لِقَاءَ", "function": "ism_la", "case": "mansub", "isTarget": true },
+        { "id": "irab-111-w3", "text": "بَعْدَ", "function": "mafool_fih", "case": "mansub" },
+        { "id": "irab-111-w4", "text": "الْيَوْمِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["لِقَاءٌ", "لِقَاءَ", "لِقَاءٍ"],
+      "hint": "اسم لا النافية للجنس المفرد..."
+    },
+    {
+      "id": "irab-112",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "لَا شَكَّ فِي ذَلِكَ",
+      "translation": "There is no doubt about that",
+      "concept": "la-nafiya",
+      "words": [
+        { "id": "irab-112-w1", "text": "لَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-112-w2", "text": "شَكَّ", "function": "ism_la", "case": "mansub", "isTarget": true },
+        { "id": "irab-112-w3", "text": "فِي", "function": "khabar_la", "case": "marfu" },
+        { "id": "irab-112-w4", "text": "ذَلِكَ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "مبني على الفتح في محل نصب اسم لا النافية للجنس",
+      "explanationOptions": [
+        "مبني على الفتح في محل نصب اسم لا النافية للجنس",
+        "منصوب لأنه مفعول به",
+        "مرفوع لأنه مبتدأ",
+        "مجرور لأنه مضاف إليه"
+      ],
+      "hint": "لماذا (شكّ) على هذه الصورة؟"
+    },
+    {
+      "id": "irab-113",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "إِنْ تَدْرُسْ تَنْجَحْ",
+      "translation": "If you study, you will succeed",
+      "concept": "shart",
+      "words": [
+        { "id": "irab-113-w1", "text": "إِنْ", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-113-w2", "text": "تَدْرُسْ", "function": "fiel_shart", "case": "marfu", "isTarget": true, "explanation": "فعل الشرط مجزوم" },
+        { "id": "irab-113-w3", "text": "تَنْجَحْ", "function": "jawab_shart", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "فعل الشرط يكون مجزوماً بعد إن"
+    },
+    {
+      "id": "irab-114",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "مَنْ يَعْمَلْ خَيْرًا يَجِدْهُ",
+      "translation": "Whoever does good will find it",
+      "concept": "shart",
+      "words": [
+        { "id": "irab-114-w1", "text": "مَنْ", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-114-w2", "text": "يَعْمَلْ", "function": "fiel_shart", "case": "marfu", "isTarget": true },
+        { "id": "irab-114-w3", "text": "خَيْرًا", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-114-w4", "text": "يَجِدْهُ", "function": "jawab_shart", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب فعل الشرط بعد (من) الشرطية؟"
+    },
+    {
+      "id": "irab-115",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "إِنْ تَصْبِرْ تَفُزْ",
+      "translation": "If you are patient, you will win",
+      "concept": "shart",
+      "words": [
+        { "id": "irab-115-w1", "text": "إِنْ", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-115-w2", "text": "تَصْبِرْ", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-115-w3", "text": "تَفُزْ", "function": "jawab_shart", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["jawab_shart", "fiel_shart", "fail", "khabar"],
+      "hint": "الفعل الثاني هو نتيجة الشرط"
+    },
+    {
+      "id": "irab-116",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "مَتَى تَأْتِ أُكْرِمْكَ",
+      "translation": "Whenever you come, I will honor you",
+      "concept": "shart",
+      "words": [
+        { "id": "irab-116-w1", "text": "مَتَى", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-116-w2", "text": "تَأْتِ", "function": "fiel_shart", "case": "marfu", "isTarget": true },
+        { "id": "irab-116-w3", "text": "أُكْرِمْكَ", "function": "jawab_shart", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["fiel_shart", "jawab_shart", "fail", "mafool_bih"],
+      "hint": "ما وظيفة الفعل بعد أداة الشرط؟"
+    },
+    {
+      "id": "irab-117",
+      "mode": "select-correct",
+      "difficulty": "advanced",
+      "sentence": "إِنْ _____ الصَّلَاةَ تُفْلِحْ",
+      "translation": "If you establish prayer, you will succeed",
+      "concept": "shart",
+      "words": [
+        { "id": "irab-117-w1", "text": "إِنْ", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-117-w2", "text": "تُقِمْ", "function": "fiel_shart", "case": "marfu", "isTarget": true },
+        { "id": "irab-117-w3", "text": "الصَّلَاةَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-117-w4", "text": "تُفْلِحْ", "function": "jawab_shart", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["تُقِيمُ", "تُقِمْ", "تُقِيمَ"],
+      "hint": "فعل الشرط يكون..."
+    },
+    {
+      "id": "irab-118",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "أَيْنَمَا تَذْهَبْ أَذْهَبْ مَعَكَ",
+      "translation": "Wherever you go, I will go with you",
+      "concept": "shart",
+      "words": [
+        { "id": "irab-118-w1", "text": "أَيْنَمَا", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-118-w2", "text": "تَذْهَبْ", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-118-w3", "text": "أَذْهَبْ", "function": "jawab_shart", "case": "marfu", "isTarget": true },
+        { "id": "irab-118-w4", "text": "مَعَكَ", "function": "mafool_fih", "case": "mansub" }
+      ],
+      "targetWordIndex": 2,
+      "correctExplanation": "مجزوم لأنه جواب الشرط",
+      "explanationOptions": [
+        "مجزوم لأنه جواب الشرط",
+        "مجزوم لأنه فعل الشرط",
+        "مرفوع لأنه فعل مضارع",
+        "منصوب بأن المضمرة"
+      ],
+      "hint": "لماذا (أذهب) مجزوم؟"
+    },
+    {
+      "id": "irab-119",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "كَادَ الْمُعَلِّمُ يَصِلُ",
+      "translation": "The teacher almost arrived",
+      "concept": "afaal-muqaraba",
+      "words": [
+        { "id": "irab-119-w1", "text": "كَادَ", "function": "ism_kada", "case": "marfu" },
+        { "id": "irab-119-w2", "text": "الْمُعَلِّمُ", "function": "ism_kada", "case": "marfu", "isTarget": true, "explanation": "اسم كاد مرفوع" },
+        { "id": "irab-119-w3", "text": "يَصِلُ", "function": "khabar_kada", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "اسم كاد يكون مرفوعاً مثل اسم كان"
+    },
+    {
+      "id": "irab-120",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "أَوْشَكَ الْمَطَرُ أَنْ يَنْزِلَ",
+      "translation": "The rain was about to fall",
+      "concept": "afaal-muqaraba",
+      "words": [
+        { "id": "irab-120-w1", "text": "أَوْشَكَ", "function": "ism_kada", "case": "marfu" },
+        { "id": "irab-120-w2", "text": "الْمَطَرُ", "function": "ism_kada", "case": "marfu", "isTarget": true },
+        { "id": "irab-120-w3", "text": "أَنْ", "function": "khabar_kada", "case": "mansub" },
+        { "id": "irab-120-w4", "text": "يَنْزِلَ", "function": "khabar_kada", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب الاسم بعد أوشك؟"
+    },
+    {
+      "id": "irab-121",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "عَسَى الطَّالِبُ أَنْ يَنْجَحَ",
+      "translation": "Perhaps the student will succeed",
+      "concept": "afaal-muqaraba",
+      "words": [
+        { "id": "irab-121-w1", "text": "عَسَى", "function": "ism_kada", "case": "marfu" },
+        { "id": "irab-121-w2", "text": "الطَّالِبُ", "function": "ism_kada", "case": "marfu", "isTarget": true },
+        { "id": "irab-121-w3", "text": "أَنْ", "function": "khabar_kada", "case": "mansub" },
+        { "id": "irab-121-w4", "text": "يَنْجَحَ", "function": "khabar_kada", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["ism_kada", "fail", "mubtada", "ism_kana"],
+      "hint": "عسى من أفعال الرجاء"
+    },
+    {
+      "id": "irab-122",
+      "mode": "identify-function",
+      "difficulty": "advanced",
+      "sentence": "شَرَعَ الطِّفْلُ يَمْشِي",
+      "translation": "The child started walking",
+      "concept": "afaal-muqaraba",
+      "words": [
+        { "id": "irab-122-w1", "text": "شَرَعَ", "function": "ism_kada", "case": "marfu" },
+        { "id": "irab-122-w2", "text": "الطِّفْلُ", "function": "ism_kada", "case": "marfu", "isTarget": true },
+        { "id": "irab-122-w3", "text": "يَمْشِي", "function": "khabar_kada", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["ism_kada", "fail", "mubtada", "ism_inna"],
+      "hint": "شرع من أفعال الشروع"
+    },
+    {
+      "id": "irab-123",
+      "mode": "select-correct",
+      "difficulty": "advanced",
+      "sentence": "بَدَأَ _____ يَقْرَأُ",
+      "translation": "The student started reading",
+      "concept": "afaal-muqaraba",
+      "words": [
+        { "id": "irab-123-w1", "text": "بَدَأَ", "function": "ism_kada", "case": "marfu" },
+        { "id": "irab-123-w2", "text": "الطَّالِبُ", "function": "ism_kada", "case": "marfu", "isTarget": true },
+        { "id": "irab-123-w3", "text": "يَقْرَأُ", "function": "khabar_kada", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["الطَّالِبُ", "الطَّالِبَ", "الطَّالِبِ"],
+      "hint": "اسم بدأ يكون..."
+    },
+    {
+      "id": "irab-124",
+      "mode": "explain-why",
+      "difficulty": "advanced",
+      "sentence": "كَادَ الشَّمْسُ تَغْرُبُ",
+      "translation": "The sun was about to set",
+      "concept": "afaal-muqaraba",
+      "words": [
+        { "id": "irab-124-w1", "text": "كَادَ", "function": "ism_kada", "case": "marfu" },
+        { "id": "irab-124-w2", "text": "الشَّمْسُ", "function": "ism_kada", "case": "marfu", "isTarget": true },
+        { "id": "irab-124-w3", "text": "تَغْرُبُ", "function": "khabar_kada", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "مرفوع لأنه اسم كاد (من أفعال المقاربة)",
+      "explanationOptions": [
+        "مرفوع لأنه اسم كاد (من أفعال المقاربة)",
+        "مرفوع لأنه فاعل",
+        "مرفوع لأنه مبتدأ",
+        "منصوب لأنه مفعول به"
+      ],
+      "hint": "لماذا (الشمس) مرفوع؟"
+    },
+    {
+      "id": "irab-125",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "الرَّجُلُ طَوِيلٌ",
+      "translation": "The man is tall",
+      "concept": "nominal-sentence",
+      "words": [
+        { "id": "irab-125-w1", "text": "الرَّجُلُ", "function": "mubtada", "case": "marfu", "isTarget": true },
+        { "id": "irab-125-w2", "text": "طَوِيلٌ", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 0,
+      "hint": "المبتدأ مرفوع دائماً"
+    },
+    {
+      "id": "irab-126",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "الْمَاءُ بَارِدٌ",
+      "translation": "The water is cold",
+      "concept": "nominal-sentence",
+      "words": [
+        { "id": "irab-126-w1", "text": "الْمَاءُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-126-w2", "text": "بَارِدٌ", "function": "khabar", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "الخبر مرفوع"
+    },
+    {
+      "id": "irab-127",
+      "mode": "identify-function",
+      "difficulty": "beginner",
+      "sentence": "الْبِنْتُ جَمِيلَةٌ",
+      "translation": "The girl is beautiful",
+      "concept": "nominal-sentence",
+      "words": [
+        { "id": "irab-127-w1", "text": "الْبِنْتُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-127-w2", "text": "جَمِيلَةٌ", "function": "khabar", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "options": ["khabar", "mubtada", "sifa", "hal"],
+      "hint": "ما الذي يخبر عن المبتدأ؟"
+    },
+    {
+      "id": "irab-128",
+      "mode": "select-correct",
+      "difficulty": "beginner",
+      "sentence": "_____ قَوِيٌّ",
+      "translation": "The lion is strong",
+      "concept": "nominal-sentence",
+      "words": [
+        { "id": "irab-128-w1", "text": "الْأَسَدُ", "function": "mubtada", "case": "marfu", "isTarget": true },
+        { "id": "irab-128-w2", "text": "قَوِيٌّ", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 0,
+      "wordOptions": ["الْأَسَدُ", "الْأَسَدَ", "الْأَسَدِ"],
+      "hint": "المبتدأ يكون..."
+    },
+    {
+      "id": "irab-129",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "نَزَلَ الْمَطَرُ",
+      "translation": "The rain fell",
+      "concept": "verbal-sentence",
+      "words": [
+        { "id": "irab-129-w1", "text": "نَزَلَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-129-w2", "text": "الْمَطَرُ", "function": "fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "الفاعل مرفوع"
+    },
+    {
+      "id": "irab-130",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "طَلَعَتِ الشَّمْسُ",
+      "translation": "The sun rose",
+      "concept": "verbal-sentence",
+      "words": [
+        { "id": "irab-130-w1", "text": "طَلَعَتِ", "function": "fail", "case": "marfu" },
+        { "id": "irab-130-w2", "text": "الشَّمْسُ", "function": "fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب الفاعل؟"
+    },
+    {
+      "id": "irab-131",
+      "mode": "identify-function",
+      "difficulty": "beginner",
+      "sentence": "أَكَلَ الْقِطُّ السَّمَكَةَ",
+      "translation": "The cat ate the fish",
+      "concept": "verbal-sentence",
+      "words": [
+        { "id": "irab-131-w1", "text": "أَكَلَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-131-w2", "text": "الْقِطُّ", "function": "fail", "case": "marfu" },
+        { "id": "irab-131-w3", "text": "السَّمَكَةَ", "function": "mafool_bih", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["mafool_bih", "fail", "khabar", "sifa"],
+      "hint": "ما وقع عليه فعل الأكل؟"
+    },
+    {
+      "id": "irab-132",
+      "mode": "select-correct",
+      "difficulty": "beginner",
+      "sentence": "كَسَرَ الْوَلَدُ _____",
+      "translation": "The boy broke the cup",
+      "concept": "verbal-sentence",
+      "words": [
+        { "id": "irab-132-w1", "text": "كَسَرَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-132-w2", "text": "الْوَلَدُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-132-w3", "text": "الْكُوبَ", "function": "mafool_bih", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["الْكُوبُ", "الْكُوبَ", "الْكُوبِ"],
+      "hint": "المفعول به يكون..."
+    },
+    {
+      "id": "irab-133",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "ذَهَبَ الْأَبُ إِلَى السُّوقِ",
+      "translation": "The father went to the market",
+      "concept": "prepositions",
+      "words": [
+        { "id": "irab-133-w1", "text": "ذَهَبَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-133-w2", "text": "الْأَبُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-133-w3", "text": "إِلَى", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-133-w4", "text": "السُّوقِ", "function": "majrur_bi_harf", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "hint": "الاسم بعد حرف الجر مجرور"
+    },
+    {
+      "id": "irab-134",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "الْكِتَابُ عَلَى الطَّاوِلَةِ",
+      "translation": "The book is on the table",
+      "concept": "prepositions",
+      "words": [
+        { "id": "irab-134-w1", "text": "الْكِتَابُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-134-w2", "text": "عَلَى", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-134-w3", "text": "الطَّاوِلَةِ", "function": "majrur_bi_harf", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "ما إعراب الاسم بعد (على)؟"
+    },
+    {
+      "id": "irab-135",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "خَرَجْتُ مِنَ الْمَسْجِدِ",
+      "translation": "I came out of the mosque",
+      "concept": "prepositions",
+      "words": [
+        { "id": "irab-135-w1", "text": "خَرَجْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-135-w2", "text": "مِنَ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-135-w3", "text": "الْمَسْجِدِ", "function": "majrur_bi_harf", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["majrur_bi_harf", "mafool_bih", "mudaf_ilayh", "fail"],
+      "hint": "ما وظيفة الاسم بعد حرف الجر؟"
+    },
+    {
+      "id": "irab-136",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "سَلَّمْتُ عَلَى _____",
+      "translation": "I greeted the teacher",
+      "concept": "prepositions",
+      "words": [
+        { "id": "irab-136-w1", "text": "سَلَّمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-136-w2", "text": "عَلَى", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-136-w3", "text": "الْمُعَلِّمِ", "function": "majrur_bi_harf", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["الْمُعَلِّمُ", "الْمُعَلِّمَ", "الْمُعَلِّمِ"],
+      "hint": "الاسم بعد حرف الجر يكون..."
+    },
+    {
+      "id": "irab-137",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "بَابُ الْمَسْجِدِ مَفْتُوحٌ",
+      "translation": "The door of the mosque is open",
+      "concept": "idafa",
+      "words": [
+        { "id": "irab-137-w1", "text": "بَابُ", "function": "mudaf", "case": "marfu" },
+        { "id": "irab-137-w2", "text": "الْمَسْجِدِ", "function": "mudaf_ilayh", "case": "majrur", "isTarget": true },
+        { "id": "irab-137-w3", "text": "مَفْتُوحٌ", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المضاف إليه مجرور دائماً"
+    },
+    {
+      "id": "irab-138",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "قَلَمُ الطَّالِبِ جَدِيدٌ",
+      "translation": "The student's pen is new",
+      "concept": "idafa",
+      "words": [
+        { "id": "irab-138-w1", "text": "قَلَمُ", "function": "mudaf", "case": "marfu", "isTarget": true },
+        { "id": "irab-138-w2", "text": "الطَّالِبِ", "function": "mudaf_ilayh", "case": "majrur" },
+        { "id": "irab-138-w3", "text": "جَدِيدٌ", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 0,
+      "hint": "المضاف يأخذ إعرابه من موقعه في الجملة"
+    },
+    {
+      "id": "irab-139",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "سَيَّارَةُ الْأُسْتَاذِ كَبِيرَةٌ",
+      "translation": "The professor's car is big",
+      "concept": "idafa",
+      "words": [
+        { "id": "irab-139-w1", "text": "سَيَّارَةُ", "function": "mudaf", "case": "marfu", "isTarget": true },
+        { "id": "irab-139-w2", "text": "الْأُسْتَاذِ", "function": "mudaf_ilayh", "case": "majrur" },
+        { "id": "irab-139-w3", "text": "كَبِيرَةٌ", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 0,
+      "options": ["mudaf", "mubtada", "fail", "mafool_bih"],
+      "hint": "الكلمة الأولى في الإضافة"
+    },
+    {
+      "id": "irab-140",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "قَرَأْتُ كِتَابَ _____",
+      "translation": "I read the book of grammar",
+      "concept": "idafa",
+      "words": [
+        { "id": "irab-140-w1", "text": "قَرَأْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-140-w2", "text": "كِتَابَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-140-w3", "text": "النَّحْوِ", "function": "mudaf_ilayh", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["النَّحْوُ", "النَّحْوَ", "النَّحْوِ"],
+      "hint": "المضاف إليه يكون..."
+    },
+    {
+      "id": "irab-141",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "رَأَيْتُ رَجُلًا كَبِيرًا",
+      "translation": "I saw a big man",
+      "concept": "adjectives",
+      "words": [
+        { "id": "irab-141-w1", "text": "رَأَيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-141-w2", "text": "رَجُلًا", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-141-w3", "text": "كَبِيرًا", "function": "sifa", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "الصفة تتبع الموصوف في الإعراب"
+    },
+    {
+      "id": "irab-142",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "الْوَلَدُ الصَّغِيرُ نَائِمٌ",
+      "translation": "The small boy is sleeping",
+      "concept": "adjectives",
+      "words": [
+        { "id": "irab-142-w1", "text": "الْوَلَدُ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-142-w2", "text": "الصَّغِيرُ", "function": "sifa", "case": "marfu", "isTarget": true },
+        { "id": "irab-142-w3", "text": "نَائِمٌ", "function": "khabar", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب الصفة؟"
+    },
+    {
+      "id": "irab-143",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "مَرَرْتُ بِالْبَيْتِ الْقَدِيمِ",
+      "translation": "I passed by the old house",
+      "concept": "adjectives",
+      "words": [
+        { "id": "irab-143-w1", "text": "مَرَرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-143-w2", "text": "بِالْبَيْتِ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-143-w3", "text": "الْقَدِيمِ", "function": "sifa", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["sifa", "badal", "atf", "mudaf_ilayh"],
+      "hint": "الكلمة تصف البيت"
+    },
+    {
+      "id": "irab-144",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "قَابَلْتُ طَالِبًا _____",
+      "translation": "I met a hardworking student",
+      "concept": "adjectives",
+      "words": [
+        { "id": "irab-144-w1", "text": "قَابَلْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-144-w2", "text": "طَالِبًا", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-144-w3", "text": "مُجْتَهِدًا", "function": "sifa", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["مُجْتَهِدٌ", "مُجْتَهِدًا", "مُجْتَهِدٍ"],
+      "hint": "الصفة تتبع الموصوف في..."
+    },
+    {
+      "id": "irab-145",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "سَلَّمْتُ عَلَى الطَّالِبِ الْمُجْتَهِدِ",
+      "translation": "I greeted the hardworking student",
+      "concept": "adjectives",
+      "words": [
+        { "id": "irab-145-w1", "text": "سَلَّمْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-145-w2", "text": "عَلَى", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-145-w3", "text": "الطَّالِبِ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-145-w4", "text": "الْمُجْتَهِدِ", "function": "sifa", "case": "majrur", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "correctExplanation": "مجرور لأنه صفة للطالب المجرور",
+      "explanationOptions": [
+        "مجرور لأنه صفة للطالب المجرور",
+        "مجرور لأنه مضاف إليه",
+        "منصوب لأنه حال",
+        "مرفوع لأنه خبر"
+      ],
+      "hint": "لماذا (المجتهد) مجرور؟"
+    },
+    {
+      "id": "irab-146",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "إِنَّ الصَّبْرَ جَمِيلٌ",
+      "translation": "Indeed, patience is beautiful",
+      "concept": "inna-sisters",
+      "words": [
+        { "id": "irab-146-w1", "text": "إِنَّ", "function": "ism_inna", "case": "mansub" },
+        { "id": "irab-146-w2", "text": "الصَّبْرَ", "function": "ism_inna", "case": "mansub", "isTarget": true },
+        { "id": "irab-146-w3", "text": "جَمِيلٌ", "function": "khabar_inna", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "اسم إنّ منصوب"
+    },
+    {
+      "id": "irab-147",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "لَعَلَّ الْفَرَجَ قَرِيبٌ",
+      "translation": "Perhaps relief is near",
+      "concept": "inna-sisters",
+      "words": [
+        { "id": "irab-147-w1", "text": "لَعَلَّ", "function": "ism_inna", "case": "mansub" },
+        { "id": "irab-147-w2", "text": "الْفَرَجَ", "function": "ism_inna", "case": "mansub", "isTarget": true },
+        { "id": "irab-147-w3", "text": "قَرِيبٌ", "function": "khabar_inna", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "لعلّ من أخوات إنّ"
+    },
+    {
+      "id": "irab-148",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "لَيْتَ الشَّبَابَ يَعُودُ",
+      "translation": "If only youth would return",
+      "concept": "inna-sisters",
+      "words": [
+        { "id": "irab-148-w1", "text": "لَيْتَ", "function": "ism_inna", "case": "mansub" },
+        { "id": "irab-148-w2", "text": "الشَّبَابَ", "function": "ism_inna", "case": "mansub", "isTarget": true },
+        { "id": "irab-148-w3", "text": "يَعُودُ", "function": "khabar_inna", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "options": ["ism_inna", "mafool_bih", "mubtada", "fail"],
+      "hint": "ليت من أخوات إنّ"
+    },
+    {
+      "id": "irab-149",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "كَأَنَّ _____ بَدْرٌ",
+      "translation": "As if her face is a full moon",
+      "concept": "inna-sisters",
+      "words": [
+        { "id": "irab-149-w1", "text": "كَأَنَّ", "function": "ism_inna", "case": "mansub" },
+        { "id": "irab-149-w2", "text": "وَجْهَهَا", "function": "ism_inna", "case": "mansub", "isTarget": true },
+        { "id": "irab-149-w3", "text": "بَدْرٌ", "function": "khabar_inna", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "wordOptions": ["وَجْهُهَا", "وَجْهَهَا", "وَجْهِهَا"],
+      "hint": "اسم كأنّ يكون..."
+    },
+    {
+      "id": "irab-150",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "لَكِنَّ الْحَقَّ وَاضِحٌ",
+      "translation": "But the truth is clear",
+      "concept": "inna-sisters",
+      "words": [
+        { "id": "irab-150-w1", "text": "لَكِنَّ", "function": "ism_inna", "case": "mansub" },
+        { "id": "irab-150-w2", "text": "الْحَقَّ", "function": "ism_inna", "case": "mansub", "isTarget": true },
+        { "id": "irab-150-w3", "text": "وَاضِحٌ", "function": "khabar_inna", "case": "marfu" }
+      ],
+      "targetWordIndex": 1,
+      "correctExplanation": "منصوب لأنه اسم لكنّ (من أخوات إنّ)",
+      "explanationOptions": [
+        "منصوب لأنه اسم لكنّ (من أخوات إنّ)",
+        "منصوب لأنه مفعول به",
+        "مرفوع لأنه مبتدأ",
+        "مجرور لأنه مضاف إليه"
+      ],
+      "hint": "لماذا (الحق) منصوب؟"
+    },
+    {
+      "id": "irab-151",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "أَصْبَحَ الطَّقْسُ بَارِدًا",
+      "translation": "The weather became cold",
+      "concept": "kana-sisters",
+      "words": [
+        { "id": "irab-151-w1", "text": "أَصْبَحَ", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-151-w2", "text": "الطَّقْسُ", "function": "ism_kana", "case": "marfu", "isTarget": true },
+        { "id": "irab-151-w3", "text": "بَارِدًا", "function": "khabar_kana", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "اسم أصبح مرفوع"
+    },
+    {
+      "id": "irab-152",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "صَارَ الْوَلَدُ رَجُلًا",
+      "translation": "The boy became a man",
+      "concept": "kana-sisters",
+      "words": [
+        { "id": "irab-152-w1", "text": "صَارَ", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-152-w2", "text": "الْوَلَدُ", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-152-w3", "text": "رَجُلًا", "function": "khabar_kana", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "خبر صار منصوب"
+    },
+    {
+      "id": "irab-153",
+      "mode": "identify-function",
+      "difficulty": "intermediate",
+      "sentence": "ظَلَّ الْمُؤْمِنُ صَابِرًا",
+      "translation": "The believer remained patient",
+      "concept": "kana-sisters",
+      "words": [
+        { "id": "irab-153-w1", "text": "ظَلَّ", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-153-w2", "text": "الْمُؤْمِنُ", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-153-w3", "text": "صَابِرًا", "function": "khabar_kana", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "options": ["khabar_kana", "hal", "sifa", "mafool_bih"],
+      "hint": "ظلّ من أخوات كان"
+    },
+    {
+      "id": "irab-154",
+      "mode": "select-correct",
+      "difficulty": "intermediate",
+      "sentence": "بَاتَ الطِّفْلُ _____",
+      "translation": "The child spent the night sick",
+      "concept": "kana-sisters",
+      "words": [
+        { "id": "irab-154-w1", "text": "بَاتَ", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-154-w2", "text": "الطِّفْلُ", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-154-w3", "text": "مَرِيضًا", "function": "khabar_kana", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "wordOptions": ["مَرِيضٌ", "مَرِيضًا", "مَرِيضٍ"],
+      "hint": "خبر بات يكون..."
+    },
+    {
+      "id": "irab-155",
+      "mode": "explain-why",
+      "difficulty": "intermediate",
+      "sentence": "أَضْحَى الْجَوُّ حَارًّا",
+      "translation": "The weather became hot",
+      "concept": "kana-sisters",
+      "words": [
+        { "id": "irab-155-w1", "text": "أَضْحَى", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-155-w2", "text": "الْجَوُّ", "function": "ism_kana", "case": "marfu" },
+        { "id": "irab-155-w3", "text": "حَارًّا", "function": "khabar_kana", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "correctExplanation": "منصوب لأنه خبر أضحى (من أخوات كان)",
+      "explanationOptions": [
+        "منصوب لأنه خبر أضحى (من أخوات كان)",
+        "منصوب لأنه حال",
+        "مرفوع لأنه خبر المبتدأ",
+        "منصوب لأنه تمييز"
+      ],
+      "hint": "لماذا (حاراً) منصوب؟"
+    },
+    {
+      "id": "irab-156",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "رَجَعَ اللَّاعِبُ فَرِحًا",
+      "translation": "The player returned happy",
+      "concept": "hal",
+      "words": [
+        { "id": "irab-156-w1", "text": "رَجَعَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-156-w2", "text": "اللَّاعِبُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-156-w3", "text": "فَرِحًا", "function": "hal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "الحال منصوب"
+    },
+    {
+      "id": "irab-157",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "أَكَلَ الطَّعَامَ سَاخِنًا",
+      "translation": "He ate the food hot",
+      "concept": "hal",
+      "words": [
+        { "id": "irab-157-w1", "text": "أَكَلَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-157-w2", "text": "الطَّعَامَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-157-w3", "text": "سَاخِنًا", "function": "hal", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "الكلمة تصف حالة الطعام عند الأكل"
+    },
+    {
+      "id": "irab-158",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "عِنْدِي ثَلَاثُونَ دِرْهَمًا",
+      "translation": "I have thirty dirhams",
+      "concept": "tamyiz",
+      "words": [
+        { "id": "irab-158-w1", "text": "عِنْدِي", "function": "khabar", "case": "marfu" },
+        { "id": "irab-158-w2", "text": "ثَلَاثُونَ", "function": "mubtada", "case": "marfu" },
+        { "id": "irab-158-w3", "text": "دِرْهَمًا", "function": "tamyiz", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "تمييز العدد منصوب"
+    },
+    {
+      "id": "irab-159",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "ازْدَادَ الطِّفْلُ جَمَالًا",
+      "translation": "The child increased in beauty",
+      "concept": "tamyiz",
+      "words": [
+        { "id": "irab-159-w1", "text": "ازْدَادَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-159-w2", "text": "الطِّفْلُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-159-w3", "text": "جَمَالًا", "function": "tamyiz", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "التمييز يوضح وجه الزيادة"
+    },
+    {
+      "id": "irab-160",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "زُرْتُ الْعَالِمَ ابْنَ تَيْمِيَّةَ",
+      "translation": "I visited the scholar Ibn Taymiyyah",
+      "concept": "badal",
+      "words": [
+        { "id": "irab-160-w1", "text": "زُرْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-160-w2", "text": "الْعَالِمَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-160-w3", "text": "ابْنَ", "function": "badal", "case": "mansub", "isTarget": true },
+        { "id": "irab-160-w4", "text": "تَيْمِيَّةَ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 2,
+      "hint": "البدل يتبع المبدل منه"
+    },
+    {
+      "id": "irab-161",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "سَافَرَ أَحْمَدُ وَخَالِدٌ",
+      "translation": "Ahmad and Khalid traveled",
+      "concept": "atf",
+      "words": [
+        { "id": "irab-161-w1", "text": "سَافَرَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-161-w2", "text": "أَحْمَدُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-161-w3", "text": "وَخَالِدٌ", "function": "atf", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "المعطوف يتبع المعطوف عليه"
+    },
+    {
+      "id": "irab-162",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "أَكَلْتُ الْخُبْزَ وَالْجُبْنَ",
+      "translation": "I ate bread and cheese",
+      "concept": "atf",
+      "words": [
+        { "id": "irab-162-w1", "text": "أَكَلْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-162-w2", "text": "الْخُبْزَ", "function": "mafool_bih", "case": "mansub" },
+        { "id": "irab-162-w3", "text": "وَالْجُبْنَ", "function": "atf", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "المعطوف على المنصوب..."
+    },
+    {
+      "id": "irab-163",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "حَضَرَ النَّاسُ إِلَّا زَيْدًا",
+      "translation": "The people attended except Zaid",
+      "concept": "istithna",
+      "words": [
+        { "id": "irab-163-w1", "text": "حَضَرَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-163-w2", "text": "النَّاسُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-163-w3", "text": "إِلَّا", "function": "mustathna", "case": "mansub" },
+        { "id": "irab-163-w4", "text": "زَيْدًا", "function": "mustathna", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "hint": "المستثنى بإلا في الكلام التام المثبت منصوب"
+    },
+    {
+      "id": "irab-164",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "جَاءَ الْقَوْمُ أَجْمَعُونَ",
+      "translation": "All the people came",
+      "concept": "tawkeed",
+      "words": [
+        { "id": "irab-164-w1", "text": "جَاءَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-164-w2", "text": "الْقَوْمُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-164-w3", "text": "أَجْمَعُونَ", "function": "tawkeed", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "التوكيد يتبع المؤكد في الإعراب"
+    },
+    {
+      "id": "irab-165",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "ضَرَبْتُ ضَرْبَتَيْنِ",
+      "translation": "I hit twice",
+      "concept": "mafool-mutlaq",
+      "words": [
+        { "id": "irab-165-w1", "text": "ضَرَبْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-165-w2", "text": "ضَرْبَتَيْنِ", "function": "mafool_mutlaq", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المفعول المطلق لبيان العدد"
+    },
+    {
+      "id": "irab-166",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "سَجَدَ سُجُودًا طَوِيلًا",
+      "translation": "He prostrated a long prostration",
+      "concept": "mafool-mutlaq",
+      "words": [
+        { "id": "irab-166-w1", "text": "سَجَدَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-166-w2", "text": "سُجُودًا", "function": "mafool_mutlaq", "case": "mansub", "isTarget": true },
+        { "id": "irab-166-w3", "text": "طَوِيلًا", "function": "sifa", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المفعول المطلق لبيان النوع"
+    },
+    {
+      "id": "irab-167",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "جَلَسْتُ احْتِرَامًا لَهُ",
+      "translation": "I sat out of respect for him",
+      "concept": "mafool-lahu",
+      "words": [
+        { "id": "irab-167-w1", "text": "جَلَسْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-167-w2", "text": "احْتِرَامًا", "function": "mafool_lahu", "case": "mansub", "isTarget": true },
+        { "id": "irab-167-w3", "text": "لَهُ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المفعول لأجله يبين سبب الفعل"
+    },
+    {
+      "id": "irab-168",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "سَكَتَ خَجَلًا",
+      "translation": "He was silent out of shyness",
+      "concept": "mafool-lahu",
+      "words": [
+        { "id": "irab-168-w1", "text": "سَكَتَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-168-w2", "text": "خَجَلًا", "function": "mafool_lahu", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "الكلمة تبين علة السكوت"
+    },
+    {
+      "id": "irab-169",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "سَارَ وَالطَّرِيقَ",
+      "translation": "He walked along the road",
+      "concept": "mafool-maahu",
+      "words": [
+        { "id": "irab-169-w1", "text": "سَارَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-169-w2", "text": "وَالطَّرِيقَ", "function": "mafool_maahu", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المفعول معه منصوب"
+    },
+    {
+      "id": "irab-170",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "اسْتَوَى الْمَاءُ وَالْخَشَبَةَ",
+      "translation": "The water leveled with the wood",
+      "concept": "mafool-maahu",
+      "words": [
+        { "id": "irab-170-w1", "text": "اسْتَوَى", "function": "fail", "case": "marfu" },
+        { "id": "irab-170-w2", "text": "الْمَاءُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-170-w3", "text": "وَالْخَشَبَةَ", "function": "mafool_maahu", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "الواو للمعية"
+    },
+    {
+      "id": "irab-171",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "يَا أَهْلَ الْكِتَابِ",
+      "translation": "O People of the Book!",
+      "concept": "munada",
+      "words": [
+        { "id": "irab-171-w1", "text": "يَا", "function": "munada", "case": "mansub" },
+        { "id": "irab-171-w2", "text": "أَهْلَ", "function": "munada", "case": "mansub", "isTarget": true },
+        { "id": "irab-171-w3", "text": "الْكِتَابِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "المنادى المضاف منصوب"
+    },
+    {
+      "id": "irab-172",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "يَا أَيُّهَا النَّاسُ",
+      "translation": "O people!",
+      "concept": "munada",
+      "words": [
+        { "id": "irab-172-w1", "text": "يَا", "function": "munada", "case": "marfu" },
+        { "id": "irab-172-w2", "text": "أَيُّهَا", "function": "munada", "case": "marfu" },
+        { "id": "irab-172-w3", "text": "النَّاسُ", "function": "sifa", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "(الناس) صفة لأيّ"
+    },
+    {
+      "id": "irab-173",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "سُرِقَتِ السَّيَّارَةُ",
+      "translation": "The car was stolen",
+      "concept": "naib-fail",
+      "words": [
+        { "id": "irab-173-w1", "text": "سُرِقَتِ", "function": "naib_fail", "case": "marfu" },
+        { "id": "irab-173-w2", "text": "السَّيَّارَةُ", "function": "naib_fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "نائب الفاعل مرفوع"
+    },
+    {
+      "id": "irab-174",
+      "mode": "identify-case",
+      "difficulty": "intermediate",
+      "sentence": "عُقِدَ الاجْتِمَاعُ",
+      "translation": "The meeting was held",
+      "concept": "naib-fail",
+      "words": [
+        { "id": "irab-174-w1", "text": "عُقِدَ", "function": "naib_fail", "case": "marfu" },
+        { "id": "irab-174-w2", "text": "الاجْتِمَاعُ", "function": "naib_fail", "case": "marfu", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ما إعراب الاسم بعد الفعل المبني للمجهول؟"
+    },
+    {
+      "id": "irab-175",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "جَلَسْتُ تَحْتَ الشَّجَرَةِ",
+      "translation": "I sat under the tree",
+      "concept": "mafool-fih",
+      "words": [
+        { "id": "irab-175-w1", "text": "جَلَسْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-175-w2", "text": "تَحْتَ", "function": "mafool_fih", "case": "mansub", "isTarget": true },
+        { "id": "irab-175-w3", "text": "الشَّجَرَةِ", "function": "mudaf_ilayh", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ظرف المكان منصوب"
+    },
+    {
+      "id": "irab-176",
+      "mode": "identify-case",
+      "difficulty": "beginner",
+      "sentence": "سَأَعُودُ غَدًا",
+      "translation": "I will return tomorrow",
+      "concept": "mafool-fih",
+      "words": [
+        { "id": "irab-176-w1", "text": "سَأَعُودُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-176-w2", "text": "غَدًا", "function": "mafool_fih", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 1,
+      "hint": "ظرف الزمان منصوب"
+    },
+    {
+      "id": "irab-177",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "رَأَيْتُ الْمُعَلِّمَ مُبْتَسِمًا",
+      "translation": "I found the teacher smiling",
+      "concept": "zann-sisters",
+      "words": [
+        { "id": "irab-177-w1", "text": "رَأَيْتُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-177-w2", "text": "الْمُعَلِّمَ", "function": "mafool_bih_awwal", "case": "mansub" },
+        { "id": "irab-177-w3", "text": "مُبْتَسِمًا", "function": "mafool_bih_thani", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 2,
+      "hint": "رأى القلبية تنصب مفعولين"
+    },
+    {
+      "id": "irab-178",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "زَعَمَ الرَّجُلُ نَفْسَهُ عَالِمًا",
+      "translation": "The man claimed himself to be a scholar",
+      "concept": "zann-sisters",
+      "words": [
+        { "id": "irab-178-w1", "text": "زَعَمَ", "function": "fail", "case": "marfu" },
+        { "id": "irab-178-w2", "text": "الرَّجُلُ", "function": "fail", "case": "marfu" },
+        { "id": "irab-178-w3", "text": "نَفْسَهُ", "function": "mafool_bih_awwal", "case": "mansub" },
+        { "id": "irab-178-w4", "text": "عَالِمًا", "function": "mafool_bih_thani", "case": "mansub", "isTarget": true }
+      ],
+      "targetWordIndex": 3,
+      "hint": "زعم من أفعال القلوب"
+    },
+    {
+      "id": "irab-179",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "لَا ضَرَرَ وَلَا ضِرَارَ",
+      "translation": "No harm and no reciprocal harm",
+      "concept": "la-nafiya",
+      "words": [
+        { "id": "irab-179-w1", "text": "لَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-179-w2", "text": "ضَرَرَ", "function": "ism_la", "case": "mansub", "isTarget": true },
+        { "id": "irab-179-w3", "text": "وَلَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-179-w4", "text": "ضِرَارَ", "function": "ism_la", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "اسم لا النافية للجنس مبني على الفتح"
+    },
+    {
+      "id": "irab-180",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "لَا فَوْزَ بِلَا عَمَلٍ",
+      "translation": "No success without work",
+      "concept": "la-nafiya",
+      "words": [
+        { "id": "irab-180-w1", "text": "لَا", "function": "ism_la", "case": "mansub" },
+        { "id": "irab-180-w2", "text": "فَوْزَ", "function": "ism_la", "case": "mansub", "isTarget": true },
+        { "id": "irab-180-w3", "text": "بِلَا", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-180-w4", "text": "عَمَلٍ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "لا النافية للجنس تعمل عمل إنّ"
+    },
+    {
+      "id": "irab-181",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "مَا تَفْعَلْ مِنْ خَيْرٍ تُجْزَ بِهِ",
+      "translation": "Whatever good you do, you will be rewarded for it",
+      "concept": "shart",
+      "words": [
+        { "id": "irab-181-w1", "text": "مَا", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-181-w2", "text": "تَفْعَلْ", "function": "fiel_shart", "case": "marfu", "isTarget": true },
+        { "id": "irab-181-w3", "text": "مِنْ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-181-w4", "text": "خَيْرٍ", "function": "majrur_bi_harf", "case": "majrur" },
+        { "id": "irab-181-w5", "text": "تُجْزَ", "function": "jawab_shart", "case": "marfu" },
+        { "id": "irab-181-w6", "text": "بِهِ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "فعل الشرط مجزوم"
+    },
+    {
+      "id": "irab-182",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "أَيْنَمَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ",
+      "translation": "Wherever you are, death will reach you",
+      "concept": "shart",
+      "words": [
+        { "id": "irab-182-w1", "text": "أَيْنَمَا", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-182-w2", "text": "تَكُونُوا", "function": "fiel_shart", "case": "marfu" },
+        { "id": "irab-182-w3", "text": "يُدْرِكْكُمُ", "function": "jawab_shart", "case": "marfu", "isTarget": true },
+        { "id": "irab-182-w4", "text": "الْمَوْتُ", "function": "fail", "case": "marfu" }
+      ],
+      "targetWordIndex": 2,
+      "hint": "جواب الشرط مجزوم"
+    },
+    {
+      "id": "irab-183",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "أَوْشَكَ الْقِطَارُ أَنْ يَصِلَ",
+      "translation": "The train was about to arrive",
+      "concept": "afaal-muqaraba",
+      "words": [
+        { "id": "irab-183-w1", "text": "أَوْشَكَ", "function": "ism_kada", "case": "marfu" },
+        { "id": "irab-183-w2", "text": "الْقِطَارُ", "function": "ism_kada", "case": "marfu", "isTarget": true },
+        { "id": "irab-183-w3", "text": "أَنْ", "function": "khabar_kada", "case": "mansub" },
+        { "id": "irab-183-w4", "text": "يَصِلَ", "function": "khabar_kada", "case": "mansub" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "اسم أوشك مرفوع"
+    },
+    {
+      "id": "irab-184",
+      "mode": "identify-case",
+      "difficulty": "advanced",
+      "sentence": "عَسَى اللهُ أَنْ يَأْتِيَ بِالْفَتْحِ",
+      "translation": "Perhaps Allah will bring victory",
+      "concept": "afaal-muqaraba",
+      "words": [
+        { "id": "irab-184-w1", "text": "عَسَى", "function": "ism_kada", "case": "marfu" },
+        { "id": "irab-184-w2", "text": "اللهُ", "function": "ism_kada", "case": "marfu", "isTarget": true },
+        { "id": "irab-184-w3", "text": "أَنْ", "function": "khabar_kada", "case": "mansub" },
+        { "id": "irab-184-w4", "text": "يَأْتِيَ", "function": "khabar_kada", "case": "mansub" },
+        { "id": "irab-184-w5", "text": "بِالْفَتْحِ", "function": "majrur_bi_harf", "case": "majrur" }
+      ],
+      "targetWordIndex": 1,
+      "hint": "اسم عسى مرفوع"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "nominal-sentence",
+      "nameAr": "الجملة الاسمية",
+      "nameEn": "Nominal Sentence",
+      "description": "جملة تبدأ باسم وتتكون من مبتدأ وخبر"
+    },
+    {
+      "id": "verbal-sentence",
+      "nameAr": "الجملة الفعلية",
+      "nameEn": "Verbal Sentence",
+      "description": "جملة تبدأ بفعل وتتكون من فعل وفاعل ومفعول به"
+    },
+    {
+      "id": "idafa",
+      "nameAr": "الإضافة",
+      "nameEn": "Construct State (Idafa)",
+      "description": "تركيب من مضاف ومضاف إليه للدلالة على الملكية أو العلاقة"
+    },
+    {
+      "id": "prepositions",
+      "nameAr": "حروف الجر",
+      "nameEn": "Prepositions",
+      "description": "حروف تجر الاسم بعدها مثل: في، على، من، إلى"
+    },
+    {
+      "id": "adjectives",
+      "nameAr": "الصفة والموصوف",
+      "nameEn": "Adjectives",
+      "description": "الصفة تتبع الموصوف في الإعراب والتعريف والتذكير والتأنيث"
+    },
+    {
+      "id": "inna-sisters",
+      "nameAr": "إنّ وأخواتها",
+      "nameEn": "Inna and Sisters",
+      "description": "إنّ، أنّ، كأنّ، لكنّ، ليت، لعلّ - تنصب الاسم وترفع الخبر"
+    },
+    {
+      "id": "kana-sisters",
+      "nameAr": "كان وأخواتها",
+      "nameEn": "Kana and Sisters",
+      "description": "كان، أصبح، أضحى، ظل، بات، صار - ترفع الاسم وتنصب الخبر"
+    },
+    {
+      "id": "hal",
+      "nameAr": "الحال",
+      "nameEn": "Circumstantial Accusative",
+      "description": "يصف حالة الفاعل أو المفعول عند وقوع الفعل - منصوب ونكرة دائماً"
+    },
+    {
+      "id": "tamyiz",
+      "nameAr": "التمييز",
+      "nameEn": "Specification",
+      "description": "اسم نكرة منصوب يوضح المبهم قبله"
+    },
+    {
+      "id": "badal",
+      "nameAr": "البدل",
+      "nameEn": "Apposition",
+      "description": "تابع يتبع المبدل منه في إعرابه"
+    },
+    {
+      "id": "atf",
+      "nameAr": "عطف النسق",
+      "nameEn": "Coordinating Conjunction",
+      "description": "المعطوف يتبع المعطوف عليه في الإعراب"
+    },
+    {
+      "id": "istithna",
+      "nameAr": "الاستثناء",
+      "nameEn": "Exception",
+      "description": "إخراج ما بعد إلا من حكم ما قبلها"
+    },
+    {
+      "id": "tawkeed",
+      "nameAr": "التوكيد",
+      "nameEn": "Emphasis",
+      "description": "تابع يؤكد المتبوع ويتبعه في الإعراب"
+    },
+    {
+      "id": "mafool-mutlaq",
+      "nameAr": "المفعول المطلق",
+      "nameEn": "Cognate Accusative",
+      "description": "مصدر من جذر الفعل منصوب للتوكيد أو بيان النوع أو العدد"
+    },
+    {
+      "id": "mafool-lahu",
+      "nameAr": "المفعول لأجله",
+      "nameEn": "Object of Purpose",
+      "description": "مصدر منصوب يبين سبب وقوع الفعل"
+    },
+    {
+      "id": "mafool-maahu",
+      "nameAr": "المفعول معه",
+      "nameEn": "Accusative of Accompaniment",
+      "description": "اسم منصوب بعد واو المعية يدل على المصاحبة"
+    },
+    {
+      "id": "munada",
+      "nameAr": "المنادى",
+      "nameEn": "Vocative",
+      "description": "اسم بعد أداة النداء - إعرابه يختلف حسب نوعه"
+    },
+    {
+      "id": "naib-fail",
+      "nameAr": "نائب الفاعل",
+      "nameEn": "Deputy Subject (Passive)",
+      "description": "الاسم المرفوع الذي يحل محل الفاعل عند بناء الفعل للمجهول"
+    },
+    {
+      "id": "mafool-fih",
+      "nameAr": "المفعول فيه (الظرف)",
+      "nameEn": "Adverb of Time/Place",
+      "description": "اسم منصوب يدل على زمان وقوع الفعل أو مكانه"
+    },
+    {
+      "id": "zann-sisters",
+      "nameAr": "ظن وأخواتها",
+      "nameEn": "Verbs of Thinking",
+      "description": "أفعال القلوب التي تنصب مفعولين أصلهما مبتدأ وخبر"
+    },
+    {
+      "id": "la-nafiya",
+      "nameAr": "لا النافية للجنس",
+      "nameEn": "Absolute Negation",
+      "description": "لا التي تنفي الجنس كله وتعمل عمل إنّ"
+    },
+    {
+      "id": "shart",
+      "nameAr": "الجملة الشرطية",
+      "nameEn": "Conditional Sentences",
+      "description": "جملة تتكون من أداة شرط وفعل شرط وجواب شرط"
+    },
+    {
+      "id": "afaal-muqaraba",
+      "nameAr": "أفعال المقاربة والرجاء والشروع",
+      "nameEn": "Verbs of Imminence/Hope/Beginning",
+      "description": "كاد وأوشك (مقاربة)، عسى (رجاء)، شرع وبدأ (شروع) - ترفع الاسم وتنصب الخبر جملة فعلية"
+    }
+  ]
+}

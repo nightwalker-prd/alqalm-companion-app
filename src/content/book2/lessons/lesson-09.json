@@ -1,0 +1,132 @@
+{
+  "id": "b2-l09",
+  "book": 2,
+  "lesson": 9,
+  "title": "الْمَصْدَر",
+  "titleEn": "Verbal Noun (Masdar)",
+  "description": "Learn verbal nouns: كِتَابَةٌ (writing), ذَهَابٌ (going), قِرَاءَةٌ (reading).",
+  "vocabulary": ["word-b2-044", "word-b2-045", "word-b2-046", "word-b2-047", "word-b2-048", "word-b2-049"],
+  "grammarPoints": ["gp-b2-009"],
+  "notes": [
+    {
+      "title": "The Verbal Noun (المصدر)",
+      "titleArabic": "المصدر",
+      "content": [
+        "The verbal noun (مصدر) is a noun that expresses the action itself without reference to time or person. Every verb has at least one مصدر.",
+        "For Form I verbs, مصدر patterns are mostly irregular and must be memorized. Common patterns include فِعَالَة، فُعُول، فَعْل."
+      ],
+      "keyPoints": [
+        "كِتَابَة (writing) from كَتَبَ (to write)",
+        "ذَهَاب (going) from ذَهَبَ (to go)",
+        "قِرَاءَة (reading) from قَرَأَ (to read)",
+        "جُلُوس (sitting) from جَلَسَ (to sit)",
+        "دُخُول (entering) from دَخَلَ (to enter)"
+      ],
+      "examples": [
+        { "arabic": "الْكِتَابَةُ مُهِمَّةٌ", "english": "Writing is important" },
+        { "arabic": "الْقِرَاءَةُ مُفِيدَةٌ", "english": "Reading is beneficial" },
+        { "arabic": "أُحِبُّ التَّعَلُّمَ", "english": "I love learning" }
+      ]
+    },
+    {
+      "title": "Common Masdar Patterns",
+      "titleArabic": "أوزان المصدر الشائعة",
+      "content": [
+        "While Form I masdars are mostly irregular, there are some common patterns to recognize."
+      ],
+      "keyPoints": [
+        "فِعَالَة - often for professions/crafts: كِتَابَة، قِرَاءَة",
+        "فُعُول - common pattern: دُخُول، جُلُوس، خُرُوج",
+        "فَعْل - simple actions: فَهْم (understanding), عِلْم (knowledge)",
+        "فَعَال - often with movement: ذَهَاب، سَفَر"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l09-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "Writing is important",
+      "answer": "الْكِتَابَةُ مُهِمَّةٌ",
+      "itemIds": ["word-b2-044", "word-b2-050"]
+    },
+    {
+      "id": "b2-l09-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Reading is beneficial",
+      "answer": "الْقِرَاءَةُ مُفِيدَةٌ",
+      "itemIds": ["word-b2-046", "word-b2-051"]
+    },
+    {
+      "id": "b2-l09-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "I love learning",
+      "answer": "أُحِبُّ التَّعَلُّمَ",
+      "itemIds": ["word-b2-052", "word-b2-047"]
+    },
+    {
+      "id": "b2-l09-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ إِلَى الْمَسْجِدِ وَاجِبٌ",
+      "promptEn": "_____ to the mosque is obligatory",
+      "answer": "الذَّهَابُ",
+      "itemIds": ["word-b2-045"]
+    },
+    {
+      "id": "b2-l09-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كِتَابَةٌ",
+      "answer": "writing (noun)",
+      "itemIds": ["word-b2-044"]
+    },
+    {
+      "id": "b2-l09-ex06",
+      "type": "word-to-meaning",
+      "prompt": "ذَهَابٌ",
+      "answer": "going (noun)",
+      "itemIds": ["word-b2-045"]
+    },
+    {
+      "id": "b2-l09-ex07",
+      "type": "word-to-meaning",
+      "prompt": "قِرَاءَةٌ",
+      "answer": "reading (noun)",
+      "itemIds": ["word-b2-046"]
+    },
+    {
+      "id": "b2-l09-ex08",
+      "type": "word-to-meaning",
+      "prompt": "تَعَلُّمٌ",
+      "answer": "learning (noun)",
+      "itemIds": ["word-b2-047"]
+    },
+    {
+      "id": "b2-l09-ex09",
+      "type": "meaning-to-word",
+      "prompt": "sitting (noun)",
+      "answer": "جُلُوسٌ",
+      "itemIds": ["word-b2-048"]
+    },
+    {
+      "id": "b2-l09-ex10",
+      "type": "meaning-to-word",
+      "prompt": "entering (noun)",
+      "answer": "دُخُولٌ",
+      "itemIds": ["word-b2-049"]
+    },
+    {
+      "id": "b2-l09-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "Reading the Quran is beneficial",
+      "answer": "قِرَاءَةُ الْقُرْآنِ مُفِيدَةٌ",
+      "itemIds": ["word-b2-046", "word-099", "word-b2-051"]
+    },
+    {
+      "id": "b2-l09-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I love learning Arabic",
+      "answer": "أُحِبُّ تَعَلُّمَ الْعَرَبِيَّةِ",
+      "itemIds": ["word-b2-052", "word-b2-047", "word-019"]
+    }
+  ]
+}

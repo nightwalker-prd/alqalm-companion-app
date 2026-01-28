@@ -1,0 +1,110 @@
+[
+  {
+    "id": "coll-b1-l01-001",
+    "type": "demonstrative_noun",
+    "arabic": "هَذَا كِتَابٌ",
+    "english": "this is a book",
+    "wordIds": ["word-001", "word-002"],
+    "lessonId": "b1-l01",
+    "pattern": "هَذَا + noun"
+  },
+  {
+    "id": "coll-b1-l01-002",
+    "type": "demonstrative_noun",
+    "arabic": "هَذَا قَلَمٌ",
+    "english": "this is a pen",
+    "wordIds": ["word-001", "word-003"],
+    "lessonId": "b1-l01",
+    "pattern": "هَذَا + noun"
+  },
+  {
+    "id": "coll-b1-l01-003",
+    "type": "demonstrative_noun",
+    "arabic": "هَذَا مُدَرِّسٌ",
+    "english": "this is a teacher",
+    "wordIds": ["word-001", "word-004"],
+    "lessonId": "b1-l01",
+    "pattern": "هَذَا + noun"
+  },
+  {
+    "id": "coll-b1-l01-004",
+    "type": "demonstrative_noun",
+    "arabic": "هَذَا طَالِبٌ",
+    "english": "this is a student",
+    "wordIds": ["word-001", "word-005"],
+    "lessonId": "b1-l01",
+    "pattern": "هَذَا + noun"
+  },
+  {
+    "id": "coll-b1-l01-005",
+    "type": "demonstrative_noun",
+    "arabic": "هَذَا بَيْتٌ",
+    "english": "this is a house",
+    "wordIds": ["word-001", "word-006"],
+    "lessonId": "b1-l01",
+    "pattern": "هَذَا + noun"
+  },
+  {
+    "id": "coll-b1-l01-006",
+    "type": "demonstrative_noun",
+    "arabic": "هَذَا مَسْجِدٌ",
+    "english": "this is a mosque",
+    "wordIds": ["word-001", "word-007"],
+    "lessonId": "b1-l01",
+    "pattern": "هَذَا + noun"
+  },
+  {
+    "id": "coll-b1-l01-007",
+    "type": "demonstrative_noun",
+    "arabic": "هَذَا رَجُلٌ",
+    "english": "this is a man",
+    "wordIds": ["word-001", "word-009"],
+    "lessonId": "b1-l01",
+    "pattern": "هَذَا + noun"
+  },
+  {
+    "id": "coll-b1-l02-001",
+    "type": "demonstrative_noun",
+    "arabic": "ذَلِكَ نَجْمٌ",
+    "english": "that is a star",
+    "wordIds": ["word-010", "word-011"],
+    "lessonId": "b1-l02",
+    "pattern": "ذَلِكَ + noun"
+  },
+  {
+    "id": "coll-b1-l02-002",
+    "type": "demonstrative_noun",
+    "arabic": "ذَلِكَ قَمَرٌ",
+    "english": "that is a moon",
+    "wordIds": ["word-010", "word-012"],
+    "lessonId": "b1-l02",
+    "pattern": "ذَلِكَ + noun"
+  },
+  {
+    "id": "coll-b1-l02-003",
+    "type": "question_answer",
+    "arabic": "مَا هَذَا",
+    "english": "what is this?",
+    "wordIds": ["word-001"],
+    "lessonId": "b1-l02",
+    "pattern": "مَا + demonstrative"
+  },
+  {
+    "id": "coll-b1-l02-004",
+    "type": "question_answer",
+    "arabic": "مَنْ هَذَا",
+    "english": "who is this?",
+    "wordIds": ["word-001"],
+    "lessonId": "b1-l02",
+    "pattern": "مَنْ + demonstrative"
+  },
+  {
+    "id": "coll-b1-l02-005",
+    "type": "question_answer",
+    "arabic": "مَا ذَلِكَ",
+    "english": "what is that?",
+    "wordIds": ["word-010"],
+    "lessonId": "b1-l02",
+    "pattern": "مَا + demonstrative"
+  }
+]

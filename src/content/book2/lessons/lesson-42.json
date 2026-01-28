@@ -1,0 +1,141 @@
+{
+  "id": "b2-l42",
+  "book": 2,
+  "lesson": 42,
+  "title": "الصِّفَة الْمُشَبَّهَة (٢)",
+  "titleEn": "Resembling Adjective - Usage",
+  "description": "Learn how الصِّفَة الْمُشَبَّهَة differs from اسم الفاعل and understand its grammatical behavior in sentences.",
+  "vocabulary": ["word-b2-329", "word-b2-330", "word-b2-331", "word-b2-332", "word-b2-333", "word-b2-334"],
+  "grammarPoints": ["gp-b2-051", "gp-b2-052"],
+  "notes": [
+    {
+      "title": "الصفة المشبهة vs اسم الفاعل",
+      "titleArabic": "الفرق بين الصفة المشبهة واسم الفاعل",
+      "content": [
+        "اسم الفاعل indicates a temporary action or state, while الصفة المشبهة indicates a permanent quality.",
+        "For example, ضَارِبٌ means 'one who is hitting (now)', while كَرِيمٌ means 'one who is inherently generous'."
+      ],
+      "keyPoints": [
+        "اسم الفاعل: temporary state - ضَارِبٌ (hitting), قَائِمٌ (standing)",
+        "الصفة المشبهة: permanent quality - كَرِيمٌ (generous), شُجَاعٌ (brave)",
+        "اسم الفاعل from transitive verbs, الصفة المشبهة from intransitive",
+        "Both agree in gender and number with the noun they describe"
+      ],
+      "examples": [
+        { "arabic": "الرَّجُلُ ضَارِبٌ الْوَلَدَ الآنَ", "english": "The man is hitting the boy now (temporary)" },
+        { "arabic": "الرَّجُلُ كَرِيمٌ دَائِمًا", "english": "The man is always generous (permanent)" },
+        { "arabic": "هُوَ شُجَاعٌ فِي الْحَرْبِ", "english": "He is brave in war" },
+        { "arabic": "هِيَ صَبُورَةٌ عَلَى الْبَلَاءِ", "english": "She is patient in adversity" }
+      ]
+    },
+    {
+      "title": "Grammatical Behavior",
+      "titleArabic": "السلوك النحوي للصفة المشبهة",
+      "content": [
+        "الصفة المشبهة can take a connected noun (معمول) in the genitive case, showing what the quality relates to.",
+        "For example: حَسَنُ الْوَجْهِ (beautiful of face), كَرِيمُ الأَصْلِ (noble of origin)."
+      ],
+      "keyPoints": [
+        "Can govern a noun in genitive: طَيِّبُ الْقَلْبِ (good-hearted)",
+        "Agrees with its noun in definiteness and case",
+        "Often used as predicates: الْبِنْتُ حَسَنَةُ الْخُلُقِ",
+        "Can also be used as attributive adjectives"
+      ],
+      "examples": [
+        { "arabic": "هُوَ طَيِّبُ الْقَلْبِ", "english": "He is good-hearted" },
+        { "arabic": "الْمَرْأَةُ كَبِيرَةُ السِّنِّ", "english": "The woman is old (lit: big of age)" },
+        { "arabic": "رَأَيْتُ رَجُلًا حَسَنَ الْوَجْهِ", "english": "I saw a man with a beautiful face" },
+        { "arabic": "هُمْ طِوَالُ الْقَامَةِ", "english": "They are tall (lit: tall of stature)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l42-ex01",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ الْقَلْبِ",
+      "promptEn": "He is good-_____",
+      "answer": "طَيِّبُ",
+      "itemIds": ["word-b2-329"]
+    },
+    {
+      "id": "b2-l42-ex02",
+      "type": "fill-blank",
+      "prompt": "الْبِنْتُ _____ الْخُلُقِ",
+      "promptEn": "The girl is _____ in character",
+      "answer": "حَسَنَةُ",
+      "itemIds": ["word-b2-330"]
+    },
+    {
+      "id": "b2-l42-ex03",
+      "type": "fill-blank",
+      "prompt": "هُوَ رَجُلٌ _____ فِي الْحَرْبِ",
+      "promptEn": "He is a _____ man in war",
+      "answer": "شُجَاعٌ",
+      "itemIds": ["word-b2-331"]
+    },
+    {
+      "id": "b2-l42-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "She is patient",
+      "answer": "هِيَ صَبُورَةٌ",
+      "itemIds": ["word-b2-332"]
+    },
+    {
+      "id": "b2-l42-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "The man is noble of origin",
+      "answer": "الرَّجُلُ كَرِيمُ الأَصْلِ",
+      "itemIds": ["word-b2-333"]
+    },
+    {
+      "id": "b2-l42-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "They are tall in stature",
+      "answer": "هُمْ طِوَالُ الْقَامَةِ",
+      "itemIds": ["word-b2-334"]
+    },
+    {
+      "id": "b2-l42-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I saw a good-hearted man",
+      "answer": "رَأَيْتُ رَجُلًا طَيِّبَ الْقَلْبِ",
+      "itemIds": ["word-b2-329"]
+    },
+    {
+      "id": "b2-l42-ex08",
+      "type": "word-to-meaning",
+      "prompt": "طَيِّبٌ",
+      "answer": "good / kind",
+      "itemIds": ["word-b2-329"]
+    },
+    {
+      "id": "b2-l42-ex09",
+      "type": "word-to-meaning",
+      "prompt": "شُجَاعٌ",
+      "answer": "brave / courageous",
+      "itemIds": ["word-b2-331"]
+    },
+    {
+      "id": "b2-l42-ex10",
+      "type": "word-to-meaning",
+      "prompt": "صَبُورٌ",
+      "answer": "patient",
+      "itemIds": ["word-b2-332"]
+    },
+    {
+      "id": "b2-l42-ex11",
+      "type": "meaning-to-word",
+      "prompt": "origin / noble descent",
+      "answer": "أَصْلٌ",
+      "itemIds": ["word-b2-333"]
+    },
+    {
+      "id": "b2-l42-ex12",
+      "type": "meaning-to-word",
+      "prompt": "stature / height",
+      "answer": "قَامَةٌ",
+      "itemIds": ["word-b2-334"]
+    }
+  ]
+}

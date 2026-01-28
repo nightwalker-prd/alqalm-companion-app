@@ -1,0 +1,165 @@
+{
+  "id": "b2-l46",
+  "book": 2,
+  "lesson": 46,
+  "title": "التَّوْكِيد",
+  "titleEn": "Corroboration/Emphasis",
+  "description": "Learn about التوكيد (corroboration), one of the التوابع (followers), including verbal emphasis (التوكيد اللفظي) and semantic emphasis (التوكيد المعنوي).",
+  "vocabulary": ["word-b2-353", "word-b2-354", "word-b2-355", "word-b2-356", "word-b2-357", "word-b2-358"],
+  "grammarPoints": ["gp-b2-059", "gp-b2-060"],
+  "notes": [
+    {
+      "title": "What is التوكيد?",
+      "titleArabic": "تعريف التوكيد",
+      "content": [
+        "التوكيد is one of the التوابع (followers) in Arabic grammar. It follows another word to emphasize and confirm its meaning.",
+        "There are two types: التوكيد اللفظي (verbal emphasis) by repeating the word, and التوكيد المعنوي (semantic emphasis) using specific words."
+      ],
+      "keyPoints": [
+        "التوكيد follows and emphasizes the متبوع (word it follows)",
+        "Must agree in case (إعراب) with the word it follows",
+        "Removes doubt and confirms the meaning",
+        "Part of the four التوابع: النعت، التوكيد، العطف، البدل"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الطَّالِبُ الطَّالِبُ", "english": "The student, the student came (verbal emphasis)" },
+        { "arabic": "حَضَرَ الْمُدِيرُ نَفْسُهُ", "english": "The director himself attended" },
+        { "arabic": "قَرَأْتُ الْكِتَابَ كُلَّهُ", "english": "I read the entire book" },
+        { "arabic": "نَعَمْ نَعَمْ", "english": "Yes, yes (verbal emphasis)" }
+      ]
+    },
+    {
+      "title": "Verbal Emphasis (التوكيد اللفظي)",
+      "titleArabic": "التوكيد اللفظي",
+      "content": [
+        "التوكيد اللفظي is done by repeating the exact word or a synonym. It can apply to nouns, verbs, particles, or entire sentences.",
+        "This type emphasizes by repetition: جَاءَ جَاءَ الضَّيْفُ (The guest came, came)."
+      ],
+      "keyPoints": [
+        "Repeat the word itself for emphasis",
+        "Can repeat nouns: الْقَلَمُ الْقَلَمُ (the pen, the pen)",
+        "Can repeat verbs: اقْرَأْ اقْرَأْ (read, read)",
+        "Can repeat particles: لَا لَا (no, no)",
+        "Can repeat sentences: الْعِلْمُ نُورٌ، الْعِلْمُ نُورٌ"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ جَاءَ الضَّيْفُ", "english": "The guest came, came (verb repeated)" },
+        { "arabic": "هَذَا هَذَا كِتَابِي", "english": "This, this is my book (demonstrative repeated)" },
+        { "arabic": "اكْتُبْ اكْتُبْ", "english": "Write, write (command repeated)" },
+        { "arabic": "إِنَّ إِنَّ الصِّدْقَ فَضِيلَةٌ", "english": "Indeed, indeed honesty is a virtue" }
+      ]
+    },
+    {
+      "title": "Semantic Emphasis (التوكيد المعنوي)",
+      "titleArabic": "التوكيد المعنوي",
+      "content": [
+        "التوكيد المعنوي uses specific words to emphasize the متبوع. The main words are: نَفْس، عَيْن (for singular), كِلَا، كِلْتَا (for dual), كُلّ، جَمِيع، عَامَّة (for plural/totality).",
+        "These must have a pronoun suffix matching the متبوع: جَاءَ الرَّجُلُ نَفْسُهُ (The man himself came)."
+      ],
+      "keyPoints": [
+        "نَفْس and عَيْن: emphasize singular (himself, herself, itself)",
+        "كِلَا (masc.) and كِلْتَا (fem.): emphasize dual (both)",
+        "كُلّ: emphasizes totality (all, entire)",
+        "جَمِيع and عَامَّة: emphasize collective (all of them)",
+        "The emphasis word takes a pronoun matching the متبوع"
+      ],
+      "examples": [
+        { "arabic": "رَأَيْتُ الْمُعَلِّمَ نَفْسَهُ", "english": "I saw the teacher himself" },
+        { "arabic": "جَاءَتِ الطَّالِبَةُ عَيْنُهَا", "english": "The student herself came" },
+        { "arabic": "نَجَحَ الطَّالِبَانِ كِلَاهُمَا", "english": "Both students passed" },
+        { "arabic": "قَرَأْتُ الْكُتُبَ كُلَّهَا", "english": "I read all the books" },
+        { "arabic": "حَضَرَ الطُّلَّابُ جَمِيعُهُمْ", "english": "All the students attended" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l46-ex01",
+      "type": "fill-blank",
+      "prompt": "حَضَرَ الْمُدِيرُ _____",
+      "promptEn": "The director _____ attended",
+      "answer": "نَفْسُهُ",
+      "itemIds": ["word-b2-353"]
+    },
+    {
+      "id": "b2-l46-ex02",
+      "type": "fill-blank",
+      "prompt": "قَرَأْتُ الْكِتَابَ _____",
+      "promptEn": "I read _____ the book",
+      "answer": "كُلَّهُ",
+      "itemIds": ["word-b2-354"]
+    },
+    {
+      "id": "b2-l46-ex03",
+      "type": "fill-blank",
+      "prompt": "نَجَحَ الطَّالِبَانِ _____",
+      "promptEn": "_____ students passed",
+      "answer": "كِلَاهُمَا",
+      "itemIds": ["word-b2-355"]
+    },
+    {
+      "id": "b2-l46-ex04",
+      "type": "fill-blank",
+      "prompt": "حَضَرَ الطُّلَّابُ _____",
+      "promptEn": "_____ the students attended",
+      "answer": "جَمِيعُهُمْ",
+      "itemIds": ["word-b2-356"]
+    },
+    {
+      "id": "b2-l46-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher herself came",
+      "answer": "جَاءَتِ الْمُعَلِّمَةُ نَفْسُهَا",
+      "itemIds": ["word-b2-353"]
+    },
+    {
+      "id": "b2-l46-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I met the minister himself",
+      "answer": "قَابَلْتُ الْوَزِيرَ نَفْسَهُ",
+      "itemIds": ["word-b2-353"]
+    },
+    {
+      "id": "b2-l46-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Both girls succeeded",
+      "answer": "نَجَحَتِ الْبِنْتَانِ كِلْتَاهُمَا",
+      "itemIds": ["word-b2-357"]
+    },
+    {
+      "id": "b2-l46-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "All the workers came",
+      "answer": "جَاءَ الْعُمَّالُ كُلُّهُمْ",
+      "itemIds": ["word-b2-354"]
+    },
+    {
+      "id": "b2-l46-ex09",
+      "type": "word-to-meaning",
+      "prompt": "نَفْس",
+      "answer": "self / himself / herself",
+      "itemIds": ["word-b2-353"]
+    },
+    {
+      "id": "b2-l46-ex10",
+      "type": "word-to-meaning",
+      "prompt": "كِلَا",
+      "answer": "both (masculine)",
+      "itemIds": ["word-b2-355"]
+    },
+    {
+      "id": "b2-l46-ex11",
+      "type": "word-to-meaning",
+      "prompt": "جَمِيع",
+      "answer": "all / entirety",
+      "itemIds": ["word-b2-356"]
+    },
+    {
+      "id": "b2-l46-ex12",
+      "type": "meaning-to-word",
+      "prompt": "both (feminine)",
+      "answer": "كِلْتَا",
+      "itemIds": ["word-b2-357"]
+    }
+  ]
+}

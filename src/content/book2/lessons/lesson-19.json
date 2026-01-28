@@ -1,0 +1,167 @@
+{
+  "id": "b2-l19",
+  "book": 2,
+  "lesson": 19,
+  "title": "الفِعْل المَهْمُوز",
+  "titleEn": "Hamzated Verbs",
+  "vocabulary": [
+    "word-b2-101",
+    "word-b2-102",
+    "word-b2-103",
+    "word-b2-104",
+    "word-b2-105"
+  ],
+  "grammarPoints": ["gp-b2-019"],
+  "notes": [
+    {
+      "title": "Hamzated Verbs (الفعل المهموز)",
+      "titleArabic": "الفعل المهموز",
+      "content": [
+        "Hamzated verbs (الفعل المهموز) have a hamza (ء) as one of their root letters. They follow regular conjugation patterns but have some spelling variations.",
+        "The hamza can appear as the first radical (أَكَلَ), second radical (سَأَلَ), or third radical (قَرَأَ)."
+      ],
+      "keyPoints": [
+        "First radical hamza: أَكَلَ (to eat), أَخَذَ (to take), أَمَرَ (to command)",
+        "Second radical hamza: سَأَلَ (to ask)",
+        "Third radical hamza: قَرَأَ (to read)",
+        "Conjugation follows regular patterns",
+        "In some forms, hamza may change form (أ، ؤ، ئ، ء)"
+      ],
+      "examples": [
+        { "arabic": "أَكَلَ الطَّعَامَ", "english": "He ate the food" },
+        { "arabic": "سَأَلَ أُسْتَاذَهُ", "english": "He asked his teacher" },
+        { "arabic": "قَرَأْتُ الْقُرْآنَ", "english": "I read the Quran" },
+        { "arabic": "أَمَرَنَا اللهُ", "english": "Allah commanded us" }
+      ]
+    },
+    {
+      "title": "Imperatives of Hamzated Verbs",
+      "titleArabic": "أمر الفعل المهموز",
+      "content": [
+        "When forming imperatives from verbs with hamza as the first radical, the initial hamza is often dropped."
+      ],
+      "keyPoints": [
+        "أَكَلَ → كُلْ (Eat!)",
+        "أَخَذَ → خُذْ (Take!)",
+        "أَمَرَ → مُرْ (Command!)",
+        "The second radical's vowel determines the imperative form"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l19-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّالِبُ الدَّرْسَ (أَخَذَ)",
+      "answer": "أَخَذَ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He asked his teacher",
+      "answer": "سَأَلَ أُسْتَاذَهُ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الكِتَابَ بِصَوْتٍ عَالٍ (قَرَأَ)",
+      "answer": "قَرَأَ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex04",
+      "type": "word-to-meaning",
+      "prompt": "أَمَرَ",
+      "answer": "to command",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to eat",
+      "answer": "أَكَلَ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The student took the book",
+      "answer": "أَخَذَ الطَّالِبُ الكِتَابَ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ الطَّعَامَ (يَأْكُلُ)",
+      "answer": "يَأْكُلُ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex08",
+      "type": "word-to-meaning",
+      "prompt": "سَأَلَ",
+      "answer": "to ask",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "I read the Quran",
+      "answer": "قَرَأْتُ القُرْآنَ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ اللهُ بِالصَّبْرِ (أَمَرَ)",
+      "answer": "أَمَرَ",
+      "itemIds": [
+        "word-b2-101",
+        "word-b2-102"
+      ]
+    },
+    {
+      "id": "b2-l19-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student asked the teacher about the lesson",
+      "answer": "سَأَلَ الطَّالِبُ الْمُدَرِّسَ عَنِ الدَّرْسِ",
+      "itemIds": ["word-b2-102", "word-005", "word-004", "word-b2-065"]
+    },
+    {
+      "id": "b2-l19-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Allah commanded us to be patient",
+      "answer": "أَمَرَنَا اللهُ بِالصَّبْرِ",
+      "itemIds": ["word-b2-104", "word-b2-105"]
+    }
+  ]
+}

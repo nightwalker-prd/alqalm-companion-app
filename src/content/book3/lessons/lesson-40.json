@@ -1,0 +1,139 @@
+{
+  "id": "b3-l40",
+  "book": 3,
+  "lesson": 40,
+  "title": "الأَفْعَالُ الْجَامِدَة",
+  "titleEn": "Frozen (Invariable) Verbs",
+  "description": "Learn verbs that don't conjugate fully: لَيْسَ (is not), عَسَى (perhaps), نِعْمَ/بِئْسَ (praise/blame).",
+  "vocabulary": ["word-b3-291", "word-b3-292", "word-b3-293", "word-b3-294", "word-b3-295", "word-b3-296"],
+  "grammarPoints": ["gp-b3-039"],
+  "notes": [
+    {
+      "title": "Frozen Verbs (الأفعال الجامدة)",
+      "titleArabic": "الأفعال الجامدة",
+      "content": [
+        "Frozen verbs (الأفعال الجامدة) are verbs that don't fully conjugate for tense, person, or mood.",
+        "They remain in a fixed form and are used for specific grammatical functions."
+      ],
+      "keyPoints": [
+        "Don't change for all persons/tenses like regular verbs",
+        "Used for specific meanings: negation, hope, praise/blame",
+        "Some have limited conjugation (e.g., لَيْسَ)",
+        "Others are completely invariable (e.g., نِعْمَ، بِئْسَ)"
+      ],
+      "examples": [
+        { "arabic": "لَيْسَ", "english": "is not (negation of existence)" },
+        { "arabic": "عَسَى", "english": "perhaps / maybe (hope)" },
+        { "arabic": "هَبْ", "english": "suppose / assume" },
+        { "arabic": "تَعَالَ", "english": "come! (imperative only)" }
+      ]
+    },
+    {
+      "title": "Types of Frozen Verbs",
+      "titleArabic": "أنواع الأفعال الجامدة",
+      "content": [
+        "Frozen verbs can be categorized by their function and the extent of their conjugation limitations.",
+        "Understanding these verbs is essential for advanced Arabic comprehension."
+      ],
+      "keyPoints": [
+        "لَيْسَ - conjugates for person but not tense (لَسْتُ، لَسْنَا، لَيْسُوا)",
+        "عَسَى - limited conjugation, expresses hope (عَسَى أَنْ يَأْتِيَ)",
+        "نِعْمَ/بِئْسَ - completely frozen for praise/blame",
+        "هَلُمَّ - frozen imperative meaning 'come here'"
+      ],
+      "examples": [
+        { "arabic": "لَسْتُ طَالِبًا", "english": "I am not a student" },
+        { "arabic": "عَسَى أَنْ يَنْجَحَ", "english": "Perhaps he will succeed" },
+        { "arabic": "هَلُمَّ إِلَيَّ", "english": "Come to me!" },
+        { "arabic": "هَاتِ الْكِتَابَ", "english": "Give me the book!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l40-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I am not a teacher",
+      "answer": "لَسْتُ مُدَرِّسًا",
+      "itemIds": ["word-b3-291"]
+    },
+    {
+      "id": "b3-l40-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Perhaps he will come",
+      "answer": "عَسَى أَنْ يَأْتِيَ",
+      "itemIds": ["word-b3-292"]
+    },
+    {
+      "id": "b3-l40-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "Come here!",
+      "answer": "تَعَالَ هُنَا",
+      "itemIds": ["word-b3-293"]
+    },
+    {
+      "id": "b3-l40-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ الرَّجُلُ فِي الْبَيْتِ",
+      "promptEn": "The man is not in the house",
+      "answer": "لَيْسَ",
+      "itemIds": ["word-b3-291"]
+    },
+    {
+      "id": "b3-l40-ex05",
+      "type": "word-to-meaning",
+      "prompt": "لَيْسَ",
+      "answer": "is not (negation verb)",
+      "itemIds": ["word-b3-291"]
+    },
+    {
+      "id": "b3-l40-ex06",
+      "type": "word-to-meaning",
+      "prompt": "عَسَى",
+      "answer": "perhaps / maybe",
+      "itemIds": ["word-b3-292"]
+    },
+    {
+      "id": "b3-l40-ex07",
+      "type": "word-to-meaning",
+      "prompt": "تَعَالَ",
+      "answer": "come! (imperative)",
+      "itemIds": ["word-b3-293"]
+    },
+    {
+      "id": "b3-l40-ex08",
+      "type": "word-to-meaning",
+      "prompt": "هَلُمَّ",
+      "answer": "come here! (frozen imperative)",
+      "itemIds": ["word-b3-294"]
+    },
+    {
+      "id": "b3-l40-ex09",
+      "type": "meaning-to-word",
+      "prompt": "give! (imperative)",
+      "answer": "هَاتِ",
+      "itemIds": ["word-b3-295"]
+    },
+    {
+      "id": "b3-l40-ex10",
+      "type": "meaning-to-word",
+      "prompt": "suppose / assume",
+      "answer": "هَبْ",
+      "itemIds": ["word-b3-296"]
+    },
+    {
+      "id": "b3-l40-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "They are not Muslims",
+      "answer": "لَيْسُوا مُسْلِمِينَ",
+      "itemIds": ["word-b3-291"]
+    },
+    {
+      "id": "b3-l40-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Give me the pen!",
+      "answer": "هَاتِ الْقَلَمَ",
+      "itemIds": ["word-b3-295"]
+    }
+  ]
+}

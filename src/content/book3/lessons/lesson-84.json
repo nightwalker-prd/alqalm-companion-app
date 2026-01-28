@@ -1,0 +1,224 @@
+{
+  "id": "b3-l84",
+  "book": 3,
+  "lesson": 84,
+  "title": "أَقْسَامُ الْعَلَمِ",
+  "titleEn": "Types of Proper Nouns",
+  "description": "Learn about the different categories of proper nouns (الأعلام) in Arabic: العلم المنقول، العلم المرتجل، العلم بالغلبة، اللقب والكنية.",
+  "vocabulary": ["word-b3-548", "word-b3-549", "word-b3-550", "word-b3-551", "word-b3-552"],
+  "grammarPoints": ["gp-b3-130", "gp-b3-131"],
+  "notes": [
+    {
+      "title": "What is العَلَم?",
+      "titleArabic": "مَا هُوَ الْعَلَمُ؟",
+      "content": [
+        "الْعَلَم (proper noun) is a word that designates a specific individual entity - a person, place, animal, or thing - without needing additional description. It is مَعْرِفَة (definite) by itself.",
+        "Arabic grammarians classify proper nouns into several categories based on their origin, formation, and usage. Understanding these categories helps in comprehending classical texts and proper name formation."
+      ],
+      "keyPoints": [
+        "عَلَم = proper noun (specific name)",
+        "Inherently معرفة (definite)",
+        "Designates specific individual",
+        "Categories: منقول، مرتجل، غلبة، لقب، كنية"
+      ],
+      "examples": [
+        { "arabic": "مُحَمَّدٌ، فَاطِمَةُ (أعلام أشخاص)", "english": "Muhammad, Fatima (personal names)" },
+        { "arabic": "مَكَّةُ، دِمَشْقُ (أعلام أماكن)", "english": "Mecca, Damascus (place names)" },
+        { "arabic": "الْفُرَاتُ، النِّيلُ (أعلام أنهار)", "english": "Euphrates, Nile (river names)" },
+        { "arabic": "رَمَضَانُ، رَجَبُ (أعلام شهور)", "english": "Ramadan, Rajab (month names)" }
+      ]
+    },
+    {
+      "title": "The Transferred Name (العلم المنقول)",
+      "titleArabic": "الْعَلَمُ الْمَنْقُولُ",
+      "content": [
+        "الْعَلَمُ الْمَنْقُول is a proper noun 'transferred' or borrowed from another word class. The original word had a meaning, and that form was then used as a name for a specific entity.",
+        "Sources of transferred names include: verbs (يَزِيدُ from يَزِيدُ 'he increases'), adjectives (سَعِيد from سَعِيد 'happy'), participles (حَامِد from حَامِد 'praiser'), nouns (أَسَد 'lion' as a name)."
+      ],
+      "keyPoints": [
+        "منقول: transferred from another word",
+        "From verbs: يَزِيدُ، يَعِيشُ",
+        "From adjectives: سَعِيد، كَرِيم",
+        "From nouns: أَسَد، زَهْرَة"
+      ],
+      "examples": [
+        { "arabic": "يَزِيدُ (منقول من الفعل)", "english": "Yazid (transferred from verb 'he increases')" },
+        { "arabic": "سَعِيدٌ (منقول من الصفة)", "english": "Said (transferred from adjective 'happy')" },
+        { "arabic": "أَسَدٌ (منقول من اسم الحيوان)", "english": "Asad (transferred from 'lion')" },
+        { "arabic": "فَضْلٌ (منقول من المصدر)", "english": "Fadl (transferred from 'virtue/favor')" }
+      ]
+    },
+    {
+      "title": "The Original Name (العلم المرتجل)",
+      "titleArabic": "الْعَلَمُ الْمُرْتَجَلُ",
+      "content": [
+        "الْعَلَمُ الْمُرْتَجَل is a proper noun that was coined specifically as a name from the beginning. It was not transferred from any other word - it was invented purely as a name.",
+        "These names have no independent meaning outside being names. Examples include some ancient Arab names whose original meaning is unknown or non-existent."
+      ],
+      "keyPoints": [
+        "مُرْتَجَل: improvised, coined originally",
+        "Not transferred from other words",
+        "No independent meaning",
+        "Less common than منقول"
+      ],
+      "examples": [
+        { "arabic": "عُدَيّ (اسم مرتجل)", "english": "'Udayy (originally coined name)" },
+        { "arabic": "سُعَاد (اسم مرتجل)", "english": "Su'ad (originally coined name)" },
+        { "arabic": "لُبْنَى (اسم مرتجل)", "english": "Lubna (originally coined name)" },
+        { "arabic": "هِنْد (اسم مرتجل)", "english": "Hind (originally coined name)" }
+      ]
+    },
+    {
+      "title": "Names by Predominance (العلم بالغلبة)",
+      "titleArabic": "الْعَلَمُ بِالْغَلَبَةِ",
+      "content": [
+        "الْعَلَمُ بِالْغَلَبَةِ is when a descriptive phrase becomes so associated with one entity that it functions as a proper noun. The name 'prevails' (غَلَبَة) for that specific referent.",
+        "Examples: الْكِتَاب for the Quran, الْمَدِينَة for Medina, الْبَيْت for the Kaaba, ابْنُ عَبَّاس for Abdullah ibn Abbas. The article أل is retained because it's part of the established name."
+      ],
+      "keyPoints": [
+        "غَلَبَة: predominance, prevailing",
+        "Descriptive phrase → proper noun",
+        "Strongly associated with one entity",
+        "أل retained as part of name"
+      ],
+      "examples": [
+        { "arabic": "الْكِتَاب = الْقُرْآن", "english": "The Book = The Quran (by predominance)" },
+        { "arabic": "الْمَدِينَة = الْمَدِينَة الْمُنَوَّرَة", "english": "The City = Medina (by predominance)" },
+        { "arabic": "الْبَيْت = الْكَعْبَة", "english": "The House = The Kaaba (by predominance)" },
+        { "arabic": "النَّبِيّ = مُحَمَّد ﷺ", "english": "The Prophet = Muhammad ﷺ (by predominance)" }
+      ]
+    },
+    {
+      "title": "The Nickname and Teknonym (اللقب والكنية)",
+      "titleArabic": "اللَّقَبُ وَالْكُنْيَةُ",
+      "content": [
+        "اللَّقَب is a nickname or title given to a person, often describing a quality, achievement, or characteristic. It can be positive (مدح) or negative (ذم). Examples: الصِّدِّيق (the truthful) for Abu Bakr, الْفَارُوق (the distinguisher) for Umar.",
+        "الْكُنْيَة is a teknonym - a name formed with أَبُو (father of) or أُمّ (mother of). Examples: أَبُو بَكْر، أُمّ سَلَمَة. The كُنْيَة may not refer to an actual child - it can be honorific."
+      ],
+      "keyPoints": [
+        "لَقَب: nickname describing quality",
+        "Can be مدح (praise) or ذم (blame)",
+        "كُنْيَة: teknonym with أَبُو/أُمّ",
+        "كُنْيَة may be honorific, not literal"
+      ],
+      "examples": [
+        { "arabic": "الصِّدِّيقُ: لَقَبُ أَبِي بَكْرٍ", "english": "Al-Siddiq: nickname of Abu Bakr" },
+        { "arabic": "الْفَارُوقُ: لَقَبُ عُمَرَ", "english": "Al-Faruq: nickname of Umar" },
+        { "arabic": "أَبُو بَكْرٍ: كُنْيَة", "english": "Abu Bakr: teknonym (father of Bakr)" },
+        { "arabic": "أُمُّ الْمُؤْمِنِينَ: لَقَب أَوْ كُنْيَة", "english": "Mother of the Believers: title/teknonym" }
+      ]
+    },
+    {
+      "title": "Order of Name Components",
+      "titleArabic": "تَرْتِيبُ مُكَوِّنَاتِ الاِسْمِ",
+      "content": [
+        "When a person has multiple name components, the traditional order is: كُنْيَة (Abu/Umm...) + اسم (given name) + لَقَب (nickname) + نَسَب (lineage). However, لَقَب can sometimes precede اسم if the لَقَب is more famous.",
+        "In construct chains: if لَقَب and اسم are both mentioned, the second is بَدَل (apposition). Modern naming conventions may differ from classical patterns."
+      ],
+      "keyPoints": [
+        "Traditional order: كُنْيَة، اسم، لَقَب، نَسَب",
+        "لَقَب may precede اسم if more famous",
+        "Second element is بَدَل in construct",
+        "Modern conventions may vary"
+      ],
+      "examples": [
+        { "arabic": "أَبُو الْقَاسِمِ مُحَمَّدُ بْنُ عَبْدِ اللهِ", "english": "Abu al-Qasim Muhammad ibn Abdullah (full name)" },
+        { "arabic": "أَمِيرُ الْمُؤْمِنِينَ عُمَرُ بْنُ الْخَطَّابِ", "english": "Commander of Believers Umar ibn al-Khattab" },
+        { "arabic": "الإِمَامُ الشَّافِعِيُّ", "english": "Imam al-Shafi'i (title + nisba)" },
+        { "arabic": "ابْنُ تَيْمِيَّةَ (نسبة مشهورة)", "english": "Ibn Taymiyyah (famous lineage name)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l84-ex01",
+      "type": "fill-blank",
+      "prompt": "الْعَلَمُ الَّذِي أُخِذَ مِنْ كَلِمَةٍ أُخْرَى يُسَمَّى الْعَلَمَ _____",
+      "promptEn": "A proper noun taken from another word is called a _____ name",
+      "answer": "الْمَنْقُولَ",
+      "itemIds": ["word-b3-548"]
+    },
+    {
+      "id": "b3-l84-ex02",
+      "type": "fill-blank",
+      "prompt": "الْعَلَمُ الَّذِي وُضِعَ مِنَ الْبِدَايَةِ اسْمًا دُونَ نَقْلٍ يُسَمَّى الْعَلَمَ _____",
+      "promptEn": "A proper noun coined originally as a name is called a _____ name",
+      "answer": "الْمُرْتَجَلَ",
+      "itemIds": ["word-b3-549"]
+    },
+    {
+      "id": "b3-l84-ex03",
+      "type": "fill-blank",
+      "prompt": "الْكِتَاب بِمَعْنَى الْقُرْآن هُوَ عَلَمٌ بِ_____",
+      "promptEn": "الْكِتَاب meaning the Quran is a name by _____",
+      "answer": "الْغَلَبَةِ",
+      "itemIds": ["word-b3-550"]
+    },
+    {
+      "id": "b3-l84-ex04",
+      "type": "fill-blank",
+      "prompt": "الصِّدِّيقُ وَالْفَارُوقُ مِنْ أَمْثِلَةِ _____",
+      "promptEn": "Al-Siddiq and Al-Faruq are examples of _____",
+      "answer": "اللَّقَبِ",
+      "itemIds": ["word-b3-551"]
+    },
+    {
+      "id": "b3-l84-ex05",
+      "type": "fill-blank",
+      "prompt": "أَبُو بَكْرٍ وَأُمُّ سَلَمَةَ مِنْ أَمْثِلَةِ _____",
+      "promptEn": "Abu Bakr and Umm Salamah are examples of _____",
+      "answer": "الْكُنْيَةِ",
+      "itemIds": ["word-b3-552"]
+    },
+    {
+      "id": "b3-l84-ex06",
+      "type": "fill-blank",
+      "prompt": "اسْمُ يَزِيدُ عَلَمٌ _____ مِنَ الْفِعْلِ يَزِيدُ",
+      "promptEn": "The name Yazid is a _____ name from the verb يَزِيدُ",
+      "answer": "مَنْقُولٌ",
+      "itemIds": ["word-b3-548"]
+    },
+    {
+      "id": "b3-l84-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْعَلَمُ الْمَنْقُولُ",
+      "answer": "A transferred name (taken from another word)",
+      "itemIds": ["word-b3-548"]
+    },
+    {
+      "id": "b3-l84-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْعَلَمُ بِالْغَلَبَةِ",
+      "answer": "A name by predominance (strongly associated with one entity)",
+      "itemIds": ["word-b3-550"]
+    },
+    {
+      "id": "b3-l84-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْكُنْيَةُ",
+      "answer": "A teknonym (name with Abu/Umm - father/mother of)",
+      "itemIds": ["word-b3-552"]
+    },
+    {
+      "id": "b3-l84-ex10",
+      "type": "meaning-to-word",
+      "prompt": "A proper noun coined specifically as a name from the start",
+      "answer": "الْعَلَمُ الْمُرْتَجَلُ",
+      "itemIds": ["word-b3-549"]
+    },
+    {
+      "id": "b3-l84-ex11",
+      "type": "meaning-to-word",
+      "prompt": "A nickname or title given to describe a quality or achievement",
+      "answer": "اللَّقَبُ",
+      "itemIds": ["word-b3-551"]
+    },
+    {
+      "id": "b3-l84-ex12",
+      "type": "meaning-to-word",
+      "prompt": "A descriptive phrase that becomes so associated with one entity it functions as a name",
+      "answer": "الْعَلَمُ بِالْغَلَبَةِ",
+      "itemIds": ["word-b3-550"]
+    }
+  ]
+}

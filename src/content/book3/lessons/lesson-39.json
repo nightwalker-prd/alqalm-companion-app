@@ -1,0 +1,139 @@
+{
+  "id": "b3-l39",
+  "book": 3,
+  "lesson": 39,
+  "title": "الاسْمُ الْمَمْدُود",
+  "titleEn": "Extended Nouns",
+  "description": "Learn nouns ending in hamza preceded by alif: صَحْرَاء (desert), سَمَاء (sky), بِنَاء (building).",
+  "vocabulary": ["word-b3-285", "word-b3-286", "word-b3-287", "word-b3-288", "word-b3-289", "word-b3-290"],
+  "grammarPoints": ["gp-b3-038"],
+  "notes": [
+    {
+      "title": "The Extended Noun (الاسم الممدود)",
+      "titleArabic": "الاسم الممدود",
+      "content": [
+        "The extended noun (الاسم الممدود) ends in hamza preceded by alif (ـَاء). It takes regular case endings.",
+        "The hamza can be original, feminine, or substituted - this affects declension."
+      ],
+      "keyPoints": [
+        "Ends in ـَاء (alif + hamza)",
+        "Takes visible case endings on the hamza",
+        "Dual: صَحْرَاءَانِ or صَحْرَاوَانِ",
+        "Hamza type determines certain transformations"
+      ],
+      "examples": [
+        { "arabic": "صَحْرَاءُ", "english": "desert" },
+        { "arabic": "سَمَاءٌ", "english": "sky" },
+        { "arabic": "بِنَاءٌ", "english": "building" },
+        { "arabic": "دُعَاءٌ", "english": "supplication" }
+      ]
+    },
+    {
+      "title": "Types of Hamza in Extended Nouns",
+      "titleArabic": "أنواع الهمزة في الاسم الممدود",
+      "content": [
+        "The hamza in extended nouns can be of three types, each affecting how the word behaves in dual and plural forms.",
+        "Understanding the origin of the hamza helps in correct conjugation."
+      ],
+      "keyPoints": [
+        "Original hamza (أصلية): from the root - بِنَاء (ب-ن-ء) - stays as hamza",
+        "Feminine hamza (للتأنيث): صَحْرَاء - becomes وَاو in dual: صَحْرَاوَانِ",
+        "Substituted hamza (منقلبة): سَمَاء (from سَمَو) - can be وَاو or hamza",
+        "Pattern affects nisbah: صَحْرَاوِيّ، سَمَائِيّ"
+      ],
+      "examples": [
+        { "arabic": "صَحْرَاوَانِ", "english": "two deserts" },
+        { "arabic": "سَمَاوَاتٌ", "english": "heavens / skies" },
+        { "arabic": "أَبْنَاءٌ", "english": "sons (pl. of اِبْن)" },
+        { "arabic": "أَصْدِقَاءُ", "english": "friends" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l39-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "desert",
+      "answer": "صَحْرَاءُ",
+      "itemIds": ["word-b3-285"]
+    },
+    {
+      "id": "b3-l39-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "sky",
+      "answer": "سَمَاءٌ",
+      "itemIds": ["word-b3-286"]
+    },
+    {
+      "id": "b3-l39-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "building",
+      "answer": "بِنَاءٌ",
+      "itemIds": ["word-b3-287"]
+    },
+    {
+      "id": "b3-l39-ex04",
+      "type": "fill-blank",
+      "prompt": "ال_____ جَمِيلَةٌ اللَّيْلَةَ",
+      "promptEn": "The sky is beautiful tonight",
+      "answer": "سَمَاءُ",
+      "itemIds": ["word-b3-286"]
+    },
+    {
+      "id": "b3-l39-ex05",
+      "type": "word-to-meaning",
+      "prompt": "صَحْرَاءُ",
+      "answer": "desert",
+      "itemIds": ["word-b3-285"]
+    },
+    {
+      "id": "b3-l39-ex06",
+      "type": "word-to-meaning",
+      "prompt": "دُعَاءٌ",
+      "answer": "supplication / prayer",
+      "itemIds": ["word-b3-288"]
+    },
+    {
+      "id": "b3-l39-ex07",
+      "type": "word-to-meaning",
+      "prompt": "غِذَاءٌ",
+      "answer": "food / nourishment",
+      "itemIds": ["word-b3-289"]
+    },
+    {
+      "id": "b3-l39-ex08",
+      "type": "word-to-meaning",
+      "prompt": "شِفَاءٌ",
+      "answer": "cure / healing",
+      "itemIds": ["word-b3-290"]
+    },
+    {
+      "id": "b3-l39-ex09",
+      "type": "meaning-to-word",
+      "prompt": "building",
+      "answer": "بِنَاءٌ",
+      "itemIds": ["word-b3-287"]
+    },
+    {
+      "id": "b3-l39-ex10",
+      "type": "meaning-to-word",
+      "prompt": "supplication",
+      "answer": "دُعَاءٌ",
+      "itemIds": ["word-b3-288"]
+    },
+    {
+      "id": "b3-l39-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The desert is vast",
+      "answer": "الصَّحْرَاءُ وَاسِعَةٌ",
+      "itemIds": ["word-b3-285"]
+    },
+    {
+      "id": "b3-l39-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I made supplication to Allah",
+      "answer": "دَعَوْتُ اللهَ دُعَاءً",
+      "itemIds": ["word-b3-288"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "b3-l87",
+  "book": 3,
+  "lesson": 87,
+  "title": "تَعَدُّدُ الْخَبَرِ وَأَحْكَامُ الْحَذْفِ",
+  "titleEn": "Multiple Predicates and Deletion Rules",
+  "description": "Learn about تعدد الخبر (multiple predicates for one subject) and the rules for deleting المبتدأ، الخبر، الفاعل، and المفعول به in classical Arabic.",
+  "vocabulary": ["word-b3-563", "word-b3-564", "word-b3-565", "word-b3-566", "word-b3-567"],
+  "grammarPoints": ["gp-b3-136", "gp-b3-137"],
+  "notes": [
+    {
+      "title": "Multiple Predicates (تعدد الخبر)",
+      "titleArabic": "تَعَدُّدُ الْخَبَرِ",
+      "content": [
+        "In Arabic, a single مُبْتَدَأ (subject) can have multiple أَخْبَار (predicates). Each خَبَر describes a different attribute of the subject. This is called تَعَدُّد الْخَبَر (predicate multiplicity).",
+        "The multiple predicates can be connected by وَ (and) or simply listed. Each خَبَر is مَرْفُوع (nominative). This differs from having one compound predicate."
+      ],
+      "keyPoints": [
+        "One مُبْتَدَأ can have multiple أَخْبَار",
+        "Each خَبَر is مَرْفُوع",
+        "Can be connected with وَ or simply listed",
+        "Each describes different attribute"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ عَالِمٌ كَرِيمٌ شُجَاعٌ", "english": "Zayd is learned, generous, brave (three predicates)" },
+        { "arabic": "الْجَنَّةُ وَاسِعَةٌ جَمِيلَةٌ خَالِدَةٌ", "english": "Paradise is vast, beautiful, eternal" },
+        { "arabic": "اللهُ غَفُورٌ رَحِيمٌ", "english": "Allah is Forgiving, Merciful" },
+        { "arabic": "الْعِلْمُ نُورٌ وَهِدَايَةٌ وَرِفْعَةٌ", "english": "Knowledge is light, guidance, and elevation" }
+      ]
+    },
+    {
+      "title": "Permissible Deletion of Subject (حذف المبتدأ جوازًا)",
+      "titleArabic": "حَذْفُ الْمُبْتَدَأِ جَوَازًا",
+      "content": [
+        "The مُبْتَدَأ (subject) can be deleted جَوَازًا (permissibly) when context makes it clear. This is common in answers to questions and in poetic/eloquent speech.",
+        "The deleted subject is understood (مُقَدَّر) - native speakers and readers infer it from context. Example: Q: كَيْفَ زَيْدٌ؟ A: مَرِيضٌ (meaning: هُوَ مَرِيضٌ - he is sick)."
+      ],
+      "keyPoints": [
+        "جَوَازًا: permissible but not required",
+        "Context makes deleted subject clear",
+        "Common in answers: كَيْفَ زَيْدٌ؟ مَرِيضٌ",
+        "Subject is مُقَدَّر (estimated)"
+      ],
+      "examples": [
+        { "arabic": "كَيْفَ زَيْدٌ؟ (هُوَ) مَرِيضٌ", "english": "How is Zayd? (He is) sick" },
+        { "arabic": "مَنْ فِي الدَّارِ؟ (هُوَ) زَيْدٌ", "english": "Who is in the house? (It is) Zayd" },
+        { "arabic": "خَرَجْتُ فَإِذَا (هُوَ) الأَسَدُ", "english": "I went out and behold (it was) the lion" },
+        { "arabic": "(نَحْنُ) سَامِعُونَ مُطِيعُونَ", "english": "(We are) listening and obeying" }
+      ]
+    },
+    {
+      "title": "Obligatory Deletion of Subject (حذف المبتدأ وجوبًا)",
+      "titleArabic": "حَذْفُ الْمُبْتَدَأِ وُجُوبًا",
+      "content": [
+        "The مُبْتَدَأ must be deleted وُجُوبًا (obligatorily) in specific cases: 1) In نَعْت مَقْطُوع (cut-off adjective used as praise/blame), 2) After certain oaths, 3) Before certain fixed expressions.",
+        "In these cases, mentioning the subject would be grammatically incorrect or against Arabic convention. The deletion is لَازِم (obligatory)."
+      ],
+      "keyPoints": [
+        "وُجُوبًا: obligatory deletion",
+        "In نَعْت مَقْطُوع: adjective of praise/blame",
+        "After certain oath formulas",
+        "Mentioning would be incorrect"
+      ],
+      "examples": [
+        { "arabic": "مَرَرْتُ بِزَيْدٍ الْكَرِيمِ (وصف) / الْكَرِيمُ (نعت مقطوع)", "english": "I passed by Zayd the generous one (cut-off = هُوَ الْكَرِيمُ)" },
+        { "arabic": "فِي ذِمَّتِي لَأَفْعَلَنَّ (حذف واجب)", "english": "By my obligation, I will do it (subject deleted obligatorily)" },
+        { "arabic": "الْحَمْدُ لِلَّهِ (القول) مَشْكُورُ الصَّنِيعِ", "english": "Praise be to Allah, (He is) appreciated in deed" },
+        { "arabic": "أَقْسَمْتُ (هُوَ) صَادِقٌ", "english": "I swear, (he is) truthful" }
+      ]
+    },
+    {
+      "title": "Deletion of Predicate (حذف الخبر)",
+      "titleArabic": "حَذْفُ الْخَبَرِ",
+      "content": [
+        "The خَبَر (predicate) can be deleted جَوَازًا when context is clear, and وُجُوبًا in certain grammatical structures. Permissible deletion occurs when the predicate is understood.",
+        "Obligatory deletion occurs: 1) When مُبْتَدَأ is after لَوْلَا (لَوْلَا زَيْدٌ لَهَلَكْتُ - the خَبَر مَوْجُود is obligatorily deleted), 2) Before certain oaths and expressions."
+      ],
+      "keyPoints": [
+        "جَوَازًا: when context is clear",
+        "وُجُوبًا: after لَوْلَا (predicate = مَوْجُود)",
+        "Before certain oaths",
+        "Deleted predicate is estimated"
+      ],
+      "examples": [
+        { "arabic": "مَنْ فِي الدَّارِ؟ زَيْدٌ (فِي الدَّارِ)", "english": "Who is in the house? Zayd (is in the house) - جوازًا" },
+        { "arabic": "لَوْلَا زَيْدٌ (مَوْجُودٌ) لَهَلَكْتُ", "english": "If not for Zayd (existing), I would have perished - وجوبًا" },
+        { "arabic": "لَوْلَا الْعِلْمُ لَضَلَلْتُ", "english": "If not for knowledge, I would have gone astray" },
+        { "arabic": "كُلُّ إِنْسَانٍ وَ(فِعْلُهُ) شَأْنُهُ", "english": "Every person and his affair (= has his affair)" }
+      ]
+    },
+    {
+      "title": "Deletion of Subject/Object (حذف الفاعل والمفعول)",
+      "titleArabic": "حَذْفُ الْفَاعِلِ وَالْمَفْعُولِ",
+      "content": [
+        "The فَاعِل (subject of verb) cannot normally be deleted - it must be expressed or implied in the verb. However, in passive voice (الْمَبْنِيّ لِلْمَجْهُول), the فَاعِل is removed and replaced by نَائِب الفَاعِل.",
+        "The مَفْعُول بِهِ (object) can be deleted جَوَازًا when understood, or وُجُوبًا after certain expressions. Some verbs commonly have their objects deleted for generality."
+      ],
+      "keyPoints": [
+        "فَاعِل: cannot delete, use passive instead",
+        "Passive: نَائِب الفَاعِل replaces فَاعِل",
+        "مَفْعُول: جَوَازًا when understood",
+        "وُجُوبًا after certain expressions"
+      ],
+      "examples": [
+        { "arabic": "كَتَبَ زَيْدٌ الرِّسَالَةَ → كُتِبَتِ الرِّسَالَةُ", "english": "Zayd wrote the letter → The letter was written (فَاعِل removed)" },
+        { "arabic": "هَلْ أَكَلْتَ؟ نَعَمْ أَكَلْتُ (الطَّعَامَ)", "english": "Did you eat? Yes, I ate (food) - object understood" },
+        { "arabic": "كُلُوا وَاشْرَبُوا (حذف مفعول للعموم)", "english": "Eat and drink (objects deleted for generality)" },
+        { "arabic": "فَإِنْ لَمْ تَفْعَلُوا وَلَنْ تَفْعَلُوا", "english": "If you don't do (it) and you never will (Quran 2:24)" }
+      ]
+    },
+    {
+      "title": "Indicators of Deleted Elements",
+      "titleArabic": "دَلَائِلُ الْعَنَاصِرِ الْمَحْذُوفَةِ",
+      "content": [
+        "Deleted elements are identified through قَرَائِن (indicators/clues): contextual clues (السِّيَاق), logical necessity (الْعَقْل), and established patterns (الْعُرْف). Native speakers understand deletions naturally.",
+        "In grammar analysis, deleted elements are stated as مَحْذُوف تَقْدِيرُهُ كَذَا (deleted, estimated as such-and-such). This is essential for complete i'rab."
+      ],
+      "keyPoints": [
+        "قَرَائِن: clues indicate deletion",
+        "السِّيَاق: contextual clues",
+        "مَحْذُوف تَقْدِيرُهُ: deleted, estimated as",
+        "Essential for complete i'rab analysis"
+      ],
+      "examples": [
+        { "arabic": "مَحْذُوف تَقْدِيرُهُ هُوَ", "english": "Deleted, estimated as 'he/it'" },
+        { "arabic": "مَحْذُوف تَقْدِيرُهُ مَوْجُود", "english": "Deleted, estimated as 'existing'" },
+        { "arabic": "الْخَبَر مَحْذُوف جَوَازًا", "english": "The predicate is deleted permissibly" },
+        { "arabic": "الْمُبْتَدَأ مَحْذُوف وُجُوبًا", "english": "The subject is deleted obligatorily" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l87-ex01",
+      "type": "fill-blank",
+      "prompt": "زَيْدٌ عَالِمٌ كَرِيمٌ شُجَاعٌ - هَذَا مِثَالٌ عَلَى تَعَدُّدِ _____",
+      "promptEn": "Zayd is learned, generous, brave - this is an example of multiple _____",
+      "answer": "الْخَبَرِ",
+      "itemIds": ["word-b3-563"]
+    },
+    {
+      "id": "b3-l87-ex02",
+      "type": "fill-blank",
+      "prompt": "كَيْفَ زَيْدٌ؟ مَرِيضٌ - الْمُبْتَدَأ هُنَا مَحْذُوفٌ _____ لِأَنَّ السِّيَاقَ وَاضِحٌ",
+      "promptEn": "How is Zayd? Sick - the subject here is deleted _____ because context is clear",
+      "answer": "جَوَازًا",
+      "itemIds": ["word-b3-564"]
+    },
+    {
+      "id": "b3-l87-ex03",
+      "type": "fill-blank",
+      "prompt": "لَوْلَا زَيْدٌ لَهَلَكْتُ - الْخَبَرُ مَحْذُوفٌ _____ وَتَقْدِيرُهُ مَوْجُود",
+      "promptEn": "If not for Zayd I would perish - the predicate is deleted _____, estimated as 'existing'",
+      "answer": "وُجُوبًا",
+      "itemIds": ["word-b3-565"]
+    },
+    {
+      "id": "b3-l87-ex04",
+      "type": "fill-blank",
+      "prompt": "الْفَاعِلُ لَا يُحْذَفُ عَادَةً، بَلْ يُسْتَعْمَلُ الْفِعْلُ الْمَبْنِيُّ لِلْمَجْهُولِ وَيَحِلُّ _____ مَحَلَّهُ",
+      "promptEn": "The subject is not usually deleted; instead passive voice is used and _____ takes its place",
+      "answer": "نَائِبُ الْفَاعِلِ",
+      "itemIds": ["word-b3-566"]
+    },
+    {
+      "id": "b3-l87-ex05",
+      "type": "fill-blank",
+      "prompt": "الْمَفْعُولُ بِهِ يُحْذَفُ لِلْعُمُومِ كَمَا فِي: كُلُوا وَ_____ (حذف المفعول)",
+      "promptEn": "The object is deleted for generality as in: Eat and _____ (object deleted)",
+      "answer": "اشْرَبُوا",
+      "itemIds": ["word-b3-567"]
+    },
+    {
+      "id": "b3-l87-ex06",
+      "type": "fill-blank",
+      "prompt": "فِي النَّعْتِ الْمَقْطُوعِ يُحْذَفُ _____ وُجُوبًا",
+      "promptEn": "In the cut-off adjective, the _____ is deleted obligatorily",
+      "answer": "الْمُبْتَدَأُ",
+      "itemIds": ["word-b3-564"]
+    },
+    {
+      "id": "b3-l87-ex07",
+      "type": "word-to-meaning",
+      "prompt": "تَعَدُّدُ الْخَبَرِ",
+      "answer": "Multiple predicates (for one subject)",
+      "itemIds": ["word-b3-563"]
+    },
+    {
+      "id": "b3-l87-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَحْذُوفٌ جَوَازًا",
+      "answer": "Deleted permissibly (optional when context is clear)",
+      "itemIds": ["word-b3-564"]
+    },
+    {
+      "id": "b3-l87-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مَحْذُوفٌ وُجُوبًا",
+      "answer": "Deleted obligatorily (must be deleted)",
+      "itemIds": ["word-b3-565"]
+    },
+    {
+      "id": "b3-l87-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The grammatical phenomenon where one subject has multiple predicates",
+      "answer": "تَعَدُّدُ الْخَبَرِ",
+      "itemIds": ["word-b3-563"]
+    },
+    {
+      "id": "b3-l87-ex11",
+      "type": "meaning-to-word",
+      "prompt": "A deletion that is permissible but not required",
+      "answer": "حَذْفٌ جَائِزٌ / جَوَازًا",
+      "itemIds": ["word-b3-564"]
+    },
+    {
+      "id": "b3-l87-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The phrase used to indicate what a deleted element represents",
+      "answer": "مَحْذُوفٌ تَقْدِيرُهُ",
+      "itemIds": ["word-b3-565"]
+    }
+  ]
+}

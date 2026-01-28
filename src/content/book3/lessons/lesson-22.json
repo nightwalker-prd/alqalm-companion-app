@@ -1,0 +1,170 @@
+{
+  "id": "b3-l22",
+  "book": 3,
+  "lesson": 22,
+  "title": "لاَ النَّافِيَة لِلْجِنْس",
+  "titleEn": "Absolute Negation",
+  "notes": [
+    {
+      "title": "Lā al-Nāfiya lil-Jins (لا النافية للجنس)",
+      "titleArabic": "لا النافية للجنس",
+      "content": [
+        "This لا negates the entire genus or category of something, expressing absolute negation. Its ism (subject) is in the accusative without tanwīn when it's a single indefinite noun."
+      ],
+      "keyPoints": [
+        "Negates the entire category/genus",
+        "Ism is manṣūb without tanwīn (if single)",
+        "Used in famous phrases: لَا إِلَهَ إِلَّا اللهُ",
+        "Different from لَا used for simple negation"
+      ],
+      "examples": [
+        { "arabic": "لَا إِلَهَ إِلَّا اللهُ", "english": "There is no god except Allah" },
+        { "arabic": "لَا شَكَّ فِي ذَلِكَ", "english": "There is no doubt in that" },
+        { "arabic": "لَا رَيْبَ فِيهِ", "english": "There is no doubt in it" }
+      ]
+    },
+    {
+      "title": "Hamzat al-Istifhām (همزة الاستفهام)",
+      "titleArabic": "همزة الاستفهام",
+      "content": [
+        "The interrogative hamza (أَ) is used to form yes/no questions. It can be used with positive or negative statements to form different types of questions."
+      ],
+      "keyPoints": [
+        "أَ can be followed by أَمْ for alternative questions",
+        "أَلَيْسَ = Is it not? (rhetorical)",
+        "Can precede any part of speech",
+        "Often implies expectation of affirmative answer"
+      ],
+      "examples": [
+        { "arabic": "أَذَهَبَ مُحَمَّدٌ؟", "english": "Did Muhammad go?" },
+        { "arabic": "أَلَيْسَ هَذَا صَحِيحًا؟", "english": "Is this not correct?" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-118",
+    "word-b3-119",
+    "word-b3-120",
+    "word-b3-121",
+    "word-b3-122"
+  ],
+  "grammarPoints": [
+    "gp-b3-022"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l22-ex01",
+      "type": "fill-blank",
+      "prompt": "لاَ _____ فِي الدِّينِ (إِكْرَاهَ)",
+      "answer": "إِكْرَاهَ",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "There is no doubt",
+      "answer": "لاَ شَكَّ",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex03",
+      "type": "fill-blank",
+      "prompt": "لاَ _____ إِلاَّ اللهُ (إِلَهَ)",
+      "answer": "إِلَهَ",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex04",
+      "type": "word-to-meaning",
+      "prompt": "لاَ رَيْبَ",
+      "answer": "no doubt (absolute)",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex05",
+      "type": "meaning-to-word",
+      "prompt": "no compulsion",
+      "answer": "لاَ إِكْرَاهَ",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "There is no god except Allah",
+      "answer": "لاَ إِلَهَ إِلاَّ اللهُ",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex07",
+      "type": "fill-blank",
+      "prompt": "لاَ _____ عَلَيْكَ (بَأْسَ)",
+      "answer": "بَأْسَ",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لاَ حَوْلَ وَلاَ قُوَّةَ",
+      "answer": "no power and no strength",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "There is no problem/harm",
+      "answer": "لاَ بَأْسَ",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex10",
+      "type": "fill-blank",
+      "prompt": "لاَ _____ فِي ذَلِكَ (رَيْبَ)",
+      "answer": "رَيْبَ",
+      "itemIds": [
+        "word-b3-118",
+        "word-b3-119"
+      ]
+    },
+    {
+      "id": "b3-l22-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "There is no power and no strength except with Allah",
+      "answer": "لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللهِ",
+      "itemIds": ["word-b3-118", "word-b3-119"]
+    },
+    {
+      "id": "b3-l22-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "There is no problem with you coming tomorrow",
+      "answer": "لاَ بَأْسَ بِمَجِيئِكَ غَدًا",
+      "itemIds": ["word-b3-118", "word-b3-119"]
+    }
+  ]
+}

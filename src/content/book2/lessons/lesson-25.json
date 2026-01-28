@@ -1,0 +1,167 @@
+{
+  "id": "b2-l25",
+  "book": 2,
+  "lesson": 25,
+  "title": "الفِعْل اللَّفِيف",
+  "titleEn": "Doubly Weak Verbs",
+  "vocabulary": [
+    "word-b2-131",
+    "word-b2-132",
+    "word-b2-133",
+    "word-b2-134",
+    "word-b2-135"
+  ],
+  "grammarPoints": ["gp-b2-025"],
+  "notes": [
+    {
+      "title": "Doubly Weak Verbs (الفعل اللفيف)",
+      "titleArabic": "الفعل اللفيف",
+      "content": [
+        "Doubly weak verbs (الفعل اللفيف) have two weak letters (و or ي) among their radicals. There are two types based on the position of the weak letters.",
+        "اللفيف المقرون has weak letters adjacent (positions 2 and 3). اللفيف المفروق has weak letters separated (positions 1 and 3)."
+      ],
+      "keyPoints": [
+        "اللفيف المقرون: weak letters in positions 2 and 3 (e.g., طَوَى، رَوَى، كَوَى)",
+        "اللفيف المفروق: weak letters in positions 1 and 3 (e.g., وَفَى، وَعَى، وَقَى)",
+        "These verbs combine rules from both hollow and defective verbs",
+        "طَوَى (to fold) - root ط-و-ي",
+        "وَفَى (to fulfill) - root و-ف-ي"
+      ],
+      "examples": [
+        { "arabic": "وَفَى بِوَعْدِهِ", "english": "He fulfilled his promise" },
+        { "arabic": "رَوَى الْقِصَّةَ", "english": "He narrated the story" },
+        { "arabic": "طَوَى الثَّوْبَ", "english": "He folded the garment" },
+        { "arabic": "وَعَى الدَّرْسَ", "english": "He understood the lesson" }
+      ]
+    },
+    {
+      "title": "Conjugation of Doubly Weak Verbs",
+      "titleArabic": "تصريف الفعل اللفيف",
+      "content": [
+        "Doubly weak verbs require careful attention to both weak letters during conjugation."
+      ],
+      "keyPoints": [
+        "وَفَى → يَفِي (he fulfills) - combines مثال and ناقص rules",
+        "طَوَى → يَطْوِي (he folds)",
+        "رَوَى → يَرْوِي (he narrates)",
+        "Past tense with pronouns: وَفَيْتُ، طَوَيْتُ، رَوَيْتُ"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l25-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ بِوَعْدِهِ (وَفَى)",
+      "answer": "وَفَى",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He narrated the story",
+      "answer": "رَوَى القِصَّةَ",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الثَّوْبَ (طَوَى)",
+      "answer": "طَوَى",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex04",
+      "type": "word-to-meaning",
+      "prompt": "وَعَى",
+      "answer": "to be aware/understand",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to fulfill (a promise)",
+      "answer": "وَفَى",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He folded the paper",
+      "answer": "طَوَى الوَرَقَةَ",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ الحَدِيثَ (يَرْوِي)",
+      "answer": "يَرْوِي",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex08",
+      "type": "word-to-meaning",
+      "prompt": "طَوَى",
+      "answer": "to fold",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "He fulfilled his promise",
+      "answer": "وَفَى بِوَعْدِهِ",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ الدَّرْسَ جَيِّدًا (وَعَى)",
+      "answer": "وَعَى",
+      "itemIds": [
+        "word-b2-131",
+        "word-b2-132"
+      ]
+    },
+    {
+      "id": "b2-l25-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The scholar narrated the hadith to the students",
+      "answer": "رَوَى الْعَالِمُ الْحَدِيثَ لِلطُّلَّابِ",
+      "itemIds": ["word-b2-132", "word-b2-133", "word-b2-019"]
+    },
+    {
+      "id": "b2-l25-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He fulfilled his promise to his friend",
+      "answer": "وَفَى بِوَعْدِهِ لِصَدِيقِهِ",
+      "itemIds": ["word-b2-131", "word-012"]
+    }
+  ]
+}

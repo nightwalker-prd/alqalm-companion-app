@@ -1,0 +1,141 @@
+{
+  "id": "b1-l26",
+  "book": 1,
+  "lesson": 26,
+  "title": "الأَفْعَالُ الْمُتَعَدِّيَة",
+  "titleEn": "Transitive Verbs",
+  "description": "Learn about transitive verbs (الفعل المتعدي) which require a direct object to complete their meaning.",
+  "vocabulary": ["word-233", "word-234", "word-235", "word-236", "word-237", "word-238"],
+  "grammarPoints": ["gp-039", "gp-040"],
+  "notes": [
+    {
+      "title": "Transitive Verbs (الأفعال المتعدية)",
+      "titleArabic": "الأفعال المتعدية",
+      "content": [
+        "Transitive verbs (الفعل المتعدي) are verbs that require a direct object (مفعول به) to complete their meaning.",
+        "The direct object receives the action of the verb and takes the accusative case (منصوب)."
+      ],
+      "keyPoints": [
+        "كَتَبَ - requires what was written (كتب الدرسَ)",
+        "أَكَلَ - requires what was eaten (أكل الطعامَ)",
+        "قَرَأَ - requires what was read (قرأ الكتابَ)",
+        "شَرِبَ - requires what was drunk (شرب الماءَ)"
+      ],
+      "examples": [
+        { "arabic": "كَتَبَ الطَّالِبُ الدَّرْسَ", "english": "The student wrote the lesson" },
+        { "arabic": "أَكَلَ الْوَلَدُ التُّفَّاحَةَ", "english": "The boy ate the apple" },
+        { "arabic": "قَرَأَتِ الْبِنْتُ الْقِصَّةَ", "english": "The girl read the story" },
+        { "arabic": "شَرِبَ الرَّجُلُ الْمَاءَ", "english": "The man drank the water" }
+      ]
+    },
+    {
+      "title": "Verbs Taking Two Objects",
+      "titleArabic": "الأفعال التي تنصب مفعولين",
+      "content": [
+        "Some transitive verbs can take two direct objects. These include verbs of giving, teaching, and informing.",
+        "Both objects are in the accusative case."
+      ],
+      "keyPoints": [
+        "أَعْطَى - to give (أعطى الطالبَ كتابًا)",
+        "عَلَّمَ - to teach (علّم الأستاذُ الطلابَ النحوَ)",
+        "سَأَلَ - to ask (سأل الولدُ المدرسَ سؤالًا)",
+        "مَنَحَ - to grant (منح المديرُ الفائزَ جائزةً)"
+      ],
+      "examples": [
+        { "arabic": "أَعْطَى الْمُدَرِّسُ الطَّالِبَ كِتَابًا", "english": "The teacher gave the student a book" },
+        { "arabic": "عَلَّمَ الأُسْتَاذُ الطُّلَّابَ الْقَوَاعِدَ", "english": "The professor taught the students the rules" },
+        { "arabic": "سَأَلَ الطَّبِيبُ الْمَرِيضَ سُؤَالًا", "english": "The doctor asked the patient a question" },
+        { "arabic": "مَنَحَ اللهُ الإِنْسَانَ الْعَقْلَ", "english": "Allah granted man intellect" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l26-ex01",
+      "type": "fill-blank",
+      "prompt": "كَتَبَ الطَّالِبُ _____",
+      "promptEn": "The student wrote _____",
+      "answer": "الدَّرْسَ",
+      "itemIds": ["word-233"]
+    },
+    {
+      "id": "b1-l26-ex02",
+      "type": "fill-blank",
+      "prompt": "أَكَلَ الْوَلَدُ _____ الطَّعَامَ",
+      "promptEn": "The boy ate _____ the food",
+      "answer": "كُلَّ",
+      "itemIds": ["word-234"]
+    },
+    {
+      "id": "b1-l26-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْمُدَرِّسُ الطَّالِبَ كِتَابًا",
+      "promptEn": "_____ the teacher the student a book",
+      "answer": "أَعْطَى",
+      "itemIds": ["word-235"]
+    },
+    {
+      "id": "b1-l26-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher wrote the lesson",
+      "answer": "كَتَبَ الْمُدَرِّسُ الدَّرْسَ",
+      "itemIds": ["word-069", "word-004"]
+    },
+    {
+      "id": "b1-l26-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "The girl read the book",
+      "answer": "قَرَأَتِ الْبِنْتُ الْكِتَابَ",
+      "itemIds": ["word-070", "word-030", "word-002"]
+    },
+    {
+      "id": "b1-l26-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I ate the food",
+      "answer": "أَكَلْتُ الطَّعَامَ",
+      "itemIds": ["word-195", "word-139"]
+    },
+    {
+      "id": "b1-l26-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The father gave the boy money",
+      "answer": "أَعْطَى الأَبُ الْوَلَدَ مَالًا",
+      "itemIds": ["word-235", "word-119", "word-023"]
+    },
+    {
+      "id": "b1-l26-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مُتَعَدٍّ",
+      "answer": "transitive",
+      "itemIds": ["word-236"]
+    },
+    {
+      "id": "b1-l26-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مَفْعُول بِهِ",
+      "answer": "direct object",
+      "itemIds": ["word-237"]
+    },
+    {
+      "id": "b1-l26-ex10",
+      "type": "word-to-meaning",
+      "prompt": "مَنَحَ",
+      "answer": "to grant",
+      "itemIds": ["word-238"]
+    },
+    {
+      "id": "b1-l26-ex11",
+      "type": "meaning-to-word",
+      "prompt": "he gave",
+      "answer": "أَعْطَى",
+      "itemIds": ["word-235"]
+    },
+    {
+      "id": "b1-l26-ex12",
+      "type": "meaning-to-word",
+      "prompt": "lesson (written)",
+      "answer": "دَرْس",
+      "itemIds": ["word-233"]
+    }
+  ]
+}

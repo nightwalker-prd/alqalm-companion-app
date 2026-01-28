@@ -1,0 +1,169 @@
+{
+  "id": "b3-l29",
+  "book": 3,
+  "lesson": 29,
+  "title": "الأَفْعَال الخَمْسَة",
+  "titleEn": "Five Verb Forms",
+  "notes": [
+    {
+      "title": "Object of Purpose Review",
+      "titleArabic": "مراجعة المفعول لأجله",
+      "content": [
+        "The maf'ūl lahu indicates the reason or purpose behind an action. It must meet specific conditions to be used in the accusative without a preposition."
+      ],
+      "keyPoints": [
+        "Must be a maṣdar (verbal noun)",
+        "Must indicate reason/cause",
+        "Must share subject with main verb",
+        "If conditions not met, use لِ + genitive"
+      ],
+      "examples": [
+        { "arabic": "جِئْتُ طَلَبًا لِلْعِلْمِ", "english": "I came seeking knowledge" },
+        { "arabic": "قُمْتُ إِجْلَالًا لَهُ", "english": "I stood out of respect for him" }
+      ]
+    },
+    {
+      "title": "The Five Verb Forms (الأفعال الخمسة)",
+      "titleArabic": "الأفعال الخمسة",
+      "content": [
+        "The 'five verbs' are present tense forms that end with نَ (nūn). They have special declension: retention of nūn indicates raf', omission indicates naṣb or jazm."
+      ],
+      "keyPoints": [
+        "Forms: يَفْعَلَانِ, تَفْعَلَانِ, يَفْعَلُونَ, تَفْعَلُونَ, تَفْعَلِينَ",
+        "Raf': nūn retained (يَكْتُبَانِ, يَكْتُبُونَ)",
+        "Naṣb/Jazm: nūn dropped (لَنْ يَكْتُبَا, لَمْ يَكْتُبُوا)",
+        "Nūn dropped when muḍāf"
+      ],
+      "examples": [
+        { "arabic": "الطَّالِبَانِ يَدْرُسَانِ", "english": "The two students study (raf')" },
+        { "arabic": "لَنْ يَدْرُسَا", "english": "They (dual) will not study (naṣb)" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-153",
+    "word-b3-154",
+    "word-b3-155",
+    "word-b3-156",
+    "word-b3-157"
+  ],
+  "grammarPoints": [
+    "gp-b3-029"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l29-ex01",
+      "type": "fill-blank",
+      "prompt": "هُمَا _____ (يَكْتُبَانِ)",
+      "answer": "يَكْتُبَانِ",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "They (m.) write",
+      "answer": "هُمْ يَكْتُبُونَ",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex03",
+      "type": "fill-blank",
+      "prompt": "أَنْتُمَا _____ (تَدْرُسَانِ)",
+      "answer": "تَدْرُسَانِ",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex04",
+      "type": "word-to-meaning",
+      "prompt": "تَفْعَلِينَ",
+      "answer": "you (f. sing.) do",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex05",
+      "type": "meaning-to-word",
+      "prompt": "you (m. pl.) do",
+      "answer": "تَفْعَلُونَ",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The two students study",
+      "answer": "الطَّالِبَانِ يَدْرُسَانِ",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex07",
+      "type": "fill-blank",
+      "prompt": "أَنْتِ _____ جَيِّدًا (تَقْرَئِينَ)",
+      "answer": "تَقْرَئِينَ",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex08",
+      "type": "word-to-meaning",
+      "prompt": "يَفْعَلُونَ",
+      "answer": "they (m.) do",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "You (pl.) are believers",
+      "answer": "أَنْتُمْ تُؤْمِنُونَ",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex10",
+      "type": "fill-blank",
+      "prompt": "هُنَّ لاَ _____ (يَعْلَمْنَ)",
+      "answer": "يَعْلَمْنَ",
+      "itemIds": [
+        "word-b3-153",
+        "word-b3-154"
+      ]
+    },
+    {
+      "id": "b3-l29-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The two boys are playing in the garden",
+      "answer": "الْوَلَدَانِ يَلْعَبَانِ فِي الْحَدِيقَةِ",
+      "itemIds": ["word-b3-153", "word-b3-154"]
+    },
+    {
+      "id": "b3-l29-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "You (f. sing.) read the Quran beautifully",
+      "answer": "أَنْتِ تَقْرَئِينَ الْقُرْآنَ بِجَمَالٍ",
+      "itemIds": ["word-b3-153", "word-b3-154"]
+    }
+  ]
+}

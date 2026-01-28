@@ -1,0 +1,139 @@
+{
+  "id": "b3-l35",
+  "book": 3,
+  "lesson": 35,
+  "title": "النِّسْبَة",
+  "titleEn": "Relative Adjectives (Nisbah)",
+  "description": "Learn to form relative adjectives: مِصْرِيّ (Egyptian), عَرَبِيّ (Arab), إِسْلَامِيّ (Islamic).",
+  "vocabulary": ["word-b3-261", "word-b3-262", "word-b3-263", "word-b3-264", "word-b3-265", "word-b3-266"],
+  "grammarPoints": ["gp-b3-034"],
+  "notes": [
+    {
+      "title": "The Relative Adjective (النسبة)",
+      "titleArabic": "النسبة",
+      "content": [
+        "The relative adjective (النسبة) is formed by adding ـِيّ (-iyy) to a noun to indicate relation, origin, or affiliation.",
+        "This suffix creates adjectives meaning 'related to', 'of', or 'from' the original noun."
+      ],
+      "keyPoints": [
+        "Add ـِيّ to the noun: مِصْر → مِصْرِيّ (Egyptian)",
+        "Feminine form: ـِيَّة (e.g., مِصْرِيَّة)",
+        "Remove ta marbuta before adding: مَكَّة → مَكِّيّ",
+        "Remove alif/ya at the end: أَمْرِيكَا → أَمْرِيكِيّ"
+      ],
+      "examples": [
+        { "arabic": "مِصْرِيٌّ", "english": "Egyptian" },
+        { "arabic": "عَرَبِيٌّ", "english": "Arab / Arabic" },
+        { "arabic": "إِسْلَامِيٌّ", "english": "Islamic" },
+        { "arabic": "يَوْمِيٌّ", "english": "daily" }
+      ]
+    },
+    {
+      "title": "Special Cases in Nisbah",
+      "titleArabic": "حالات خاصة في النسبة",
+      "content": [
+        "Some nouns have irregular nisbah forms that don't follow the standard rules.",
+        "Certain changes occur to accommodate phonetic ease or historical convention."
+      ],
+      "keyPoints": [
+        "Nouns ending in ـَاء: صَحْرَاء → صَحْرَاوِيّ (desert-related)",
+        "Nouns ending in ـِيّ already: نَبِيّ → نَبَوِيّ (prophetic)",
+        "Doubled letters: لُغَة → لُغَوِيّ (linguistic)",
+        "Irregular forms: دَم → دَمَوِيّ (bloody)"
+      ],
+      "examples": [
+        { "arabic": "صَحْرَاوِيٌّ", "english": "desert-related / Sahrawi" },
+        { "arabic": "نَبَوِيٌّ", "english": "prophetic" },
+        { "arabic": "لُغَوِيٌّ", "english": "linguistic" },
+        { "arabic": "سَمَاوِيٌّ", "english": "heavenly / celestial" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l35-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "Egyptian (masc.)",
+      "answer": "مِصْرِيٌّ",
+      "itemIds": ["word-b3-261"]
+    },
+    {
+      "id": "b3-l35-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Arabic / Arab",
+      "answer": "عَرَبِيٌّ",
+      "itemIds": ["word-b3-262"]
+    },
+    {
+      "id": "b3-l35-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "Islamic",
+      "answer": "إِسْلَامِيٌّ",
+      "itemIds": ["word-b3-263"]
+    },
+    {
+      "id": "b3-l35-ex04",
+      "type": "fill-blank",
+      "prompt": "هَذَا الطَّعَامُ _____",
+      "promptEn": "This food is Arabic",
+      "answer": "عَرَبِيٌّ",
+      "itemIds": ["word-b3-262"]
+    },
+    {
+      "id": "b3-l35-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مِصْرِيٌّ",
+      "answer": "Egyptian",
+      "itemIds": ["word-b3-261"]
+    },
+    {
+      "id": "b3-l35-ex06",
+      "type": "word-to-meaning",
+      "prompt": "يَوْمِيٌّ",
+      "answer": "daily",
+      "itemIds": ["word-b3-264"]
+    },
+    {
+      "id": "b3-l35-ex07",
+      "type": "word-to-meaning",
+      "prompt": "سَمَاوِيٌّ",
+      "answer": "heavenly / celestial",
+      "itemIds": ["word-b3-265"]
+    },
+    {
+      "id": "b3-l35-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لُغَوِيٌّ",
+      "answer": "linguistic",
+      "itemIds": ["word-b3-266"]
+    },
+    {
+      "id": "b3-l35-ex09",
+      "type": "meaning-to-word",
+      "prompt": "Islamic",
+      "answer": "إِسْلَامِيٌّ",
+      "itemIds": ["word-b3-263"]
+    },
+    {
+      "id": "b3-l35-ex10",
+      "type": "meaning-to-word",
+      "prompt": "daily",
+      "answer": "يَوْمِيٌّ",
+      "itemIds": ["word-b3-264"]
+    },
+    {
+      "id": "b3-l35-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The Egyptian teacher is in the classroom",
+      "answer": "الْمُدَرِّسُ الْمِصْرِيُّ فِي الْفَصْلِ",
+      "itemIds": ["word-b3-261"]
+    },
+    {
+      "id": "b3-l35-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I study Arabic linguistics",
+      "answer": "أَدْرُسُ اللُّغَوِيَّاتِ الْعَرَبِيَّةَ",
+      "itemIds": ["word-b3-262", "word-b3-266"]
+    }
+  ]
+}

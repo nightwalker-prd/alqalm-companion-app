@@ -1,0 +1,8250 @@
+[
+  {
+    "id": "word-sarf-0001",
+    "arabic": "آمَنَ",
+    "english": "he believed, had faith",
+    "root": "أ-م-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0002",
+    "arabic": "اِبْتِغَاء",
+    "english": "seeking, pursuit",
+    "root": "ب-غ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0003",
+    "arabic": "اِبْتَغَى",
+    "english": "to seek, to desire, to pursue",
+    "root": "ب-غ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0004",
+    "arabic": "اِبْتَلَى",
+    "english": "to test, to put to trial",
+    "root": "ب-ل-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0005",
+    "arabic": "أَبْرَار",
+    "english": "the righteous ones",
+    "root": "ب-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0006",
+    "arabic": "أَبْصَرَ",
+    "english": "to see, to perceive clearly",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0007",
+    "arabic": "أَبْقَى",
+    "english": "more lasting, more enduring",
+    "root": "ب-ق-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0008",
+    "arabic": "اِبْن",
+    "english": "son",
+    "root": "ب-ن-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0009",
+    "arabic": "اِتَّخَذَ",
+    "english": "he took (for oneself), adopted",
+    "root": "أ-خ-ذ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0010",
+    "arabic": "اتَّصَلَ",
+    "english": "to contact, to be connected",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0011",
+    "arabic": "أَجَابَ",
+    "english": "to answer, to respond",
+    "root": "ج-و-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0012",
+    "arabic": "إِجَابَة",
+    "english": "answer, response",
+    "root": "ج-و-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0013",
+    "arabic": "أَحَبَّ",
+    "english": "to love",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0014",
+    "arabic": "أَحْزَنَ",
+    "english": "to make sad, to grieve",
+    "root": "ح-ز-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0015",
+    "arabic": "إِحْسَان",
+    "english": "excellence, doing good, perfection",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0016",
+    "arabic": "أَحْسَن",
+    "english": "best, most beautiful",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0017",
+    "arabic": "أَحْسَن",
+    "english": "better, best, most beautiful",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0018",
+    "arabic": "أَحْسَنَ",
+    "english": "he did good, did well, acted beautifully",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0019",
+    "arabic": "أَحْكَام",
+    "english": "rulings, judgments, laws (pl. of حُكْم)",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0020",
+    "arabic": "أَحْمَد",
+    "english": "most praiseworthy; name of the Prophet ﷺ",
+    "root": "ح-م-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0021",
+    "arabic": "أَحْيَا",
+    "english": "to give life, to revive",
+    "root": "ح-ي-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0022",
+    "arabic": "أَحْيَاء",
+    "english": "living beings, the living",
+    "root": "ح-ي-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0023",
+    "arabic": "أَخَذَ",
+    "english": "he took, seized, grasped",
+    "root": "أ-خ-ذ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0024",
+    "arabic": "أَدْخَلَ",
+    "english": "to admit, to make enter",
+    "root": "د-خ-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0025",
+    "arabic": "إِرْث",
+    "english": "inheritance, legacy",
+    "root": "و-ر-ث",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0026",
+    "arabic": "أَزْوَاج",
+    "english": "spouses, pairs",
+    "root": "ز-و-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0027",
+    "arabic": "اِسْتَجَابَ",
+    "english": "to respond, to answer (a prayer)",
+    "root": "ج-و-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0028",
+    "arabic": "اِسْتَعَانَ",
+    "english": "to seek help, to ask for assistance",
+    "root": "ع-و-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0029",
+    "arabic": "اسْتَغْفَرَ",
+    "english": "to seek forgiveness",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0030",
+    "arabic": "اسْتَقْبَلَ",
+    "english": "to receive, to face toward",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0031",
+    "arabic": "اِسْتَمَعَ",
+    "english": "to listen",
+    "root": "س-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0032",
+    "arabic": "أَسَرَّ",
+    "english": "to conceal, to keep secret",
+    "root": "س-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0033",
+    "arabic": "إِصْلَاح",
+    "english": "reform, reconciliation",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0034",
+    "arabic": "أَصْلَحَ",
+    "english": "to reform, to make right, to reconcile",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0035",
+    "arabic": "أَضَلَّ",
+    "english": "to lead astray, to misguide",
+    "root": "ض-ل-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0036",
+    "arabic": "أَطَاعَ",
+    "english": "to obey",
+    "root": "ط-و-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0037",
+    "arabic": "أَعَدَّ",
+    "english": "to prepare, to make ready",
+    "root": "ع-د-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0038",
+    "arabic": "أَعْلَى",
+    "english": "highest, most high",
+    "root": "ع-ل-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0039",
+    "arabic": "أَقْبَلَ",
+    "english": "to approach, to turn toward",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0040",
+    "arabic": "أَكْبَر",
+    "english": "greater, greatest",
+    "root": "ك-ب-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0041",
+    "arabic": "اِكْتَسَبَ",
+    "english": "to earn, to commit (sin)",
+    "root": "ك-س-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0042",
+    "arabic": "أَكْثَر",
+    "english": "more, most",
+    "root": "ك-ث-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0043",
+    "arabic": "أَكَلَ",
+    "english": "to eat, consume",
+    "root": "أ-ك-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0044",
+    "arabic": "أَكْل",
+    "english": "eating, consumption, food",
+    "root": "أ-ك-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0045",
+    "arabic": "أُكْلَة",
+    "english": "a meal, morsel",
+    "root": "أ-ك-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0046",
+    "arabic": "أَلْقَى",
+    "english": "to throw, to cast, to deliver",
+    "root": "ل-ق-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0047",
+    "arabic": "أَمَرَ",
+    "english": "he commanded, ordered",
+    "root": "أ-م-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0048",
+    "arabic": "أَمْر",
+    "english": "command, order, matter, affair",
+    "root": "أ-م-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0049",
+    "arabic": "اِنْتَهَى",
+    "english": "to refrain, to stop, to end",
+    "root": "ن-ه-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0050",
+    "arabic": "أَنزَلَ",
+    "english": "to reveal, to send down",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0051",
+    "arabic": "أَنْزَلَ",
+    "english": "he sent down, revealed",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0052",
+    "arabic": "اِنْشَقَّ",
+    "english": "to split apart, to be divided",
+    "root": "ش-ق-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0053",
+    "arabic": "اِنْشِقَاق",
+    "english": "splitting, cleaving",
+    "root": "ش-ق-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0054",
+    "arabic": "أَنْصَار",
+    "english": "helpers, supporters (pl. of نَصِير)",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0055",
+    "arabic": "أَنْعَام",
+    "english": "cattle, livestock",
+    "root": "ن-ع-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0056",
+    "arabic": "أَنْعَمَ",
+    "english": "to bestow blessings, to grant favors",
+    "root": "ن-ع-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0057",
+    "arabic": "اهْتَدَى",
+    "english": "to be guided, to find guidance",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0058",
+    "arabic": "أَيْقَنَ",
+    "english": "to be convinced, to know for certain",
+    "root": "ي-ق-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0059",
+    "arabic": "إِيمَان",
+    "english": "faith, belief",
+    "root": "أ-م-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0060",
+    "arabic": "بَائِع",
+    "english": "seller",
+    "root": "ب-ي-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0061",
+    "arabic": "بَارّ",
+    "english": "pious, dutiful",
+    "root": "ب-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0062",
+    "arabic": "بَاصِر",
+    "english": "one who sees, seer",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0063",
+    "arabic": "بَاعَ",
+    "english": "to sell",
+    "root": "ب-ي-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0064",
+    "arabic": "بَاعِث",
+    "english": "one who sends, resurrector",
+    "root": "ب-ع-ث",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0065",
+    "arabic": "بَاعِد",
+    "english": "one who is far",
+    "root": "ب-ع-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0066",
+    "arabic": "بَاغٍ",
+    "english": "one who transgresses",
+    "root": "ب-غ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0067",
+    "arabic": "بَاقٍ",
+    "english": "remaining, lasting",
+    "root": "ب-ق-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0068",
+    "arabic": "بَالِغ",
+    "english": "reaching, mature, adult",
+    "root": "ب-ل-غ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0069",
+    "arabic": "بَرَّ",
+    "english": "to be pious, to be reverent",
+    "root": "ب-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0070",
+    "arabic": "بَرّ",
+    "english": "pious, righteous",
+    "root": "ب-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0071",
+    "arabic": "بَرّ",
+    "english": "land, dry land",
+    "root": "ب-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0072",
+    "arabic": "بِرّ",
+    "english": "righteousness, piety",
+    "root": "ب-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0073",
+    "arabic": "بَصَر",
+    "english": "sight, vision, eyesight",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0074",
+    "arabic": "بَصُرَ",
+    "english": "to see, to look, to perceive",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0075",
+    "arabic": "بَصِير",
+    "english": "All-Seeing (divine attribute), perceptive",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0076",
+    "arabic": "بَصِيرَة",
+    "english": "insight, discernment, evidence",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0077",
+    "arabic": "بَعَثَ",
+    "english": "to send, to resurrect, to raise up",
+    "root": "ب-ع-ث",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0078",
+    "arabic": "بَعْث",
+    "english": "resurrection, sending",
+    "root": "ب-ع-ث",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0079",
+    "arabic": "بَعُدَ",
+    "english": "to be far, to be distant",
+    "root": "ب-ع-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0080",
+    "arabic": "بَعْد",
+    "english": "after (adverb of time)",
+    "root": "ب-ع-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0081",
+    "arabic": "بُعْد",
+    "english": "distance, remoteness",
+    "root": "ب-ع-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0082",
+    "arabic": "بَعِيد",
+    "english": "far, distant, remote",
+    "root": "ب-ع-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0083",
+    "arabic": "بَغَى",
+    "english": "to seek wrongfully, to transgress",
+    "root": "ب-غ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0084",
+    "arabic": "بَغْي",
+    "english": "transgression, injustice",
+    "root": "ب-غ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0085",
+    "arabic": "بَقَاء",
+    "english": "remaining, survival",
+    "root": "ب-ق-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0086",
+    "arabic": "بَقِيَ",
+    "english": "to remain, to stay",
+    "root": "ب-ق-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0087",
+    "arabic": "بَقِيَّة",
+    "english": "remnant, remainder",
+    "root": "ب-ق-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0088",
+    "arabic": "بَلَاء",
+    "english": "trial, affliction, test",
+    "root": "ب-ل-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0089",
+    "arabic": "بَلَغَ",
+    "english": "to reach, to attain",
+    "root": "ب-ل-غ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0090",
+    "arabic": "بَلَّغَ",
+    "english": "to convey, to deliver (a message)",
+    "root": "ب-ل-غ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0091",
+    "arabic": "بُلُوغ",
+    "english": "reaching, attainment, puberty",
+    "root": "ب-ل-غ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0092",
+    "arabic": "بِنَاء",
+    "english": "building, construction, structure",
+    "root": "ب-ن-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0093",
+    "arabic": "بِنْت",
+    "english": "daughter, girl",
+    "root": "ب-ن-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0094",
+    "arabic": "بَيْع",
+    "english": "sale, trade",
+    "root": "ب-ي-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0095",
+    "arabic": "تَائِب",
+    "english": "one who repents, penitent",
+    "root": "ت-و-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0096",
+    "arabic": "تَابَ",
+    "english": "to repent, to turn back (to Allah)",
+    "root": "ت-و-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0097",
+    "arabic": "تَارِك",
+    "english": "one who leaves, abandoner",
+    "root": "ت-ر-ك",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0098",
+    "arabic": "تَالٍ",
+    "english": "one who recites, reciter",
+    "root": "ت-ل-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0099",
+    "arabic": "تَبْلِيغ",
+    "english": "conveying, delivering",
+    "root": "ب-ل-غ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0100",
+    "arabic": "تَحْرِيم",
+    "english": "prohibition, forbidding",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0101",
+    "arabic": "تَذَكَّرَ",
+    "english": "to remember, to be reminded",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0102",
+    "arabic": "تَذْكِرَة",
+    "english": "reminder, admonition",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0103",
+    "arabic": "تَرْبِيَة",
+    "english": "nurturing, education, upbringing",
+    "root": "ر-ب-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0104",
+    "arabic": "تَرَكَ",
+    "english": "to leave, to abandon, to bequeath",
+    "root": "ت-ر-ك",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0105",
+    "arabic": "تَرْك",
+    "english": "leaving, abandonment",
+    "root": "ت-ر-ك",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0106",
+    "arabic": "تَزَكَّى",
+    "english": "to purify oneself",
+    "root": "ز-ك-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0107",
+    "arabic": "تَزْكِيَة",
+    "english": "purification",
+    "root": "ز-ك-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0108",
+    "arabic": "تَزْوِيج",
+    "english": "marriage, marrying",
+    "root": "ز-و-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0109",
+    "arabic": "تَصْوِير",
+    "english": "forming, fashioning, imaging",
+    "root": "ص-و-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0110",
+    "arabic": "تَطَوَّعَ",
+    "english": "to volunteer, to do willingly",
+    "root": "ط-و-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0111",
+    "arabic": "تَعَالَى",
+    "english": "to be exalted, to be high above",
+    "root": "ع-ل-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0112",
+    "arabic": "تَعَوَّذَ",
+    "english": "to seek refuge",
+    "root": "ع-و-ذ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0113",
+    "arabic": "تَقَبَّلَ",
+    "english": "he accepted graciously",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0114",
+    "arabic": "تَكَبَّرَ",
+    "english": "to be arrogant, to act proudly",
+    "root": "ك-ب-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0115",
+    "arabic": "تَلَا",
+    "english": "to recite, to read, to follow",
+    "root": "ت-ل-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0116",
+    "arabic": "تِلَاوَة",
+    "english": "recitation, reading",
+    "root": "ت-ل-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0117",
+    "arabic": "تَنْزِيل",
+    "english": "revelation, sending down (gradually)",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0118",
+    "arabic": "تَوَّاب",
+    "english": "Oft-Returning, Accepter of Repentance (divine name)",
+    "root": "ت-و-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0119",
+    "arabic": "تَوْبَة",
+    "english": "repentance",
+    "root": "ت-و-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0120",
+    "arabic": "تَيَسَّرَ",
+    "english": "to become easy",
+    "root": "ي-س-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0121",
+    "arabic": "جَاءٍ",
+    "english": "one who comes, comer",
+    "root": "ج-ي-أ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0122",
+    "arabic": "جَاءَ",
+    "english": "to come",
+    "root": "ج-ي-أ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0123",
+    "arabic": "جَارٍ",
+    "english": "running, flowing",
+    "root": "ج-ر-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0124",
+    "arabic": "جَاعِل",
+    "english": "one who makes, maker",
+    "root": "ج-ع-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0125",
+    "arabic": "جَالِس",
+    "english": "sitting, seated",
+    "root": "ج-ل-س",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0126",
+    "arabic": "جَامِع",
+    "english": "gatherer, collector; mosque",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0127",
+    "arabic": "جَامِعَة",
+    "english": "university, comprehensive gathering",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0128",
+    "arabic": "جَرَى",
+    "english": "to run, to flow",
+    "root": "ج-ر-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0129",
+    "arabic": "جَرْي",
+    "english": "running, flowing",
+    "root": "ج-ر-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0130",
+    "arabic": "جَعَلَ",
+    "english": "to make, to place, to render",
+    "root": "ج-ع-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0131",
+    "arabic": "جَعْل",
+    "english": "making, placing",
+    "root": "ج-ع-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0132",
+    "arabic": "جَلَسَ",
+    "english": "to sit, sit down",
+    "root": "ج-ل-س",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0133",
+    "arabic": "جُلُوس",
+    "english": "sitting, session",
+    "root": "ج-ل-س",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0134",
+    "arabic": "جَمَعَ",
+    "english": "he gathered, collected, assembled",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0135",
+    "arabic": "جَمْع",
+    "english": "gathering, collecting, assembly",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0136",
+    "arabic": "جَمِيع",
+    "english": "all, entirety, whole",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0137",
+    "arabic": "جَوَاب",
+    "english": "answer, reply",
+    "root": "ج-و-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0138",
+    "arabic": "حَابّ",
+    "english": "loving",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0139",
+    "arabic": "حَاجّ",
+    "english": "pilgrim, one performing Hajj",
+    "root": "ح-ج-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0140",
+    "arabic": "حَازِن",
+    "english": "one who is sad, grieving",
+    "root": "ح-ز-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0141",
+    "arabic": "حَاسَبَ",
+    "english": "to call to account, to reckon with",
+    "root": "ح-س-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0142",
+    "arabic": "حَاسِب",
+    "english": "one who reckons, accountant",
+    "root": "ح-س-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0143",
+    "arabic": "حَاشِر",
+    "english": "one who gathers",
+    "root": "ح-ش-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0144",
+    "arabic": "حَافِظ",
+    "english": "preserver, guardian, one who memorizes",
+    "root": "ح-ف-ظ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0145",
+    "arabic": "حَامِل",
+    "english": "carrier, pregnant",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0146",
+    "arabic": "حَبَّ",
+    "english": "to love",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0147",
+    "arabic": "حُبّ",
+    "english": "love",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0148",
+    "arabic": "حَبِيب",
+    "english": "beloved, dear",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0149",
+    "arabic": "حَجَّ",
+    "english": "he performed Hajj, made pilgrimage",
+    "root": "ح-ج-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0150",
+    "arabic": "حَجّ",
+    "english": "pilgrimage, Hajj",
+    "root": "ح-ج-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0151",
+    "arabic": "حَرَام",
+    "english": "forbidden, unlawful, sacred",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0152",
+    "arabic": "حَرَم",
+    "english": "sanctuary, sacred precinct",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0153",
+    "arabic": "حَرَّمَ",
+    "english": "to forbid, to make unlawful",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0154",
+    "arabic": "حَرُمَ",
+    "english": "to be forbidden, to be sacred",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0155",
+    "arabic": "حُرْمَة",
+    "english": "sacredness, sanctity",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0156",
+    "arabic": "حَزِنَ",
+    "english": "to be sad, to grieve",
+    "root": "ح-ز-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0157",
+    "arabic": "حُزْن",
+    "english": "sadness, grief, sorrow",
+    "root": "ح-ز-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0158",
+    "arabic": "حَزِين",
+    "english": "sad, sorrowful",
+    "root": "ح-ز-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0159",
+    "arabic": "حِسَاب",
+    "english": "account, reckoning, judgment",
+    "root": "ح-س-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0160",
+    "arabic": "حَسِبَ",
+    "english": "to reckon, to consider, to think",
+    "root": "ح-س-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0161",
+    "arabic": "حَسْب",
+    "english": "sufficient, enough",
+    "root": "ح-س-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0162",
+    "arabic": "حِسْبَان",
+    "english": "reckoning, calculation",
+    "root": "ح-س-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0163",
+    "arabic": "حَسَن",
+    "english": "good, beautiful, fine",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0164",
+    "arabic": "حُسْن",
+    "english": "goodness, beauty, excellence",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0165",
+    "arabic": "حَسَنَة",
+    "english": "good deed, virtue",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0166",
+    "arabic": "حَشَرَ",
+    "english": "to gather, to assemble, to resurrect",
+    "root": "ح-ش-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0167",
+    "arabic": "حَشْر",
+    "english": "gathering, resurrection",
+    "root": "ح-ش-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0168",
+    "arabic": "حَفِظَ",
+    "english": "he preserved, memorized, guarded",
+    "root": "ح-ف-ظ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0169",
+    "arabic": "حِفْظ",
+    "english": "preservation, memorization, protection",
+    "root": "ح-ف-ظ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0170",
+    "arabic": "حَفِيظ",
+    "english": "guardian, preserver; one of Allah's names",
+    "root": "ح-ف-ظ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0171",
+    "arabic": "حَقَّ",
+    "english": "to be true, to be incumbent",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0172",
+    "arabic": "حَقّ",
+    "english": "truth, right",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0173",
+    "arabic": "حَقّ الْيَقِين",
+    "english": "certainty of truth, absolute certainty",
+    "root": "ي-ق-ن",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0174",
+    "arabic": "حُقُوق",
+    "english": "rights",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0175",
+    "arabic": "حَقِيقَة",
+    "english": "reality, truth, fact",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0176",
+    "arabic": "حَكِيم",
+    "english": "wise, all-wise",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0177",
+    "arabic": "حَمِدَ",
+    "english": "he praised",
+    "root": "ح-م-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0178",
+    "arabic": "حَمْد",
+    "english": "praise, commendation",
+    "root": "ح-م-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0179",
+    "arabic": "حَمَلَ",
+    "english": "to carry, to bear, to become pregnant",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0180",
+    "arabic": "حَمَّلَ",
+    "english": "to load, to burden",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0181",
+    "arabic": "حَمْل",
+    "english": "carrying, pregnancy, burden",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0182",
+    "arabic": "حِمْل",
+    "english": "load, burden",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0183",
+    "arabic": "حَمِيد",
+    "english": "praiseworthy, praised; one of Allah's names",
+    "root": "ح-م-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0184",
+    "arabic": "حَيّ",
+    "english": "living, alive",
+    "root": "ح-ي-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0185",
+    "arabic": "حَيَاة",
+    "english": "life",
+    "root": "ح-ي-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0186",
+    "arabic": "حَيِيَ",
+    "english": "to live, to be alive",
+    "root": "ح-ي-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0187",
+    "arabic": "خَائِف",
+    "english": "one who fears, fearful",
+    "root": "خ-و-ف",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0188",
+    "arabic": "خَارِج",
+    "english": "going out, outside, external",
+    "root": "خ-ر-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0189",
+    "arabic": "خَاسِر",
+    "english": "loser, one in loss",
+    "root": "خ-س-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0190",
+    "arabic": "خَاشٍ",
+    "english": "one who fears (Allah)",
+    "root": "خ-ش-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0191",
+    "arabic": "خَاشِع",
+    "english": "humble, submissive, reverent",
+    "root": "خ-ش-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0192",
+    "arabic": "خَافَ",
+    "english": "to fear, to be afraid",
+    "root": "خ-و-ف",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0193",
+    "arabic": "خَالِق",
+    "english": "creator, one who creates",
+    "root": "خ-ل-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0194",
+    "arabic": "خَرَجَ",
+    "english": "he went out, exited, emerged",
+    "root": "خ-ر-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0195",
+    "arabic": "خَسِرَ",
+    "english": "to lose, to be in loss",
+    "root": "خ-س-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0196",
+    "arabic": "خُسْر",
+    "english": "loss",
+    "root": "خ-س-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0197",
+    "arabic": "خُسْرَان",
+    "english": "great loss, perdition",
+    "root": "خ-س-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0198",
+    "arabic": "خَشِيَ",
+    "english": "to fear (reverentially), to be in awe of",
+    "root": "خ-ش-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0199",
+    "arabic": "خَشْيَة",
+    "english": "fear (of Allah), awe",
+    "root": "خ-ش-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0200",
+    "arabic": "خَفَّ",
+    "english": "to be light, to become light",
+    "root": "خ-ف-ف",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0201",
+    "arabic": "خَفَّفَ",
+    "english": "to lighten, to make easy",
+    "root": "خ-ف-ف",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0202",
+    "arabic": "خَفِيف",
+    "english": "light (in weight), easy",
+    "root": "خ-ف-ف",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0203",
+    "arabic": "خَلَقَ",
+    "english": "he created",
+    "root": "خ-ل-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0204",
+    "arabic": "خَلْق",
+    "english": "creation, act of creating; creatures",
+    "root": "خ-ل-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0205",
+    "arabic": "خُلُق",
+    "english": "character, moral disposition, manners",
+    "root": "خ-ل-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0206",
+    "arabic": "خَوْف",
+    "english": "fear",
+    "root": "خ-و-ف",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0207",
+    "arabic": "دَاخِل",
+    "english": "one entering, interior",
+    "root": "د-خ-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0208",
+    "arabic": "دَخَلَ",
+    "english": "to enter",
+    "root": "د-خ-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0209",
+    "arabic": "دُخُول",
+    "english": "entering, entry",
+    "root": "د-خ-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0210",
+    "arabic": "دُعَاء",
+    "english": "supplication, prayer, invocation",
+    "root": "د-ع-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0211",
+    "arabic": "دَعْوَة",
+    "english": "call, invitation, propagation (of Islam)",
+    "root": "د-ع-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0212",
+    "arabic": "ذَاكِر",
+    "english": "one who remembers",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0213",
+    "arabic": "ذَاهِب",
+    "english": "one going, goer",
+    "root": "ذ-ه-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0214",
+    "arabic": "ذَكَر",
+    "english": "male",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0215",
+    "arabic": "ذَكَرَ",
+    "english": "to remember, to mention",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0216",
+    "arabic": "ذَكَّرَ",
+    "english": "to remind",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0217",
+    "arabic": "ذِكْر",
+    "english": "remembrance, mention, reminder",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0218",
+    "arabic": "ذِكْرَى",
+    "english": "reminder, remembrance",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0219",
+    "arabic": "ذَهَبَ",
+    "english": "he went",
+    "root": "ذ-ه-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0220",
+    "arabic": "رَاءٍ",
+    "english": "one who sees, seer",
+    "root": "ر-أ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0221",
+    "arabic": "رَاجٍ",
+    "english": "one who hopes, hopeful",
+    "root": "ر-ج-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0222",
+    "arabic": "رَازِق",
+    "english": "provider, one who gives sustenance",
+    "root": "ر-ز-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0223",
+    "arabic": "رَاضٍ",
+    "english": "one who is pleased, satisfied",
+    "root": "ر-ض-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0224",
+    "arabic": "رَافِع",
+    "english": "one who raises, elevator",
+    "root": "ر-ف-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0225",
+    "arabic": "رَاكِب",
+    "english": "rider",
+    "root": "ر-ك-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0226",
+    "arabic": "رَاكِع",
+    "english": "one who bows, bowing",
+    "root": "ر-ك-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0227",
+    "arabic": "رَامٍ",
+    "english": "one who throws, thrower",
+    "root": "ر-م-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0228",
+    "arabic": "رَأَى",
+    "english": "to see, to view",
+    "root": "ر-أ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0229",
+    "arabic": "رَأْي",
+    "english": "opinion, view",
+    "root": "ر-أ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0230",
+    "arabic": "رُؤْيَة",
+    "english": "vision, sight, seeing",
+    "root": "ر-أ-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0231",
+    "arabic": "رِبًا",
+    "english": "usury, interest",
+    "root": "ر-ب-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0232",
+    "arabic": "رَبَّى",
+    "english": "to raise, to nurture, to educate",
+    "root": "ر-ب-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0233",
+    "arabic": "رَجَا",
+    "english": "to hope, to expect",
+    "root": "ر-ج-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0234",
+    "arabic": "رَجَاء",
+    "english": "hope, expectation",
+    "root": "ر-ج-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0235",
+    "arabic": "رَحِمَ",
+    "english": "he had mercy, was merciful",
+    "root": "ر-ح-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0236",
+    "arabic": "رَحْمَة",
+    "english": "mercy, compassion",
+    "root": "ر-ح-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0237",
+    "arabic": "رَحْمَٰن",
+    "english": "the Most Gracious, the All-Merciful",
+    "root": "ر-ح-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0238",
+    "arabic": "رَحِيم",
+    "english": "merciful, compassionate (intensive)",
+    "root": "ر-ح-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0239",
+    "arabic": "رَزَّاق",
+    "english": "the Provider, the Sustainer (intensive)",
+    "root": "ر-ز-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0240",
+    "arabic": "رَزَقَ",
+    "english": "he provided, gave sustenance",
+    "root": "ر-ز-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0241",
+    "arabic": "رِزْق",
+    "english": "provision, sustenance, livelihood",
+    "root": "ر-ز-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0242",
+    "arabic": "رَسُول",
+    "english": "messenger, apostle",
+    "root": "ر-س-ل",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0243",
+    "arabic": "رِضًا",
+    "english": "pleasure, satisfaction",
+    "root": "ر-ض-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0244",
+    "arabic": "رِضْوَان",
+    "english": "divine pleasure, good will",
+    "root": "ر-ض-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0245",
+    "arabic": "رِضَى",
+    "english": "consent, approval",
+    "root": "ر-ض-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0246",
+    "arabic": "رَضِيَ",
+    "english": "to be pleased, to be satisfied",
+    "root": "ر-ض-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0247",
+    "arabic": "رَفَعَ",
+    "english": "to raise, to elevate, to lift",
+    "root": "ر-ف-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0248",
+    "arabic": "رَفْع",
+    "english": "raising, elevation",
+    "root": "ر-ف-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0249",
+    "arabic": "رَفِيع",
+    "english": "high, lofty, exalted",
+    "root": "ر-ف-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0250",
+    "arabic": "رَكِبَ",
+    "english": "to ride, to mount",
+    "root": "ر-ك-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0251",
+    "arabic": "رَكَعَ",
+    "english": "to bow (in prayer)",
+    "root": "ر-ك-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0252",
+    "arabic": "رَكْعَة",
+    "english": "unit of prayer (rak'ah)",
+    "root": "ر-ك-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0253",
+    "arabic": "رُكُوب",
+    "english": "riding",
+    "root": "ر-ك-ب",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0254",
+    "arabic": "رُكُوع",
+    "english": "bowing (in prayer)",
+    "root": "ر-ك-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0255",
+    "arabic": "رَمَى",
+    "english": "to throw, to cast",
+    "root": "ر-م-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0256",
+    "arabic": "رَمْي",
+    "english": "throwing, casting",
+    "root": "ر-م-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0257",
+    "arabic": "زَكَاة",
+    "english": "obligatory charity, alms",
+    "root": "ز-ك-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0258",
+    "arabic": "زَكَّى",
+    "english": "to purify, to recommend",
+    "root": "ز-ك-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0259",
+    "arabic": "زَكِيّ",
+    "english": "pure, innocent",
+    "root": "ز-ك-و",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0260",
+    "arabic": "زَوَّجَ",
+    "english": "to marry, to give in marriage",
+    "root": "ز-و-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0261",
+    "arabic": "زَوْج",
+    "english": "spouse, partner, pair",
+    "root": "ز-و-ج",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0262",
+    "arabic": "سَائِر",
+    "english": "walker, traveler, all/rest of",
+    "root": "س-ي-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0263",
+    "arabic": "سَارَ",
+    "english": "to walk, to travel, to journey",
+    "root": "س-ي-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0264",
+    "arabic": "سَاعٍ",
+    "english": "one who strives, striver",
+    "root": "س-ع-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0265",
+    "arabic": "سَرَّ",
+    "english": "to make happy, to delight",
+    "root": "س-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0266",
+    "arabic": "سِرّ",
+    "english": "secret",
+    "root": "س-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0267",
+    "arabic": "سُرُور",
+    "english": "happiness, joy",
+    "root": "س-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0268",
+    "arabic": "سَرِير",
+    "english": "throne, couch",
+    "root": "س-ر-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0269",
+    "arabic": "سَعَى",
+    "english": "to strive, to endeavor, to walk quickly",
+    "root": "س-ع-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0270",
+    "arabic": "سَعْي",
+    "english": "striving, effort, endeavor",
+    "root": "س-ع-ي",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0271",
+    "arabic": "سَمِعَ",
+    "english": "he heard, listened",
+    "root": "س-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0272",
+    "arabic": "سَمْع",
+    "english": "hearing, sense of hearing",
+    "root": "س-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0273",
+    "arabic": "سَمِيع",
+    "english": "all-hearing, one who hears everything",
+    "root": "س-م-ع",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0274",
+    "arabic": "سَيَّارَة",
+    "english": "caravan, travelers",
+    "root": "س-ي-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0275",
+    "arabic": "سَيْر",
+    "english": "walking, traveling, journey",
+    "root": "س-ي-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0276",
+    "arabic": "سِيرَة",
+    "english": "biography, way of life, conduct",
+    "root": "س-ي-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0277",
+    "arabic": "شَاءَ",
+    "english": "to will, to wish",
+    "root": "ش-ي-أ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0278",
+    "arabic": "شَادّ",
+    "english": "one who tightens, strengthener",
+    "root": "ش-د-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0279",
+    "arabic": "شَاهِد",
+    "english": "witness, one who testifies",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0280",
+    "arabic": "شَدَّ",
+    "english": "to tighten, to strengthen",
+    "root": "ش-د-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0281",
+    "arabic": "شَدّ",
+    "english": "tightening, strengthening",
+    "root": "ش-د-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0282",
+    "arabic": "شِدَّة",
+    "english": "strength, severity, intensity",
+    "root": "ش-د-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0283",
+    "arabic": "شَدِيد",
+    "english": "strong, severe, intense",
+    "root": "ش-د-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0284",
+    "arabic": "شَقَّ",
+    "english": "to split, to cleave",
+    "root": "ش-ق-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0285",
+    "arabic": "شَقّ",
+    "english": "splitting, crack",
+    "root": "ش-ق-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0286",
+    "arabic": "شَكَرَ",
+    "english": "he thanked, was grateful",
+    "root": "ش-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0287",
+    "arabic": "شُكْر",
+    "english": "gratitude, thankfulness",
+    "root": "ش-ك-ر",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0288",
+    "arabic": "شَهَادَة",
+    "english": "testimony, witness, martyrdom",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0289",
+    "arabic": "شَهِدَ",
+    "english": "he witnessed, testified, was present",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0290",
+    "arabic": "شَهِيد",
+    "english": "martyr; witness; one of Allah's names",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0291",
+    "arabic": "شَيْء",
+    "english": "thing",
+    "root": "ش-ي-أ",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0292",
+    "arabic": "صَائِم",
+    "english": "one who fasts, fasting person",
+    "root": "ص-و-م",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0293",
+    "arabic": "صَادّ",
+    "english": "one who turns away, repeller",
+    "root": "ص-د-د",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0294",
+    "arabic": "صَادِق",
+    "english": "truthful one, sincere",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u1",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0295",
+    "arabic": "صَالِح",
+    "english": "righteous, good",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0296",
+    "arabic": "صَالِح",
+    "english": "righteous, pious",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0297",
+    "arabic": "صَامَ",
+    "english": "to fast",
+    "root": "ص-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0298",
+    "arabic": "صَبَرَ",
+    "english": "he was patient, endured",
+    "root": "ص-ب-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0299",
+    "arabic": "صَبْر",
+    "english": "patience, perseverance, steadfastness",
+    "root": "ص-ب-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0300",
+    "arabic": "صَدَّ",
+    "english": "to turn away, to avert, to prevent",
+    "root": "ص-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0301",
+    "arabic": "صَدّ",
+    "english": "turning away, averting",
+    "root": "ص-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0302",
+    "arabic": "صَدَقَ",
+    "english": "he was truthful, spoke the truth",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0303",
+    "arabic": "صِدْق",
+    "english": "truthfulness, sincerity",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0304",
+    "arabic": "صَدَقَة",
+    "english": "charity, alms",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0305",
+    "arabic": "صَدِيق",
+    "english": "friend (true companion)",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0306",
+    "arabic": "صَلَاة",
+    "english": "prayer, salah",
+    "root": "ص-ل-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0307",
+    "arabic": "صَلَاح",
+    "english": "righteousness, goodness",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0308",
+    "arabic": "صَلَحَ",
+    "english": "to be righteous, to be good",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0309",
+    "arabic": "صُلْح",
+    "english": "peace, reconciliation",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0310",
+    "arabic": "صَلَّى",
+    "english": "to pray (salah), to bless",
+    "root": "ص-ل-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0311",
+    "arabic": "صَوَّرَ",
+    "english": "to form, to fashion, to shape",
+    "root": "ص-و-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0312",
+    "arabic": "صُورَة",
+    "english": "form, image, shape",
+    "root": "ص-و-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0313",
+    "arabic": "صَوْم",
+    "english": "fasting",
+    "root": "ص-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0314",
+    "arabic": "صِيَام",
+    "english": "fasting",
+    "root": "ص-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0315",
+    "arabic": "ضَارِب",
+    "english": "striker, one who hits",
+    "root": "ض-ر-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0316",
+    "arabic": "ضَالّ",
+    "english": "one who is astray, erring",
+    "root": "ض-ل-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0317",
+    "arabic": "ضَرَبَ",
+    "english": "to strike, to hit, to set forth (an example)",
+    "root": "ض-ر-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0318",
+    "arabic": "ضَرْب",
+    "english": "striking, hitting, multiplication",
+    "root": "ض-ر-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0319",
+    "arabic": "ضَلَّ",
+    "english": "to go astray, to err",
+    "root": "ض-ل-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0320",
+    "arabic": "ضَلَال",
+    "english": "misguidance, error",
+    "root": "ض-ل-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0321",
+    "arabic": "طَاعَة",
+    "english": "obedience",
+    "root": "ط-و-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0322",
+    "arabic": "طَاغٍ",
+    "english": "one who transgresses, transgressor",
+    "root": "ط-غ-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0323",
+    "arabic": "طَاغُوت",
+    "english": "false god, idol, tyrant",
+    "root": "ط-غ-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0324",
+    "arabic": "طَغَى",
+    "english": "to transgress, to exceed proper bounds",
+    "root": "ط-غ-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0325",
+    "arabic": "طُغْيَان",
+    "english": "transgression, tyranny",
+    "root": "ط-غ-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0326",
+    "arabic": "ظَالِم",
+    "english": "wrongdoer, oppressor, unjust one",
+    "root": "ظ-ل-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0327",
+    "arabic": "ظَلَمَ",
+    "english": "he wronged, oppressed, was unjust",
+    "root": "ظ-ل-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0328",
+    "arabic": "ظُلْم",
+    "english": "injustice, oppression, wrongdoing",
+    "root": "ظ-ل-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0329",
+    "arabic": "ظُلُمَات",
+    "english": "darknesses",
+    "root": "ظ-ل-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0330",
+    "arabic": "عَائِش",
+    "english": "one who lives, living",
+    "root": "ع-ي-ش",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0331",
+    "arabic": "عَادّ",
+    "english": "one who counts, counter",
+    "root": "ع-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0332",
+    "arabic": "عَادِل",
+    "english": "just, fair, equitable",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0333",
+    "arabic": "عَاذَ",
+    "english": "to seek refuge, to seek protection",
+    "root": "ع-و-ذ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0334",
+    "arabic": "عَارِف",
+    "english": "one who knows, knower",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0335",
+    "arabic": "عَاشَ",
+    "english": "to live",
+    "root": "ع-ي-ش",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0336",
+    "arabic": "عَافٍ",
+    "english": "one who pardons",
+    "root": "ع-ف-و",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0337",
+    "arabic": "عَاقِل",
+    "english": "rational, intelligent",
+    "root": "ع-ق-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0338",
+    "arabic": "عَالٍ",
+    "english": "high, exalted",
+    "root": "ع-ل-و",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0339",
+    "arabic": "عَالِم",
+    "english": "knower, scholar, learned one",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0340",
+    "arabic": "عَامِل",
+    "english": "worker, doer, agent",
+    "root": "ع-م-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0341",
+    "arabic": "عَاوَنَ",
+    "english": "to help, to cooperate",
+    "root": "ع-و-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0342",
+    "arabic": "عِبَادَة",
+    "english": "worship, devotion, service",
+    "root": "ع-ب-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0343",
+    "arabic": "عَبَدَ",
+    "english": "he worshipped, served",
+    "root": "ع-ب-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0344",
+    "arabic": "عَبْد",
+    "english": "servant, slave, worshipper",
+    "root": "ع-ب-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0345",
+    "arabic": "عَدَّ",
+    "english": "to count, to consider",
+    "root": "ع-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0346",
+    "arabic": "عِدَّة",
+    "english": "period, waiting period, number",
+    "root": "ع-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0347",
+    "arabic": "عَدَد",
+    "english": "number, count",
+    "root": "ع-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0348",
+    "arabic": "عَدَلَ",
+    "english": "he was just, acted justly, balanced",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0349",
+    "arabic": "عَدِلَ",
+    "english": "to be just, to be fair",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0350",
+    "arabic": "عَدْل",
+    "english": "justice, equity, fairness",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0351",
+    "arabic": "عَذَاب",
+    "english": "punishment, torment, suffering",
+    "root": "ع-ذ-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0352",
+    "arabic": "عَذَاب",
+    "english": "punishment, torment",
+    "root": "ع-ذ-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0353",
+    "arabic": "عَرَفَ",
+    "english": "to know, to recognize",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0354",
+    "arabic": "عَرَفَة",
+    "english": "Arafat (place of Hajj)",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0355",
+    "arabic": "عَفَا",
+    "english": "to pardon, to forgive, to wipe out",
+    "root": "ع-ف-و",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0356",
+    "arabic": "عَفُوّ",
+    "english": "The All-Pardoning (name of Allah)",
+    "root": "ع-ف-و",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0357",
+    "arabic": "عَفْو",
+    "english": "pardon, forgiveness",
+    "root": "ع-ف-و",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0358",
+    "arabic": "عَقَلَ",
+    "english": "to understand, to comprehend",
+    "root": "ع-ق-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0359",
+    "arabic": "عَقْل",
+    "english": "intellect, reason, mind",
+    "root": "ع-ق-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0360",
+    "arabic": "عَلَا",
+    "english": "to be high, to rise above",
+    "root": "ع-ل-و",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0361",
+    "arabic": "عَلِمَ",
+    "english": "he knew, learned, came to know",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0362",
+    "arabic": "عِلْم",
+    "english": "knowledge, science",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0363",
+    "arabic": "عُلُوّ",
+    "english": "highness, loftiness, arrogance",
+    "root": "ع-ل-و",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0364",
+    "arabic": "عَلِيّ",
+    "english": "high, exalted, sublime",
+    "root": "ع-ل-و",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0365",
+    "arabic": "عَلِيم",
+    "english": "all-knowing, omniscient",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0366",
+    "arabic": "عَمَل",
+    "english": "work, deed, action",
+    "root": "ع-م-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0367",
+    "arabic": "عَمِلَ",
+    "english": "to do, to work, to act",
+    "root": "ع-م-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0368",
+    "arabic": "عَوْن",
+    "english": "help, assistance",
+    "root": "ع-و-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0369",
+    "arabic": "عَيْش",
+    "english": "life, living",
+    "root": "ع-ي-ش",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0370",
+    "arabic": "غَرَّ",
+    "english": "to deceive, to delude",
+    "root": "غ-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0371",
+    "arabic": "غَرُور",
+    "english": "the deceiver (epithet of Satan)",
+    "root": "غ-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0372",
+    "arabic": "غُرُور",
+    "english": "deception, delusion",
+    "root": "غ-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0373",
+    "arabic": "غَفَرَ",
+    "english": "he forgave, pardoned, covered (sins)",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0374",
+    "arabic": "غَفُور",
+    "english": "most forgiving, oft-forgiving",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0375",
+    "arabic": "فَاتِحَة",
+    "english": "opening, beginning (Al-Fatiha)",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0376",
+    "arabic": "فَارّ",
+    "english": "one who flees, fugitive",
+    "root": "ف-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0377",
+    "arabic": "فَاعِل",
+    "english": "doer, agent, subject (grammar)",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0378",
+    "arabic": "فَتَّاح",
+    "english": "The Opener (Divine Name)",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0379",
+    "arabic": "فَتَحَ",
+    "english": "he opened, conquered, granted victory",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0380",
+    "arabic": "فَتْح",
+    "english": "opening, conquest, victory",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0381",
+    "arabic": "فَرَّ",
+    "english": "to flee, to escape",
+    "root": "ف-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0382",
+    "arabic": "فِرَار",
+    "english": "flight, escape",
+    "root": "ف-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0383",
+    "arabic": "فَرْق",
+    "english": "separation, difference, distinction",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0384",
+    "arabic": "فُرْقَان",
+    "english": "criterion, distinguisher; name of Surah 25",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0385",
+    "arabic": "فَرِيق",
+    "english": "group, party, team",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0386",
+    "arabic": "فَعَلَ",
+    "english": "he did, acted, performed",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0387",
+    "arabic": "فِعْل",
+    "english": "act, action, deed; verb (grammar)",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0388",
+    "arabic": "فِعْل",
+    "english": "verb, act, deed",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0389",
+    "arabic": "قَابَلَ",
+    "english": "to meet, to face",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0390",
+    "arabic": "قَاتَلَ",
+    "english": "to fight, to combat",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0391",
+    "arabic": "قَاتِل",
+    "english": "killer, murderer",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0392",
+    "arabic": "قَادِر",
+    "english": "able, All-Powerful",
+    "root": "ق-د-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0393",
+    "arabic": "قَارِئ",
+    "english": "reader, reciter",
+    "root": "ق-ر-أ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0394",
+    "arabic": "قَبَّلَ",
+    "english": "to kiss",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0395",
+    "arabic": "قَبِلَ",
+    "english": "he accepted, received",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0396",
+    "arabic": "قَبْل",
+    "english": "before",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0397",
+    "arabic": "قِبْلَة",
+    "english": "direction of prayer, qiblah",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0398",
+    "arabic": "قِتَال",
+    "english": "fighting, combat",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0399",
+    "arabic": "قَتَلَ",
+    "english": "to kill",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0400",
+    "arabic": "قَتْل",
+    "english": "killing, murder",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0401",
+    "arabic": "قَتِيل",
+    "english": "one killed, victim",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0402",
+    "arabic": "قَدَّرَ",
+    "english": "to estimate, to determine",
+    "root": "ق-د-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0403",
+    "arabic": "قَدِرَ",
+    "english": "to be able, to have power",
+    "root": "ق-د-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0404",
+    "arabic": "قُدْرَة",
+    "english": "power, ability",
+    "root": "ق-د-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0405",
+    "arabic": "قَرَّ",
+    "english": "to settle, to be cool",
+    "root": "ق-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0406",
+    "arabic": "قَرَأَ",
+    "english": "he read",
+    "root": "ق-ر-أ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0407",
+    "arabic": "قِرَاءَة",
+    "english": "reading (act of), recitation",
+    "root": "ق-ر-أ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0408",
+    "arabic": "قُرْآن",
+    "english": "Quran, that which is recited",
+    "root": "ق-ر-أ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0409",
+    "arabic": "قَرَار",
+    "english": "stability, settlement, decision",
+    "root": "ق-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0410",
+    "arabic": "قُرَّة",
+    "english": "coolness, delight",
+    "root": "ق-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0411",
+    "arabic": "قَوْم",
+    "english": "people, nation, tribe",
+    "root": "ق-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0412",
+    "arabic": "قِيَامَة",
+    "english": "resurrection, Day of Judgment",
+    "root": "ق-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0413",
+    "arabic": "كَاتِب",
+    "english": "writer, one who writes",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0414",
+    "arabic": "كَاذِب",
+    "english": "liar, one who lies",
+    "root": "ك-ذ-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0415",
+    "arabic": "كَارِه",
+    "english": "one who dislikes, disliking",
+    "root": "ك-ر-ه",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0416",
+    "arabic": "كَاسِب",
+    "english": "earner, one who acquires",
+    "root": "ك-س-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0417",
+    "arabic": "كَافِر",
+    "english": "disbeliever, denier",
+    "root": "ك-ف-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0418",
+    "arabic": "كَبَّرَ",
+    "english": "to magnify, to say Allahu Akbar",
+    "root": "ك-ب-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0419",
+    "arabic": "كِتَاب",
+    "english": "book, scripture, writing; decree",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0420",
+    "arabic": "كِتَابَة",
+    "english": "writing (act of)",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0421",
+    "arabic": "كَتَبَ",
+    "english": "he wrote",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0422",
+    "arabic": "كُتُب",
+    "english": "books, scriptures",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0423",
+    "arabic": "كَثُرَ",
+    "english": "to be many, to be abundant",
+    "root": "ك-ث-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0424",
+    "arabic": "كَثْرَة",
+    "english": "abundance, plenty",
+    "root": "ك-ث-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0425",
+    "arabic": "كَثِير",
+    "english": "many, much, abundant",
+    "root": "ك-ث-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0426",
+    "arabic": "كَذَبَ",
+    "english": "he lied, told a falsehood",
+    "root": "ك-ذ-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0427",
+    "arabic": "كَذِب",
+    "english": "lie, falsehood",
+    "root": "ك-ذ-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0428",
+    "arabic": "كَرَاهَة",
+    "english": "dislike, hatred",
+    "root": "ك-ر-ه",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0429",
+    "arabic": "كَرِهَ",
+    "english": "to dislike, to hate",
+    "root": "ك-ر-ه",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0430",
+    "arabic": "كَرِيم",
+    "english": "noble, generous; one of Allah's names",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0431",
+    "arabic": "كَسَبَ",
+    "english": "to earn, to acquire",
+    "root": "ك-س-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0432",
+    "arabic": "كَسْب",
+    "english": "earning, acquisition",
+    "root": "ك-س-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0433",
+    "arabic": "كَفَرَ",
+    "english": "he disbelieved, denied, was ungrateful",
+    "root": "ك-ف-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0434",
+    "arabic": "كُفْر",
+    "english": "disbelief, ungratefulness, denial",
+    "root": "ك-ف-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0435",
+    "arabic": "كَوْثَر",
+    "english": "abundance (name of river in Paradise)",
+    "root": "ك-ث-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0436",
+    "arabic": "لَابِث",
+    "english": "one who stays, remaining",
+    "root": "ل-ب-ث",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0437",
+    "arabic": "لَبِثَ",
+    "english": "to stay, to remain",
+    "root": "ل-ب-ث",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0438",
+    "arabic": "لُبْث",
+    "english": "staying, remaining",
+    "root": "ل-ب-ث",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0439",
+    "arabic": "لَعَنَ",
+    "english": "to curse",
+    "root": "ل-ع-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0440",
+    "arabic": "لَعْن",
+    "english": "curse, cursing",
+    "root": "ل-ع-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0441",
+    "arabic": "لَعْنَة",
+    "english": "curse",
+    "root": "ل-ع-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0442",
+    "arabic": "لِقَاء",
+    "english": "meeting, encounter",
+    "root": "ل-ق-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0443",
+    "arabic": "لَقِيَ",
+    "english": "to meet, to encounter",
+    "root": "ل-ق-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0444",
+    "arabic": "مَاتَ",
+    "english": "he died",
+    "root": "م-و-ت",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0445",
+    "arabic": "مَادّ",
+    "english": "one who extends",
+    "root": "م-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0446",
+    "arabic": "مَارّ",
+    "english": "one who passes, passer-by",
+    "root": "م-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0447",
+    "arabic": "مَاسّ",
+    "english": "one who touches, touching",
+    "root": "م-س-س",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0448",
+    "arabic": "مَاشٍ",
+    "english": "one who walks, walker",
+    "root": "م-ش-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0449",
+    "arabic": "مَالِك",
+    "english": "owner, possessor, Master",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0450",
+    "arabic": "مُؤْمِن",
+    "english": "believer, one who has faith",
+    "root": "أ-م-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0451",
+    "arabic": "مَبْعُوث",
+    "english": "one who is sent, envoy",
+    "root": "ب-ع-ث",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0452",
+    "arabic": "مَبْنَى",
+    "english": "building, edifice",
+    "root": "ب-ن-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0453",
+    "arabic": "مَبِيع",
+    "english": "sold item, merchandise",
+    "root": "ب-ي-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0454",
+    "arabic": "مَتْرُوك",
+    "english": "left behind, abandoned",
+    "root": "ت-ر-ك",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0455",
+    "arabic": "مَجْعُول",
+    "english": "made, placed",
+    "root": "ج-ع-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0456",
+    "arabic": "مَجْلِس",
+    "english": "sitting place, assembly, council",
+    "root": "ج-ل-س",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0457",
+    "arabic": "مَجِيء",
+    "english": "coming, arrival",
+    "root": "ج-ي-أ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0458",
+    "arabic": "مُجِيب",
+    "english": "one who answers, responder (name of Allah)",
+    "root": "ج-و-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0459",
+    "arabic": "مُحِبّ",
+    "english": "one who loves, lover",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0460",
+    "arabic": "مَحَبَّة",
+    "english": "love, affection",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0461",
+    "arabic": "مَحْبُوب",
+    "english": "beloved",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0462",
+    "arabic": "مُحَرَّم",
+    "english": "forbidden, prohibited",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0463",
+    "arabic": "مَحْرُوم",
+    "english": "deprived, denied",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0464",
+    "arabic": "مُحْسِن",
+    "english": "doer of good, one who excels",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0465",
+    "arabic": "مَحْشَر",
+    "english": "place of gathering, assembly",
+    "root": "ح-ش-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0466",
+    "arabic": "مَحْشُور",
+    "english": "gathered, assembled",
+    "root": "ح-ش-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0467",
+    "arabic": "مَحْفُوظ",
+    "english": "preserved, protected, memorized",
+    "root": "ح-ف-ظ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0468",
+    "arabic": "مَحْمُود",
+    "english": "praised, praiseworthy",
+    "root": "ح-م-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0469",
+    "arabic": "مَحْمُول",
+    "english": "carried, borne",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0470",
+    "arabic": "مَخْرَج",
+    "english": "exit, way out, outlet",
+    "root": "خ-ر-ج",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0471",
+    "arabic": "مَدَّ",
+    "english": "to extend, to stretch",
+    "root": "م-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0472",
+    "arabic": "مَدّ",
+    "english": "extension, prolongation",
+    "root": "م-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0473",
+    "arabic": "مَدْخَل",
+    "english": "entrance, place of entry",
+    "root": "د-خ-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0474",
+    "arabic": "مَدَد",
+    "english": "help, support, reinforcement",
+    "root": "م-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0475",
+    "arabic": "مَرَّ",
+    "english": "to pass, to go by",
+    "root": "م-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0476",
+    "arabic": "مَرَّة",
+    "english": "time (instance), once",
+    "root": "م-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0477",
+    "arabic": "مُرْسَلُون",
+    "english": "the messengers (sent ones)",
+    "root": "ر-س-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0478",
+    "arabic": "مَرْضِيّ",
+    "english": "one who is pleasing, approved",
+    "root": "ر-ض-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0479",
+    "arabic": "مَرْفُوع",
+    "english": "raised, elevated",
+    "root": "ر-ف-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0480",
+    "arabic": "مَرْمِيّ",
+    "english": "thrown, cast",
+    "root": "ر-م-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0481",
+    "arabic": "مُرُور",
+    "english": "passing, passage",
+    "root": "م-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0482",
+    "arabic": "مَسَّ",
+    "english": "to touch",
+    "root": "م-س-س",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0483",
+    "arabic": "مَسّ",
+    "english": "touch, contact",
+    "root": "م-س-س",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0484",
+    "arabic": "مُسْتَقْبَل",
+    "english": "future",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0485",
+    "arabic": "مُسْتَقَرّ",
+    "english": "resting place, destination",
+    "root": "ق-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0486",
+    "arabic": "مُسْتَقِيم",
+    "english": "straight, upright, correct",
+    "root": "ق-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0487",
+    "arabic": "مَشَى",
+    "english": "to walk",
+    "root": "م-ش-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0488",
+    "arabic": "مَشْي",
+    "english": "walking",
+    "root": "م-ش-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0489",
+    "arabic": "مَشِيئَة",
+    "english": "will, divine will",
+    "root": "ش-ي-أ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0490",
+    "arabic": "مُصَلٍّ",
+    "english": "one who prays, worshipper",
+    "root": "ص-ل-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0491",
+    "arabic": "مُصْلِح",
+    "english": "reformer, one who reconciles",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0492",
+    "arabic": "مُصَلَّى",
+    "english": "place of prayer",
+    "root": "ص-ل-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0493",
+    "arabic": "مُصَوِّر",
+    "english": "fashioner, shaper (name of Allah)",
+    "root": "ص-و-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0494",
+    "arabic": "مَضْرُوب",
+    "english": "struck, hit",
+    "root": "ض-ر-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0495",
+    "arabic": "مُطِيع",
+    "english": "obedient, one who obeys",
+    "root": "ط-و-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0496",
+    "arabic": "مَعَاذ",
+    "english": "refuge, protection",
+    "root": "ع-و-ذ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0497",
+    "arabic": "مَعْرِفَة",
+    "english": "knowledge, recognition",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0498",
+    "arabic": "مَعْرُوف",
+    "english": "known, good deed, kindness",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0499",
+    "arabic": "مَعِيشَة",
+    "english": "livelihood, living, life",
+    "root": "ع-ي-ش",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0500",
+    "arabic": "مُعِين",
+    "english": "helper, assistant",
+    "root": "ع-و-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0501",
+    "arabic": "مَغْفِرَة",
+    "english": "forgiveness, pardon",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0502",
+    "arabic": "مِفْتَاح",
+    "english": "key",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0503",
+    "arabic": "مَفْتُوح",
+    "english": "opened",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0504",
+    "arabic": "مَفَرّ",
+    "english": "place of escape, refuge",
+    "root": "ف-ر-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0505",
+    "arabic": "مَفْعُول",
+    "english": "done, object (grammar)",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0506",
+    "arabic": "مَقْبُول",
+    "english": "accepted, acceptable",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0507",
+    "arabic": "مَقْتُول",
+    "english": "killed, slain",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0508",
+    "arabic": "مَقْرُوء",
+    "english": "read, recited",
+    "root": "ق-ر-أ",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0509",
+    "arabic": "مَكْتَب",
+    "english": "office, desk (place of writing)",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0510",
+    "arabic": "مَكْتَبَة",
+    "english": "library, bookstore",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0511",
+    "arabic": "مَكْتُوب",
+    "english": "written",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0512",
+    "arabic": "مَكْرُوه",
+    "english": "disliked, reprehensible",
+    "root": "ك-ر-ه",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0513",
+    "arabic": "مَكْسُوب",
+    "english": "earned, acquired",
+    "root": "ك-س-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0514",
+    "arabic": "مَلْعُون",
+    "english": "cursed",
+    "root": "ل-ع-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0515",
+    "arabic": "مَلَك",
+    "english": "angel",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0516",
+    "arabic": "مَلَكَ",
+    "english": "to own, to possess, to rule",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0517",
+    "arabic": "مَلِك",
+    "english": "king",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0518",
+    "arabic": "مُلْك",
+    "english": "sovereignty, kingdom, dominion",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0519",
+    "arabic": "مِلْك",
+    "english": "property, possession",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0520",
+    "arabic": "مَمْدُود",
+    "english": "extended, stretched",
+    "root": "م-د-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0521",
+    "arabic": "مَمْلَكَة",
+    "english": "kingdom",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0522",
+    "arabic": "مَنَام",
+    "english": "sleep, dream, place of sleep",
+    "root": "ن-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0523",
+    "arabic": "مَنْسِيّ",
+    "english": "forgotten",
+    "root": "ن-س-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0524",
+    "arabic": "مَنْفَعَة",
+    "english": "benefit, advantage",
+    "root": "ن-ف-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0525",
+    "arabic": "مُنِير",
+    "english": "luminous, enlightening",
+    "root": "ن-و-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0526",
+    "arabic": "مَوْت",
+    "english": "death",
+    "root": "م-و-ت",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0527",
+    "arabic": "مَوْجُود",
+    "english": "found, existing, present",
+    "root": "و-ج-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0528",
+    "arabic": "مَوْضِع",
+    "english": "place, position",
+    "root": "و-ض-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0529",
+    "arabic": "مَوْضُوع",
+    "english": "placed, subject, topic",
+    "root": "و-ض-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0530",
+    "arabic": "مَوْقِع",
+    "english": "place, location, site",
+    "root": "و-ق-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0531",
+    "arabic": "مُوقِن",
+    "english": "one who is certain",
+    "root": "ي-ق-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0532",
+    "arabic": "مَيِّت",
+    "english": "dead, deceased",
+    "root": "م-و-ت",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0533",
+    "arabic": "مِيرَاث",
+    "english": "inheritance, heritage",
+    "root": "و-ر-ث",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0534",
+    "arabic": "نَائِم",
+    "english": "sleeping, sleeper",
+    "root": "ن-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0535",
+    "arabic": "نَار",
+    "english": "fire",
+    "root": "ن-و-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0536",
+    "arabic": "نَاسٍ",
+    "english": "one who forgets, forgetful",
+    "root": "ن-س-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0537",
+    "arabic": "نَافِع",
+    "english": "beneficial, one who benefits",
+    "root": "ن-ف-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0538",
+    "arabic": "نَامَ",
+    "english": "to sleep",
+    "root": "ن-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0539",
+    "arabic": "نَاهٍ",
+    "english": "one who forbids, forbidder",
+    "root": "ن-ه-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0540",
+    "arabic": "نَزَلَ",
+    "english": "to descend, come down",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0541",
+    "arabic": "نَسِيَ",
+    "english": "to forget",
+    "root": "ن-س-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0542",
+    "arabic": "نِسْيَان",
+    "english": "forgetfulness, forgetting",
+    "root": "ن-س-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0543",
+    "arabic": "نَصَرَ",
+    "english": "he helped, aided, gave victory",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0544",
+    "arabic": "نَصْر",
+    "english": "help, victory, divine assistance",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0545",
+    "arabic": "نَعِمَ",
+    "english": "to enjoy, to live in comfort",
+    "root": "ن-ع-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0546",
+    "arabic": "نِعْمَة",
+    "english": "blessing, favor",
+    "root": "ن-ع-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0547",
+    "arabic": "نَعِيم",
+    "english": "bliss, paradise",
+    "root": "ن-ع-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0548",
+    "arabic": "نَفَعَ",
+    "english": "to benefit, to profit",
+    "root": "ن-ف-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0549",
+    "arabic": "نَفْع",
+    "english": "benefit, profit",
+    "root": "ن-ف-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0550",
+    "arabic": "نَهَى",
+    "english": "to forbid, to prohibit",
+    "root": "ن-ه-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0551",
+    "arabic": "نَهْي",
+    "english": "prohibition, forbidding",
+    "root": "ن-ه-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0552",
+    "arabic": "نَوَّرَ",
+    "english": "to illuminate, to enlighten",
+    "root": "ن-و-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0553",
+    "arabic": "نُور",
+    "english": "light",
+    "root": "ن-و-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0554",
+    "arabic": "نَوْم",
+    "english": "sleep",
+    "root": "ن-و-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0555",
+    "arabic": "هِبَة",
+    "english": "gift, grant",
+    "root": "و-ه-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0556",
+    "arabic": "هَبَطَ",
+    "english": "to descend, to go down",
+    "root": "ه-ب-ط",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0557",
+    "arabic": "هُبُوط",
+    "english": "descent, going down",
+    "root": "ه-ب-ط",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0558",
+    "arabic": "هَدَى",
+    "english": "he guided, showed the right way",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0559",
+    "arabic": "هُدًى",
+    "english": "guidance, right direction",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0560",
+    "arabic": "هَمَّ",
+    "english": "to intend, to be about to",
+    "root": "ه-م-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0561",
+    "arabic": "هَمّ",
+    "english": "concern, worry, intention",
+    "root": "ه-م-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0562",
+    "arabic": "وَارِث",
+    "english": "heir, inheritor",
+    "root": "و-ر-ث",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0563",
+    "arabic": "وَاضِع",
+    "english": "one who places, placer",
+    "root": "و-ض-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0564",
+    "arabic": "وَاقِع",
+    "english": "falling, occurring, imminent",
+    "root": "و-ق-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0565",
+    "arabic": "وَاقِعَة",
+    "english": "event, occurrence, the Inevitable Event",
+    "root": "و-ق-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0566",
+    "arabic": "وَاهِب",
+    "english": "one who grants, giver",
+    "root": "و-ه-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0567",
+    "arabic": "وَجَدَ",
+    "english": "he found, discovered",
+    "root": "و-ج-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0568",
+    "arabic": "وُجِدَ",
+    "english": "to be found, to exist",
+    "root": "و-ج-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0569",
+    "arabic": "وِرَاثَة",
+    "english": "inheritance, heritage",
+    "root": "و-ر-ث",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0570",
+    "arabic": "وَرِثَ",
+    "english": "to inherit",
+    "root": "و-ر-ث",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0571",
+    "arabic": "وَصْل",
+    "english": "connection, joining, bond",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0572",
+    "arabic": "وَضَعَ",
+    "english": "to put, to place, to give birth",
+    "root": "و-ض-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0573",
+    "arabic": "وَضْع",
+    "english": "placing, putting, childbirth",
+    "root": "و-ض-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0574",
+    "arabic": "وَعْد",
+    "english": "promise",
+    "root": "و-ع-د",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0575",
+    "arabic": "وَقَعَ",
+    "english": "to fall, to occur, to happen",
+    "root": "و-ق-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0576",
+    "arabic": "وُقُوع",
+    "english": "falling, occurrence",
+    "root": "و-ق-ع",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0577",
+    "arabic": "وَهَبَ",
+    "english": "to grant, to bestow, to give",
+    "root": "و-ه-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0578",
+    "arabic": "وَهْب",
+    "english": "granting, bestowing",
+    "root": "و-ه-ب",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0579",
+    "arabic": "يَائِس",
+    "english": "one who despairs, despairing",
+    "root": "ي-أ-س",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0580",
+    "arabic": "يَأْس",
+    "english": "despair, hopelessness",
+    "root": "ي-أ-س",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0581",
+    "arabic": "يَئِسَ",
+    "english": "to despair, to lose hope",
+    "root": "ي-أ-س",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0582",
+    "arabic": "يَتِمَ",
+    "english": "to become an orphan",
+    "root": "ي-ت-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0583",
+    "arabic": "يَتِيم",
+    "english": "orphan",
+    "root": "ي-ت-م",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0584",
+    "arabic": "يَسَّرَ",
+    "english": "to make easy, to facilitate",
+    "root": "ي-س-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0585",
+    "arabic": "يَسِرَ",
+    "english": "to be easy",
+    "root": "ي-س-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0586",
+    "arabic": "يُسْر",
+    "english": "ease, easiness",
+    "root": "ي-س-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0587",
+    "arabic": "يَسِير",
+    "english": "easy, slight",
+    "root": "ي-س-ر",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0588",
+    "arabic": "يَقِين",
+    "english": "certainty, conviction",
+    "root": "ي-ق-ن",
+    "lesson": "sarf-u2",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0589",
+    "arabic": "آخِذ",
+    "english": "taker, one who takes",
+    "root": "أ-خ-ذ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0590",
+    "arabic": "آكِل",
+    "english": "eater, one who eats",
+    "root": "أ-ك-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0591",
+    "arabic": "آمِر",
+    "english": "commander, one who orders",
+    "root": "أ-م-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0592",
+    "arabic": "اِبْتَاعَ",
+    "english": "to buy",
+    "root": "ب-ي-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0593",
+    "arabic": "اِبْتَعَثَ",
+    "english": "to send, to dispatch",
+    "root": "ب-ع-ث",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0594",
+    "arabic": "اِبْتِلَاء",
+    "english": "trial, testing",
+    "root": "ب-ل-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0595",
+    "arabic": "إِبْصَار",
+    "english": "seeing, perception",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0596",
+    "arabic": "أَبْعَد",
+    "english": "farther, more distant",
+    "root": "ب-ع-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0597",
+    "arabic": "أَبْقَى",
+    "english": "to keep, to preserve, to let remain",
+    "root": "ب-ق-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0598",
+    "arabic": "أَبْلَغَ",
+    "english": "to inform, to communicate",
+    "root": "ب-ل-غ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0599",
+    "arabic": "أَبْلَى",
+    "english": "to test, to try",
+    "root": "ب-ل-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0600",
+    "arabic": "اِتِّخَاذ",
+    "english": "taking, adopting",
+    "root": "أ-خ-ذ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0601",
+    "arabic": "اِتَّرَكَ",
+    "english": "to leave behind, to abandon",
+    "root": "ت-ر-ك",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0602",
+    "arabic": "اِتِّصَال",
+    "english": "connection, contact, communication",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0603",
+    "arabic": "اِتَّصَلَ",
+    "english": "to be connected, contact",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0604",
+    "arabic": "اِتَّضَعَ",
+    "english": "to be humble, to be lowly",
+    "root": "و-ض-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0605",
+    "arabic": "اتَّعَدَ",
+    "english": "to make an appointment",
+    "root": "و-ع-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0606",
+    "arabic": "أَجَاءَ",
+    "english": "to bring, to drive to",
+    "root": "ج-ي-أ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0607",
+    "arabic": "اِجْتَعَلَ",
+    "english": "to take, to adopt",
+    "root": "ج-ع-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0608",
+    "arabic": "اِجْتِمَاع",
+    "english": "gathering, meeting, assembly",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0609",
+    "arabic": "اجْتَمَعَ",
+    "english": "to gather, to get together",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0610",
+    "arabic": "اِجْتَمَعَ",
+    "english": "to gather (intransitive), assemble, meet",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0611",
+    "arabic": "أَجْرَى",
+    "english": "to make flow, to run",
+    "root": "ج-ر-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0612",
+    "arabic": "إِجْلَاس",
+    "english": "seating, making sit",
+    "root": "ج-ل-س",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0613",
+    "arabic": "أَجْلَسَ",
+    "english": "to seat, make sit",
+    "root": "ج-ل-س",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0614",
+    "arabic": "احْتَجَّ",
+    "english": "to argue, to present evidence",
+    "root": "ح-ج-ج",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0615",
+    "arabic": "اِحْتَسَبَ",
+    "english": "to reckon, to expect reward from Allah",
+    "root": "ح-س-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0616",
+    "arabic": "اِحْتَشَرَ",
+    "english": "to assemble, to gather together",
+    "root": "ح-ش-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0617",
+    "arabic": "اِحْتَمَلَ",
+    "english": "to bear, to endure, to tolerate",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0618",
+    "arabic": "أَخْذ",
+    "english": "taking, seizing",
+    "root": "أ-خ-ذ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0619",
+    "arabic": "إِخْرَاج",
+    "english": "bringing out, expulsion, production",
+    "root": "خ-ر-ج",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0620",
+    "arabic": "أَخْرَجَ",
+    "english": "he brought out, expelled, produced",
+    "root": "خ-ر-ج",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0621",
+    "arabic": "أَخَفّ",
+    "english": "lighter, easier",
+    "root": "خ-ف-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0622",
+    "arabic": "إِدْخَال",
+    "english": "admission, insertion",
+    "root": "د-خ-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0623",
+    "arabic": "اِذَّكَرَ",
+    "english": "to recall, to recollect",
+    "root": "ذ-ك-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0624",
+    "arabic": "اِرْتَفَعَ",
+    "english": "to rise, to be elevated",
+    "root": "ر-ف-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0625",
+    "arabic": "اِرْتَمَى",
+    "english": "to throw oneself",
+    "root": "ر-م-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0626",
+    "arabic": "إِرْسَال",
+    "english": "sending, dispatching",
+    "root": "ر-س-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0627",
+    "arabic": "أَرْسَلَ",
+    "english": "he sent, dispatched",
+    "root": "ر-س-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0628",
+    "arabic": "أَرْضَى",
+    "english": "to please, to satisfy",
+    "root": "ر-ض-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0629",
+    "arabic": "أَرَى",
+    "english": "to show",
+    "root": "ر-أ-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0630",
+    "arabic": "أَزَلَّ",
+    "english": "to cause to slip, to mislead",
+    "root": "ز-ل-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0631",
+    "arabic": "اِسْتِجَابَة",
+    "english": "response (to prayer), answering",
+    "root": "ج-و-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0632",
+    "arabic": "اِسْتَحَقَّ",
+    "english": "to deserve, to be entitled to",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0633",
+    "arabic": "اِسْتَخَفَّ",
+    "english": "to consider light, to take lightly",
+    "root": "خ-ف-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0634",
+    "arabic": "اِسْتِشْهَاد",
+    "english": "martyrdom, citing as evidence",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0635",
+    "arabic": "اِسْتَشْهَدَ",
+    "english": "he called as witness, was martyred",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0636",
+    "arabic": "اِسْتِعَانَة",
+    "english": "seeking help",
+    "root": "ع-و-ن",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0637",
+    "arabic": "اِسْتَعْلَى",
+    "english": "to rise above, to overcome",
+    "root": "ع-ل-و",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0638",
+    "arabic": "اِسْتَعْمَلَ",
+    "english": "to use, to employ",
+    "root": "ع-م-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0639",
+    "arabic": "اِسْتَفَرَّ",
+    "english": "to make flee, to frighten away",
+    "root": "ف-ر-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0640",
+    "arabic": "اِسْتِقْبَال",
+    "english": "reception, facing, welcome",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0641",
+    "arabic": "اِسْتَقْبَلَ",
+    "english": "he faced, received, welcomed",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0642",
+    "arabic": "اِسْتَقَرَّ",
+    "english": "to settle, to be established",
+    "root": "ق-ر-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0643",
+    "arabic": "اِسْتِقْرَار",
+    "english": "stability, settlement",
+    "root": "ق-ر-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0644",
+    "arabic": "اسْتَكْبَرَ",
+    "english": "to be arrogant, to act proudly",
+    "root": "ك-ب-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0645",
+    "arabic": "اِسْتَكْبَرَ",
+    "english": "to act arrogantly",
+    "root": "ك-ب-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0646",
+    "arabic": "اِسْتَمَرَّ",
+    "english": "to continue, to persist",
+    "root": "م-ر-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0647",
+    "arabic": "اسْتَمَعَ",
+    "english": "to listen",
+    "root": "س-م-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0648",
+    "arabic": "اسْتَنْصَرَ",
+    "english": "to seek help",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0649",
+    "arabic": "اِسْتَنْفَعَ",
+    "english": "to seek benefit",
+    "root": "ن-ف-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0650",
+    "arabic": "اسْتَهْدَى",
+    "english": "to seek guidance",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0651",
+    "arabic": "اِسْتَيْأَسَ",
+    "english": "to give up hope completely",
+    "root": "ي-أ-س",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0652",
+    "arabic": "إِسْرَار",
+    "english": "concealment, secrecy",
+    "root": "س-ر-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0653",
+    "arabic": "اِشْتَدَّ",
+    "english": "to become strong, to intensify",
+    "root": "ش-د-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0654",
+    "arabic": "أَشْهَدَ",
+    "english": "he made witness, called to witness",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0655",
+    "arabic": "اِضْطِرَاب",
+    "english": "agitation, disturbance",
+    "root": "ض-ر-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0656",
+    "arabic": "اِضْطَرَبَ",
+    "english": "to be agitated, to be disturbed",
+    "root": "ض-ر-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0657",
+    "arabic": "إِضْلَال",
+    "english": "leading astray, misguidance",
+    "root": "ض-ل-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0658",
+    "arabic": "اِعْتِدَال",
+    "english": "moderation, balance, uprightness",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0659",
+    "arabic": "إِعْدَاد",
+    "english": "preparation",
+    "root": "ع-د-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0660",
+    "arabic": "أَعْلَمَ",
+    "english": "to inform, to notify",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0661",
+    "arabic": "اِغْتَرَّ",
+    "english": "to be deceived, to be deluded",
+    "root": "غ-ر-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0662",
+    "arabic": "اِفْتِتَاح",
+    "english": "beginning, inauguration, opening",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0663",
+    "arabic": "افْتَتَحَ",
+    "english": "to inaugurate, to begin",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0664",
+    "arabic": "اِفْتَتَحَ",
+    "english": "he began, inaugurated, opened",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0665",
+    "arabic": "افْتَرَقَ",
+    "english": "to separate, to part ways",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0666",
+    "arabic": "اِفْتَرَقَ",
+    "english": "they separated, parted",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0667",
+    "arabic": "افْتَعَلَ",
+    "english": "to fabricate, to invent",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0668",
+    "arabic": "أَقَامَ",
+    "english": "he established, set up, performed (prayer)",
+    "root": "ق-و-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0669",
+    "arabic": "إِقَامَة",
+    "english": "establishment, performance (of prayer); residence",
+    "root": "ق-و-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0670",
+    "arabic": "اِقْتَتَلَ",
+    "english": "to fight each other",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0671",
+    "arabic": "اقْتَدَرَ",
+    "english": "to have full power, to be omnipotent",
+    "root": "ق-د-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0672",
+    "arabic": "أَقْرَأَ",
+    "english": "to make read, to recite to",
+    "root": "ق-ر-أ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0673",
+    "arabic": "أَكْبَرَ",
+    "english": "to regard as great, to be amazed at",
+    "root": "ك-ب-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0674",
+    "arabic": "اكْتَتَبَ",
+    "english": "to copy, to transcribe",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0675",
+    "arabic": "اِكْتِسَاب",
+    "english": "earning, acquisition",
+    "root": "ك-س-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0676",
+    "arabic": "إِكْرَام",
+    "english": "honoring, generous treatment",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0677",
+    "arabic": "أَكْرَم",
+    "english": "most noble, most generous",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0678",
+    "arabic": "أَكْرَمَ",
+    "english": "he honored, was generous to",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0679",
+    "arabic": "إِلْقَاء",
+    "english": "throwing, casting, delivering",
+    "root": "ل-ق-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0680",
+    "arabic": "أَمَاتَ",
+    "english": "he caused to die, put to death",
+    "root": "م-و-ت",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0681",
+    "arabic": "اِمْتَدَّ",
+    "english": "to extend, to stretch out",
+    "root": "م-د-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0682",
+    "arabic": "اِمْتِدَاد",
+    "english": "extension, span",
+    "root": "م-د-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0683",
+    "arabic": "أَمِنَ",
+    "english": "to be safe, to feel secure",
+    "root": "أ-م-ن",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0684",
+    "arabic": "أَمِين",
+    "english": "trustworthy, faithful, reliable",
+    "root": "أ-م-ن",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0685",
+    "arabic": "اِنْبِعَاث",
+    "english": "emission, emanation",
+    "root": "ب-ع-ث",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0686",
+    "arabic": "اِنْبَعَثَ",
+    "english": "to be sent forth, to rush out",
+    "root": "ب-ع-ث",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0687",
+    "arabic": "اِنْتِصَار",
+    "english": "victory, triumph",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0688",
+    "arabic": "انْتَصَرَ",
+    "english": "to be victorious, to triumph",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0689",
+    "arabic": "اِنْتَفَعَ",
+    "english": "to benefit from, to derive benefit",
+    "root": "ن-ف-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0690",
+    "arabic": "إِنْزَال",
+    "english": "sending down, revelation",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0691",
+    "arabic": "اِنْفَتَحَ",
+    "english": "it opened, was opened (intransitive)",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0692",
+    "arabic": "انْفَعَلَ",
+    "english": "to be affected, to react emotionally",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0693",
+    "arabic": "اِنْفَكَّ",
+    "english": "to cease, to stop, to be released",
+    "root": "ف-ك-ك",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0694",
+    "arabic": "اِهْتَمَّ",
+    "english": "to be concerned, to care about",
+    "root": "ه-م-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0695",
+    "arabic": "اِهْتِمَام",
+    "english": "concern, interest, attention",
+    "root": "ه-م-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0696",
+    "arabic": "أَهْدَى",
+    "english": "to give as a present, to offer as a gift",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0697",
+    "arabic": "أَوْجَدَ",
+    "english": "he brought into existence, created",
+    "root": "و-ج-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0698",
+    "arabic": "أَوْرَثَ",
+    "english": "to give as inheritance, to bequeath",
+    "root": "و-ر-ث",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0699",
+    "arabic": "أَوْصَلَ",
+    "english": "to deliver, to convey",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0700",
+    "arabic": "أَوْعَدَ",
+    "english": "he threatened, promised (evil)",
+    "root": "و-ع-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0701",
+    "arabic": "أَوْقَعَ",
+    "english": "to cause to fall, to inflict",
+    "root": "و-ق-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0702",
+    "arabic": "أَوْهَبَ",
+    "english": "to make grant, to give freely",
+    "root": "و-ه-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0703",
+    "arabic": "إِيجَاد",
+    "english": "bringing into existence, creation",
+    "root": "و-ج-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0704",
+    "arabic": "أَيْسَر",
+    "english": "easier",
+    "root": "ي-س-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0705",
+    "arabic": "أَيْقَظَ",
+    "english": "to awaken, to wake up",
+    "root": "ي-ق-ظ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0706",
+    "arabic": "بَاعَدَ",
+    "english": "to go far from, to separate",
+    "root": "ب-ع-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0707",
+    "arabic": "بَانٍ",
+    "english": "builder, constructor",
+    "root": "ب-ن-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0708",
+    "arabic": "بَايَعَ",
+    "english": "to pledge allegiance, to make a contract",
+    "root": "ب-ي-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0709",
+    "arabic": "بَصَّرَ",
+    "english": "to make see, to enlighten",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0710",
+    "arabic": "بَعَّدَ",
+    "english": "to make distant, to remove",
+    "root": "ب-ع-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0711",
+    "arabic": "بُغْيَة",
+    "english": "desire, goal, objective",
+    "root": "ب-غ-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0712",
+    "arabic": "بَلِيَ",
+    "english": "to wear out, to become old",
+    "root": "ب-ل-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0713",
+    "arabic": "بَلِيغ",
+    "english": "eloquent, effective",
+    "root": "ب-ل-غ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0714",
+    "arabic": "بَنَى",
+    "english": "to build, construct",
+    "root": "ب-ن-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0715",
+    "arabic": "بُنْيَان",
+    "english": "structure, edifice, building",
+    "root": "ب-ن-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0716",
+    "arabic": "بَيْعَة",
+    "english": "pledge of allegiance",
+    "root": "ب-ي-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0717",
+    "arabic": "تَآمَرَ",
+    "english": "to plot, to conspire",
+    "root": "أ-م-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0718",
+    "arabic": "تَبَصَّرَ",
+    "english": "to look attentively, to reflect",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0719",
+    "arabic": "تَحَابَّ",
+    "english": "to love one another",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0720",
+    "arabic": "تَحَرَّمَ",
+    "english": "to regard as sacred",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0721",
+    "arabic": "تَحْقِيق",
+    "english": "verification, realization, investigation",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0722",
+    "arabic": "تَحْكِيم",
+    "english": "arbitration, making someone judge",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0723",
+    "arabic": "تَحَمَّلَ",
+    "english": "to endure, to bear",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0724",
+    "arabic": "تَحْمِيل",
+    "english": "loading, burdening",
+    "root": "ح-م-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0725",
+    "arabic": "تَخَشَّى",
+    "english": "to be in awe, to fear greatly",
+    "root": "خ-ش-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0726",
+    "arabic": "تَخْفِيف",
+    "english": "lightening, easing",
+    "root": "خ-ف-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0727",
+    "arabic": "تَخَوَّفَ",
+    "english": "to be fearful, to diminish gradually",
+    "root": "خ-و-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0728",
+    "arabic": "تَخْوِيف",
+    "english": "frightening, intimidation",
+    "root": "خ-و-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0729",
+    "arabic": "تَدَاخَلَ",
+    "english": "to overlap, to intermingle",
+    "root": "د-خ-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0730",
+    "arabic": "تَرَاءَى",
+    "english": "to see each other, to appear",
+    "root": "ر-أ-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0731",
+    "arabic": "تَرَاضَى",
+    "english": "to agree mutually, to come to terms",
+    "root": "ر-ض-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0732",
+    "arabic": "تَسَاءَلَ",
+    "english": "to ask one another",
+    "root": "س-أ-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0733",
+    "arabic": "تَصَالَحَ",
+    "english": "to make peace with each other",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0734",
+    "arabic": "تَصْدِيق",
+    "english": "confirmation, belief, ratification",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0735",
+    "arabic": "تَصَلَّى",
+    "english": "to burn in fire, to be roasted",
+    "root": "ص-ل-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0736",
+    "arabic": "تَطَوُّع",
+    "english": "volunteering, voluntary act",
+    "root": "ط-و-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0737",
+    "arabic": "تَعَارَفَ",
+    "english": "to know each other",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0738",
+    "arabic": "تَعَذَّبَ",
+    "english": "to be tortured, to suffer torment",
+    "root": "ع-ذ-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0739",
+    "arabic": "تَعْذِيب",
+    "english": "punishing, tormenting",
+    "root": "ع-ذ-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0740",
+    "arabic": "تَعَرَّفَ",
+    "english": "to get to know, to become acquainted",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0741",
+    "arabic": "تَعْرِيف",
+    "english": "introduction, definition",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0742",
+    "arabic": "تَعْلِيم",
+    "english": "teaching, education",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0743",
+    "arabic": "تَغَافَرَ",
+    "english": "to forgive one another",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0744",
+    "arabic": "تَفَاعَلَ",
+    "english": "to interact with one another",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0745",
+    "arabic": "تَفَتَّحَ",
+    "english": "to open gradually, to blossom",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0746",
+    "arabic": "تَفَرَّقَ",
+    "english": "they dispersed, scattered",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0747",
+    "arabic": "تَفْرِيق",
+    "english": "separation, division",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0748",
+    "arabic": "تَقَابَلَ",
+    "english": "to face one another",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0749",
+    "arabic": "تَقَبُّل",
+    "english": "gracious acceptance",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0750",
+    "arabic": "تَقَوَّمَ",
+    "english": "to be evaluated, to be straightened",
+    "root": "ق-و-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0751",
+    "arabic": "تَكَاتَبَ",
+    "english": "to correspond with one another",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0752",
+    "arabic": "تَكْذِيب",
+    "english": "denial, rejection, calling false",
+    "root": "ك-ذ-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0753",
+    "arabic": "تَكَرَّمَ",
+    "english": "to be gracious, to show generosity",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0754",
+    "arabic": "تَكْرِيم",
+    "english": "honoring, showing respect",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0755",
+    "arabic": "تَلَاعَنَ",
+    "english": "to curse each other",
+    "root": "ل-ع-ن",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0756",
+    "arabic": "تَمَاسَّ",
+    "english": "to touch each other",
+    "root": "م-س-س",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0757",
+    "arabic": "تَمَاوَتَ",
+    "english": "to pretend to be dead",
+    "root": "م-و-ت",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0758",
+    "arabic": "تَمَشَّى",
+    "english": "to stroll, to walk around",
+    "root": "م-ش-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0759",
+    "arabic": "تَمَلَّكَ",
+    "english": "to take possession of",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0760",
+    "arabic": "تَنَاسَى",
+    "english": "to pretend to forget",
+    "root": "ن-س-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0761",
+    "arabic": "تَنَاصَرَ",
+    "english": "to help one another",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0762",
+    "arabic": "تَنَزَّلَ",
+    "english": "to descend gradually",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0763",
+    "arabic": "تَنْوِير",
+    "english": "illumination, enlightening",
+    "root": "ن-و-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0764",
+    "arabic": "تَهَادَى",
+    "english": "to exchange gifts",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0765",
+    "arabic": "تَوَاجَدَ",
+    "english": "to be present together",
+    "root": "و-ج-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0766",
+    "arabic": "تَوَاصَلَ",
+    "english": "to communicate with each other, to be connected",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0767",
+    "arabic": "تَوَاضُع",
+    "english": "humility",
+    "root": "و-ض-ع",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0768",
+    "arabic": "تَوَاعَدَ",
+    "english": "to make an appointment with each other",
+    "root": "و-ع-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0769",
+    "arabic": "تَوَّبَ",
+    "english": "to cause to repent",
+    "root": "ت-و-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0770",
+    "arabic": "تَوْصِيل",
+    "english": "connecting, delivering, conveyance",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0771",
+    "arabic": "تَوَعَّدَ",
+    "english": "he threatened",
+    "root": "و-ع-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0772",
+    "arabic": "تَيْسِير",
+    "english": "facilitation, making easy",
+    "root": "ي-س-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0773",
+    "arabic": "جَابَ",
+    "english": "to traverse, to cut through",
+    "root": "ج-و-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0774",
+    "arabic": "جَلْسَة",
+    "english": "session, sitting",
+    "root": "ج-ل-س",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0775",
+    "arabic": "جَلِيس",
+    "english": "companion, one who sits with",
+    "root": "ج-ل-س",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0776",
+    "arabic": "حَافَظَ",
+    "english": "to preserve, to maintain, to guard",
+    "root": "ح-ف-ظ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0777",
+    "arabic": "حَاكِم",
+    "english": "judge, ruler, governor",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0778",
+    "arabic": "حَامِد",
+    "english": "praiser, one who praises",
+    "root": "ح-م-د",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0779",
+    "arabic": "حَبَّبَ",
+    "english": "to make beloved, to endear",
+    "root": "ح-ب-ب",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0780",
+    "arabic": "حُجَّة",
+    "english": "argument, proof, evidence",
+    "root": "ح-ج-ج",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0781",
+    "arabic": "حَسُنَ",
+    "english": "to be good, to be beautiful",
+    "root": "ح-س-ن",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0782",
+    "arabic": "حَفَظَة",
+    "english": "guardians (angels)",
+    "root": "ح-ف-ظ",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0783",
+    "arabic": "حَقَّقَ",
+    "english": "to verify, to realize, to achieve",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0784",
+    "arabic": "حَقِيق",
+    "english": "worthy, deserving",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0785",
+    "arabic": "حَكَمَ",
+    "english": "he judged, ruled, decided",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0786",
+    "arabic": "حَكَّمَ",
+    "english": "he appointed as judge, made rule",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0787",
+    "arabic": "حُكْم",
+    "english": "judgment, ruling, wisdom, authority",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0788",
+    "arabic": "حُكْم",
+    "english": "ruling, judgment, wisdom",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0789",
+    "arabic": "حِكْمَة",
+    "english": "wisdom, sagacity",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0790",
+    "arabic": "حُكُومَة",
+    "english": "government, rule",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0791",
+    "arabic": "خُرُوج",
+    "english": "going out, exit, emergence",
+    "root": "خ-ر-ج",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0792",
+    "arabic": "خَسَّرَ",
+    "english": "to cause loss, to make lose",
+    "root": "خ-س-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0793",
+    "arabic": "خَسِير",
+    "english": "losing, in loss",
+    "root": "خ-س-ر",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0794",
+    "arabic": "خَلَّاق",
+    "english": "the Supreme Creator; one of Allah's names",
+    "root": "خ-ل-ق",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0795",
+    "arabic": "خَوَّفَ",
+    "english": "to frighten, to make afraid",
+    "root": "خ-و-ف",
+    "lesson": "sarf-u3",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0796",
+    "arabic": "خِيفَة",
+    "english": "fear, apprehension",
+    "root": "خ-و-ف",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0797",
+    "arabic": "دَاعٍ",
+    "english": "caller, one who calls, preacher",
+    "root": "د-ع-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0798",
+    "arabic": "دَخَّلَ",
+    "english": "to cause to enter, to insert",
+    "root": "د-خ-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0799",
+    "arabic": "دَعَا",
+    "english": "he called, invoked, prayed, invited",
+    "root": "د-ع-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0800",
+    "arabic": "رَاءَى",
+    "english": "to show off, to act hypocritically",
+    "root": "ر-أ-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0801",
+    "arabic": "رَبَا",
+    "english": "to grow, to increase",
+    "root": "ر-ب-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0802",
+    "arabic": "رَبْوَة",
+    "english": "elevated land, hill",
+    "root": "ر-ب-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0803",
+    "arabic": "رِسَالَة",
+    "english": "message, letter, mission",
+    "root": "ر-س-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0804",
+    "arabic": "رَفَّعَ",
+    "english": "to raise high, to exalt",
+    "root": "ر-ف-ع",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0805",
+    "arabic": "رُكَّاب",
+    "english": "riders, passengers",
+    "root": "ر-ك-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0806",
+    "arabic": "زَكَا",
+    "english": "to be pure, to grow",
+    "root": "ز-ك-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0807",
+    "arabic": "زَلَّ",
+    "english": "to slip, to make a mistake",
+    "root": "ز-ل-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0808",
+    "arabic": "زَلَل",
+    "english": "slipping, error",
+    "root": "ز-ل-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0809",
+    "arabic": "سُؤَال",
+    "english": "question, inquiry, request",
+    "root": "س-أ-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0810",
+    "arabic": "سَائِل",
+    "english": "questioner, beggar, one who asks",
+    "root": "س-أ-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0811",
+    "arabic": "سَأَلَ",
+    "english": "he asked, questioned, requested",
+    "root": "س-أ-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0812",
+    "arabic": "سَرِيرَة",
+    "english": "inner self, conscience",
+    "root": "س-ر-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0813",
+    "arabic": "سَيَّرَ",
+    "english": "to make travel, to send forth",
+    "root": "س-ي-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0814",
+    "arabic": "شَاقَّ",
+    "english": "to oppose, to act adversely",
+    "root": "ش-ق-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0815",
+    "arabic": "شَاكِر",
+    "english": "grateful one, one who thanks",
+    "root": "ش-ك-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0816",
+    "arabic": "شَدَّدَ",
+    "english": "to strengthen greatly, to intensify",
+    "root": "ش-د-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0817",
+    "arabic": "شِقَاق",
+    "english": "opposition, discord, dissension",
+    "root": "ش-ق-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0818",
+    "arabic": "شَكُور",
+    "english": "very grateful, most appreciative",
+    "root": "ش-ك-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0819",
+    "arabic": "شُهُود",
+    "english": "witnesses (plural)",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0820",
+    "arabic": "صَابِر",
+    "english": "patient one, one who endures",
+    "root": "ص-ب-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0821",
+    "arabic": "صَبُور",
+    "english": "most patient, ever-forbearing; one of Allah's names",
+    "root": "ص-ب-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0822",
+    "arabic": "صَدَّدَ",
+    "english": "to aim, to direct",
+    "root": "ص-د-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0823",
+    "arabic": "صَدَّقَ",
+    "english": "he confirmed as true, believed",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0824",
+    "arabic": "صِدِّيق",
+    "english": "most truthful, one who confirms truth",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0825",
+    "arabic": "صِلَة",
+    "english": "connection, bond, link; kinship",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0826",
+    "arabic": "صَلَّحَ",
+    "english": "to repair, to mend",
+    "root": "ص-ل-ح",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0827",
+    "arabic": "ضَرَّبَ",
+    "english": "to strike repeatedly",
+    "root": "ض-ر-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0828",
+    "arabic": "ضَلَّلَ",
+    "english": "to lead astray",
+    "root": "ض-ل-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0829",
+    "arabic": "ضَلِيل",
+    "english": "deeply misguided",
+    "root": "ض-ل-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0830",
+    "arabic": "ضَمَّ",
+    "english": "to join, to embrace, to draw together",
+    "root": "ض-م-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0831",
+    "arabic": "ضَمّ",
+    "english": "joining, embracing",
+    "root": "ض-م-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0832",
+    "arabic": "طَاعَ",
+    "english": "to obey",
+    "root": "ط-و-ع",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0833",
+    "arabic": "طَوْع",
+    "english": "willingness, voluntary",
+    "root": "ط-و-ع",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0834",
+    "arabic": "ظُلْم",
+    "english": "oppression, injustice, wrongdoing",
+    "root": "ظ-ل-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0835",
+    "arabic": "ظَلُوم",
+    "english": "very unjust, habitually oppressive",
+    "root": "ظ-ل-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0836",
+    "arabic": "عَائِذ",
+    "english": "one who seeks refuge",
+    "root": "ع-و-ذ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0837",
+    "arabic": "عَابِد",
+    "english": "worshipper, devout person",
+    "root": "ع-ب-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0838",
+    "arabic": "عَادَلَ",
+    "english": "to equal, to be equivalent to",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0839",
+    "arabic": "عَامَلَ",
+    "english": "to deal with, to treat",
+    "root": "ع-م-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0840",
+    "arabic": "عَدَالَة",
+    "english": "justice, uprightness, integrity",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0841",
+    "arabic": "عَدَّدَ",
+    "english": "to count repeatedly, to enumerate",
+    "root": "ع-د-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0842",
+    "arabic": "عَدَّلَ",
+    "english": "to adjust, to make straight",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0843",
+    "arabic": "عَذَّبَ",
+    "english": "he punished, tormented, tortured",
+    "root": "ع-ذ-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0844",
+    "arabic": "عَذْب",
+    "english": "sweet, fresh (water)",
+    "root": "ع-ذ-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0845",
+    "arabic": "عَرَّفَ",
+    "english": "to make known, to introduce",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0846",
+    "arabic": "عُرْف",
+    "english": "custom, tradition, good",
+    "root": "ع-ر-ف",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0847",
+    "arabic": "عَلَّمَ",
+    "english": "he taught",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0848",
+    "arabic": "عَمِيل",
+    "english": "agent, client",
+    "root": "ع-م-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0849",
+    "arabic": "عِيَاذ",
+    "english": "seeking refuge, protection",
+    "root": "ع-و-ذ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0850",
+    "arabic": "عَيَّشَ",
+    "english": "to keep alive, to provide livelihood",
+    "root": "ع-ي-ش",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0851",
+    "arabic": "غَارّ",
+    "english": "one who deceives, deceiver",
+    "root": "غ-ر-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0852",
+    "arabic": "غَافَرَ",
+    "english": "to seek forgiveness from, to forgive mutually",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0853",
+    "arabic": "غَافِر",
+    "english": "forgiver, one who forgives",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0854",
+    "arabic": "غَفَّار",
+    "english": "repeatedly forgiving, ever-forgiving",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0855",
+    "arabic": "فَاتِح",
+    "english": "opener, conqueror; one of Allah's names",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0856",
+    "arabic": "فَارَقَ",
+    "english": "to part from, to leave",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0857",
+    "arabic": "فَاعَلَ",
+    "english": "to interact with, to act with",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0858",
+    "arabic": "فَتَّاح",
+    "english": "the Opener, the Judge (intensive)",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0859",
+    "arabic": "فَتَّحَ",
+    "english": "to open wide, to fling open",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0860",
+    "arabic": "فَرَّقَ",
+    "english": "he separated, divided, distinguished",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0861",
+    "arabic": "فِرْقَة",
+    "english": "sect, group, party",
+    "root": "ف-ر-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0862",
+    "arabic": "فَعَّال",
+    "english": "one who does much, effective, active",
+    "root": "ف-ع-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0863",
+    "arabic": "فَكَّ",
+    "english": "to release, to free, to untie",
+    "root": "ف-ك-ك",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0864",
+    "arabic": "فَكّ",
+    "english": "releasing, freeing",
+    "root": "ف-ك-ك",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0865",
+    "arabic": "فِكَاك",
+    "english": "ransom, redemption",
+    "root": "ف-ك-ك",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0866",
+    "arabic": "قَائِم",
+    "english": "standing, upright; existing",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0867",
+    "arabic": "قَابِل",
+    "english": "accepting, receiver; capable",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0868",
+    "arabic": "قَامَ",
+    "english": "he stood, rose, established",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0869",
+    "arabic": "قَاوَمَ",
+    "english": "to resist, to oppose",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0870",
+    "arabic": "قَبُول",
+    "english": "acceptance, reception",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0871",
+    "arabic": "قَبِيلَة",
+    "english": "tribe",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0872",
+    "arabic": "قَتَّلَ",
+    "english": "to massacre, to kill many",
+    "root": "ق-ت-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0873",
+    "arabic": "قَدَرَ",
+    "english": "to have power, to decree, to measure",
+    "root": "ق-د-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0874",
+    "arabic": "قَرَّأَ",
+    "english": "to teach reading, to make recite",
+    "root": "ق-ر-أ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0875",
+    "arabic": "قَرَّرَ",
+    "english": "to decide, to establish",
+    "root": "ق-ر-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0876",
+    "arabic": "قَوَّامَ",
+    "english": "caretaker, protector, maintainer",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0877",
+    "arabic": "قَوَّمَ",
+    "english": "to straighten, to correct, to evaluate",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0878",
+    "arabic": "قِيَام",
+    "english": "standing, rising; resurrection",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0879",
+    "arabic": "قَيِّم",
+    "english": "straight, correct, valuable",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0880",
+    "arabic": "كَاتَبَ",
+    "english": "to correspond with",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0881",
+    "arabic": "كَبُرَ",
+    "english": "to become big, to become old",
+    "root": "ك-ب-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0882",
+    "arabic": "كَتَّبَ",
+    "english": "to make write, to dictate",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0883",
+    "arabic": "كَثَّرَ",
+    "english": "to multiply, to increase",
+    "root": "ك-ث-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0884",
+    "arabic": "كَذَّابَ",
+    "english": "great liar, habitual liar",
+    "root": "ك-ذ-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0885",
+    "arabic": "كَذَّبَ",
+    "english": "he denied, rejected as false, called a liar",
+    "root": "ك-ذ-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0886",
+    "arabic": "كَرَم",
+    "english": "generosity, nobility",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0887",
+    "arabic": "كَرَّمَ",
+    "english": "he honored greatly, ennobled",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0888",
+    "arabic": "كَرُمَ",
+    "english": "he was noble, generous",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0889",
+    "arabic": "كُرْه",
+    "english": "reluctant, unwilling",
+    "root": "ك-ر-ه",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0890",
+    "arabic": "كَسَّبَ",
+    "english": "to make earn, to give profit",
+    "root": "ك-س-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0891",
+    "arabic": "كَفَّارَة",
+    "english": "expiation, atonement",
+    "root": "ك-ف-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0892",
+    "arabic": "كَفَّرَ",
+    "english": "to expiate, to atone for",
+    "root": "ك-ف-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0893",
+    "arabic": "كَفُور",
+    "english": "very ungrateful, extremely denying",
+    "root": "ك-ف-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0894",
+    "arabic": "لَاقَى",
+    "english": "to meet, to encounter",
+    "root": "ل-ق-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0895",
+    "arabic": "مُؤَاخَذَة",
+    "english": "holding accountable, blaming",
+    "root": "أ-خ-ذ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0896",
+    "arabic": "مَأْخُوذ",
+    "english": "taken, seized",
+    "root": "أ-خ-ذ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0897",
+    "arabic": "مَأْكُول",
+    "english": "eaten, edible",
+    "root": "أ-ك-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0898",
+    "arabic": "مَأْمُور",
+    "english": "commanded, ordered",
+    "root": "أ-م-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0899",
+    "arabic": "مُبْتَلٍ",
+    "english": "one who tests, tester",
+    "root": "ب-ل-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0900",
+    "arabic": "مُبْتَلًى",
+    "english": "tested, afflicted",
+    "root": "ب-ل-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0901",
+    "arabic": "مُبْصِر",
+    "english": "seeing, giving sight",
+    "root": "ب-ص-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0902",
+    "arabic": "مَبْنِيّ",
+    "english": "built, constructed",
+    "root": "ب-ن-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0903",
+    "arabic": "مُتَّصِل",
+    "english": "connected, continuous",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0904",
+    "arabic": "مُتَعَالٍ",
+    "english": "the Exalted (name of Allah)",
+    "root": "ع-ل-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0905",
+    "arabic": "مَتْلُوّ",
+    "english": "recited, read",
+    "root": "ت-ل-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0906",
+    "arabic": "مُجْتَمَع",
+    "english": "society, community",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0907",
+    "arabic": "مُجْتَمِع",
+    "english": "assembling, gathering together",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0908",
+    "arabic": "مَجْرًى",
+    "english": "course, channel, flow",
+    "root": "ج-ر-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0909",
+    "arabic": "مَجْمُوع",
+    "english": "gathered, collected, total",
+    "root": "ج-م-ع",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0910",
+    "arabic": "مُحَافَظَة",
+    "english": "preservation, maintenance, protection",
+    "root": "ح-ف-ظ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0911",
+    "arabic": "مُحْتَسِب",
+    "english": "one who seeks reward from Allah",
+    "root": "ح-س-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0912",
+    "arabic": "مُحَرِّم",
+    "english": "one who forbids",
+    "root": "ح-ر-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0913",
+    "arabic": "مُحَكَّم",
+    "english": "precise, clear, firmly established",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0914",
+    "arabic": "مَحْكَمَة",
+    "english": "court (of law)",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0915",
+    "arabic": "مُحْيٍ",
+    "english": "life-giving, one who gives life",
+    "root": "ح-ي-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0916",
+    "arabic": "مُخْرَج",
+    "english": "brought out, expelled",
+    "root": "خ-ر-ج",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0917",
+    "arabic": "مَخْلُوق",
+    "english": "created being, creature",
+    "root": "خ-ل-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0918",
+    "arabic": "مَدَّدَ",
+    "english": "to extend greatly, to prolong",
+    "root": "م-د-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0919",
+    "arabic": "مَدْعُوّ",
+    "english": "called, invited",
+    "root": "د-ع-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0920",
+    "arabic": "مَرْئِيّ",
+    "english": "seen, visible",
+    "root": "ر-أ-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0921",
+    "arabic": "مَرْجُوّ",
+    "english": "hoped for, expected",
+    "root": "ر-ج-و",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0922",
+    "arabic": "مَرَّرَ",
+    "english": "to make pass, to pass something",
+    "root": "م-ر-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0923",
+    "arabic": "مَرْزُوق",
+    "english": "provided for, sustained",
+    "root": "ر-ز-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0924",
+    "arabic": "مُرْسَل",
+    "english": "sent, dispatched; messenger",
+    "root": "ر-س-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0925",
+    "arabic": "مَرْكَب",
+    "english": "vehicle, ship",
+    "root": "ر-ك-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0926",
+    "arabic": "مَزَلَّة",
+    "english": "slippery place, place of error",
+    "root": "ز-ل-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0927",
+    "arabic": "مَسْأَلَة",
+    "english": "question, issue, matter",
+    "root": "س-أ-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0928",
+    "arabic": "مَسْؤُول",
+    "english": "responsible, accountable; asked",
+    "root": "س-أ-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0929",
+    "arabic": "مُسْتَحِقّ",
+    "english": "deserving, entitled",
+    "root": "ح-ق-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0930",
+    "arabic": "مُسْتَقِرّ",
+    "english": "settled, stable",
+    "root": "ق-ر-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0931",
+    "arabic": "مُشَاقّ",
+    "english": "one who opposes",
+    "root": "ش-ق-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0932",
+    "arabic": "مَشْكُور",
+    "english": "appreciated, thanked",
+    "root": "ش-ك-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0933",
+    "arabic": "مَشْهَد",
+    "english": "scene, spectacle, place of witness",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0934",
+    "arabic": "مَشْهُود",
+    "english": "witnessed, attended",
+    "root": "ش-ه-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0935",
+    "arabic": "مُصَدِّق",
+    "english": "confirming, one who confirms",
+    "root": "ص-د-ق",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0936",
+    "arabic": "مُضِلّ",
+    "english": "one who leads astray, misleader",
+    "root": "ض-ل-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0937",
+    "arabic": "مَضْمُوم",
+    "english": "joined, embraced",
+    "root": "ض-م-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0938",
+    "arabic": "مَظْلُوم",
+    "english": "oppressed, wronged one",
+    "root": "ظ-ل-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0939",
+    "arabic": "مُعَامَلَة",
+    "english": "transaction, dealing, treatment",
+    "root": "ع-م-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0940",
+    "arabic": "مُعَدّ",
+    "english": "prepared, made ready",
+    "root": "ع-د-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0941",
+    "arabic": "مُعَذَّب",
+    "english": "punished, tormented",
+    "root": "ع-ذ-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0942",
+    "arabic": "مُعَذِّب",
+    "english": "punisher, one who punishes",
+    "root": "ع-ذ-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0943",
+    "arabic": "مَعْقُول",
+    "english": "reasonable, sensible",
+    "root": "ع-ق-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0944",
+    "arabic": "مُعَلَّم",
+    "english": "taught",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0945",
+    "arabic": "مُعَلِّم",
+    "english": "teacher",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0946",
+    "arabic": "مَعْلُوم",
+    "english": "known, established",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0947",
+    "arabic": "مَغْفُور",
+    "english": "forgiven",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0948",
+    "arabic": "مُقَابَلَة",
+    "english": "meeting, interview, encounter",
+    "root": "ق-ب-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0949",
+    "arabic": "مَقَام",
+    "english": "place, station, position, rank",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0950",
+    "arabic": "مُقِيم",
+    "english": "one who establishes; resident",
+    "root": "ق-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0951",
+    "arabic": "مُكَذِّب",
+    "english": "denier, one who rejects as false",
+    "root": "ك-ذ-ب",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0952",
+    "arabic": "مُكْرَم",
+    "english": "honored, treated with honor",
+    "root": "ك-ر-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0953",
+    "arabic": "مُلَاقٍ",
+    "english": "one who meets",
+    "root": "ل-ق-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0954",
+    "arabic": "مَلَّكَ",
+    "english": "to make owner, to give possession",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0955",
+    "arabic": "مَلَكُوت",
+    "english": "dominion, realm (heavens)",
+    "root": "م-ل-ك",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0956",
+    "arabic": "مُمِيت",
+    "english": "one who causes death; one of Allah's names",
+    "root": "م-و-ت",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0957",
+    "arabic": "مُنْتَهًى",
+    "english": "ultimate end, farthest limit",
+    "root": "ن-ه-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0958",
+    "arabic": "مَنْزِل",
+    "english": "dwelling place, station, rank",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0959",
+    "arabic": "مُنْزَل",
+    "english": "sent down, revealed",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0960",
+    "arabic": "مَنْصُور",
+    "english": "aided, victorious, helped",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0961",
+    "arabic": "مُنْعِم",
+    "english": "bestower of blessings",
+    "root": "ن-ع-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0962",
+    "arabic": "مَهْبِط",
+    "english": "place of descent, landing place",
+    "root": "ه-ب-ط",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0963",
+    "arabic": "مُهْتَدٍ",
+    "english": "guided, rightly-guided",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0964",
+    "arabic": "مُهْتَمّ",
+    "english": "concerned, interested",
+    "root": "ه-م-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0965",
+    "arabic": "مَوَّتَ",
+    "english": "to cause death",
+    "root": "م-و-ت",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0966",
+    "arabic": "مَوْعِد",
+    "english": "appointed time/place, promise",
+    "root": "و-ع-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0967",
+    "arabic": "مَوْعُود",
+    "english": "promised",
+    "root": "و-ع-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-0968",
+    "arabic": "مَيْسَرَة",
+    "english": "ease, prosperity",
+    "root": "ي-س-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0969",
+    "arabic": "مِيعَاد",
+    "english": "appointed time, appointment, rendezvous",
+    "root": "و-ع-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0970",
+    "arabic": "نَاصَرَ",
+    "english": "to support, to side with",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0971",
+    "arabic": "نَاصِر",
+    "english": "helper, supporter",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0972",
+    "arabic": "نَزَّلَ",
+    "english": "he sent down (gradually), revealed (in stages)",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0973",
+    "arabic": "نُزُول",
+    "english": "descending, coming down",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0974",
+    "arabic": "نَصَّرَ",
+    "english": "to make Christian, to Christianize",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0975",
+    "arabic": "نَصِير",
+    "english": "helper, protector (intensive)",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0976",
+    "arabic": "نَفِيع",
+    "english": "beneficial thing",
+    "root": "ن-ف-ع",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0977",
+    "arabic": "نَوَّمَ",
+    "english": "to put to sleep",
+    "root": "ن-و-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0978",
+    "arabic": "هَادٍ",
+    "english": "guide, one who guides",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0979",
+    "arabic": "هَدَّى",
+    "english": "to guide intensively",
+    "root": "ه-د-ي",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0980",
+    "arabic": "هِمَّة",
+    "english": "determination, ambition, zeal",
+    "root": "ه-م-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0981",
+    "arabic": "وَاجِد",
+    "english": "finder; rich (having found wealth)",
+    "root": "و-ج-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0982",
+    "arabic": "وَاصَلَ",
+    "english": "to connect, to persevere",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0983",
+    "arabic": "وَاصِل",
+    "english": "arriving, connector",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0984",
+    "arabic": "وَاعَدَ",
+    "english": "to make an appointment, to arrange to meet",
+    "root": "و-ع-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0985",
+    "arabic": "وَاعِد",
+    "english": "promiser, one who promises",
+    "root": "و-ع-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-0986",
+    "arabic": "وَجَّدَ",
+    "english": "to cause to find",
+    "root": "و-ج-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0987",
+    "arabic": "وَرَّثَ",
+    "english": "to make inherit, to bequeath",
+    "root": "و-ر-ث",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0988",
+    "arabic": "وَصَلَ",
+    "english": "he arrived, reached, connected",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0989",
+    "arabic": "وَصَّلَ",
+    "english": "to connect, deliver, convey",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0990",
+    "arabic": "وُصُول",
+    "english": "arrival, reaching, connection",
+    "root": "و-ص-ل",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0991",
+    "arabic": "وَعَدَ",
+    "english": "he promised",
+    "root": "و-ع-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0992",
+    "arabic": "وَعِيد",
+    "english": "threat, warning, promise of punishment",
+    "root": "و-ع-د",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-0993",
+    "arabic": "وَقَّعَ",
+    "english": "to sign, to make fall",
+    "root": "و-ق-ع",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0994",
+    "arabic": "يَابِس",
+    "english": "dry, withered",
+    "root": "ي-ب-س",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "adjective"
+  },
+  {
+    "id": "word-sarf-0995",
+    "arabic": "يَبَّسَ",
+    "english": "to make dry",
+    "root": "ي-ب-س",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0996",
+    "arabic": "يَبِسَ",
+    "english": "to be dry, to wither",
+    "root": "ي-ب-س",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-0997",
+    "arabic": "يُبْس",
+    "english": "dryness",
+    "root": "ي-ب-س",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0998",
+    "arabic": "يُتْم",
+    "english": "orphanhood, state of being orphan",
+    "root": "ي-ت-م",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-0999",
+    "arabic": "يَقِظَ",
+    "english": "to be awake, to be alert",
+    "root": "ي-ق-ظ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1000",
+    "arabic": "يَقْظَان",
+    "english": "awake, vigilant",
+    "root": "ي-ق-ظ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-1001",
+    "arabic": "يَقَظَة",
+    "english": "wakefulness, alertness",
+    "root": "ي-ق-ظ",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-1002",
+    "arabic": "يَقِنَ",
+    "english": "to be certain, to be sure",
+    "root": "ي-ق-ن",
+    "lesson": "sarf-u4",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1003",
+    "arabic": "اِئْتَمَرَ",
+    "english": "he consulted together, conspired",
+    "root": "أ-م-ر",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1004",
+    "arabic": "اتَّخَذَ",
+    "english": "he took (for oneself), adopted, made",
+    "root": "أ-خ-ذ",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1005",
+    "arabic": "اِحْتَكَمَ",
+    "english": "he sought judgment, appealed for judgment",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1006",
+    "arabic": "اِسْتَخْرَجَ",
+    "english": "he extracted, derived, brought out",
+    "root": "خ-ر-ج",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1007",
+    "arabic": "اسْتَدْعَى",
+    "english": "to summon, to call for",
+    "root": "د-ع-و",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1008",
+    "arabic": "اِسْتَسَارَ",
+    "english": "to seek to travel",
+    "root": "س-ي-ر",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1009",
+    "arabic": "اسْتَعْلَمَ",
+    "english": "to inquire, to seek information",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1010",
+    "arabic": "اِسْتِغْفَار",
+    "english": "seeking forgiveness",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-1011",
+    "arabic": "اِسْتَغْفَرَ",
+    "english": "he sought forgiveness",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1012",
+    "arabic": "اسْتَفْتَحَ",
+    "english": "to seek victory, to seek an opening",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1013",
+    "arabic": "اِسْتَفْتَحَ",
+    "english": "he sought victory/opening, began",
+    "root": "ف-ت-ح",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1014",
+    "arabic": "اسْتَقَامَ",
+    "english": "to be upright, to be straight",
+    "root": "ق-و-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1015",
+    "arabic": "اِسْتَقَامَ",
+    "english": "he was/became straight, upright",
+    "root": "ق-و-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1016",
+    "arabic": "اِسْتِقَامَة",
+    "english": "uprightness, straightness, integrity",
+    "root": "ق-و-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-1017",
+    "arabic": "اسْتَكْتَبَ",
+    "english": "to ask to write, to employ as scribe",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1018",
+    "arabic": "اسْتَمَاتَ",
+    "english": "to be desperate, to fight desperately",
+    "root": "م-و-ت",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1019",
+    "arabic": "اسْتَنْزَلَ",
+    "english": "to ask to send down",
+    "root": "ن-ز-ل",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1020",
+    "arabic": "اِسْتَنْصَرَ",
+    "english": "he sought help/victory",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1021",
+    "arabic": "اِصْطَبَرَ",
+    "english": "he persevered, was steadfastly patient",
+    "root": "ص-ب-ر",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1022",
+    "arabic": "اِعْتَدَلَ",
+    "english": "he was balanced, moderate, upright",
+    "root": "ع-د-ل",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1023",
+    "arabic": "اِكْتَتَبَ",
+    "english": "he copied, wrote down, subscribed",
+    "root": "ك-ت-ب",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1024",
+    "arabic": "اِنْتَصَرَ",
+    "english": "he sought victory, triumphed, took revenge",
+    "root": "ن-ص-ر",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1025",
+    "arabic": "تَعَلَّمَ",
+    "english": "he learned",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verb"
+  },
+  {
+    "id": "word-sarf-1026",
+    "arabic": "تَعَلُّم",
+    "english": "learning",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verbal noun"
+  },
+  {
+    "id": "word-sarf-1027",
+    "arabic": "عَلَّامَة",
+    "english": "great scholar, polymath",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "noun"
+  },
+  {
+    "id": "word-sarf-1028",
+    "arabic": "مُتَعَلِّم",
+    "english": "learner, student",
+    "root": "ع-ل-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-1029",
+    "arabic": "مُحْكَم",
+    "english": "precise, firmly established, unambiguous",
+    "root": "ح-ك-م",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "passive participle"
+  },
+  {
+    "id": "word-sarf-1030",
+    "arabic": "مُسْتَغْفِر",
+    "english": "one who seeks forgiveness",
+    "root": "غ-ف-ر",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "active participle"
+  },
+  {
+    "id": "word-sarf-1031",
+    "arabic": "وُجُود",
+    "english": "existence, being, finding",
+    "root": "و-ج-د",
+    "lesson": "sarf-u5",
+    "partOfSpeech": "verbal noun"
+  }
+]

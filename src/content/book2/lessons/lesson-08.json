@@ -1,0 +1,132 @@
+{
+  "id": "b2-l08",
+  "book": 2,
+  "lesson": 8,
+  "title": "اسْمُ الْمَفْعُول",
+  "titleEn": "Passive Participle",
+  "description": "Learn passive participles: مَكْتُوبٌ (written), مَفْتُوحٌ (opened), مَعْلُومٌ (known).",
+  "vocabulary": ["word-b2-037", "word-b2-038", "word-b2-039", "word-b2-040", "word-b2-041", "word-b2-042"],
+  "grammarPoints": ["gp-b2-008"],
+  "notes": [
+    {
+      "title": "Passive Participle (اسم المفعول)",
+      "titleArabic": "اسم المفعول",
+      "content": [
+        "The passive participle (اسم المفعول) is a noun derived from a verb that describes something that has had the action done to it. For Form I verbs (فَعَلَ), the pattern is مَفْعُول.",
+        "Passive participles describe the result or state of having undergone an action."
+      ],
+      "keyPoints": [
+        "Form I pattern: مَفْعُولٌ (e.g., مَكْتُوب from كَتَبَ)",
+        "Feminine form: مَفْعُولَة (e.g., مَكْتُوبَة)",
+        "Describes the receiver of the action, not the doer",
+        "Often translates as the English '-ed' form"
+      ],
+      "examples": [
+        { "arabic": "مَكْتُوبٌ", "english": "written" },
+        { "arabic": "مَفْتُوحٌ", "english": "opened" },
+        { "arabic": "مُغْلَقٌ", "english": "closed" },
+        { "arabic": "مَكْسُورٌ", "english": "broken" }
+      ]
+    },
+    {
+      "title": "Difference Between Active and Passive Participles",
+      "titleArabic": "الفرق بين اسم الفاعل واسم المفعول",
+      "content": [
+        "The active participle describes the doer, while the passive participle describes the object that received the action."
+      ],
+      "keyPoints": [
+        "كَاتِبٌ (active) = writer / one who writes",
+        "مَكْتُوبٌ (passive) = written / that which is written",
+        "فَاتِحٌ (active) = opener / one who opens",
+        "مَفْتُوحٌ (passive) = opened / that which is opened"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l08-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The door is opened",
+      "answer": "الْبَابُ مَفْتُوحٌ",
+      "itemIds": ["word-044", "word-b2-038"]
+    },
+    {
+      "id": "b2-l08-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "a written letter",
+      "answer": "رِسَالَةٌ مَكْتُوبَةٌ",
+      "itemIds": ["word-b2-043", "word-b2-037"]
+    },
+    {
+      "id": "b2-l08-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "The window is closed",
+      "answer": "النَّافِذَةُ مُغْلَقَةٌ",
+      "itemIds": ["word-038", "word-b2-039"]
+    },
+    {
+      "id": "b2-l08-ex04",
+      "type": "fill-blank",
+      "prompt": "الْكِتَابُ _____ عَلَى الطَّاوِلَةِ",
+      "promptEn": "The book is _____ on the table",
+      "answer": "مَوْضُوعٌ",
+      "itemIds": ["word-b2-040"]
+    },
+    {
+      "id": "b2-l08-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مَكْتُوبٌ",
+      "answer": "written",
+      "itemIds": ["word-b2-037"]
+    },
+    {
+      "id": "b2-l08-ex06",
+      "type": "word-to-meaning",
+      "prompt": "مَفْتُوحٌ",
+      "answer": "opened",
+      "itemIds": ["word-b2-038"]
+    },
+    {
+      "id": "b2-l08-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مُغْلَقٌ",
+      "answer": "closed",
+      "itemIds": ["word-b2-039"]
+    },
+    {
+      "id": "b2-l08-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَوْضُوعٌ",
+      "answer": "placed / subject",
+      "itemIds": ["word-b2-040"]
+    },
+    {
+      "id": "b2-l08-ex09",
+      "type": "meaning-to-word",
+      "prompt": "broken",
+      "answer": "مَكْسُورٌ",
+      "itemIds": ["word-b2-041"]
+    },
+    {
+      "id": "b2-l08-ex10",
+      "type": "meaning-to-word",
+      "prompt": "known",
+      "answer": "مَعْلُومٌ",
+      "itemIds": ["word-b2-042"]
+    },
+    {
+      "id": "b2-l08-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "This is written in Arabic",
+      "answer": "هَذَا مَكْتُوبٌ بِالْعَرَبِيَّةِ",
+      "itemIds": ["word-001", "word-b2-037", "word-045", "word-019"]
+    },
+    {
+      "id": "b2-l08-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The window is closed and the door is opened",
+      "answer": "النَّافِذَةُ مُغْلَقَةٌ وَالْبَابُ مَفْتُوحٌ",
+      "itemIds": ["word-038", "word-b2-039", "word-044", "word-b2-038"]
+    }
+  ]
+}

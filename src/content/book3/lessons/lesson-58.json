@@ -1,0 +1,183 @@
+{
+  "id": "b3-l58",
+  "book": 3,
+  "lesson": 58,
+  "title": "النَّدْبَة",
+  "titleEn": "Lamentation (Vocative of Grief)",
+  "description": "Learn about النَّدْبَة, the vocative of lamentation and grief, using وَا or يَا to express sorrow over loss or pain: وَامُحَمَّدَاهْ، وَارَأْسَاهْ.",
+  "vocabulary": ["word-b3-399", "word-b3-400", "word-b3-401", "word-b3-402", "word-b3-403", "word-b3-404"],
+  "grammarPoints": ["gp-b3-078", "gp-b3-079"],
+  "notes": [
+    {
+      "title": "What is النَّدْبَة?",
+      "titleArabic": "تعريف النَّدْبَة",
+      "content": [
+        "النَّدْبَة is a type of vocative (نداء) used to express grief, sorrow, or lamentation over someone who has died or something that has been lost. It is the voice of mourning.",
+        "The المَنْدُوب (the one lamented) is called upon as if present, expressing deep emotional pain. This is used in poetry, elegies, and expressions of grief."
+      ],
+      "keyPoints": [
+        "النَّدْبَة = vocative of lamentation/grief",
+        "المَنْدُوب = the one being lamented",
+        "Used for expressing sorrow over death or loss",
+        "Common in elegies (المراثي) and poetry"
+      ],
+      "examples": [
+        { "arabic": "وَامُحَمَّدَاهْ!", "english": "Alas, Muhammad! (lamenting his loss)" },
+        { "arabic": "وَاأَبَتَاهْ!", "english": "Alas, my father!" },
+        { "arabic": "وَاإِسْلَامَاهْ!", "english": "Alas, Islam! (lamenting its state)" },
+        { "arabic": "وَاأُمَّتَاهْ!", "english": "Alas, my nation!" }
+      ]
+    },
+    {
+      "title": "Particles of النَّدْبَة",
+      "titleArabic": "أدوات النَّدْبَة",
+      "content": [
+        "النَّدْبَة uses two main particles: وَا (the primary one) and يَا (can be used but وَا is more common). The particle وَا is specifically for lamentation.",
+        "The المَنْدُوب is treated grammatically like the مُنَادَى - it is منصوب or مبني على الضم based on its type."
+      ],
+      "keyPoints": [
+        "وَا = the primary particle for lamentation",
+        "يَا = can also be used for ندبة",
+        "وَا is more expressive of grief",
+        "المَنْدُوب follows مُنَادَى rules in i'rab"
+      ],
+      "examples": [
+        { "arabic": "وَازَيْدَاهْ!", "english": "Alas, Zayd! (using وا)" },
+        { "arabic": "يَازَيْدَاهْ!", "english": "Alas, Zayd! (using يا)" },
+        { "arabic": "وَاأَمِيرَ الْمُؤْمِنِينَاهْ!", "english": "Alas, Commander of the Believers!" },
+        { "arabic": "وَاسَيِّدَاهْ!", "english": "Alas, my master!" }
+      ]
+    },
+    {
+      "title": "Adding الألف and الهاء",
+      "titleArabic": "زيادة الألف والهاء في الندبة",
+      "content": [
+        "A distinguishing feature of النَّدْبَة is adding an ألف to the end of the المَنْدُوب, followed optionally by هاء السكت: وَامُحَمَّدَا or وَامُحَمَّدَاهْ.",
+        "The ألف extends the sound of grief. The هاء is added when stopping (الوقف). In continuous speech, just the ألف may be used."
+      ],
+      "keyPoints": [
+        "Add ألف to the end of المَنْدُوب",
+        "Add هاء السكت in pausing: وَازَيْدَاهْ",
+        "Without هاء in connected speech: وَازَيْدَا مَاتَ",
+        "The ألف elongates the expression of grief"
+      ],
+      "examples": [
+        { "arabic": "وَاعُمَرَاهْ!", "english": "Alas, Umar! (with ا and ه)" },
+        { "arabic": "وَاحُسَيْنَاهْ!", "english": "Alas, Husayn!" },
+        { "arabic": "وَارَأْسَاهْ!", "english": "Alas, my head! (pain)" },
+        { "arabic": "وَاظَهْرَاهْ!", "english": "Alas, my back! (pain)" }
+      ]
+    },
+    {
+      "title": "Classical Examples and Body Part Lamentation",
+      "titleArabic": "شواهد كلاسيكية والندبة على الأعضاء",
+      "content": [
+        "النَّدْبَة is also used for expressing pain in a body part, as in the famous hadith where the Prophet (peace be upon him) said وَارَأْسَاهْ expressing headache pain.",
+        "In Arabic literature, elegies (المراثي) extensively use النَّدْبَة. The great poets composed moving lamentations using this form."
+      ],
+      "keyPoints": [
+        "Used for physical pain: وَارَأْسَاهْ (my head!)",
+        "Common in hadith and classical literature",
+        "Elegies (المراثي) feature heavy use of ندبة",
+        "Expresses both mourning and physical suffering"
+      ],
+      "examples": [
+        { "arabic": "وَارَأْسَاهْ! (من الحديث)", "english": "Alas, my head! (from hadith - expressing pain)" },
+        { "arabic": "وَاكَبِدَاهْ!", "english": "Alas, my liver! (deep grief)" },
+        { "arabic": "وَاحَسْرَتَاهْ!", "english": "Alas, what regret!" },
+        { "arabic": "يَاحَسْرَتَى عَلَى مَا فَرَّطتُ! (القرآن)", "english": "Alas for me for what I neglected! (Quran 39:56)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l58-ex01",
+      "type": "fill-blank",
+      "prompt": "_____مُحَمَّدَاهْ! (أداة الندبة)",
+      "promptEn": "_____Muhammad! (particle of lamentation)",
+      "answer": "وَا",
+      "itemIds": ["word-b3-399"]
+    },
+    {
+      "id": "b3-l58-ex02",
+      "type": "fill-blank",
+      "prompt": "وَازَيْدَ_____ (ما يُضاف في آخر المندوب)",
+      "promptEn": "Alas Zayd_____ (what is added at the end of المندوب)",
+      "answer": "اهْ",
+      "itemIds": ["word-b3-400"]
+    },
+    {
+      "id": "b3-l58-ex03",
+      "type": "fill-blank",
+      "prompt": "الندبة نوع من أنواع _____",
+      "promptEn": "الندبة is a type of _____",
+      "answer": "النِّدَاء",
+      "itemIds": ["word-b3-401"]
+    },
+    {
+      "id": "b3-l58-ex04",
+      "type": "fill-blank",
+      "prompt": "المندوب يُعامل إعرابياً معاملة _____",
+      "promptEn": "The المندوب is treated grammatically like the _____",
+      "answer": "المُنَادَى",
+      "itemIds": ["word-b3-402"]
+    },
+    {
+      "id": "b3-l58-ex05",
+      "type": "fill-blank",
+      "prompt": "وَا_____ ! (ندبة للتعبير عن ألم الرأس)",
+      "promptEn": "Alas, my _____! (lamentation expressing head pain)",
+      "answer": "رَأْسَاهْ",
+      "itemIds": ["word-b3-403"]
+    },
+    {
+      "id": "b3-l58-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Alas, my father!",
+      "answer": "وَاأَبَتَاهْ!",
+      "itemIds": ["word-b3-399"]
+    },
+    {
+      "id": "b3-l58-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Alas, Islam!",
+      "answer": "وَاإِسْلَامَاهْ!",
+      "itemIds": ["word-b3-400"]
+    },
+    {
+      "id": "b3-l58-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "Alas, Commander of the Believers!",
+      "answer": "وَاأَمِيرَ الْمُؤْمِنِينَاهْ!",
+      "itemIds": ["word-b3-401"]
+    },
+    {
+      "id": "b3-l58-ex09",
+      "type": "word-to-meaning",
+      "prompt": "النَّدْبَة",
+      "answer": "lamentation / vocative of grief",
+      "itemIds": ["word-b3-399"]
+    },
+    {
+      "id": "b3-l58-ex10",
+      "type": "word-to-meaning",
+      "prompt": "المَنْدُوب",
+      "answer": "the one being lamented",
+      "itemIds": ["word-b3-402"]
+    },
+    {
+      "id": "b3-l58-ex11",
+      "type": "meaning-to-word",
+      "prompt": "the silent haa (added in pausing)",
+      "answer": "هَاء السَّكْت",
+      "itemIds": ["word-b3-403"]
+    },
+    {
+      "id": "b3-l58-ex12",
+      "type": "meaning-to-word",
+      "prompt": "elegies / lamentation poetry",
+      "answer": "المَرَاثِي",
+      "itemIds": ["word-b3-404"]
+    }
+  ]
+}

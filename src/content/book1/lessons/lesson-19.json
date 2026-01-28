@@ -1,0 +1,119 @@
+{
+  "id": "b1-l19",
+  "book": 1,
+  "lesson": 19,
+  "title": "أَدَوَاتُ النَّفْي",
+  "titleEn": "Negation Particles",
+  "description": "Learn to negate sentences with لَا (no/not), لَيْسَ (is not), and مَا (did not).",
+  "vocabulary": ["word-112", "word-113", "word-114", "word-115"],
+  "grammarPoints": ["gp-024"],
+  "notes": [
+    {
+      "title": "Negation in Arabic",
+      "titleArabic": "أَدَوَاتُ النَّفْي",
+      "content": [
+        "Arabic has different negation particles for different contexts. لَا negates present tense verbs, مَا negates past tense, لَنْ negates future, and لَيْسَ negates nominal sentences.",
+        "لَيْسَ is actually a verb meaning 'is not' and changes the predicate (khabar) to the accusative case. This is similar to how إِنَّ affects its subject."
+      ],
+      "keyPoints": [
+        "لَا + present tense: لَا يَذْهَبُ (he does not go)",
+        "مَا + past tense: مَا ذَهَبَ (he did not go)",
+        "لَنْ + present tense: لَنْ يَذْهَبَ (he will not go)",
+        "لَيْسَ + nominal: لَيْسَ هَذَا كِتَابًا (this is not a book)"
+      ],
+      "examples": [
+        { "arabic": "لَا يَذْهَبُ الطَّالِبُ", "english": "The student does not go" },
+        { "arabic": "مَا ذَهَبَ الطَّالِبُ", "english": "The student did not go" },
+        { "arabic": "لَيْسَ هَذَا كِتَابًا", "english": "This is not a book" },
+        { "arabic": "لَنْ أَذْهَبَ", "english": "I will not go" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l19-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "This is not a book",
+      "answer": "لَيْسَ هَذَا كِتَابًا",
+      "itemIds": ["word-113", "word-001", "word-002"]
+    },
+    {
+      "id": "b1-l19-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He did not go",
+      "answer": "مَا ذَهَبَ",
+      "itemIds": ["word-114", "word-068"]
+    },
+    {
+      "id": "b1-l19-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "He does not go",
+      "answer": "لَا يَذْهَبُ",
+      "itemIds": ["word-112", "word-102"]
+    },
+    {
+      "id": "b1-l19-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ هَذَا قَلَمًا",
+      "promptEn": "This is _____ a pen",
+      "answer": "لَيْسَ",
+      "itemIds": ["word-113"]
+    },
+    {
+      "id": "b1-l19-ex05",
+      "type": "word-to-meaning",
+      "prompt": "لَا",
+      "answer": "no/not",
+      "itemIds": ["word-112"]
+    },
+    {
+      "id": "b1-l19-ex06",
+      "type": "word-to-meaning",
+      "prompt": "لَيْسَ",
+      "answer": "is not",
+      "itemIds": ["word-113"]
+    },
+    {
+      "id": "b1-l19-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مَا",
+      "answer": "did not (past negation)",
+      "itemIds": ["word-114"]
+    },
+    {
+      "id": "b1-l19-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَنْ",
+      "answer": "will not (future negation)",
+      "itemIds": ["word-115"]
+    },
+    {
+      "id": "b1-l19-ex09",
+      "type": "meaning-to-word",
+      "prompt": "no/not (for present)",
+      "answer": "لَا",
+      "itemIds": ["word-112"]
+    },
+    {
+      "id": "b1-l19-ex10",
+      "type": "meaning-to-word",
+      "prompt": "is not (for nominal sentences)",
+      "answer": "لَيْسَ",
+      "itemIds": ["word-113"]
+    },
+    {
+      "id": "b1-l19-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student does not go to the school",
+      "answer": "لَا يَذْهَبُ الطَّالِبُ إِلَى الْمَدْرَسَةِ",
+      "itemIds": ["word-112", "word-102", "word-005", "word-048", "word-035"]
+    },
+    {
+      "id": "b1-l19-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher did not write in the book",
+      "answer": "مَا كَتَبَ الْمُدَرِّسُ فِي الْكِتَابِ",
+      "itemIds": ["word-114", "word-069", "word-004", "word-046", "word-002"]
+    }
+  ]
+}

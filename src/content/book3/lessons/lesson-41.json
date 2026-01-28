@@ -1,0 +1,141 @@
+{
+  "id": "b3-l41",
+  "book": 3,
+  "lesson": 41,
+  "title": "أَفْعَالُ الْمُقَارَبَة",
+  "titleEn": "Verbs of Imminence",
+  "description": "Learn about verbs of imminence (أفعال المقاربة) which indicate that an action is about to occur.",
+  "vocabulary": ["word-b3-297", "word-b3-298", "word-b3-299", "word-b3-300", "word-b3-301", "word-b3-302"],
+  "grammarPoints": ["gp-b3-044", "gp-b3-045"],
+  "notes": [
+    {
+      "title": "Verbs of Imminence (أفعال المقاربة)",
+      "titleArabic": "أفعال المقاربة",
+      "content": [
+        "Verbs of imminence (أفعال المقاربة) indicate that an action is about to happen or is near to occurring.",
+        "The most common is كَادَ (almost, nearly). They work like كَانَ, taking a subject (nominative) and a predicate."
+      ],
+      "keyPoints": [
+        "كَادَ - almost, nearly (كاد يسقط - he almost fell)",
+        "أَوْشَكَ - is about to (أوشك أن يصل - he is about to arrive)",
+        "كَرَبَ - is near to (rarely used)",
+        "The predicate is usually a present tense verb with أَنْ"
+      ],
+      "examples": [
+        { "arabic": "كَادَ الْوَلَدُ يَسْقُطُ", "english": "The boy almost fell" },
+        { "arabic": "أَوْشَكَ الْمَطَرُ أَنْ يَنْزِلَ", "english": "The rain is about to fall" },
+        { "arabic": "كَادَ الشَّمْسُ تَغْرُبُ", "english": "The sun is about to set" },
+        { "arabic": "أَوْشَكْتُ أَنْ أَنْسَى", "english": "I almost forgot" }
+      ]
+    },
+    {
+      "title": "Usage Patterns of كاد",
+      "titleArabic": "أنماط استخدام كاد",
+      "content": [
+        "كَادَ can be used with or without أَنْ before the predicate verb.",
+        "Without أَنْ is more common in classical Arabic; with أَنْ is also acceptable."
+      ],
+      "keyPoints": [
+        "كَادَ يَفْعَلُ (without أَنْ) - more classical",
+        "كَادَ أَنْ يَفْعَلَ (with أَنْ) - also correct",
+        "With negation: لَمْ يَكَدْ - hardly, scarcely",
+        "مَا كَادَ حَتَّى - no sooner... than"
+      ],
+      "examples": [
+        { "arabic": "كَادَ يَمُوتُ مِنَ الْجُوعِ", "english": "He almost died of hunger" },
+        { "arabic": "كَادَ أَنْ يَبْكِيَ", "english": "He was about to cry" },
+        { "arabic": "لَمْ أَكَدْ أَفْهَمُ", "english": "I hardly understood" },
+        { "arabic": "مَا كَادَ يَصِلُ حَتَّى نَامَ", "english": "No sooner did he arrive than he slept" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l41-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الْوَلَدُ يَسْقُطُ",
+      "promptEn": "The boy _____ fell",
+      "answer": "كَادَ",
+      "itemIds": ["word-b3-297"]
+    },
+    {
+      "id": "b3-l41-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ الْمَطَرُ أَنْ يَنْزِلَ",
+      "promptEn": "The rain _____ to fall",
+      "answer": "أَوْشَكَ",
+      "itemIds": ["word-b3-298"]
+    },
+    {
+      "id": "b3-l41-ex03",
+      "type": "fill-blank",
+      "prompt": "كَادَتِ الشَّمْسُ _____",
+      "promptEn": "The sun almost _____",
+      "answer": "تَغْرُبُ",
+      "itemIds": ["word-b3-299"]
+    },
+    {
+      "id": "b3-l41-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "He almost died",
+      "answer": "كَادَ يَمُوتُ",
+      "itemIds": ["word-b3-297"]
+    },
+    {
+      "id": "b3-l41-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "She is about to arrive",
+      "answer": "أَوْشَكَتْ أَنْ تَصِلَ",
+      "itemIds": ["word-b3-298"]
+    },
+    {
+      "id": "b3-l41-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I almost forgot the lesson",
+      "answer": "كِدْتُ أَنْسَى الدَّرْسَ",
+      "itemIds": ["word-b3-297"]
+    },
+    {
+      "id": "b3-l41-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "They almost succeeded",
+      "answer": "كَادُوا يَنْجَحُونَ",
+      "itemIds": ["word-b3-297"]
+    },
+    {
+      "id": "b3-l41-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كَادَ",
+      "answer": "almost / nearly",
+      "itemIds": ["word-b3-297"]
+    },
+    {
+      "id": "b3-l41-ex09",
+      "type": "word-to-meaning",
+      "prompt": "أَوْشَكَ",
+      "answer": "is about to / on the verge of",
+      "itemIds": ["word-b3-298"]
+    },
+    {
+      "id": "b3-l41-ex10",
+      "type": "word-to-meaning",
+      "prompt": "يَسْقُطُ",
+      "answer": "falls / is falling",
+      "itemIds": ["word-b3-300"]
+    },
+    {
+      "id": "b3-l41-ex11",
+      "type": "meaning-to-word",
+      "prompt": "to set (sun)",
+      "answer": "تَغْرُبُ",
+      "itemIds": ["word-b3-299"]
+    },
+    {
+      "id": "b3-l41-ex12",
+      "type": "meaning-to-word",
+      "prompt": "to fall down",
+      "answer": "سَقَطَ",
+      "itemIds": ["word-b3-300"]
+    }
+  ]
+}

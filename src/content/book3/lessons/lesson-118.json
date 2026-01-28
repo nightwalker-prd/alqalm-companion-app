@@ -1,0 +1,162 @@
+{
+  "id": "b3-l118",
+  "book": 3,
+  "lesson": 118,
+  "title": "الحروف الخاصة المتقدمة",
+  "titleEn": "Advanced Special Particles",
+  "description": "ما الكافة والمكفوفة, إنّما, لام الابتداء, and نون الوقاية",
+  "vocabulary": ["word-b3-718", "word-b3-719", "word-b3-720", "word-b3-721", "word-b3-722"],
+  "grammarPoints": ["gp-b3-198", "gp-b3-199"],
+  "notes": [
+    {
+      "title": "ما الكافة (The Neutralizing ما)",
+      "titleArabic": "ما الكافة",
+      "content": [
+        "When ما is attached to إنّ and its sisters (إنّما، أنّما، كأنّما، لكنّما، ليتما، لعلّما) or to ربّ (ربّما), it neutralizes their grammatical effect. The particle no longer governs a noun and predicate.",
+        "After إنّما, المؤمنون is مرفوع (not منصوب) because ما كافة has neutralized إنّ's governance."
+      ],
+      "examples": [
+        { "arabic": "إنّما المؤمنون إخوةٌ", "english": "The believers are but brothers (not: إنّ المؤمنين)" },
+        { "arabic": "ربّما يأتي المطرُ غداً", "english": "Perhaps rain will come tomorrow" }
+      ]
+    },
+    {
+      "title": "إنّما: The Restrictive Particle",
+      "titleArabic": "إنّما للحصر",
+      "content": [
+        "إنّما is not simply إنّ + ما. It is a single particle that conveys حصر (restriction/limitation). It means 'only' or 'nothing but'. The sentence after it is a regular nominal sentence.",
+        "The famous hadith means 'Actions are ONLY by intentions.' الأعمالُ is مبتدأ مرفوع, not اسم إنّ."
+      ],
+      "examples": [
+        { "arabic": "إنّما الأعمالُ بالنياتِ", "english": "Actions are only by intentions" },
+        { "arabic": "إنّما العلمُ بالتعلّمِ", "english": "Knowledge is only through learning" }
+      ]
+    },
+    {
+      "title": "Particles with ما الكافة",
+      "titleArabic": "الحروف التي تقبل ما الكافة",
+      "content": [
+        "The particles that accept ما الكافة are: إنّ، أنّ، كأنّ، لكنّ، ليت، لعلّ، and ربّ. After ما is attached, they can be followed by sentences (جمل) rather than just nouns.",
+        "ربّما is followed by a verbal sentence. Without ما, ربّ would require a مجرور noun: ربّ رجلٍ."
+      ],
+      "examples": [
+        { "arabic": "كأنّما الحياةُ حلمٌ", "english": "Life is as if a dream" },
+        { "arabic": "لعلّما يتوبُ المذنبُ", "english": "Perhaps the sinner will repent" }
+      ]
+    },
+    {
+      "title": "لام الابتداء (The Opening Lam)",
+      "titleArabic": "لام الابتداء",
+      "content": [
+        "This emphatic لام enters on the مبتدأ of a nominal sentence for emphasis. It cannot enter on the مبتدأ when إنّ or its sisters are present, but it can enter on their خبر instead.",
+        "In the first example, لام is on the مبتدأ. In the second, لام moves to the خبر because إنّ occupies the opening position."
+      ],
+      "examples": [
+        { "arabic": "لَزيدٌ قائمٌ", "english": "Zayd is indeed standing" },
+        { "arabic": "إنّ زيداً لَقائمٌ", "english": "Indeed Zayd is standing (لام on خبر)" }
+      ]
+    },
+    {
+      "title": "نون الوقاية (The Protective Nun)",
+      "titleArabic": "نون الوقاية",
+      "content": [
+        "When ياء المتكلم (the first person pronoun ي) is attached to verbs, إنّ and its sisters, or some particles, a نون is inserted to 'protect' the word. This نون has no meaning—it only facilitates pronunciation.",
+        "The نون in each example protects the preceding word from awkward combination with ياء. Note: إنّ can optionally drop this نون: إنّي."
+      ],
+      "examples": [
+        { "arabic": "أكرمَني المعلمُ", "english": "The teacher honored me" },
+        { "arabic": "إنّني / إنّي مسلمٌ", "english": "Indeed I am Muslim (both valid)" }
+      ]
+    },
+    {
+      "title": "Cases Without نون الوقاية",
+      "titleArabic": "حالات بدون نون الوقاية",
+      "content": [
+        "The نون الوقاية is obligatory with verbs and some particles, but optional with إنّ (إنّني/إنّي), أنّ, كأنّ, and لكنّ. It's obligatory with ليت and لعلّ (ليتني، لعلّني).",
+        "Both forms are acceptable with إنّ. But with ليت, only ليتني is correct, not *ليتي."
+      ],
+      "examples": [
+        { "arabic": "ليتني حاضرٌ", "english": "If only I were present" },
+        { "arabic": "لعلّني فائزٌ", "english": "Perhaps I am a winner" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l118-ex01",
+      "type": "irab",
+      "question": "أعرب: إنّما العلمُ بالتعلّمِ",
+      "answer": "إنّما: كافة ومكفوفة، حرف لا عمل له. العلمُ: مبتدأ مرفوع بالضمة. بالتعلّمِ: الباء حرف جر، التعلّمِ اسم مجرور. والجار والمجرور خبر المبتدأ."
+    },
+    {
+      "id": "b3-l118-ex02",
+      "type": "irab",
+      "question": "أعرب: ربّما يندمُ الكسولُ",
+      "answer": "ربّما: ربّ حرف جر شبيه بالزائد، وما كافة. يندمُ: فعل مضارع مرفوع. الكسولُ: فاعل مرفوع بالضمة."
+    },
+    {
+      "id": "b3-l118-ex03",
+      "type": "irab",
+      "question": "أعرب: لَلصدقُ منجاةٌ",
+      "answer": "اللام: لام الابتداء، حرف للتوكيد. الصدقُ: مبتدأ مرفوع بالضمة. منجاةٌ: خبر مرفوع بالضمة."
+    },
+    {
+      "id": "b3-l118-ex04",
+      "type": "irab",
+      "question": "أعرب: إنّ الحقَّ لَواضحٌ",
+      "answer": "إنّ: حرف ناسخ. الحقَّ: اسم إنّ منصوب بالفتحة. اللام: لام الابتداء (المزحلقة). واضحٌ: خبر إنّ مرفوع بالضمة."
+    },
+    {
+      "id": "b3-l118-ex05",
+      "type": "irab",
+      "question": "أعرب: أكرمَني المعلمُ",
+      "answer": "أكرمَ: فعل ماضٍ مبني على الفتح. النون: نون الوقاية، حرف لا محل له. الياء: ضمير متصل مفعول به في محل نصب. المعلمُ: فاعل مرفوع."
+    },
+    {
+      "id": "b3-l118-ex06",
+      "type": "irab",
+      "question": "أعرب: ليتني حاضرٌ",
+      "answer": "ليتَ: حرف ناسخ يفيد التمني. النون: نون الوقاية. الياء: ضمير متصل اسم ليت في محل نصب. حاضرٌ: خبر ليت مرفوع."
+    },
+    {
+      "id": "b3-l118-ex07",
+      "type": "irab",
+      "question": "أعرب: كأنّما الدنيا متاعٌ قليلٌ",
+      "answer": "كأنّما: كأنّ حرف تشبيه، وما كافة. الدنيا: مبتدأ مرفوع بالضمة المقدرة. متاعٌ: خبر مرفوع. قليلٌ: نعت مرفوع."
+    },
+    {
+      "id": "b3-l118-ex08",
+      "type": "irab",
+      "question": "أعرب: لعلّني فائزٌ",
+      "answer": "لعلَّ: حرف ناسخ يفيد الترجي. النون: نون الوقاية. الياء: ضمير متصل اسم لعلّ في محل نصب. فائزٌ: خبر لعلّ مرفوع."
+    },
+    {
+      "id": "b3-l118-ex09",
+      "type": "multipleChoice",
+      "question": "ما عمل إنّما في الجملة؟",
+      "options": ["تنصب المبتدأ وترفع الخبر", "لا عمل لها لأن ما كافة", "ترفع المبتدأ وتنصب الخبر", "تجزم الفعل"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "b3-l118-ex10",
+      "type": "multipleChoice",
+      "question": "لام الابتداء تدخل على:",
+      "options": ["الفعل فقط", "المبتدأ أو خبر إنّ", "المفعول به", "الجار والمجرور فقط"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "b3-l118-ex11",
+      "type": "multipleChoice",
+      "question": "نون الوقاية واجبة مع:",
+      "options": ["إنّ وأنّ", "ليت ولعلّ", "كأنّ ولكنّ", "جميع ما سبق"],
+      "correctAnswer": 1
+    },
+    {
+      "id": "b3-l118-ex12",
+      "type": "multipleChoice",
+      "question": "أي الجمل صحيحة؟",
+      "options": ["إنّي طالبٌ", "إنّني طالبٌ", "كلاهما صحيح", "كلاهما خطأ"],
+      "correctAnswer": 2
+    }
+  ]
+}

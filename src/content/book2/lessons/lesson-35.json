@@ -1,0 +1,139 @@
+{
+  "id": "b2-l35",
+  "book": 2,
+  "lesson": 35,
+  "title": "اسْمُ الآلَة",
+  "titleEn": "Nouns of Instrument",
+  "description": "Learn nouns indicating instruments and tools: مِفْتَاح (key), مِقَصّ (scissors), مِنْشَار (saw).",
+  "vocabulary": ["word-b2-287", "word-b2-288", "word-b2-289", "word-b2-290", "word-b2-291", "word-b2-292"],
+  "grammarPoints": ["gp-b2-034"],
+  "notes": [
+    {
+      "title": "Nouns of Instrument (اسم الآلة)",
+      "titleArabic": "اسم الآلة",
+      "content": [
+        "Nouns of instrument (اسم الآلة) are derived from verbs to indicate the tool used to perform an action.",
+        "There are three main patterns from classical Arabic and several modern patterns."
+      ],
+      "keyPoints": [
+        "Pattern مِفْعَال: مِفْتَاح (key), مِنْشَار (saw)",
+        "Pattern مِفْعَل: مِبْرَد (file), مِشْرَط (scalpel)",
+        "Pattern مِفْعَلَة: مِكْنَسَة (broom), مِطْرَقَة (hammer)",
+        "Modern pattern فَعَّالَة: غَسَّالَة (washing machine)"
+      ],
+      "examples": [
+        { "arabic": "مِفْتَاحٌ", "english": "key (tool for opening)" },
+        { "arabic": "مِقَصٌّ", "english": "scissors (tool for cutting)" },
+        { "arabic": "مِنْشَارٌ", "english": "saw (tool for sawing)" },
+        { "arabic": "مِكْنَسَةٌ", "english": "broom (tool for sweeping)" }
+      ]
+    },
+    {
+      "title": "Modern Patterns",
+      "titleArabic": "الأوزان الحديثة",
+      "content": [
+        "Modern Arabic has developed additional patterns for naming machines and electrical devices.",
+        "These patterns are widely accepted and commonly used in contemporary Arabic."
+      ],
+      "keyPoints": [
+        "فَعَّالَة: غَسَّالَة (washer), ثَلَّاجَة (refrigerator)",
+        "فَاعُول: حَاسُوب (computer)",
+        "مِفْعَل: مِصْعَد (elevator)",
+        "فَاعِلَة: طَابِعَة (printer), شَاحِنَة (truck)"
+      ],
+      "examples": [
+        { "arabic": "ثَلَّاجَةٌ", "english": "refrigerator" },
+        { "arabic": "غَسَّالَةٌ", "english": "washing machine" },
+        { "arabic": "حَاسُوبٌ", "english": "computer" },
+        { "arabic": "طَابِعَةٌ", "english": "printer" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l35-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "key",
+      "answer": "مِفْتَاحٌ",
+      "itemIds": ["word-b2-287"]
+    },
+    {
+      "id": "b2-l35-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "scissors",
+      "answer": "مِقَصٌّ",
+      "itemIds": ["word-b2-288"]
+    },
+    {
+      "id": "b2-l35-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "broom",
+      "answer": "مِكْنَسَةٌ",
+      "itemIds": ["word-b2-289"]
+    },
+    {
+      "id": "b2-l35-ex04",
+      "type": "fill-blank",
+      "prompt": "فَتَحْتُ الْبَابَ بِـال_____",
+      "promptEn": "I opened the door with the _____",
+      "answer": "مِفْتَاحِ",
+      "itemIds": ["word-b2-287"]
+    },
+    {
+      "id": "b2-l35-ex05",
+      "type": "word-to-meaning",
+      "prompt": "مِنْشَارٌ",
+      "answer": "saw",
+      "itemIds": ["word-b2-290"]
+    },
+    {
+      "id": "b2-l35-ex06",
+      "type": "word-to-meaning",
+      "prompt": "مِطْرَقَةٌ",
+      "answer": "hammer",
+      "itemIds": ["word-b2-291"]
+    },
+    {
+      "id": "b2-l35-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مِقَصٌّ",
+      "answer": "scissors",
+      "itemIds": ["word-b2-288"]
+    },
+    {
+      "id": "b2-l35-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مِكْنَسَةٌ",
+      "answer": "broom",
+      "itemIds": ["word-b2-289"]
+    },
+    {
+      "id": "b2-l35-ex09",
+      "type": "meaning-to-word",
+      "prompt": "refrigerator",
+      "answer": "ثَلَّاجَةٌ",
+      "itemIds": ["word-b2-292"]
+    },
+    {
+      "id": "b2-l35-ex10",
+      "type": "meaning-to-word",
+      "prompt": "key",
+      "answer": "مِفْتَاحٌ",
+      "itemIds": ["word-b2-287"]
+    },
+    {
+      "id": "b2-l35-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The carpenter uses the saw",
+      "answer": "يَسْتَخْدِمُ النَّجَّارُ الْمِنْشَارَ",
+      "itemIds": ["word-b2-290"]
+    },
+    {
+      "id": "b2-l35-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Where is the key?",
+      "answer": "أَيْنَ الْمِفْتَاحُ؟",
+      "itemIds": ["word-b2-287"]
+    }
+  ]
+}

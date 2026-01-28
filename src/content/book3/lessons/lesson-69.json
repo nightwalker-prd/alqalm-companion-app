@@ -1,0 +1,182 @@
+{
+  "id": "b3-l69",
+  "book": 3,
+  "lesson": 69,
+  "title": "أَحْكَام إِذَنْ",
+  "titleEn": "Rules of Idhan",
+  "description": "Learn about the particle إِذَنْ (then/in that case) - its conditions for causing nasb on the imperfect verb, placement rules, and usage in conditional responses.",
+  "vocabulary": ["word-b3-464", "word-b3-465", "word-b3-466", "word-b3-467", "word-b3-468"],
+  "grammarPoints": ["gp-b3-100", "gp-b3-101"],
+  "notes": [
+    {
+      "title": "What is إِذَنْ?",
+      "titleArabic": "تَعْرِيفُ إِذَنْ",
+      "content": [
+        "إِذَنْ is a particle (حَرْفُ جَوَابٍ وَجَزَاءٍ) that means 'then' or 'in that case'. It is used to respond to a previous statement or condition, indicating a consequence or result.",
+        "إِذَنْ is one of the nawasib (نَوَاصِب) - particles that cause the imperfect verb (المُضَارِع) to take the nasb (accusative) case. However, this only occurs when specific conditions are met."
+      ],
+      "keyPoints": [
+        "إِذَنْ = حَرْفُ جَوَابٍ وَجَزَاءٍ (particle of response and consequence)",
+        "Means 'then' or 'in that case'",
+        "One of the نَوَاصِب (particles causing nasb)",
+        "Requires conditions for the nasb to occur"
+      ],
+      "examples": [
+        { "arabic": "سَأَزُورُكَ غَدًا. إِذَنْ أَنْتَظِرَكَ", "english": "I will visit you tomorrow. Then I will wait for you" },
+        { "arabic": "أُحِبُّ الْقِرَاءَةَ. إِذَنْ تَنْجَحَ", "english": "I love reading. Then you will succeed" },
+        { "arabic": "قَالَ: سَأَجْتَهِدُ. قُلْتُ: إِذَنْ تَفُوزَ", "english": "He said: I will strive. I said: Then you will win" },
+        { "arabic": "إِذَنْ أُكْرِمَكَ إِنْ زُرْتَنِي", "english": "Then I will honor you if you visit me" }
+      ]
+    },
+    {
+      "title": "Conditions for Nasb with إِذَنْ",
+      "titleArabic": "شُرُوطُ نَصْبِ الْمُضَارِعِ بِإِذَنْ",
+      "content": [
+        "For إِذَنْ to cause nasb on the following verb, three conditions must be met: 1) إِذَنْ must be at the beginning of the response (صَدْر الْجَوَاب), 2) The verb must refer to the future (مُسْتَقْبَل), 3) There must be no separation (فَصْل) between إِذَنْ and the verb, except by قَسَم (oath) or نِدَاء (vocative).",
+        "If any of these conditions is not met, the verb remains in the رَفْع (nominative) case. The most important condition is that إِذَنْ must be at the beginning - if it comes in the middle of a sentence, it loses its power to cause nasb."
+      ],
+      "keyPoints": [
+        "Condition 1: إِذَنْ at صَدْر الْجَوَاب (beginning of response)",
+        "Condition 2: Verb must indicate future (اسْتِقْبَال)",
+        "Condition 3: No فَصْل except قَسَم or نِدَاء",
+        "Missing any condition = رَفْع instead of نَصْب"
+      ],
+      "examples": [
+        { "arabic": "إِذَنْ أُكْرِمَكَ (نصب - الشروط متحققة)", "english": "Then I will honor you (nasb - conditions met)" },
+        { "arabic": "أَنَا إِذَنْ أُكْرِمُكَ (رفع - ليست في الصدر)", "english": "I then will honor you (raf' - not at beginning)" },
+        { "arabic": "إِذَنْ وَاللهِ أُكْرِمَكَ (نصب - قَسَم لا يضر)", "english": "Then by Allah I will honor you (nasb - oath permitted)" },
+        { "arabic": "إِذَنْ يَا زَيْدُ أُكْرِمَكَ (نصب - نِدَاء لا يضر)", "english": "Then O Zayd I will honor you (nasb - vocative permitted)" }
+      ]
+    },
+    {
+      "title": "When إِذَنْ Does Not Cause Nasb",
+      "titleArabic": "حَالَاتُ إِهْمَالِ إِذَنْ",
+      "content": [
+        "When إِذَنْ comes after a عَاطِف (conjunction like وَ or فَ) at the beginning of a sentence, scholars differ: some say it still causes nasb because the عَاطِف doesn't count as moving إِذَنْ from the beginning. Others say رَفْع is preferred.",
+        "When إِذَنْ refers to the present (الْحَال) rather than the future, or when there is a separator between it and the verb (other than قَسَم or نِدَاء), it becomes مُهْمَلَة (neglected) and does not cause nasb."
+      ],
+      "keyPoints": [
+        "إِذَنْ + حَال (present) = رَفْع not نَصْب",
+        "Separator other than قَسَم/نِدَاء = رَفْع",
+        "وَإِذَنْ and فَإِذَنْ: scholars differ",
+        "مُهْمَلَة = neglected, no grammatical effect"
+      ],
+      "examples": [
+        { "arabic": "إِذَنْ أَظُنُّكَ صَادِقًا (رفع - حال لا استقبال)", "english": "Then I think you are truthful (raf' - present, not future)" },
+        { "arabic": "إِذَنْ لَا أُكْرِمُكَ (يجوز الرفع والنصب)", "english": "Then I will not honor you (both raf' and nasb allowed)" },
+        { "arabic": "وَإِذَنْ لَا يَلْبَثُونَ خِلَافَكَ إِلَّا قَلِيلًا (القرآن)", "english": "And then they would not remain after you except a little (Quran 17:76)" },
+        { "arabic": "قَالَ: سَآتِيكَ. قُلْتُ: أَنَا إِذَنْ أَنْتَظِرُكَ", "english": "He said: I'll come. I said: I then will wait for you (raf')" }
+      ]
+    },
+    {
+      "title": "Writing of إِذَنْ and Its Quranic Usage",
+      "titleArabic": "كِتَابَةُ إِذَنْ وَوُرُودُهَا فِي الْقُرْآنِ",
+      "content": [
+        "إِذَنْ can be written with tanwin (إِذَنْ) or with an alif (إِذًا). The tanwin form is preferred by Kufan grammarians and is considered more accurate for the nasb particle. The alif form (إِذًا) is more common in modern writing.",
+        "In the Quran, إِذًا appears in several verses, often followed by a verb in رَفْع because the conditions for nasb are not fully met. This shows the importance of understanding the grammatical conditions."
+      ],
+      "keyPoints": [
+        "إِذَنْ with tanwin = preferred for حَرْف النَّصْب",
+        "إِذًا with alif = common in modern writing",
+        "Quranic usage shows both عَامِلَة and مُهْمَلَة forms",
+        "Context determines whether nasb applies"
+      ],
+      "examples": [
+        { "arabic": "وَإِذًا لَآتَيْنَاهُمْ مِنْ لَدُنَّا أَجْرًا عَظِيمًا (القرآن ٤:٦٧)", "english": "And then We would have given them a great reward (Quran 4:67)" },
+        { "arabic": "إِذًا لَأَذَقْنَاكَ ضِعْفَ الْحَيَاةِ (القرآن ١٧:٧٥)", "english": "Then We would have made you taste double (Quran 17:75)" },
+        { "arabic": "وَإِذًا لَا يَلْبَثُونَ خِلَافَكَ إِلَّا قَلِيلًا (القرآن ١٧:٧٦)", "english": "And then they would not remain after you except briefly (Quran 17:76)" },
+        { "arabic": "قُلْ إِذًا فَأْتُوا بِكِتَابٍ (القرآن ٢٨:٤٩)", "english": "Say: Then bring a scripture (Quran 28:49)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l69-ex01",
+      "type": "fill-blank",
+      "prompt": "إِذَنْ حَرْفُ _____ وَجَزَاءٍ",
+      "promptEn": "إِذَنْ is a particle of _____ and consequence",
+      "answer": "جَوَاب",
+      "itemIds": ["word-b3-464"]
+    },
+    {
+      "id": "b3-l69-ex02",
+      "type": "fill-blank",
+      "prompt": "لِنَصْبِ الْمُضَارِعِ بِإِذَنْ يَجِبُ أَنْ تَكُونَ فِي _____ الْجَوَابِ",
+      "promptEn": "For nasb with إِذَنْ, it must be at the _____ of the response",
+      "answer": "صَدْر",
+      "itemIds": ["word-b3-465"]
+    },
+    {
+      "id": "b3-l69-ex03",
+      "type": "fill-blank",
+      "prompt": "إِذَنْ تَنْصِبُ الْمُضَارِعَ إِذَا كَانَ الْفِعْلُ لِلْ_____",
+      "promptEn": "إِذَنْ causes nasb if the verb is for the _____",
+      "answer": "اسْتِقْبَال",
+      "itemIds": ["word-b3-466"]
+    },
+    {
+      "id": "b3-l69-ex04",
+      "type": "fill-blank",
+      "prompt": "يَجُوزُ الْفَصْلُ بَيْنَ إِذَنْ وَالْفِعْلِ بِالْقَسَمِ أَوْ _____",
+      "promptEn": "Separation between إِذَنْ and the verb is allowed by oath or _____",
+      "answer": "النِّدَاء",
+      "itemIds": ["word-b3-467"]
+    },
+    {
+      "id": "b3-l69-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "Then I will honor you (with nasb)",
+      "answer": "إِذَنْ أُكْرِمَكَ",
+      "itemIds": ["word-b3-464"]
+    },
+    {
+      "id": "b3-l69-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I will visit you. - Then I will wait for you.",
+      "answer": "سَأَزُورُكَ. إِذَنْ أَنْتَظِرَكَ",
+      "itemIds": ["word-b3-465"]
+    },
+    {
+      "id": "b3-l69-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Then by Allah I will help you",
+      "answer": "إِذَنْ وَاللهِ أُسَاعِدَكَ",
+      "itemIds": ["word-b3-466"]
+    },
+    {
+      "id": "b3-l69-ex08",
+      "type": "word-to-meaning",
+      "prompt": "إِذَنْ",
+      "answer": "then / in that case (particle of response)",
+      "itemIds": ["word-b3-464"]
+    },
+    {
+      "id": "b3-l69-ex09",
+      "type": "word-to-meaning",
+      "prompt": "صَدْر الْجَوَاب",
+      "answer": "the beginning of the response",
+      "itemIds": ["word-b3-465"]
+    },
+    {
+      "id": "b3-l69-ex10",
+      "type": "word-to-meaning",
+      "prompt": "مُهْمَلَة",
+      "answer": "neglected / having no grammatical effect",
+      "itemIds": ["word-b3-467"]
+    },
+    {
+      "id": "b3-l69-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The particle meaning 'then' that can cause nasb",
+      "answer": "إِذَنْ",
+      "itemIds": ["word-b3-468"]
+    },
+    {
+      "id": "b3-l69-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Referring to future time (a condition for إِذَنْ to cause nasb)",
+      "answer": "الاسْتِقْبَال",
+      "itemIds": ["word-b3-468"]
+    }
+  ]
+}

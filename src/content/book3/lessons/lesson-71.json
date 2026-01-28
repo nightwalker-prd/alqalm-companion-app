@@ -1,0 +1,203 @@
+{
+  "id": "b3-l71",
+  "book": 3,
+  "lesson": 71,
+  "title": "جَمْع التَّكْسِير - الأَوْزَان",
+  "titleEn": "Broken Plural Patterns",
+  "description": "Learn the common patterns (أَوْزَان) of جَمْع التَّكْسِير (broken plurals) in Arabic, including أَفْعَال، فُعُول، فِعَال، أَفْعِلَة، فَعَائِل and their usage rules.",
+  "vocabulary": ["word-b3-474", "word-b3-475", "word-b3-476", "word-b3-477", "word-b3-478", "word-b3-479", "word-b3-480", "word-b3-481", "word-b3-482", "word-b3-483"],
+  "grammarPoints": ["gp-b3-104", "gp-b3-105"],
+  "notes": [
+    {
+      "title": "What is جَمْع التَّكْسِير?",
+      "titleArabic": "تَعْرِيفُ جَمْعِ التَّكْسِيرِ",
+      "content": [
+        "جَمْع التَّكْسِير (broken plural) is a plural form that changes the internal structure of the singular noun, unlike the sound plurals (جَمْع السَّالِم) which only add suffixes. It is called 'broken' because the original pattern of the word is 'broken' and reformed.",
+        "Broken plurals are very common in Arabic and follow specific patterns (أَوْزَان). Learning these patterns helps predict the plural of many nouns. Each singular pattern often corresponds to specific plural patterns."
+      ],
+      "keyPoints": [
+        "جَمْع التَّكْسِير = plural with internal change",
+        "Changes the بِنْيَة (structure) of the singular",
+        "Follows specific أَوْزَان (patterns)",
+        "Most common type of plural for Arabic nouns"
+      ],
+      "examples": [
+        { "arabic": "كِتَاب → كُتُب (فِعَال → فُعُل)", "english": "book → books" },
+        { "arabic": "رَجُل → رِجَال (فَعَل → فِعَال)", "english": "man → men" },
+        { "arabic": "بَيْت → بُيُوت (فَعْل → فُعُول)", "english": "house → houses" },
+        { "arabic": "قَلْب → قُلُوب (فَعْل → فُعُول)", "english": "heart → hearts" }
+      ]
+    },
+    {
+      "title": "Pattern: أَفْعَال",
+      "titleArabic": "وَزْنُ أَفْعَال",
+      "content": [
+        "The pattern أَفْعَال is one of the most common broken plural patterns. It typically pluralizes singular nouns on the patterns فَعْل and فِعْل (three-letter words with sukun on the middle letter).",
+        "This is a جَمْع قِلَّة (plural of paucity), theoretically referring to 3-10 items, though in practice this distinction is often ignored in modern Arabic."
+      ],
+      "keyPoints": [
+        "أَفْعَال pluralizes فَعْل and فِعْل singulars",
+        "جَمْع قِلَّة (plural of paucity: 3-10)",
+        "Very common and productive pattern",
+        "Adds أَ at beginning, fathas throughout"
+      ],
+      "examples": [
+        { "arabic": "قَلَم → أَقْلَام", "english": "pen → pens" },
+        { "arabic": "وَلَد → أَوْلَاد", "english": "child → children" },
+        { "arabic": "ثَوْب → أَثْوَاب", "english": "garment → garments" },
+        { "arabic": "بَاب → أَبْوَاب", "english": "door → doors" }
+      ]
+    },
+    {
+      "title": "Pattern: فُعُول",
+      "titleArabic": "وَزْنُ فُعُول",
+      "content": [
+        "The pattern فُعُول is a جَمْع كَثْرَة (plural of abundance) that pluralizes nouns on the pattern فَعْل (three letters with sukun on the second). It is characterized by ضَمَّة on both the first and second letters.",
+        "This pattern is extremely productive and covers a large number of common Arabic nouns, especially concrete nouns referring to body parts, buildings, and physical objects."
+      ],
+      "keyPoints": [
+        "فُعُول pluralizes فَعْل singulars",
+        "جَمْع كَثْرَة (plural of abundance: 10+)",
+        "Two dammas: فُـ and ـُو",
+        "Very common for concrete nouns"
+      ],
+      "examples": [
+        { "arabic": "بَيْت → بُيُوت", "english": "house → houses" },
+        { "arabic": "قَلْب → قُلُوب", "english": "heart → hearts" },
+        { "arabic": "عَيْن → عُيُون", "english": "eye → eyes" },
+        { "arabic": "نَجْم → نُجُوم", "english": "star → stars" }
+      ]
+    },
+    {
+      "title": "Patterns: فِعَال and أَفْعِلَة",
+      "titleArabic": "وَزْنَا فِعَال وَأَفْعِلَة",
+      "content": [
+        "فِعَال is a جَمْع كَثْرَة pattern that pluralizes nouns on فَعْل and فَاعِل. It is characterized by كَسْرَة on the first letter followed by alif. Many human nouns and some animal names use this pattern.",
+        "أَفْعِلَة is a جَمْع قِلَّة that typically pluralizes four-letter nouns (especially those with medial و or ي like فِعَال and فَعِيل). It adds أَ at the beginning and ends with ـِلَة."
+      ],
+      "keyPoints": [
+        "فِعَال: كَسْرَة + أَلِف, pluralizes فَعْل/فَاعِل",
+        "أَفْعِلَة: pluralizes four-letter nouns",
+        "فِعَال common for humans and animals",
+        "أَفْعِلَة: أَ prefix + ـِلَة ending"
+      ],
+      "examples": [
+        { "arabic": "رَجُل → رِجَال", "english": "man → men (فِعَال)" },
+        { "arabic": "جَبَل → جِبَال", "english": "mountain → mountains (فِعَال)" },
+        { "arabic": "طَعَام → أَطْعِمَة", "english": "food → foods (أَفْعِلَة)" },
+        { "arabic": "غِطَاء → أَغْطِيَة", "english": "cover → covers (أَفْعِلَة)" }
+      ]
+    },
+    {
+      "title": "Patterns: فَعَائِل and فَوَاعِل",
+      "titleArabic": "وَزْنَا فَعَائِل وَفَوَاعِل",
+      "content": [
+        "فَعَائِل pluralizes feminine nouns on فَعِيلَة and فَعَالَة. The ي or ا of the singular becomes ء (hamza) in the plural. This pattern is very common for abstract feminine nouns.",
+        "فَوَاعِل pluralizes nouns on فَاعِل and فَاعِلَة, especially active participles used as nouns. The ا of the singular becomes و in the plural, followed by ا and كَسْرَة."
+      ],
+      "keyPoints": [
+        "فَعَائِل: for فَعِيلَة and فَعَالَة singulars",
+        "فَوَاعِل: for فَاعِل and فَاعِلَة singulars",
+        "Both are جَمْع كَثْرَة patterns",
+        "Common for feminine nouns and participles"
+      ],
+      "examples": [
+        { "arabic": "صَحِيفَة → صَحَائِف", "english": "newspaper → newspapers (فَعَائِل)" },
+        { "arabic": "رِسَالَة → رَسَائِل", "english": "letter → letters (فَعَائِل)" },
+        { "arabic": "كَاتِب → كَوَاتِب", "english": "writer → writers (فَوَاعِل)" },
+        { "arabic": "خَاتَم → خَوَاتِم", "english": "ring → rings (فَوَاعِل)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l71-ex01",
+      "type": "fill-blank",
+      "prompt": "جَمْع التَّكْسِيرِ يُغَيِّرُ _____ الْكَلِمَةِ الْمُفْرَدَةِ",
+      "promptEn": "Broken plural changes the _____ of the singular word",
+      "answer": "بِنْيَة",
+      "itemIds": ["word-b3-474"]
+    },
+    {
+      "id": "b3-l71-ex02",
+      "type": "fill-blank",
+      "prompt": "كِتَاب → _____ (على وزن فُعُل)",
+      "promptEn": "كِتَاب → _____ (on the pattern فُعُل)",
+      "answer": "كُتُب",
+      "itemIds": ["word-b3-475"]
+    },
+    {
+      "id": "b3-l71-ex03",
+      "type": "fill-blank",
+      "prompt": "رَجُل → _____ (على وزن فِعَال)",
+      "promptEn": "رَجُل → _____ (on the pattern فِعَال)",
+      "answer": "رِجَال",
+      "itemIds": ["word-b3-476"]
+    },
+    {
+      "id": "b3-l71-ex04",
+      "type": "fill-blank",
+      "prompt": "قَلَم → _____ (على وزن أَفْعَال)",
+      "promptEn": "قَلَم → _____ (on the pattern أَفْعَال)",
+      "answer": "أَقْلَام",
+      "itemIds": ["word-b3-477"]
+    },
+    {
+      "id": "b3-l71-ex05",
+      "type": "fill-blank",
+      "prompt": "صَحِيفَة → _____ (على وزن فَعَائِل)",
+      "promptEn": "صَحِيفَة → _____ (on the pattern فَعَائِل)",
+      "answer": "صَحَائِف",
+      "itemIds": ["word-b3-478"]
+    },
+    {
+      "id": "b3-l71-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "houses (plural of بَيْت)",
+      "answer": "بُيُوت",
+      "itemIds": ["word-b3-479"]
+    },
+    {
+      "id": "b3-l71-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "hearts (plural of قَلْب)",
+      "answer": "قُلُوب",
+      "itemIds": ["word-b3-480"]
+    },
+    {
+      "id": "b3-l71-ex08",
+      "type": "word-to-meaning",
+      "prompt": "جَمْع الْقِلَّة",
+      "answer": "plural of paucity (3-10 items)",
+      "itemIds": ["word-b3-474"]
+    },
+    {
+      "id": "b3-l71-ex09",
+      "type": "word-to-meaning",
+      "prompt": "جَمْع الْكَثْرَة",
+      "answer": "plural of abundance (10+ items)",
+      "itemIds": ["word-b3-481"]
+    },
+    {
+      "id": "b3-l71-ex10",
+      "type": "word-to-meaning",
+      "prompt": "أَوْزَان",
+      "answer": "patterns / measures (plural of وَزْن)",
+      "itemIds": ["word-b3-482"]
+    },
+    {
+      "id": "b3-l71-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The plural pattern for قَلَم → أَقْلَام",
+      "answer": "أَفْعَال",
+      "itemIds": ["word-b3-483"]
+    },
+    {
+      "id": "b3-l71-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The plural pattern for بَيْت → بُيُوت",
+      "answer": "فُعُول",
+      "itemIds": ["word-b3-483"]
+    }
+  ]
+}

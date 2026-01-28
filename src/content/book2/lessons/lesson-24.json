@@ -1,0 +1,168 @@
+{
+  "id": "b2-l24",
+  "book": 2,
+  "lesson": 24,
+  "title": "الفِعْل النَّاقِص",
+  "titleEn": "Defective Verbs",
+  "vocabulary": [
+    "word-b2-126",
+    "word-b2-127",
+    "word-b2-128",
+    "word-b2-129",
+    "word-b2-130"
+  ],
+  "grammarPoints": ["gp-b2-024"],
+  "notes": [
+    {
+      "title": "Defective Verbs (الفعل الناقص)",
+      "titleArabic": "الفعل الناقص",
+      "content": [
+        "Defective verbs (الفعل الناقص) have و or ي as their third (final) radical. This weak letter changes or drops in various conjugations.",
+        "In the past tense, the final radical may appear as ا (alif) or ى (alif maqsūrah). In the present tense, it appears as و or ي."
+      ],
+      "keyPoints": [
+        "Third radical is و or ي",
+        "Past tense endings: ـَا (dawa), ـَى (ramā)",
+        "دَعَا (to call/pray) - from root د-ع-و",
+        "رَمَى (to throw) - from root ر-م-ي",
+        "مَشَى (to walk) - from root م-ش-ي",
+        "بَكَى (to cry) - from root ب-ك-ي"
+      ],
+      "examples": [
+        { "arabic": "دَعَا رَبَّهُ", "english": "He called upon his Lord" },
+        { "arabic": "رَمَى الْكُرَةَ", "english": "He threw the ball" },
+        { "arabic": "مَشَى إِلَى الْمَدْرَسَةِ", "english": "He walked to school" },
+        { "arabic": "بَكَى الطِّفْلُ", "english": "The child cried" }
+      ]
+    },
+    {
+      "title": "Present Tense of Defective Verbs",
+      "titleArabic": "المضارع من الفعل الناقص",
+      "content": [
+        "In the present tense, defective verbs show their original final radical (و or ي), with changes in certain forms."
+      ],
+      "keyPoints": [
+        "دَعَا → يَدْعُو (he calls)",
+        "رَمَى → يَرْمِي (he throws)",
+        "مَشَى → يَمْشِي (he walks)",
+        "In jussive, the final weak letter drops: لَمْ يَدْعُ، لَمْ يَرْمِ"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l24-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الرَّجُلُ رَبَّهُ (دَعَا)",
+      "answer": "دَعَا",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He threw the ball",
+      "answer": "رَمَى الكُرَةَ",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الوَلَدُ إِلَى المَدْرَسَةِ (مَشَى)",
+      "answer": "مَشَى",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex04",
+      "type": "word-to-meaning",
+      "prompt": "بَكَى",
+      "answer": "to cry/weep",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to call/pray",
+      "answer": "دَعَا",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The child walked to school",
+      "answer": "مَشَى الطِّفْلُ إِلَى المَدْرَسَةِ",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ اللهَ (يَدْعُو)",
+      "answer": "يَدْعُو",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex08",
+      "type": "word-to-meaning",
+      "prompt": "رَمَى",
+      "answer": "to throw",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "The baby cried",
+      "answer": "بَكَى الطِّفْلُ",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ الحَجَرَ (رَمَى)",
+      "answer": "رَمَى",
+      "itemIds": [
+        "word-b2-126",
+        "word-b2-127"
+      ]
+    },
+    {
+      "id": "b2-l24-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "He called upon his Lord in the night",
+      "answer": "دَعَا رَبَّهُ فِي اللَّيْلِ",
+      "itemIds": ["word-b2-126", "word-b2-127"]
+    },
+    {
+      "id": "b2-l24-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The boy walked to the mosque with his father",
+      "answer": "مَشَى الْوَلَدُ إِلَى الْمَسْجِدِ مَعَ أَبِيهِ",
+      "itemIds": ["word-b2-128", "word-b2-107", "word-048", "word-007", "word-050", "word-082"]
+    }
+  ]
+}

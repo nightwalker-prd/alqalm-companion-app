@@ -1,0 +1,118 @@
+{
+  "id": "b1-l12",
+  "book": 1,
+  "lesson": 12,
+  "title": "الْفِعْلُ مَعَ الضَّمَائِر",
+  "titleEn": "Verbs with Pronouns",
+  "description": "Learn how verbs change with different pronouns: أَنَا ذَهَبْتُ (I went), أَنْتَ ذَهَبْتَ (you went).",
+  "vocabulary": ["word-074", "word-075", "word-076", "word-077"],
+  "grammarPoints": ["gp-017"],
+  "notes": [
+    {
+      "title": "Verb Conjugation with Pronouns",
+      "titleArabic": "الْفِعْلُ مَعَ الضَّمَائِر",
+      "content": [
+        "Arabic verbs change their endings based on who is performing the action. These endings are attached to the past tense base to indicate the subject.",
+        "The pronouns أَنَا (I), أَنْتَ (you masc.), أَنْتِ (you fem.), and نَحْنُ (we) each have corresponding verb endings."
+      ],
+      "keyPoints": [
+        "هُوَ ذَهَبَ → أَنَا ذَهَبْتُ (I went) - ending: تُ",
+        "أَنْتَ ذَهَبْتَ (you masc. went) - ending: تَ",
+        "أَنْتِ ذَهَبْتِ (you fem. went) - ending: تِ",
+        "نَحْنُ ذَهَبْنَا (we went) - ending: نَا"
+      ],
+      "examples": [
+        { "arabic": "ذَهَبْتُ إِلَى الْمَسْجِدِ", "english": "I went to the mosque" },
+        { "arabic": "كَتَبْتَ فِي الْكِتَابِ", "english": "You (m.) wrote in the book" },
+        { "arabic": "قَرَأْتِ الدَّرْسَ", "english": "You (f.) read the lesson" },
+        { "arabic": "كَتَبْنَا فِي الدَّفْتَرِ", "english": "We wrote in the notebook" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l12-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I went",
+      "answer": "ذَهَبْتُ",
+      "itemIds": ["word-074", "word-068"]
+    },
+    {
+      "id": "b1-l12-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "You (m.) went",
+      "answer": "ذَهَبْتَ",
+      "itemIds": ["word-075", "word-068"]
+    },
+    {
+      "id": "b1-l12-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "I wrote",
+      "answer": "كَتَبْتُ",
+      "itemIds": ["word-074", "word-069"]
+    },
+    {
+      "id": "b1-l12-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "You (m.) wrote",
+      "answer": "كَتَبْتَ",
+      "itemIds": ["word-075", "word-069"]
+    },
+    {
+      "id": "b1-l12-ex05",
+      "type": "word-to-meaning",
+      "prompt": "أَنَا",
+      "answer": "I",
+      "itemIds": ["word-074"]
+    },
+    {
+      "id": "b1-l12-ex06",
+      "type": "word-to-meaning",
+      "prompt": "أَنْتَ",
+      "answer": "you (m.)",
+      "itemIds": ["word-075"]
+    },
+    {
+      "id": "b1-l12-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَنْتِ",
+      "answer": "you (f.)",
+      "itemIds": ["word-076"]
+    },
+    {
+      "id": "b1-l12-ex08",
+      "type": "word-to-meaning",
+      "prompt": "نَحْنُ",
+      "answer": "we",
+      "itemIds": ["word-077"]
+    },
+    {
+      "id": "b1-l12-ex09",
+      "type": "meaning-to-word",
+      "prompt": "I",
+      "answer": "أَنَا",
+      "itemIds": ["word-074"]
+    },
+    {
+      "id": "b1-l12-ex10",
+      "type": "meaning-to-word",
+      "prompt": "we",
+      "answer": "نَحْنُ",
+      "itemIds": ["word-077"]
+    },
+    {
+      "id": "b1-l12-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I went to the mosque",
+      "answer": "ذَهَبْتُ إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-074", "word-068", "word-048", "word-007"]
+    },
+    {
+      "id": "b1-l12-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "We wrote in the book",
+      "answer": "كَتَبْنَا فِي الْكِتَابِ",
+      "itemIds": ["word-077", "word-069", "word-046", "word-002"]
+    }
+  ]
+}

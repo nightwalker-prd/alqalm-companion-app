@@ -1,0 +1,134 @@
+{
+  "id": "b3-l13",
+  "book": 3,
+  "lesson": 13,
+  "title": "الْفِعْلُ النَّاقِص",
+  "titleEn": "Defective Verbs (Final Weak Letter)",
+  "description": "Learn verbs with weak final letter: مَشَى (to walk), دَعَا (to call), بَنَى (to build).",
+  "vocabulary": ["word-b3-071", "word-b3-072", "word-b3-073", "word-b3-074", "word-b3-075"],
+  "grammarPoints": ["gp-b3-013"],
+  "notes": [
+    {
+      "title": "Lām al-Amr and Lā al-Nāhiya",
+      "titleArabic": "لام الأمر ولا الناهية",
+      "content": [
+        "Lām al-amr is used for commands in the third person (let him/them do), while lā al-nāhiya is used for prohibitions. Both cause jazm in the following verb."
+      ],
+      "keyPoints": [
+        "Lām al-amr: لِيَذْهَبْ (let him go) - 3rd person command",
+        "Lā al-nāhiya: لَا تَذْهَبْ (don't go) - prohibition",
+        "Both cause jazm (jussive mood) in the verb",
+        "Jazm can follow commands/prohibitions in response clauses"
+      ],
+      "examples": [
+        { "arabic": "لِيَجْلِسْ", "english": "Let him sit (3rd person command)" },
+        { "arabic": "لَا تَكْتُبْ", "english": "Don't write (prohibition)" }
+      ]
+    },
+    {
+      "title": "Defective Verbs (الفعل الناقص)",
+      "titleArabic": "الفعل الناقص",
+      "content": [
+        "Defective verbs have wāw or yā' as their final radical. The weak letter undergoes various changes depending on the conjugation and the vowel preceding it."
+      ],
+      "keyPoints": [
+        "Final radical is wāw or yā'",
+        "Weak letter may appear as alif, wāw, yā', or drop entirely",
+        "In jussive: لَمْ يَمْشِ, لَمْ يَدْعُ (weak letter drops)",
+        "Common verbs: مَشَى, دَعَا, بَنَى, رَمَى, نَسِيَ"
+      ],
+      "examples": [
+        { "arabic": "مَشَى - يَمْشِي - لَمْ يَمْشِ", "english": "to walk" },
+        { "arabic": "دَعَا - يَدْعُو - لَمْ يَدْعُ", "english": "to call/invite" },
+        { "arabic": "بَنَى - يَبْنِي - لَمْ يَبْنِ", "english": "to build" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l13-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He walked to the mosque",
+      "answer": "مَشَى إِلَى الْمَسْجِدِ",
+      "itemIds": ["word-b3-071", "word-006"]
+    },
+    {
+      "id": "b3-l13-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She called her mother",
+      "answer": "دَعَتْ أُمَّهَا",
+      "itemIds": ["word-b3-072"]
+    },
+    {
+      "id": "b3-l13-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الرَّجُلُ بَيْتًا جَدِيدًا",
+      "promptEn": "The man built a new house",
+      "answer": "بَنَى",
+      "itemIds": ["word-b3-073"]
+    },
+    {
+      "id": "b3-l13-ex04",
+      "type": "word-to-meaning",
+      "prompt": "مَشَى",
+      "answer": "to walk",
+      "itemIds": ["word-b3-071"]
+    },
+    {
+      "id": "b3-l13-ex05",
+      "type": "word-to-meaning",
+      "prompt": "دَعَا",
+      "answer": "to call / invite",
+      "itemIds": ["word-b3-072"]
+    },
+    {
+      "id": "b3-l13-ex06",
+      "type": "word-to-meaning",
+      "prompt": "بَنَى",
+      "answer": "to build",
+      "itemIds": ["word-b3-073"]
+    },
+    {
+      "id": "b3-l13-ex07",
+      "type": "word-to-meaning",
+      "prompt": "رَمَى",
+      "answer": "to throw",
+      "itemIds": ["word-b3-074"]
+    },
+    {
+      "id": "b3-l13-ex08",
+      "type": "word-to-meaning",
+      "prompt": "نَسِيَ",
+      "answer": "to forget",
+      "itemIds": ["word-b3-075"]
+    },
+    {
+      "id": "b3-l13-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to walk (defective verb)",
+      "answer": "مَشَى",
+      "itemIds": ["word-b3-071"]
+    },
+    {
+      "id": "b3-l13-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to forget (defective verb)",
+      "answer": "نَسِيَ",
+      "itemIds": ["word-b3-075"]
+    },
+    {
+      "id": "b3-l13-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The workers built the school in two years",
+      "answer": "بَنَى الْعُمَّالُ الْمَدْرَسَةَ فِي سَنَتَيْنِ",
+      "itemIds": ["word-b3-073"]
+    },
+    {
+      "id": "b3-l13-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I forgot my bag at home",
+      "answer": "نَسِيتُ حَقِيبَتِي فِي الْبَيْتِ",
+      "itemIds": ["word-b3-075", "word-003"]
+    }
+  ]
+}

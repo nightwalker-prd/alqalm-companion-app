@@ -1,0 +1,183 @@
+{
+  "id": "b3-l51",
+  "book": 3,
+  "lesson": 51,
+  "title": "المَمْنُوع مِنَ الصَّرْف",
+  "titleEn": "Diptotes (Nouns Forbidden from Full Declension)",
+  "description": "Learn about الممنوع من الصرف (diptotes), nouns that don't take tanween or kasra, and the patterns that cause this restriction.",
+  "vocabulary": ["word-b3-357", "word-b3-358", "word-b3-359", "word-b3-360", "word-b3-361", "word-b3-362"],
+  "grammarPoints": ["gp-b3-064", "gp-b3-065"],
+  "notes": [
+    {
+      "title": "What is الممنوع من الصرف?",
+      "titleArabic": "تعريف الممنوع من الصرف",
+      "content": [
+        "الممنوع من الصرف (diptotes) are nouns that cannot take تنوين (nunation) or كسرة in the genitive case. Instead, they take فتحة for both accusative and genitive.",
+        "Regular nouns (المنصرف) have three case endings: ضمة (nominative), فتحة (accusative), كسرة (genitive). Diptotes only use ضمة and فتحة."
+      ],
+      "keyPoints": [
+        "No تنوين: أَحْمَدُ not أَحْمَدٌ",
+        "Genitive takes فتحة: مَرَرْتُ بِأَحْمَدَ (not بِأَحْمَدٍ)",
+        "Nominative still takes ضمة: جَاءَ أَحْمَدُ",
+        "When definite (with ال) or in إضافة, takes normal كسرة"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ إِبْرَاهِيمُ", "english": "Ibrahim came (nominative - ضمة)" },
+        { "arabic": "رَأَيْتُ إِبْرَاهِيمَ", "english": "I saw Ibrahim (accusative - فتحة)" },
+        { "arabic": "مَرَرْتُ بِإِبْرَاهِيمَ", "english": "I passed by Ibrahim (genitive - فتحة, not كسرة)" },
+        { "arabic": "صَلَّيْتُ فِي الْمَسَاجِدِ", "english": "I prayed in the mosques (with ال, takes كسرة)" }
+      ]
+    },
+    {
+      "title": "Diptotes Due to One Reason",
+      "titleArabic": "الممنوع من الصرف لعلة واحدة",
+      "content": [
+        "Some patterns are diptote due to a single strong reason. These include: صِيغَة مُنْتَهَى الْجُمُوع (broken plurals on certain patterns) and the feminine ending ألف التأنيث.",
+        "صيغة منتهى الجموع has patterns like مَفَاعِل and مَفَاعِيل: مَسَاجِد، مَصَابِيح."
+      ],
+      "keyPoints": [
+        "صيغة منتهى الجموع: broken plurals like مَسَاجِد، كَرَاسِي، مَصَابِيح",
+        "Pattern: after ألف الجمع, two letters or three with middle ساكن",
+        "ألف التأنيث الممدودة: صَحْرَاء، حَمْرَاء",
+        "ألف التأنيث المقصورة: كُبْرَى، ذِكْرَى"
+      ],
+      "examples": [
+        { "arabic": "صَلَّيْتُ فِي مَسَاجِدَ كَثِيرَةٍ", "english": "I prayed in many mosques" },
+        { "arabic": "رَأَيْتُ مَصَابِيحَ مُضِيئَةً", "english": "I saw bright lamps" },
+        { "arabic": "سَافَرْتُ إِلَى صَحْرَاءَ", "english": "I traveled to a desert" },
+        { "arabic": "هَذِهِ ذِكْرَى جَمِيلَةٌ", "english": "This is a beautiful memory" }
+      ]
+    },
+    {
+      "title": "Diptotes Due to Two Reasons - Proper Nouns",
+      "titleArabic": "الممنوع من الصرف لعلتين - الأعلام",
+      "content": [
+        "Many diptotes require two reasons. For proper nouns (العَلَم), the second reason can be: foreign origin (أعجمي), feminine form (تأنيث), added letters (زيادة), or specific pattern (وزن الفعل).",
+        "Examples: إِبْرَاهِيم (foreign), فَاطِمَة (feminine), عُثْمَان (added ان), أَحْمَد (verb pattern أَفْعَل)."
+      ],
+      "keyPoints": [
+        "عَلَم + أعجمي: إِبْرَاهِيم، يُوسُف، إِسْمَاعِيل",
+        "عَلَم + تأنيث: فَاطِمَة، عَائِشَة، زَيْنَب",
+        "عَلَم + زيادة ألف ونون: عُثْمَان، سُلَيْمَان، رَمَضَان",
+        "عَلَم + وزن الفعل: أَحْمَد، يَزِيد، يَعْقُوب"
+      ],
+      "examples": [
+        { "arabic": "قَرَأْتُ عَنْ إِبْرَاهِيمَ", "english": "I read about Ibrahim" },
+        { "arabic": "سَلَّمْتُ عَلَى فَاطِمَةَ", "english": "I greeted Fatima" },
+        { "arabic": "صُمْتُ فِي رَمَضَانَ", "english": "I fasted in Ramadan" },
+        { "arabic": "مَرَرْتُ بِأَحْمَدَ", "english": "I passed by Ahmad" }
+      ]
+    },
+    {
+      "title": "Diptotes Due to Two Reasons - Adjectives",
+      "titleArabic": "الممنوع من الصرف لعلتين - الصفات",
+      "content": [
+        "Adjectives (الصفة) can also be diptote with a second reason. Common patterns include: أَفْعَل colors/defects, فَعْلَان، and فُعَال/مَفْعَل for عُدُول (shifted meaning).",
+        "Examples: أَحْمَر (red), عَطْشَان (thirsty), أُخَر (other), مَثْنَى (two by two)."
+      ],
+      "keyPoints": [
+        "صفة + وزن أَفْعَل: أَحْمَر، أَسْوَد، أَكْبَر، أَصْغَر",
+        "صفة + ألف ونون زائدتان: عَطْشَان، غَضْبَان، جَوْعَان",
+        "صفة + عُدُول: أُخَر (shifted from آخَر), مَثْنَى، ثُلَاث",
+        "These don't take تنوين: رَجُلٌ أَحْمَرُ (not أَحْمَرٌ)"
+      ],
+      "examples": [
+        { "arabic": "رَأَيْتُ بَيْتًا أَبْيَضَ", "english": "I saw a white house" },
+        { "arabic": "هُوَ رَجُلٌ عَطْشَانُ", "english": "He is a thirsty man" },
+        { "arabic": "جَاءُوا مَثْنَى وَثُلَاثَ", "english": "They came two by two and three by three" },
+        { "arabic": "قَابَلْتُ نِسَاءً أُخَرَ", "english": "I met other women" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l51-ex01",
+      "type": "fill-blank",
+      "prompt": "مَرَرْتُ بِإِبْرَاهِيمَ (الجر بـ _____)",
+      "promptEn": "I passed by Ibrahim (genitive with _____)",
+      "answer": "الْفَتْحَة",
+      "itemIds": ["word-b3-357"]
+    },
+    {
+      "id": "b3-l51-ex02",
+      "type": "fill-blank",
+      "prompt": "صَلَّيْتُ فِي _____ كَثِيرَةٍ",
+      "promptEn": "I prayed in many _____",
+      "answer": "مَسَاجِدَ",
+      "itemIds": ["word-b3-358"]
+    },
+    {
+      "id": "b3-l51-ex03",
+      "type": "fill-blank",
+      "prompt": "سَلَّمْتُ عَلَى _____",
+      "promptEn": "I greeted _____",
+      "answer": "فَاطِمَةَ",
+      "itemIds": ["word-b3-359"]
+    },
+    {
+      "id": "b3-l51-ex04",
+      "type": "fill-blank",
+      "prompt": "رَأَيْتُ بَيْتًا _____",
+      "promptEn": "I saw a _____ house",
+      "answer": "أَبْيَضَ",
+      "itemIds": ["word-b3-360"]
+    },
+    {
+      "id": "b3-l51-ex05",
+      "type": "fill-blank",
+      "prompt": "هُوَ رَجُلٌ _____",
+      "promptEn": "He is a _____ man (thirsty)",
+      "answer": "عَطْشَانُ",
+      "itemIds": ["word-b3-361"]
+    },
+    {
+      "id": "b3-l51-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I read about Ibrahim",
+      "answer": "قَرَأْتُ عَنْ إِبْرَاهِيمَ",
+      "itemIds": ["word-b3-357"]
+    },
+    {
+      "id": "b3-l51-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I fasted in Ramadan",
+      "answer": "صُمْتُ فِي رَمَضَانَ",
+      "itemIds": ["word-b3-362"]
+    },
+    {
+      "id": "b3-l51-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "I traveled to a desert",
+      "answer": "سَافَرْتُ إِلَى صَحْرَاءَ",
+      "itemIds": ["word-b3-358"]
+    },
+    {
+      "id": "b3-l51-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "I passed by Ahmad",
+      "answer": "مَرَرْتُ بِأَحْمَدَ",
+      "itemIds": ["word-b3-357"]
+    },
+    {
+      "id": "b3-l51-ex10",
+      "type": "word-to-meaning",
+      "prompt": "الممنوع من الصرف",
+      "answer": "diptote / forbidden from declension",
+      "itemIds": ["word-b3-357"]
+    },
+    {
+      "id": "b3-l51-ex11",
+      "type": "word-to-meaning",
+      "prompt": "صيغة منتهى الجموع",
+      "answer": "ultimate plural form",
+      "itemIds": ["word-b3-358"]
+    },
+    {
+      "id": "b3-l51-ex12",
+      "type": "meaning-to-word",
+      "prompt": "white (masculine)",
+      "answer": "أَبْيَض",
+      "itemIds": ["word-b3-360"]
+    }
+  ]
+}

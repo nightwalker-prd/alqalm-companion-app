@@ -1,0 +1,169 @@
+{
+  "id": "b3-l27",
+  "book": 3,
+  "lesson": 27,
+  "title": "الجُمْلَة الشَّرْطِيَّة",
+  "titleEn": "Conditional Sentences",
+  "notes": [
+    {
+      "title": "Pronouns (الضمائر)",
+      "titleArabic": "الضمائر",
+      "content": [
+        "Arabic pronouns are divided into separate (munfaṣil) and attached (muttaṣil) forms. There are different sets for nominative (raf') and accusative/genitive (naṣb/jarr) cases."
+      ],
+      "keyPoints": [
+        "Separate pronouns for raf': أَنَا, أَنْتَ, هُوَ, etc.",
+        "Separate pronouns for naṣb: إِيَّاكَ, إِيَّاهُ, etc.",
+        "Attached pronouns: ـهُ, ـكَ, ـي, etc.",
+        "Use separate naṣb pronouns for emphasis or when unattached"
+      ],
+      "examples": [
+        { "arabic": "إِيَّاكَ نَعْبُدُ", "english": "You alone we worship (emphasis)" },
+        { "arabic": "رَأَيْتُهُ", "english": "I saw him (attached)" }
+      ]
+    },
+    {
+      "title": "Conditional Sentences",
+      "titleArabic": "الجملة الشرطية",
+      "content": [
+        "Conditional sentences consist of a condition (sharṭ) and response (jawāb). Different particles introduce different types of conditions."
+      ],
+      "keyPoints": [
+        "إِنْ: general/uncertain condition, causes jazm",
+        "إِذَا: certain future condition",
+        "لَوْ: unfulfilled past condition",
+        "لَوْلَا: 'if not for' - counterfactual"
+      ],
+      "examples": [
+        { "arabic": "إِنْ تَدْرُسْ تَنْجَحْ", "english": "If you study, you will succeed" },
+        { "arabic": "لَوْ دَرَسَ لَنَجَحَ", "english": "If he had studied, he would have succeeded" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-143",
+    "word-b3-144",
+    "word-b3-145",
+    "word-b3-146",
+    "word-b3-147"
+  ],
+  "grammarPoints": [
+    "gp-b3-027"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l27-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ تَدْرُسْ تَنْجَحْ (إِنْ)",
+      "answer": "إِنْ",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "If you come, I will help you",
+      "answer": "إِنْ تَأْتِ أُسَاعِدْكَ",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ جَاءَ فَأَخْبِرْنِي (إِذَا)",
+      "answer": "إِذَا",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex04",
+      "type": "word-to-meaning",
+      "prompt": "لَوْ كَانَ",
+      "answer": "if it were (hypothetical)",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex05",
+      "type": "meaning-to-word",
+      "prompt": "if (certain future)",
+      "answer": "إِذَا",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "If he had studied, he would have succeeded",
+      "answer": "لَوْ دَرَسَ لَنَجَحَ",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex07",
+      "type": "fill-blank",
+      "prompt": "_____ كُنْتَ غَنِيًّا لَأَعْطَيْتَنِي (لَوْ)",
+      "answer": "لَوْ",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَوْلاَ",
+      "answer": "if not for / were it not for",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "Whoever does good will see it",
+      "answer": "مَنْ يَعْمَلْ خَيْرًا يَرَهُ",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ اللهُ لَهَلَكْنَا (لَوْلاَ)",
+      "answer": "لَوْلاَ",
+      "itemIds": [
+        "word-b3-143",
+        "word-b3-144"
+      ]
+    },
+    {
+      "id": "b3-l27-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "If you fear Allah, He will guide you",
+      "answer": "إِنْ تَتَّقِ اللهَ يَهْدِكَ",
+      "itemIds": ["word-b3-143", "word-b3-144"]
+    },
+    {
+      "id": "b3-l27-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Were it not for knowledge, the nations would have perished",
+      "answer": "لَوْلاَ الْعِلْمُ لَهَلَكَتِ الْأُمَمُ",
+      "itemIds": ["word-b3-143", "word-b3-144"]
+    }
+  ]
+}

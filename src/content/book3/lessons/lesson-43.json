@@ -1,0 +1,141 @@
+{
+  "id": "b3-l43",
+  "book": 3,
+  "lesson": 43,
+  "title": "أَفْعَالُ الشُّرُوع",
+  "titleEn": "Verbs of Beginning",
+  "description": "Learn about verbs of beginning (أفعال الشروع) which indicate the start of an action.",
+  "vocabulary": ["word-b3-309", "word-b3-310", "word-b3-311", "word-b3-312", "word-b3-313", "word-b3-314"],
+  "grammarPoints": ["gp-b3-048", "gp-b3-049"],
+  "notes": [
+    {
+      "title": "Verbs of Beginning (أفعال الشروع)",
+      "titleArabic": "أفعال الشروع",
+      "content": [
+        "Verbs of beginning (أفعال الشروع) indicate that someone has started or begun an action.",
+        "Common verbs include شَرَعَ، بَدَأَ، أَخَذَ، جَعَلَ. They work like كَانَ with a verbal predicate."
+      ],
+      "keyPoints": [
+        "شَرَعَ - began, started (شرع يكتب - he began writing)",
+        "بَدَأَ - began, started (بدأ يقرأ - he began reading)",
+        "أَخَذَ - began (took to) (أخذ يتكلم - he began speaking)",
+        "جَعَلَ - began, set about (جعل يضحك - he began laughing)"
+      ],
+      "examples": [
+        { "arabic": "شَرَعَ الطَّالِبُ يَكْتُبُ", "english": "The student began to write" },
+        { "arabic": "بَدَأَ الْمَطَرُ يَنْزِلُ", "english": "The rain began to fall" },
+        { "arabic": "أَخَذَ الْوَلَدُ يَبْكِي", "english": "The boy began to cry" },
+        { "arabic": "جَعَلَتْ تَنْظُرُ إِلَيْهِ", "english": "She began looking at him" }
+      ]
+    },
+    {
+      "title": "Predicate of Verbs of Beginning",
+      "titleArabic": "خبر أفعال الشروع",
+      "content": [
+        "The predicate of verbs of beginning must be a present tense verb (not أَنْ + subjunctive).",
+        "The present tense verb must agree with the subject in gender and number."
+      ],
+      "keyPoints": [
+        "The predicate is always مُضَارِع (present tense)",
+        "Never use أَنْ with verbs of beginning",
+        "The verb agrees with the subject",
+        "طَفِقَ and أَنْشَأَ are also verbs of beginning"
+      ],
+      "examples": [
+        { "arabic": "شَرَعَ يَدْرُسُ الْعَرَبِيَّةَ", "english": "He began studying Arabic" },
+        { "arabic": "بَدَأَتْ تَفْهَمُ الدَّرْسَ", "english": "She began understanding the lesson" },
+        { "arabic": "أَخَذُوا يَتَكَلَّمُونَ", "english": "They began speaking" },
+        { "arabic": "طَفِقَ يَخْصِفُ عَلَيْهِمَا", "english": "He began to cover themselves (Quranic)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l43-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّالِبُ يَكْتُبُ",
+      "promptEn": "The student _____ to write",
+      "answer": "شَرَعَ",
+      "itemIds": ["word-b3-309"]
+    },
+    {
+      "id": "b3-l43-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ الْمَطَرُ يَنْزِلُ",
+      "promptEn": "The rain _____ to fall",
+      "answer": "بَدَأَ",
+      "itemIds": ["word-b3-310"]
+    },
+    {
+      "id": "b3-l43-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْوَلَدُ يَبْكِي",
+      "promptEn": "The boy _____ to cry",
+      "answer": "أَخَذَ",
+      "itemIds": ["word-b3-311"]
+    },
+    {
+      "id": "b3-l43-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "She began to read",
+      "answer": "شَرَعَتْ تَقْرَأُ",
+      "itemIds": ["word-b3-309"]
+    },
+    {
+      "id": "b3-l43-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "They began to work",
+      "answer": "بَدَأُوا يَعْمَلُونَ",
+      "itemIds": ["word-b3-310"]
+    },
+    {
+      "id": "b3-l43-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He began to laugh",
+      "answer": "جَعَلَ يَضْحَكُ",
+      "itemIds": ["word-b3-312"]
+    },
+    {
+      "id": "b3-l43-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I began to understand",
+      "answer": "أَخَذْتُ أَفْهَمُ",
+      "itemIds": ["word-b3-311"]
+    },
+    {
+      "id": "b3-l43-ex08",
+      "type": "word-to-meaning",
+      "prompt": "شَرَعَ",
+      "answer": "began / started",
+      "itemIds": ["word-b3-309"]
+    },
+    {
+      "id": "b3-l43-ex09",
+      "type": "word-to-meaning",
+      "prompt": "بَدَأَ",
+      "answer": "began / started",
+      "itemIds": ["word-b3-310"]
+    },
+    {
+      "id": "b3-l43-ex10",
+      "type": "word-to-meaning",
+      "prompt": "جَعَلَ",
+      "answer": "began / set about",
+      "itemIds": ["word-b3-312"]
+    },
+    {
+      "id": "b3-l43-ex11",
+      "type": "meaning-to-word",
+      "prompt": "to cry",
+      "answer": "يَبْكِي",
+      "itemIds": ["word-b3-313"]
+    },
+    {
+      "id": "b3-l43-ex12",
+      "type": "meaning-to-word",
+      "prompt": "to laugh",
+      "answer": "يَضْحَكُ",
+      "itemIds": ["word-b3-314"]
+    }
+  ]
+}

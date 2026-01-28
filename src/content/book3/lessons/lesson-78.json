@@ -1,0 +1,224 @@
+{
+  "id": "b3-l78",
+  "book": 3,
+  "lesson": 78,
+  "title": "مَا الْكَافَّةُ وَالْمَكْفُوفَةُ",
+  "titleEn": "The Neutralizing Ma and Neutralized Particles",
+  "description": "Learn about مَا الكافة - the ما that prevents particles from governing, and the مكفوف particles (إِنَّمَا، رُبَّمَا، كَأَنَّمَا) that lose their governance when ما is attached.",
+  "vocabulary": ["word-b3-518", "word-b3-519", "word-b3-520", "word-b3-521", "word-b3-522"],
+  "grammarPoints": ["gp-b3-118", "gp-b3-119"],
+  "notes": [
+    {
+      "title": "What is مَا الكافة?",
+      "titleArabic": "مَا هِيَ مَا الْكَافَّةُ؟",
+      "content": [
+        "مَا الكافة (the neutralizing ما) is a particle that attaches to certain governing words and 'neutralizes' or prevents (كَفَّ) them from exercising their grammatical governance. The word it attaches to becomes مَكْفُوف (neutralized/prevented).",
+        "This is different from مَا الزائدة (extra ما) which is added for emphasis but doesn't change governance. مَا الكافة actually changes the grammatical behavior of the particle it attaches to."
+      ],
+      "keyPoints": [
+        "كَفَّ = to prevent, restrain, neutralize",
+        "مَا الكافة prevents governance",
+        "الحرف المكفوف: the neutralized particle",
+        "Different from مَا الزائدة"
+      ],
+      "examples": [
+        { "arabic": "إِنَّ زَيْدًا قَائِمٌ (إِنَّ عَامِلَة)", "english": "Indeed Zayd is standing (إِنَّ governs)" },
+        { "arabic": "إِنَّمَا زَيْدٌ قَائِمٌ (إِنَّمَا مَكْفُوفَة)", "english": "Zayd is only standing (إِنَّمَا doesn't govern)" },
+        { "arabic": "رُبَّ رَجُلٍ لَقِيتُهُ (رُبَّ عَامِلَة)", "english": "Many a man I met (رُبَّ governs genitive)" },
+        { "arabic": "رُبَّمَا يَوَدُّ الَّذِينَ كَفَرُوا (رُبَّمَا مَكْفُوفَة)", "english": "Perhaps those who disbelieved will wish (رُبَّمَا precedes verb)" }
+      ]
+    },
+    {
+      "title": "إِنَّمَا - Restriction Particle",
+      "titleArabic": "إِنَّمَا - أَدَاةُ الْحَصْرِ",
+      "content": [
+        "When مَا الكافة attaches to إِنَّ, it becomes إِنَّمَا which has two effects: 1) إِنَّ loses its governance (no longer takes اسم منصوب), 2) The compound إِنَّمَا now means حَصْر (restriction/only).",
+        "After إِنَّمَا, the sentence structure returns to normal مبتدأ + خبر (both nominative). إِنَّمَا can also precede verbs, which إِنَّ alone cannot do."
+      ],
+      "keyPoints": [
+        "إِنَّ + مَا الكافة = إِنَّمَا",
+        "إِنَّمَا: loses governance, gains meaning of حَصْر",
+        "حَصْر = restriction, limitation (meaning 'only')",
+        "Can precede nominal sentences or verbs"
+      ],
+      "examples": [
+        { "arabic": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ", "english": "The believers are only brothers (Quran 49:10)" },
+        { "arabic": "إِنَّمَا يَخْشَى اللهَ مِنْ عِبَادِهِ الْعُلَمَاءُ", "english": "Only the scholars fear Allah among His servants (Quran 35:28)" },
+        { "arabic": "إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ", "english": "Actions are only by intentions (Hadith)" },
+        { "arabic": "إِنَّمَا أَنْتَ مُنْذِرٌ", "english": "You are only a warner (Quran 13:7)" }
+      ]
+    },
+    {
+      "title": "رُبَّمَا - Perhaps",
+      "titleArabic": "رُبَّمَا - لِلتَّقْلِيلِ أَوِ التَّكْثِيرِ",
+      "content": [
+        "When مَا الكافة attaches to رُبَّ (particle of paucity/abundance), it becomes رُبَّمَا. This prevents رُبَّ from requiring a مجرور noun after it, allowing رُبَّمَا to precede verbs.",
+        "رُبَّمَا retains the meaning of رُبَّ (perhaps/many a) but with expanded usage. It commonly precedes verbs in classical Arabic and Quran."
+      ],
+      "keyPoints": [
+        "رُبَّ + مَا الكافة = رُبَّمَا",
+        "رُبَّ alone: only takes nouns (مجرور)",
+        "رُبَّمَا: can precede verbs",
+        "Meaning: perhaps, maybe, often"
+      ],
+      "examples": [
+        { "arabic": "رُبَمَا يَوَدُّ الَّذِينَ كَفَرُوا لَوْ كَانُوا مُسْلِمِينَ", "english": "Perhaps those who disbelieved will wish they had been Muslims (Quran 15:2)" },
+        { "arabic": "رُبَّمَا أَوْفَيْتُ فِي عَلَمٍ", "english": "Perhaps I have ascended to a peak (poetry)" },
+        { "arabic": "رُبَّمَا تَكْرَهُ النُّفُوسُ مِنَ الْأَمْرِ", "english": "Perhaps souls hate from a matter..." },
+        { "arabic": "رُبَّمَا يَنْدَمُ الْإِنْسَانُ", "english": "Perhaps a person regrets" }
+      ]
+    },
+    {
+      "title": "كَأَنَّمَا - As If",
+      "titleArabic": "كَأَنَّمَا - لِلتَّشْبِيهِ",
+      "content": [
+        "When مَا الكافة attaches to كَأَنَّ (as if), it becomes كَأَنَّمَا. This prevents كَأَنَّ from governing (no اسم منصوب), and allows it to precede both nominal sentences and verbs.",
+        "كَأَنَّمَا retains the meaning of comparison/simile (تشبيه) but with greater flexibility in sentence structure."
+      ],
+      "keyPoints": [
+        "كَأَنَّ + مَا الكافة = كَأَنَّمَا",
+        "كَأَنَّ alone: takes اسم منصوب + خبر",
+        "كَأَنَّمَا: precedes sentences freely",
+        "Both mean: as if, as though"
+      ],
+      "examples": [
+        { "arabic": "كَأَنَّهُمْ حُمُرٌ مُسْتَنْفِرَةٌ (كَأَنَّ عاملة)", "english": "As if they are frightened donkeys (كَأَنَّ governs)" },
+        { "arabic": "كَأَنَّمَا يُسَاقُونَ إِلَى الْمَوْتِ", "english": "As if they are being driven to death (Quran 8:6)" },
+        { "arabic": "كَأَنَّمَا أُغْشِيَتْ وُجُوهُهُمْ", "english": "As if their faces are covered (Quran 10:27)" },
+        { "arabic": "كَأَنَّمَا يَصَّعَّدُ فِي السَّمَاءِ", "english": "As if he is climbing into the sky (Quran 6:125)" }
+      ]
+    },
+    {
+      "title": "Other Particles with مَا الكافة",
+      "titleArabic": "حُرُوفٌ أُخْرَى مَعَ مَا الْكَافَّةِ",
+      "content": [
+        "Besides إِنَّ، رُبَّ، كَأَنَّ, other particles can take مَا الكافة: لَعَلَّمَا (perhaps), لَيْتَمَا (if only - rare), طَالَمَا (as long as), قَلَّمَا (rarely). Each loses its original governance.",
+        "The pattern is consistent: particle + مَا = loss of governance + preserved or modified meaning. This is a productive pattern in classical Arabic."
+      ],
+      "keyPoints": [
+        "لَيْتَمَا، لَعَلَّمَا: rare but exist",
+        "طَالَمَا: as long as, for a long time",
+        "قَلَّمَا: rarely, seldom",
+        "Pattern: particle + مَا = neutralized"
+      ],
+      "examples": [
+        { "arabic": "طَالَمَا نَصَحْتُكَ", "english": "I have advised you for so long" },
+        { "arabic": "قَلَّمَا يَفْعَلُ ذَلِكَ", "english": "He rarely does that" },
+        { "arabic": "لَعَلَّمَا يَنْجَحُ", "english": "Perhaps he will succeed" },
+        { "arabic": "لَكِنَّمَا هُوَ إِلَهٌ وَاحِدٌ", "english": "But He is only one God (إِنَّمَا variant)" }
+      ]
+    },
+    {
+      "title": "مَا الكافة vs مَا الزائدة",
+      "titleArabic": "الْفَرْقُ بَيْنَ مَا الْكَافَّةِ وَمَا الزَّائِدَةِ",
+      "content": [
+        "It's essential to distinguish مَا الكافة from مَا الزائدة. مَا الكافة changes grammar (prevents governance). مَا الزائدة adds emphasis without changing grammar.",
+        "Test: if removing مَا changes the grammatical structure, it's مَا الكافة. If removing مَا only removes emphasis but grammar stays the same, it's مَا الزائدة."
+      ],
+      "keyPoints": [
+        "مَا الكافة: changes grammar",
+        "مَا الزائدة: adds emphasis only",
+        "Test: does removing مَا change structure?",
+        "Context and resulting structure determine type"
+      ],
+      "examples": [
+        { "arabic": "إِنَّمَا زَيْدٌ قَائِمٌ (كافة)", "english": "Zayd is only standing (مَا changes structure)" },
+        { "arabic": "فَبِمَا رَحْمَةٍ (زائدة)", "english": "By [what is] mercy (مَا adds emphasis, جَرّ remains)" },
+        { "arabic": "رُبَّمَا يَنْدَمُ (كافة)", "english": "Perhaps he regrets (verb follows - مَا changed structure)" },
+        { "arabic": "أَيْنَمَا تَكُونُوا (زائدة)", "english": "Wherever you may be (شرط structure unchanged)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l78-ex01",
+      "type": "fill-blank",
+      "prompt": "مَا الَّتِي تَمْنَعُ الْحَرْفَ مِنَ الْعَمَلِ تُسَمَّى مَا _____",
+      "promptEn": "The مَا that prevents a particle from governing is called مَا _____",
+      "answer": "الْكَافَّةَ",
+      "itemIds": ["word-b3-518"]
+    },
+    {
+      "id": "b3-l78-ex02",
+      "type": "fill-blank",
+      "prompt": "إِنَّمَا الْمُؤْمِنُونَ إِخْوَةٌ - إِنَّمَا هُنَا تُفِيدُ معنى _____",
+      "promptEn": "The believers are only brothers - إِنَّمَا here conveys the meaning of _____",
+      "answer": "الْحَصْرِ",
+      "itemIds": ["word-b3-519"]
+    },
+    {
+      "id": "b3-l78-ex03",
+      "type": "fill-blank",
+      "prompt": "رُبَّ تَدْخُلُ عَلَى الاِسْمِ، أَمَّا رُبَّمَا فَتَدْخُلُ عَلَى _____",
+      "promptEn": "رُبَّ enters on nouns, while رُبَّمَا enters on _____",
+      "answer": "الْفِعْلِ",
+      "itemIds": ["word-b3-520"]
+    },
+    {
+      "id": "b3-l78-ex04",
+      "type": "fill-blank",
+      "prompt": "الْحَرْفُ الَّذِي مُنِعَ مِنَ الْعَمَلِ بِسَبَبِ مَا الْكَافَّةِ يُسَمَّى _____",
+      "promptEn": "The particle prevented from governing by مَا الكافة is called _____",
+      "answer": "مَكْفُوفًا",
+      "itemIds": ["word-b3-521"]
+    },
+    {
+      "id": "b3-l78-ex05",
+      "type": "fill-blank",
+      "prompt": "كَأَنَّ تَعْمَلُ عَمَلَ إِنَّ، أَمَّا كَأَنَّمَا فَ_____ عَنِ الْعَمَلِ",
+      "promptEn": "كَأَنَّ works like إِنَّ, but كَأَنَّمَا is _____ from working",
+      "answer": "مَكْفُوفَةٌ",
+      "itemIds": ["word-b3-522"]
+    },
+    {
+      "id": "b3-l78-ex06",
+      "type": "fill-blank",
+      "prompt": "مَا الزَّائِدَةُ تُضِيفُ التَّوْكِيدَ، أَمَّا مَا الْكَافَّةُ فَتُغَيِّرُ _____",
+      "promptEn": "مَا الزائدة adds emphasis, while مَا الكافة changes _____",
+      "answer": "الإِعْرَابَ",
+      "itemIds": ["word-b3-518"]
+    },
+    {
+      "id": "b3-l78-ex07",
+      "type": "word-to-meaning",
+      "prompt": "مَا الْكَافَّةُ",
+      "answer": "The neutralizing ما (prevents particle governance)",
+      "itemIds": ["word-b3-518"]
+    },
+    {
+      "id": "b3-l78-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْحَصْرُ",
+      "answer": "Restriction, limitation (meaning 'only')",
+      "itemIds": ["word-b3-519"]
+    },
+    {
+      "id": "b3-l78-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مَكْفُوفٌ",
+      "answer": "Neutralized/prevented (particle that lost governance)",
+      "itemIds": ["word-b3-521"]
+    },
+    {
+      "id": "b3-l78-ex10",
+      "type": "meaning-to-word",
+      "prompt": "إِنَّ combined with مَا الكافة, meaning 'only' or 'indeed only'",
+      "answer": "إِنَّمَا",
+      "itemIds": ["word-b3-519"]
+    },
+    {
+      "id": "b3-l78-ex11",
+      "type": "meaning-to-word",
+      "prompt": "رُبَّ combined with مَا الكافة, can precede verbs",
+      "answer": "رُبَّمَا",
+      "itemIds": ["word-b3-520"]
+    },
+    {
+      "id": "b3-l78-ex12",
+      "type": "meaning-to-word",
+      "prompt": "كَأَنَّ combined with مَا الكافة, meaning 'as if'",
+      "answer": "كَأَنَّمَا",
+      "itemIds": ["word-b3-522"]
+    }
+  ]
+}

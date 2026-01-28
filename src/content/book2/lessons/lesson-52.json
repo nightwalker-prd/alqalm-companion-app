@@ -1,0 +1,188 @@
+{
+  "id": "b2-l52",
+  "book": 2,
+  "lesson": 52,
+  "title": "حَتَّى وَأَحْكَامُهَا",
+  "titleEn": "The Particle Hatta and Its Rules",
+  "description": "Learn about the particle حتى and its various grammatical functions: as a preposition (حرف جر), a conjunction (حرف عطف), and as a particle that introduces the subjunctive mood (حرف نصب).",
+  "vocabulary": ["word-b2-389", "word-b2-390", "word-b2-391", "word-b2-392", "word-b2-393", "word-b2-394"],
+  "grammarPoints": ["gp-b2-071", "gp-b2-072"],
+  "notes": [
+    {
+      "title": "Introduction to حتى",
+      "titleArabic": "مقدمة في حتى",
+      "content": [
+        "حتى is one of the most versatile particles in Arabic grammar. It can function in three main ways: as a preposition (حرف جر), as a coordinating conjunction (حرف عطف), and as a particle that causes the following verb to be in the subjunctive mood.",
+        "The meaning of حتى is typically 'until,' 'even,' or 'so that,' depending on its grammatical function in the sentence.",
+        "Understanding حتى is essential for reading classical Arabic texts, as it appears frequently in the Quran, hadith, and Arabic literature."
+      ],
+      "keyPoints": [
+        "حتى has three main grammatical functions",
+        "Its core meanings are 'until,' 'even,' and 'so that'",
+        "The following word determines its function",
+        "It is frequently used in classical Arabic texts"
+      ],
+      "examples": [
+        { "arabic": "سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ (القدر: ٥)", "english": "It is peace until the emergence of dawn" },
+        { "arabic": "أَكَلْتُ السَّمَكَةَ حَتَّى رَأْسَهَا", "english": "I ate the fish, even its head" },
+        { "arabic": "سِرْتُ حَتَّى أَدْخُلَ الْمَدِينَةَ", "english": "I walked so that I may enter the city" },
+        { "arabic": "انْتَظَرْتُ حَتَّى جَاءَ", "english": "I waited until he came" }
+      ]
+    },
+    {
+      "title": "حتى as a Preposition (حرف جر)",
+      "titleArabic": "حتى الجارة",
+      "content": [
+        "When حتى is followed by a noun, it functions as a preposition (حرف جر) meaning 'until' or 'up to.' The noun after it is in the genitive case (مجرور).",
+        "In this function, حتى indicates the end point or limit of an action. The noun following it must be either the end point of what preceded or part of a whole mentioned earlier.",
+        "This usage is common in temporal expressions and when describing the extent or limit of an action."
+      ],
+      "keyPoints": [
+        "حتى الجارة is followed by a noun in the genitive case",
+        "It means 'until' or 'up to'",
+        "The noun must be a logical endpoint",
+        "Common in temporal and extent expressions"
+      ],
+      "examples": [
+        { "arabic": "سَلَامٌ هِيَ حَتَّى مَطْلَعِ الْفَجْرِ", "english": "It is peace until the emergence of dawn" },
+        { "arabic": "نِمْتُ حَتَّى الصَّبَاحِ", "english": "I slept until morning" },
+        { "arabic": "قَرَأْتُ الْكِتَابَ حَتَّى آخِرِهِ", "english": "I read the book until its end" },
+        { "arabic": "صُمْتُ حَتَّى الْمَغْرِبِ", "english": "I fasted until sunset" }
+      ]
+    },
+    {
+      "title": "حتى as a Conjunction (حرف عطف)",
+      "titleArabic": "حتى العاطفة",
+      "content": [
+        "When حتى connects a noun to a preceding noun of the same type, it functions as a coordinating conjunction (حرف عطف) meaning 'even' or 'including.'",
+        "In this function, the noun after حتى takes the same case as the noun before it. The noun after حتى must be part of the preceding whole and typically represents an extreme (highest or lowest).",
+        "This usage emphasizes that even the extreme member of a group is included in the statement."
+      ],
+      "keyPoints": [
+        "حتى العاطفة connects two nouns",
+        "The second noun takes the same case as the first",
+        "It means 'even' or 'including'",
+        "The second noun is typically an extreme example"
+      ],
+      "examples": [
+        { "arabic": "أَكَلْتُ السَّمَكَةَ حَتَّى رَأْسَهَا", "english": "I ate the fish, even its head" },
+        { "arabic": "مَاتَ النَّاسُ حَتَّى الْأَنْبِيَاءُ", "english": "People died, even the prophets" },
+        { "arabic": "جَاءَ الْقَوْمُ حَتَّى خَادِمُهُمْ", "english": "The people came, even their servant" },
+        { "arabic": "قَرَأْتُ الْكُتُبَ حَتَّى الصَّغِيرَةَ مِنْهَا", "english": "I read the books, even the small ones" }
+      ]
+    },
+    {
+      "title": "حتى with Verbs (الناصبة والابتدائية)",
+      "titleArabic": "حتى مع الأفعال",
+      "content": [
+        "When حتى is followed by a present tense verb, it can either cause the verb to be in the subjunctive mood (منصوب) or be followed by a verb in the indicative (مرفوع).",
+        "If حتى means 'so that' or 'in order to' (للتعليل) or indicates a future endpoint, the verb is subjunctive: سِرْتُ حَتَّى أَدْخُلَ (I walked so that I may enter).",
+        "If حتى introduces a result or explains what happened (للتعليل أو الغاية المتحققة), it can be ابتدائية and the verb is indicative: سِرْتُ حَتَّى أَدْخُلُ (I walked until I was entering).",
+        "The Quran contains examples of both usages, requiring careful analysis of context to determine the function."
+      ],
+      "keyPoints": [
+        "حتى الناصبة: causes subjunctive, means 'so that' or future 'until'",
+        "حتى الابتدائية: followed by indicative, introduces result",
+        "With subjunctive: أَنْ is implied (حَتَّى أَنْ يَفْعَلَ)",
+        "Context determines whether حتى causes subjunctive or not"
+      ],
+      "examples": [
+        { "arabic": "وَكُلُوا وَاشْرَبُوا حَتَّى يَتَبَيَّنَ لَكُمُ الْخَيْطُ الْأَبْيَضُ (البقرة: ١٨٧)", "english": "Eat and drink until the white thread becomes distinct (subjunctive)" },
+        { "arabic": "وَزُلْزِلُوا حَتَّى يَقُولَ الرَّسُولُ (البقرة: ٢١٤)", "english": "And they were shaken until the Messenger said (indicative reading)" },
+        { "arabic": "سِرْتُ حَتَّى أَدْخُلَ الْمَدِينَةَ", "english": "I walked so that I may enter the city (subjunctive)" },
+        { "arabic": "مَرِضَ حَتَّى لَا يَرْجُونَهُ", "english": "He became so sick that they had no hope for him (subjunctive)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l52-ex01",
+      "type": "fill-blank",
+      "prompt": "سَلَامٌ هِيَ حَتَّى _____ الْفَجْرِ",
+      "promptEn": "It is peace until the _____ of dawn",
+      "answer": "مَطْلَعِ",
+      "itemIds": ["word-b2-389"]
+    },
+    {
+      "id": "b2-l52-ex02",
+      "type": "fill-blank",
+      "prompt": "أَكَلْتُ السَّمَكَةَ حَتَّى _____",
+      "promptEn": "I ate the fish, even its _____",
+      "answer": "رَأْسَهَا",
+      "itemIds": ["word-b2-390"]
+    },
+    {
+      "id": "b2-l52-ex03",
+      "type": "fill-blank",
+      "prompt": "نِمْتُ حَتَّى _____",
+      "promptEn": "I slept until _____",
+      "answer": "الصَّبَاحِ",
+      "itemIds": ["word-b2-391"]
+    },
+    {
+      "id": "b2-l52-ex04",
+      "type": "fill-blank",
+      "prompt": "سِرْتُ حَتَّى _____ الْمَدِينَةَ",
+      "promptEn": "I walked so that I may _____ the city",
+      "answer": "أَدْخُلَ",
+      "itemIds": ["word-b2-392"]
+    },
+    {
+      "id": "b2-l52-ex05",
+      "type": "fill-blank",
+      "prompt": "جَاءَ الْقَوْمُ حَتَّى _____",
+      "promptEn": "The people came, even their _____",
+      "answer": "خَادِمُهُمْ",
+      "itemIds": ["word-b2-393"]
+    },
+    {
+      "id": "b2-l52-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "I fasted until sunset",
+      "answer": "صُمْتُ حَتَّى الْمَغْرِبِ",
+      "itemIds": ["word-b2-389"]
+    },
+    {
+      "id": "b2-l52-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I read the book until its end",
+      "answer": "قَرَأْتُ الْكِتَابَ حَتَّى آخِرِهِ",
+      "itemIds": ["word-b2-390"]
+    },
+    {
+      "id": "b2-l52-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "People died, even the prophets",
+      "answer": "مَاتَ النَّاسُ حَتَّى الْأَنْبِيَاءُ",
+      "itemIds": ["word-b2-391"]
+    },
+    {
+      "id": "b2-l52-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "I waited until he came",
+      "answer": "انْتَظَرْتُ حَتَّى جَاءَ",
+      "itemIds": ["word-b2-394"]
+    },
+    {
+      "id": "b2-l52-ex10",
+      "type": "word-to-meaning",
+      "prompt": "حَتَّى الْجَارَّةُ",
+      "answer": "hatta as a preposition (followed by genitive noun)",
+      "itemIds": ["word-b2-389"]
+    },
+    {
+      "id": "b2-l52-ex11",
+      "type": "word-to-meaning",
+      "prompt": "حَتَّى الْعَاطِفَةُ",
+      "answer": "hatta as a conjunction (meaning 'even')",
+      "itemIds": ["word-b2-393"]
+    },
+    {
+      "id": "b2-l52-ex12",
+      "type": "meaning-to-word",
+      "prompt": "hatta that causes subjunctive mood",
+      "answer": "حَتَّى النَّاصِبَةُ",
+      "itemIds": ["word-b2-392"]
+    }
+  ]
+}

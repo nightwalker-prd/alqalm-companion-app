@@ -1,0 +1,118 @@
+{
+  "id": "b1-l13",
+  "book": 1,
+  "lesson": 13,
+  "title": "الْمُؤَنَّث",
+  "titleEn": "Feminine Forms",
+  "description": "Learn how to form feminine words in Arabic using ة (taa marbuta) and feminine patterns.",
+  "vocabulary": ["word-078", "word-079", "word-080", "word-081", "word-082", "word-083"],
+  "grammarPoints": ["gp-018"],
+  "notes": [
+    {
+      "title": "Feminine Word Formation",
+      "titleArabic": "تَأْنِيثُ الْكَلِمَات",
+      "content": [
+        "Most masculine nouns and adjectives can be made feminine by adding ة (taa marbuta). This applies to professions, descriptions, and many other words.",
+        "Feminine verbs in the past tense add تْ to the end: ذَهَبَ (he went) becomes ذَهَبَتْ (she went). The ت takes sukūn (no vowel)."
+      ],
+      "keyPoints": [
+        "Add ة to make most words feminine: طَالِبٌ → طَالِبَةٌ",
+        "Feminine past tense adds تْ: كَتَبَ → كَتَبَتْ (she wrote)",
+        "Some words have unique feminine forms (not just adding ة)",
+        "When the verb comes before a feminine subject, it takes تِ: ذَهَبَتِ الطَّالِبَةُ"
+      ],
+      "examples": [
+        { "arabic": "طَالِبَةٌ", "english": "female student" },
+        { "arabic": "مُدَرِّسَةٌ", "english": "female teacher" },
+        { "arabic": "ذَهَبَتْ", "english": "she went" },
+        { "arabic": "كَتَبَتِ الْمُدَرِّسَةُ", "english": "The female teacher wrote" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l13-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "a female student",
+      "answer": "طَالِبَةٌ",
+      "itemIds": ["word-078"]
+    },
+    {
+      "id": "b1-l13-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "a female teacher",
+      "answer": "مُدَرِّسَةٌ",
+      "itemIds": ["word-079"]
+    },
+    {
+      "id": "b1-l13-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "She went",
+      "answer": "ذَهَبَتْ",
+      "itemIds": ["word-080"]
+    },
+    {
+      "id": "b1-l13-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "She wrote",
+      "answer": "كَتَبَتْ",
+      "itemIds": ["word-081"]
+    },
+    {
+      "id": "b1-l13-ex05",
+      "type": "word-to-meaning",
+      "prompt": "طَالِبَةٌ",
+      "answer": "female student",
+      "itemIds": ["word-078"]
+    },
+    {
+      "id": "b1-l13-ex06",
+      "type": "word-to-meaning",
+      "prompt": "مُدَرِّسَةٌ",
+      "answer": "female teacher",
+      "itemIds": ["word-079"]
+    },
+    {
+      "id": "b1-l13-ex07",
+      "type": "word-to-meaning",
+      "prompt": "ذَهَبَتْ",
+      "answer": "she went",
+      "itemIds": ["word-080"]
+    },
+    {
+      "id": "b1-l13-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كَتَبَتْ",
+      "answer": "she wrote",
+      "itemIds": ["word-081"]
+    },
+    {
+      "id": "b1-l13-ex09",
+      "type": "meaning-to-word",
+      "prompt": "female doctor",
+      "answer": "طَبِيبَةٌ",
+      "itemIds": ["word-082"]
+    },
+    {
+      "id": "b1-l13-ex10",
+      "type": "meaning-to-word",
+      "prompt": "female engineer",
+      "answer": "مُهَنْدِسَةٌ",
+      "itemIds": ["word-083"]
+    },
+    {
+      "id": "b1-l13-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The female student went to the school",
+      "answer": "ذَهَبَتِ الطَّالِبَةُ إِلَى الْمَدْرَسَةِ",
+      "itemIds": ["word-080", "word-078", "word-048", "word-035"]
+    },
+    {
+      "id": "b1-l13-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The female teacher wrote in the book",
+      "answer": "كَتَبَتِ الْمُدَرِّسَةُ فِي الْكِتَابِ",
+      "itemIds": ["word-081", "word-079", "word-046", "word-002"]
+    }
+  ]
+}

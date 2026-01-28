@@ -1,0 +1,141 @@
+{
+  "id": "b1-l33",
+  "book": 1,
+  "lesson": 33,
+  "title": "الْمَقْصُور",
+  "titleEn": "Shortened Nouns (ending in alif)",
+  "description": "Learn about nouns ending in alif maqsura (ى) like الفَتَى and الهُدَى, and how their case endings are estimated.",
+  "vocabulary": ["word-275", "word-276", "word-277", "word-278", "word-279", "word-280"],
+  "grammarPoints": ["gp-053", "gp-054"],
+  "notes": [
+    {
+      "title": "What is الاسم المقصور?",
+      "titleArabic": "تعريف الاسم المقصور",
+      "content": [
+        "الاسم المقصور is a noun ending in an unchangeable alif (ا or ى), like فَتًى (young man), هُدًى (guidance), and عَصَا (stick).",
+        "The alif cannot change, so all case endings (damma, fatha, kasra) are estimated on it."
+      ],
+      "keyPoints": [
+        "Ends in alif that cannot take vowels",
+        "Can end in ى (الفَتَى) or ا (العَصَا)",
+        "All case endings are muqaddara (estimated)",
+        "Common examples: الفَتَى، الهُدَى، المُصْطَفَى، الدُّنْيَا"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْفَتَى", "english": "The young man came (nominative estimated)" },
+        { "arabic": "رَأَيْتُ الْفَتَى", "english": "I saw the young man (accusative estimated)" },
+        { "arabic": "مَرَرْتُ بِالْفَتَى", "english": "I passed by the young man (genitive estimated)" },
+        { "arabic": "الْهُدَى مِنَ اللهِ", "english": "Guidance is from Allah" }
+      ]
+    },
+    {
+      "title": "Dual and Plural of المقصور",
+      "titleArabic": "تثنية وجمع المقصور",
+      "content": [
+        "When forming the dual, the alif changes to ي (فَتَيَانِ). For the sound masculine plural, the alif is dropped (مُصْطَفَوْنَ).",
+        "The sound feminine plural keeps the alif changed to a fatha before ات (فَتَيَاتٌ)."
+      ],
+      "keyPoints": [
+        "Dual: الفَتَى → فَتَيَانِ/فَتَيَيْنِ",
+        "Sound masculine plural: المُصْطَفَى → المُصْطَفَوْنَ",
+        "Sound feminine plural: فَتَاةٌ → فَتَيَاتٌ",
+        "The original alif often appears as ya in derivations"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ فَتَيَانِ", "english": "Two young men came" },
+        { "arabic": "رَأَيْتُ فَتَيَيْنِ", "english": "I saw two young men" },
+        { "arabic": "الْمُصْطَفَوْنَ هُمُ الصَّالِحُونَ", "english": "The chosen ones are the righteous" },
+        { "arabic": "الدُّنْيَا فَانِيَةٌ", "english": "The worldly life is temporary" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l33-ex01",
+      "type": "fill-blank",
+      "prompt": "جَاءَ _____ إِلَى الْمَدْرَسَةِ",
+      "promptEn": "The young man came to the school",
+      "answer": "الْفَتَى",
+      "itemIds": ["word-275"]
+    },
+    {
+      "id": "b1-l33-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ مِنَ اللهِ تَعَالَى",
+      "promptEn": "_____ is from Allah the Exalted",
+      "answer": "الْهُدَى",
+      "itemIds": ["word-276"]
+    },
+    {
+      "id": "b1-l33-ex03",
+      "type": "fill-blank",
+      "prompt": "ضَرَبَ الرَّاعِي الْغَنَمَ بِـ_____",
+      "promptEn": "The shepherd hit the sheep with a _____",
+      "answer": "الْعَصَا",
+      "itemIds": ["word-277"]
+    },
+    {
+      "id": "b1-l33-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The young man is diligent",
+      "answer": "الْفَتَى مُجْتَهِدٌ",
+      "itemIds": ["word-275", "word-120"]
+    },
+    {
+      "id": "b1-l33-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I follow the guidance of the Quran",
+      "answer": "أَتَّبِعُ هُدَى الْقُرْآنِ",
+      "itemIds": ["word-276", "word-279"]
+    },
+    {
+      "id": "b1-l33-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The worldly life is temporary",
+      "answer": "الدُّنْيَا فَانِيَةٌ",
+      "itemIds": ["word-278", "word-280"]
+    },
+    {
+      "id": "b1-l33-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Two young men came",
+      "answer": "جَاءَ فَتَيَانِ",
+      "itemIds": ["word-275"]
+    },
+    {
+      "id": "b1-l33-ex08",
+      "type": "word-to-meaning",
+      "prompt": "الْفَتَى",
+      "answer": "young man",
+      "itemIds": ["word-275"]
+    },
+    {
+      "id": "b1-l33-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْهُدَى",
+      "answer": "guidance",
+      "itemIds": ["word-276"]
+    },
+    {
+      "id": "b1-l33-ex10",
+      "type": "word-to-meaning",
+      "prompt": "الدُّنْيَا",
+      "answer": "worldly life",
+      "itemIds": ["word-278"]
+    },
+    {
+      "id": "b1-l33-ex11",
+      "type": "meaning-to-word",
+      "prompt": "stick / staff",
+      "answer": "عَصَا",
+      "itemIds": ["word-277"]
+    },
+    {
+      "id": "b1-l33-ex12",
+      "type": "meaning-to-word",
+      "prompt": "temporary / perishing",
+      "answer": "فَانٍ",
+      "itemIds": ["word-280"]
+    }
+  ]
+}

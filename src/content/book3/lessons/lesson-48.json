@@ -1,0 +1,141 @@
+{
+  "id": "b3-l48",
+  "book": 3,
+  "lesson": 48,
+  "title": "أَسْمَاء الأَفْعَال",
+  "titleEn": "Verbal Nouns",
+  "description": "Learn about أسماء الأفعال - nouns that carry the meaning of verbs, including هَيْهَاتَ، صَهْ، آمِين، and هَلُمَّ.",
+  "vocabulary": ["word-b3-339", "word-b3-340", "word-b3-341", "word-b3-342", "word-b3-343", "word-b3-344"],
+  "grammarPoints": ["gp-b3-058", "gp-b3-059"],
+  "notes": [
+    {
+      "title": "What are أسماء الأفعال?",
+      "titleArabic": "تعريف أسماء الأفعال",
+      "content": [
+        "أسماء الأفعال are nouns that carry the meaning of verbs but don't conjugate like verbs.",
+        "They are invariable (مبنية) and include words for commands, statements, and exclamations."
+      ],
+      "keyPoints": [
+        "Carry meaning of verbs but are nouns grammatically",
+        "Three types: past-meaning, present-meaning, imperative-meaning",
+        "Always invariable (مبني) - don't change form",
+        "Common in Quranic and classical Arabic"
+      ],
+      "examples": [
+        { "arabic": "هَيْهَاتَ النَّجَاحُ بِلَا عَمَلٍ", "english": "Far-fetched is success without work" },
+        { "arabic": "صَهْ! لَا تَتَكَلَّمْ", "english": "Be quiet! Don't speak" },
+        { "arabic": "آمِينَ يَا رَبَّ الْعَالَمِينَ", "english": "Amen, O Lord of the Worlds" },
+        { "arabic": "هَلُمَّ إِلَى الطَّعَامِ", "english": "Come to the food" }
+      ]
+    },
+    {
+      "title": "Categories of أسماء الأفعال",
+      "titleArabic": "أقسام أسماء الأفعال",
+      "content": [
+        "Past-meaning (ماضي): هَيْهَاتَ (far away!), شَتَّانَ (how different!).",
+        "Present-meaning (مضارع): أُفٍّ (ugh!), وَيْ (woe!). Imperative-meaning (أمر): صَهْ (quiet!), مَهْ (stop!), آمِينَ (amen), هَلُمَّ (come!)."
+      ],
+      "keyPoints": [
+        "Past: هَيْهَاتَ (= بَعُدَ), شَتَّانَ (= اِفْتَرَقَ)",
+        "Present: أُفٍّ (= أَتَضَجَّرُ), وَيْ (= أَعْجَبُ)",
+        "Imperative: صَهْ (= اُسْكُتْ), آمِينَ (= اِسْتَجِبْ)",
+        "Imperative: هَلُمَّ (= تَعَالَ/أَقْبِلْ)"
+      ],
+      "examples": [
+        { "arabic": "شَتَّانَ مَا بَيْنَهُمَا", "english": "How different they are!" },
+        { "arabic": "أُفٍّ لَكُمْ", "english": "Uff to you! (expressing displeasure)" },
+        { "arabic": "مَهْ عَنْ هَذَا الْكَلَامِ", "english": "Stop this talk!" },
+        { "arabic": "هَا أَنَا ذَا", "english": "Here I am!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l48-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ النَّجَاحُ بِلَا عَمَلٍ",
+      "promptEn": "_____ is success without work",
+      "answer": "هَيْهَاتَ",
+      "itemIds": ["word-b3-339"]
+    },
+    {
+      "id": "b3-l48-ex02",
+      "type": "fill-blank",
+      "prompt": "_____! لَا تَتَكَلَّمْ",
+      "promptEn": "_____! Don't speak",
+      "answer": "صَهْ",
+      "itemIds": ["word-b3-340"]
+    },
+    {
+      "id": "b3-l48-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ إِلَى الطَّعَامِ",
+      "promptEn": "_____ to the food",
+      "answer": "هَلُمَّ",
+      "itemIds": ["word-b3-341"]
+    },
+    {
+      "id": "b3-l48-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "Amen, O Lord of the Worlds",
+      "answer": "آمِينَ يَا رَبَّ الْعَالَمِينَ",
+      "itemIds": ["word-b3-342"]
+    },
+    {
+      "id": "b3-l48-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "How different they are!",
+      "answer": "شَتَّانَ مَا بَيْنَهُمَا",
+      "itemIds": ["word-b3-343"]
+    },
+    {
+      "id": "b3-l48-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Uff to this situation!",
+      "answer": "أُفٍّ لِهَذَا الْحَالِ",
+      "itemIds": ["word-b3-344"]
+    },
+    {
+      "id": "b3-l48-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Come here quickly!",
+      "answer": "هَلُمَّ هُنَا سَرِيعًا",
+      "itemIds": ["word-b3-341"]
+    },
+    {
+      "id": "b3-l48-ex08",
+      "type": "word-to-meaning",
+      "prompt": "هَيْهَاتَ",
+      "answer": "far-fetched / how far!",
+      "itemIds": ["word-b3-339"]
+    },
+    {
+      "id": "b3-l48-ex09",
+      "type": "word-to-meaning",
+      "prompt": "صَهْ",
+      "answer": "be quiet! / silence!",
+      "itemIds": ["word-b3-340"]
+    },
+    {
+      "id": "b3-l48-ex10",
+      "type": "word-to-meaning",
+      "prompt": "آمِينَ",
+      "answer": "amen / O Allah answer",
+      "itemIds": ["word-b3-342"]
+    },
+    {
+      "id": "b3-l48-ex11",
+      "type": "meaning-to-word",
+      "prompt": "come!",
+      "answer": "هَلُمَّ",
+      "itemIds": ["word-b3-341"]
+    },
+    {
+      "id": "b3-l48-ex12",
+      "type": "meaning-to-word",
+      "prompt": "how different!",
+      "answer": "شَتَّانَ",
+      "itemIds": ["word-b3-343"]
+    }
+  ]
+}

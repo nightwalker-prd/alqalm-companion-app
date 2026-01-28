@@ -1,0 +1,125 @@
+{
+  "id": "b1-l17",
+  "book": 1,
+  "lesson": 17,
+  "title": "الْفِعْلُ الْمُضَارِع",
+  "titleEn": "Present Tense Verbs",
+  "description": "Learn present/future tense verbs: يَذْهَبُ (he goes), يَكْتُبُ (he writes).",
+  "vocabulary": ["word-102", "word-103", "word-104", "word-105", "word-106", "word-107"],
+  "grammarPoints": ["gp-022"],
+  "notes": [
+    {
+      "title": "Present/Future Tense (المضارع)",
+      "titleArabic": "الْفِعْلُ الْمُضَارِع",
+      "content": [
+        "The present tense (al-muḍāri') expresses ongoing actions or future events. It is formed by adding a prefix to the root and changing the vowel pattern.",
+        "The third person masculine singular ('he does') adds يَـ prefix: ذَهَبَ (he went) → يَذْهَبُ (he goes/will go). The final vowel is damma (ُ) in the indicative mood."
+      ],
+      "keyPoints": [
+        "Present tense prefix for 'he': يَـ (ya-)",
+        "ذَهَبَ → يَذْهَبُ (he goes/will go)",
+        "كَتَبَ → يَكْتُبُ (he writes/will write)",
+        "The muḍāri' can mean present or future depending on context"
+      ],
+      "examples": [
+        { "arabic": "يَذْهَبُ", "english": "he goes / he will go" },
+        { "arabic": "يَكْتُبُ", "english": "he writes / he will write" },
+        { "arabic": "يَقْرَأُ", "english": "he reads / he will read" },
+        { "arabic": "يَذْهَبُ الطَّالِبُ إِلَى الْمَدْرَسَةِ", "english": "The student goes to the school" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l17-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He goes",
+      "answer": "يَذْهَبُ",
+      "itemIds": ["word-102"]
+    },
+    {
+      "id": "b1-l17-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He writes",
+      "answer": "يَكْتُبُ",
+      "itemIds": ["word-103"]
+    },
+    {
+      "id": "b1-l17-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "He reads",
+      "answer": "يَقْرَأُ",
+      "itemIds": ["word-104"]
+    },
+    {
+      "id": "b1-l17-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "He sits",
+      "answer": "يَجْلِسُ",
+      "itemIds": ["word-105"]
+    },
+    {
+      "id": "b1-l17-ex05",
+      "type": "word-to-meaning",
+      "prompt": "يَذْهَبُ",
+      "answer": "he goes",
+      "itemIds": ["word-102"]
+    },
+    {
+      "id": "b1-l17-ex06",
+      "type": "word-to-meaning",
+      "prompt": "يَكْتُبُ",
+      "answer": "he writes",
+      "itemIds": ["word-103"]
+    },
+    {
+      "id": "b1-l17-ex07",
+      "type": "word-to-meaning",
+      "prompt": "يَقْرَأُ",
+      "answer": "he reads",
+      "itemIds": ["word-104"]
+    },
+    {
+      "id": "b1-l17-ex08",
+      "type": "word-to-meaning",
+      "prompt": "يَجْلِسُ",
+      "answer": "he sits",
+      "itemIds": ["word-105"]
+    },
+    {
+      "id": "b1-l17-ex09",
+      "type": "meaning-to-word",
+      "prompt": "he enters",
+      "answer": "يَدْخُلُ",
+      "itemIds": ["word-106"]
+    },
+    {
+      "id": "b1-l17-ex10",
+      "type": "meaning-to-word",
+      "prompt": "he exits",
+      "answer": "يَخْرُجُ",
+      "itemIds": ["word-107"]
+    },
+    {
+      "id": "b1-l17-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student goes to the school",
+      "answer": "يَذْهَبُ الطَّالِبُ إِلَى الْمَدْرَسَةِ",
+      "itemIds": ["word-102", "word-005", "word-048", "word-035"]
+    },
+    {
+      "id": "b1-l17-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher reads the book",
+      "answer": "يَقْرَأُ الْمُدَرِّسُ الْكِتَابَ",
+      "itemIds": ["word-104", "word-004", "word-002"]
+    },
+    {
+      "id": "b1-l17-ex13",
+      "type": "translate-to-arabic",
+      "prompt": "The boy writes in the book",
+      "answer": "يَكْتُبُ الْوَلَدُ فِي الْكِتَابِ",
+      "itemIds": ["word-103", "word-023", "word-046", "word-002"]
+    }
+  ]
+}

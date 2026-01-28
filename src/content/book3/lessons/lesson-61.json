@@ -1,0 +1,182 @@
+{
+  "id": "b3-l61",
+  "book": 3,
+  "lesson": 61,
+  "title": "حَبَّذَا وَلَا حَبَّذَا",
+  "titleEn": "Approval Expressions",
+  "description": "Learn about حَبَّذَا and لَا حَبَّذَا, classical Arabic expressions for approval and disapproval, their grammatical parsing, and usage in eloquent speech.",
+  "vocabulary": ["word-b3-417", "word-b3-418", "word-b3-419", "word-b3-420", "word-b3-421"],
+  "grammarPoints": ["gp-b3-084", "gp-b3-085"],
+  "notes": [
+    {
+      "title": "What is حَبَّذَا?",
+      "titleArabic": "تعريف حَبَّذَا",
+      "content": [
+        "حَبَّذَا is a classical Arabic expression used to express strong approval or admiration, meaning 'how excellent!' or 'how wonderful!' It is composed of the verb حَبَّ (to love/approve) and the demonstrative ذَا (this).",
+        "This expression is considered one of أساليب المدح (expressions of praise) in Arabic grammar. It functions similarly to نِعْمَ but carries a more emphatic and emotional tone."
+      ],
+      "keyPoints": [
+        "حَبَّذَا = حَبَّ (verb) + ذَا (demonstrative)",
+        "Expresses strong approval and admiration",
+        "ذَا is always the فاعل (subject) of حَبَّ",
+        "The المخصوص بالمدح (praised noun) comes after"
+      ],
+      "examples": [
+        { "arabic": "حَبَّذَا الصِّدْقُ", "english": "How excellent is truthfulness!" },
+        { "arabic": "حَبَّذَا الكَرَمُ خُلُقًا", "english": "How wonderful is generosity as a character trait!" },
+        { "arabic": "حَبَّذَا زَيْدٌ رَجُلًا", "english": "How excellent is Zayd as a man!" },
+        { "arabic": "حَبَّذَا الْعِلْمُ", "english": "How praiseworthy is knowledge!" }
+      ]
+    },
+    {
+      "title": "Grammatical Parsing of حَبَّذَا",
+      "titleArabic": "إعراب حَبَّذَا",
+      "content": [
+        "In حَبَّذَا, the word حَبَّ is a past tense verb (فعل ماض جامد) that does not conjugate. The demonstrative ذَا serves as its subject (فاعل) and is always مبني (indeclinable).",
+        "The المخصوص بالمدح (the specified praised noun) that follows can be parsed in two ways: as a مبتدأ مؤخر (delayed subject) with حَبَّذَا being the خبر مقدم, or as a خبر لمبتدأ محذوف (predicate of an omitted subject)."
+      ],
+      "keyPoints": [
+        "حَبَّ: فعل ماض جامد مبني على الفتح",
+        "ذَا: اسم إشارة مبني في محل رفع فاعل",
+        "المخصوص بالمدح: مبتدأ مؤخر أو خبر لمبتدأ محذوف",
+        "The entire expression is جملة فعلية"
+      ],
+      "examples": [
+        { "arabic": "حَبَّذَا الْوَفَاءُ", "english": "حَبَّ: فعل، ذَا: فاعل، الوَفَاءُ: مبتدأ مؤخر" },
+        { "arabic": "حَبَّذَا الصَّبْرُ عِنْدَ الْمُصِيبَةِ", "english": "How excellent is patience during calamity!" },
+        { "arabic": "حَبَّذَا طَالِبُ الْعِلْمِ", "english": "How praiseworthy is the seeker of knowledge!" },
+        { "arabic": "حَبَّذَا أَنْتَ صَدِيقًا", "english": "How excellent you are as a friend!" }
+      ]
+    },
+    {
+      "title": "The Expression لَا حَبَّذَا",
+      "titleArabic": "أسلوب لَا حَبَّذَا",
+      "content": [
+        "لَا حَبَّذَا is the negative counterpart of حَبَّذَا, expressing strong disapproval or condemnation. It means 'how bad!' or 'how blameworthy!' and is one of أساليب الذم (expressions of blame).",
+        "The grammatical structure remains the same, with لَا being حرف نفي (negation particle). This expression is particularly common in classical poetry and eloquent prose."
+      ],
+      "keyPoints": [
+        "لَا حَبَّذَا expresses strong disapproval",
+        "لَا is a negation particle (حرف نفي)",
+        "Opposite of حَبَّذَا in meaning",
+        "Common in classical Arabic literature"
+      ],
+      "examples": [
+        { "arabic": "لَا حَبَّذَا الْكَذِبُ", "english": "How blameworthy is lying!" },
+        { "arabic": "لَا حَبَّذَا الْبُخْلُ خُلُقًا", "english": "How contemptible is stinginess as a trait!" },
+        { "arabic": "لَا حَبَّذَا الْخِيَانَةُ", "english": "How despicable is betrayal!" },
+        { "arabic": "حَبَّذَا الْعَدْلُ وَلَا حَبَّذَا الظُّلْمُ", "english": "How excellent is justice, and how blameworthy is injustice!" }
+      ]
+    },
+    {
+      "title": "Classical Usage and Poetry",
+      "titleArabic": "الاستخدام في الشعر والنثر",
+      "content": [
+        "حَبَّذَا and لَا حَبَّذَا appear frequently in classical Arabic poetry and prose. The Arabs used these expressions to add emotional weight and rhetorical beauty to their speech.",
+        "These expressions are still used in Modern Standard Arabic for eloquent and formal contexts, though they are less common in everyday speech."
+      ],
+      "keyPoints": [
+        "Frequently used in classical poetry",
+        "Adds rhetorical beauty and emotional emphasis",
+        "Can be followed by تمييز (specification)",
+        "The تمييز clarifies the aspect being praised or blamed"
+      ],
+      "examples": [
+        { "arabic": "أَلَا حَبَّذَا عَاذِرِي فِي الْهَوَى", "english": "Oh, how wonderful is the one who excuses me in love!" },
+        { "arabic": "حَبَّذَا نَظَرٌ وَحَبَّذَا مُتَكَلَّمُ", "english": "How wonderful a glance, and how wonderful a speaker!" },
+        { "arabic": "وَلَا حَبَّذَا مَنْ لَا يُوَفِّي بِوَعْدِهِ", "english": "And how blameworthy is one who does not fulfill his promise!" },
+        { "arabic": "حَبَّذَا الشَّهَادَةُ فِي سَبِيلِ اللهِ", "english": "How excellent is martyrdom in the path of Allah!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l61-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الصِّدْقُ خُلُقًا (أسلوب مدح)",
+      "promptEn": "_____ truthfulness as a character trait (expression of praise)",
+      "answer": "حَبَّذَا",
+      "itemIds": ["word-b3-417"]
+    },
+    {
+      "id": "b3-l61-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ الْكَذِبُ (أسلوب ذم)",
+      "promptEn": "_____ lying (expression of blame)",
+      "answer": "لَا حَبَّذَا",
+      "itemIds": ["word-b3-418"]
+    },
+    {
+      "id": "b3-l61-ex03",
+      "type": "fill-blank",
+      "prompt": "في حَبَّذَا الْعِلْمُ، كلمة 'ذَا' تُعرَب _____",
+      "promptEn": "In حَبَّذَا الْعِلْمُ, the word 'ذَا' is parsed as _____",
+      "answer": "فاعل",
+      "itemIds": ["word-b3-417"]
+    },
+    {
+      "id": "b3-l61-ex04",
+      "type": "fill-blank",
+      "prompt": "في حَبَّذَا الْكَرَمُ، كلمة 'الْكَرَمُ' تُعرَب _____",
+      "promptEn": "In حَبَّذَا الْكَرَمُ, the word 'الْكَرَمُ' is parsed as _____",
+      "answer": "مبتدأ مؤخر",
+      "itemIds": ["word-b3-419"]
+    },
+    {
+      "id": "b3-l61-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "How excellent is patience!",
+      "answer": "حَبَّذَا الصَّبْرُ",
+      "itemIds": ["word-b3-417"]
+    },
+    {
+      "id": "b3-l61-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "How blameworthy is betrayal!",
+      "answer": "لَا حَبَّذَا الْخِيَانَةُ",
+      "itemIds": ["word-b3-418"]
+    },
+    {
+      "id": "b3-l61-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "How excellent is generosity as a character trait!",
+      "answer": "حَبَّذَا الْكَرَمُ خُلُقًا",
+      "itemIds": ["word-b3-419"]
+    },
+    {
+      "id": "b3-l61-ex08",
+      "type": "word-to-meaning",
+      "prompt": "حَبَّذَا",
+      "answer": "how excellent / how praiseworthy",
+      "itemIds": ["word-b3-417"]
+    },
+    {
+      "id": "b3-l61-ex09",
+      "type": "word-to-meaning",
+      "prompt": "لَا حَبَّذَا",
+      "answer": "how blameworthy / how despicable",
+      "itemIds": ["word-b3-418"]
+    },
+    {
+      "id": "b3-l61-ex10",
+      "type": "word-to-meaning",
+      "prompt": "المخصوص بالمدح",
+      "answer": "the noun specified for praise",
+      "itemIds": ["word-b3-420"]
+    },
+    {
+      "id": "b3-l61-ex11",
+      "type": "meaning-to-word",
+      "prompt": "expression of praise in Arabic",
+      "answer": "أسلوب المدح",
+      "itemIds": ["word-b3-420"]
+    },
+    {
+      "id": "b3-l61-ex12",
+      "type": "meaning-to-word",
+      "prompt": "expression of blame in Arabic",
+      "answer": "أسلوب الذم",
+      "itemIds": ["word-b3-421"]
+    }
+  ]
+}

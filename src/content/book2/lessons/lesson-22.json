@@ -1,0 +1,168 @@
+{
+  "id": "b2-l22",
+  "book": 2,
+  "lesson": 22,
+  "title": "الفِعْل الأَجْوَف",
+  "titleEn": "Hollow Verbs",
+  "vocabulary": [
+    "word-b2-116",
+    "word-b2-117",
+    "word-b2-118",
+    "word-b2-119",
+    "word-b2-120"
+  ],
+  "grammarPoints": ["gp-b2-022"],
+  "notes": [
+    {
+      "title": "Hollow Verbs (الفعل الأجوف)",
+      "titleArabic": "الفعل الأجوف",
+      "content": [
+        "Hollow verbs (الفعل الأجوف) have و or ي as their middle (second) radical. This weak letter undergoes changes in various conjugations.",
+        "In the past tense, the middle radical appears as alif (ا). In the present tense, it appears as its original form (و or ي)."
+      ],
+      "keyPoints": [
+        "Middle radical is و or ي",
+        "Past tense shows alif: قَالَ، زَارَ، نَامَ، صَامَ، كَانَ",
+        "Present tense shows و or ي: يَقُولُ، يَزُورُ، يَنَامُ، يَصُومُ، يَكُونُ",
+        "When sukūn appears, the middle letter may be dropped: قُلْتُ (I said)",
+        "The vowel of the first letter indicates the original middle radical"
+      ],
+      "examples": [
+        { "arabic": "قَالَ الْحَقَّ", "english": "He said the truth" },
+        { "arabic": "زَارَ صَدِيقَهُ", "english": "He visited his friend" },
+        { "arabic": "نَامَ الطِّفْلُ", "english": "The child slept" },
+        { "arabic": "يَقُولُ الْحَقِيقَةَ", "english": "He says the truth" }
+      ]
+    },
+    {
+      "title": "Conjugation Patterns",
+      "titleArabic": "تصريف الفعل الأجوف",
+      "content": [
+        "When conjugating with pronouns that require sukūn, the middle radical is removed and its vowel transfers to the first radical."
+      ],
+      "keyPoints": [
+        "قَالَ → قُلْتُ (the و transfers its dammah)",
+        "زَارَ → زُرْتُ (visited)",
+        "نَامَ → نِمْتُ (slept)",
+        "صَامَ → صُمْتُ (fasted)",
+        "كَانَ → كُنْتُ (was)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l22-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الرَّجُلُ الحَقَّ (قَالَ)",
+      "answer": "قَالَ",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He visited his friend",
+      "answer": "زَارَ صَدِيقَهُ",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الطِّفْلُ فِي اللَّيْلِ (نَامَ)",
+      "answer": "نَامَ",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex04",
+      "type": "word-to-meaning",
+      "prompt": "كَانَ",
+      "answer": "to be/was",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to say",
+      "answer": "قَالَ",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The man fasted during Ramadan",
+      "answer": "صَامَ الرَّجُلُ فِي رَمَضَانَ",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex07",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ الحَقِيقَةَ (يَقُولُ)",
+      "answer": "يَقُولُ",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex08",
+      "type": "word-to-meaning",
+      "prompt": "زَارَ",
+      "answer": "to visit",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "They were in the mosque",
+      "answer": "كَانُوا فِي المَسْجِدِ",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ المُسْلِمُونَ شَهْرَ رَمَضَانَ (صَامَ)",
+      "answer": "صَامَ",
+      "itemIds": [
+        "word-b2-116",
+        "word-b2-117"
+      ]
+    },
+    {
+      "id": "b2-l22-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The Prophet said the truth",
+      "answer": "قَالَ النَّبِيُّ الْحَقَّ",
+      "itemIds": ["word-b2-116", "word-b2-117"]
+    },
+    {
+      "id": "b2-l22-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I visited my friend in the hospital",
+      "answer": "زُرْتُ صَدِيقِي فِي الْمُسْتَشْفَى",
+      "itemIds": ["word-b2-118", "word-012", "word-046"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "b3-l86",
+  "book": 3,
+  "lesson": 86,
+  "title": "أَدَوَاتُ الشَّرْطِ الْمُتَقَدِّمَةُ",
+  "titleEn": "Advanced Conditional Particles",
+  "description": "Learn about expanded conditional particles: لَمَّا الحينية، كُلَّمَا، أَيْنَ، أَنَّى، حَيْثُمَا، أَيَّانَ، مَهْمَا and their usage in classical Arabic.",
+  "vocabulary": ["word-b3-558", "word-b3-559", "word-b3-560", "word-b3-561", "word-b3-562"],
+  "grammarPoints": ["gp-b3-134", "gp-b3-135"],
+  "notes": [
+    {
+      "title": "Review: Basic Conditional Particles",
+      "titleArabic": "مُرَاجَعَةٌ: أَدَوَاتُ الشَّرْطِ الأَسَاسِيَّةُ",
+      "content": [
+        "Conditional sentences in Arabic have two parts: جُمْلَة الشَّرْط (condition clause) and جَوَاب الشَّرْط (response clause). The basic conditional particles include إِنْ، إِذَا، مَنْ، مَا which can cause جَزْم (jussive) of the verbs.",
+        "Advanced conditional particles add nuances of time, place, manner, or repetition. Understanding these enhances comprehension of classical texts and Quranic Arabic."
+      ],
+      "keyPoints": [
+        "Conditional = شَرْط + جَوَاب الشَّرْط",
+        "Basic particles: إِنْ، إِذَا، مَنْ، مَا",
+        "Some cause جَزْم (jussive mood)",
+        "Advanced particles add nuances"
+      ],
+      "examples": [
+        { "arabic": "إِنْ تَدْرُسْ تَنْجَحْ", "english": "If you study, you will succeed (basic conditional)" },
+        { "arabic": "مَنْ يَعْمَلْ خَيْرًا يَجِدْهُ", "english": "Whoever does good will find it" },
+        { "arabic": "مَا تَفْعَلْ مِنْ خَيْرٍ يَعْلَمْهُ اللهُ", "english": "Whatever good you do, Allah knows it" },
+        { "arabic": "إِذَا جَاءَ نَصْرُ اللهِ", "english": "When Allah's victory comes" }
+      ]
+    },
+    {
+      "title": "لَمَّا الحينية (Temporal When)",
+      "titleArabic": "لَمَّا الْحِينِيَّةُ",
+      "content": [
+        "لَمَّا الحينية (temporal لَمَّا) means 'when' indicating a specific time when an action occurred. It is followed by a past tense verb and introduces a realized condition - something that actually happened.",
+        "This is different from لَمَّا النافية (لَمَّا الجازمة) which means 'not yet' and causes جَزْم. لَمَّا الحينية is حَرْفُ وُجُودٍ لِوُجُودٍ (particle of existence for existence)."
+      ],
+      "keyPoints": [
+        "لَمَّا الحينية: when (temporal)",
+        "Followed by past tense verb",
+        "Indicates realized condition",
+        "Different from لَمَّا النافية (not yet)"
+      ],
+      "examples": [
+        { "arabic": "لَمَّا جَاءَ زَيْدٌ أَكْرَمْتُهُ", "english": "When Zayd came, I honored him" },
+        { "arabic": "فَلَمَّا جَاءَهُمْ بِالْحَقِّ قَالُوا", "english": "When he came to them with truth, they said... (Quran)" },
+        { "arabic": "لَمَّا رَأَيْتُهُ فَرِحْتُ", "english": "When I saw him, I rejoiced" },
+        { "arabic": "وَلَمَّا فَتَحُوا مَتَاعَهُمْ وَجَدُوا", "english": "And when they opened their baggage, they found... (Quran 12:65)" }
+      ]
+    },
+    {
+      "title": "كُلَّمَا (Whenever)",
+      "titleArabic": "كُلَّمَا",
+      "content": [
+        "كُلَّمَا means 'whenever' or 'every time that' - indicating repetition. It is ظَرْف زَمَان (adverb of time) and is followed by past tense verbs in both the condition and response.",
+        "It implies that the action happens repeatedly - each time the condition occurs, the response follows. It doesn't cause جَزْم."
+      ],
+      "keyPoints": [
+        "كُلَّمَا: whenever, every time that",
+        "ظَرْف زَمَان: adverb of time",
+        "Indicates repetition",
+        "Followed by past tense verbs"
+      ],
+      "examples": [
+        { "arabic": "كُلَّمَا دَخَلَ عَلَيْهَا زَكَرِيَّا الْمِحْرَابَ وَجَدَ عِنْدَهَا رِزْقًا", "english": "Whenever Zakariyya entered upon her in the prayer chamber, he found provision (Quran 3:37)" },
+        { "arabic": "كُلَّمَا أَرَادُوا أَنْ يَخْرُجُوا مِنْهَا أُعِيدُوا فِيهَا", "english": "Whenever they want to exit from it, they are returned to it (Quran 32:20)" },
+        { "arabic": "كُلَّمَا زُرْتُهُ أَكْرَمَنِي", "english": "Whenever I visited him, he honored me" },
+        { "arabic": "كُلَّمَا قَرَأَ تَعَلَّمَ", "english": "Whenever he read, he learned" }
+      ]
+    },
+    {
+      "title": "Place Conditional Particles",
+      "titleArabic": "أَدَوَاتُ الشَّرْطِ الْمَكَانِيَّةُ",
+      "content": [
+        "Several particles combine conditional meaning with place: أَيْنَ (where), أَنَّى (wherever/however), حَيْثُمَا (wherever). These indicate that the response applies in any place the condition is met.",
+        "These are أَسْمَاء شَرْط (conditional nouns) and typically cause جَزْم of both verbs when used conditionally."
+      ],
+      "keyPoints": [
+        "أَيْنَ: where (conditional)",
+        "أَنَّى: wherever, however",
+        "حَيْثُمَا: wherever",
+        "Cause جَزْم when conditional"
+      ],
+      "examples": [
+        { "arabic": "أَيْنَمَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ", "english": "Wherever you may be, death will reach you (Quran 4:78)" },
+        { "arabic": "أَيْنَمَا يُوَجِّهْهُ لَا يَأْتِ بِخَيْرٍ", "english": "Wherever he directs him, he brings no good (Quran 16:76)" },
+        { "arabic": "أَنَّى شِئْتُمْ", "english": "However/wherever you wish (Quran 2:223)" },
+        { "arabic": "حَيْثُمَا تَذْهَبْ أَذْهَبْ", "english": "Wherever you go, I will go" }
+      ]
+    },
+    {
+      "title": "أَيَّانَ (When - Future)",
+      "titleArabic": "أَيَّانَ",
+      "content": [
+        "أَيَّان means 'when' but specifically for future or unknown time - often used in questions about the unknown future. It can be used conditionally or interrogatively.",
+        "In conditional use, it functions like مَتَى (when) but with a sense of uncertainty about the timing. It causes جَزْم when used conditionally."
+      ],
+      "keyPoints": [
+        "أَيَّان: when (future/unknown time)",
+        "Used for uncertain future timing",
+        "Can be conditional or interrogative",
+        "Causes جَزْم in conditional use"
+      ],
+      "examples": [
+        { "arabic": "يَسْأَلُونَكَ عَنِ السَّاعَةِ أَيَّانَ مُرْسَاهَا", "english": "They ask you about the Hour: when will it arrive? (Quran 7:187)" },
+        { "arabic": "أَيَّانَ يُبْعَثُونَ", "english": "When will they be resurrected? (Quran 16:21)" },
+        { "arabic": "أَيَّانَ يَوْمُ الدِّينِ", "english": "When is the Day of Judgment? (Quran 51:12)" },
+        { "arabic": "أَيَّانَ تَأْتِ آتِكَ", "english": "Whenever you come, I will come to you" }
+      ]
+    },
+    {
+      "title": "مَهْمَا (Whatever/No Matter What)",
+      "titleArabic": "مَهْمَا",
+      "content": [
+        "مَهْمَا means 'whatever' or 'no matter what' - it covers any possible thing or action. It is اِسْم شَرْط جَازِم (conditional noun causing jussive) for non-rational entities.",
+        "It functions similarly to مَا الشرطية but with more emphasis on comprehensiveness - no matter what happens, the response applies. It causes جَزْم of both verbs."
+      ],
+      "keyPoints": [
+        "مَهْمَا: whatever, no matter what",
+        "For non-rational entities",
+        "اسم شرط جازم: causes جَزْم",
+        "Comprehensive - covers all possibilities"
+      ],
+      "examples": [
+        { "arabic": "وَقَالُوا مَهْمَا تَأْتِنَا بِهِ مِنْ آيَةٍ لِتَسْحَرَنَا بِهَا فَمَا نَحْنُ لَكَ بِمُؤْمِنِينَ", "english": "They said: Whatever sign you bring us, we will not believe (Quran 7:132)" },
+        { "arabic": "مَهْمَا تَفْعَلْ أَفْعَلْ", "english": "Whatever you do, I will do" },
+        { "arabic": "مَهْمَا يَكُنِ الْأَمْرُ فَاصْبِرْ", "english": "No matter what the situation, be patient" },
+        { "arabic": "مَهْمَا قُلْتَ فَلَنْ أُغَيِّرَ رَأْيِي", "english": "Whatever you say, I won't change my opinion" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l86-ex01",
+      "type": "fill-blank",
+      "prompt": "لَمَّا جَاءَ زَيْدٌ أَكْرَمْتُهُ - لَمَّا هُنَا تَعْنِي _____ وَتُسَمَّى لَمَّا الْحِينِيَّة",
+      "promptEn": "When Zayd came I honored him - لَمَّا here means _____ and is called temporal لَمَّا",
+      "answer": "حِينَ",
+      "itemIds": ["word-b3-558"]
+    },
+    {
+      "id": "b3-l86-ex02",
+      "type": "fill-blank",
+      "prompt": "كُلَّمَا تَدُلُّ عَلَى _____ - أَيْ أَنَّ الْفِعْلَ يَتَكَرَّرُ",
+      "promptEn": "كُلَّمَا indicates _____ - meaning the action repeats",
+      "answer": "التَّكْرَارِ",
+      "itemIds": ["word-b3-559"]
+    },
+    {
+      "id": "b3-l86-ex03",
+      "type": "fill-blank",
+      "prompt": "أَيْنَمَا تَكُونُوا يُدْرِكْكُمُ الْمَوْتُ - أَيْنَمَا أَدَاةُ شَرْطٍ تَدُلُّ عَلَى _____",
+      "promptEn": "Wherever you are death reaches you - أَيْنَمَا is a conditional particle indicating _____",
+      "answer": "الْمَكَانِ",
+      "itemIds": ["word-b3-560"]
+    },
+    {
+      "id": "b3-l86-ex04",
+      "type": "fill-blank",
+      "prompt": "أَيَّانَ يُبْعَثُونَ - أَيَّانَ تَدُلُّ عَلَى _____ الْمُسْتَقْبَلِ الْمَجْهُولِ",
+      "promptEn": "When will they be resurrected - أَيَّانَ indicates the _____ of the unknown future",
+      "answer": "الزَّمَانِ",
+      "itemIds": ["word-b3-561"]
+    },
+    {
+      "id": "b3-l86-ex05",
+      "type": "fill-blank",
+      "prompt": "مَهْمَا تَفْعَلْ أَفْعَلْ - مَهْمَا اسْمُ شَرْطٍ _____ لِلْفِعْلَيْنِ",
+      "promptEn": "Whatever you do I do - مَهْمَا is a conditional noun that causes _____ for both verbs",
+      "answer": "جَازِمٌ",
+      "itemIds": ["word-b3-562"]
+    },
+    {
+      "id": "b3-l86-ex06",
+      "type": "fill-blank",
+      "prompt": "كُلَّمَا دَخَلَ... وَجَدَ - كُلَّمَا ظَرْفٌ يَلِيهِ فِعْلٌ _____",
+      "promptEn": "Whenever he entered... he found - كُلَّمَا is an adverb followed by a _____ verb",
+      "answer": "مَاضٍ",
+      "itemIds": ["word-b3-559"]
+    },
+    {
+      "id": "b3-l86-ex07",
+      "type": "word-to-meaning",
+      "prompt": "لَمَّا الْحِينِيَّةُ",
+      "answer": "Temporal 'when' (indicating a realized past time)",
+      "itemIds": ["word-b3-558"]
+    },
+    {
+      "id": "b3-l86-ex08",
+      "type": "word-to-meaning",
+      "prompt": "كُلَّمَا",
+      "answer": "Whenever, every time that (indicating repetition)",
+      "itemIds": ["word-b3-559"]
+    },
+    {
+      "id": "b3-l86-ex09",
+      "type": "word-to-meaning",
+      "prompt": "مَهْمَا",
+      "answer": "Whatever, no matter what (comprehensive conditional)",
+      "itemIds": ["word-b3-562"]
+    },
+    {
+      "id": "b3-l86-ex10",
+      "type": "meaning-to-word",
+      "prompt": "A conditional particle meaning 'wherever' relating to place",
+      "answer": "أَيْنَمَا / حَيْثُمَا",
+      "itemIds": ["word-b3-560"]
+    },
+    {
+      "id": "b3-l86-ex11",
+      "type": "meaning-to-word",
+      "prompt": "A particle asking about unknown future time ('when')",
+      "answer": "أَيَّانَ",
+      "itemIds": ["word-b3-561"]
+    },
+    {
+      "id": "b3-l86-ex12",
+      "type": "meaning-to-word",
+      "prompt": "An adverb meaning 'whenever' indicating repeated occurrence",
+      "answer": "كُلَّمَا",
+      "itemIds": ["word-b3-559"]
+    }
+  ]
+}

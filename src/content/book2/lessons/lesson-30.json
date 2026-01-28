@@ -1,0 +1,168 @@
+{
+  "id": "b2-l30",
+  "book": 2,
+  "lesson": 30,
+  "title": "الفِعْل فِي البَاب التَّاسِع",
+  "titleEn": "Form IX Verbs (اِفْعَلَّ)",
+  "vocabulary": [
+    "word-b2-156",
+    "word-b2-157",
+    "word-b2-158",
+    "word-b2-159",
+    "word-b2-160"
+  ],
+  "grammarPoints": ["gp-b2-030"],
+  "notes": [
+    {
+      "title": "Form IX Verbs (اِفْعَلَّ)",
+      "titleArabic": "الفعل في الباب التاسع",
+      "content": [
+        "Form IX verbs follow the pattern اِفْعَلَّ - يَفْعَلُّ. This form is used exclusively for colors and physical defects - describing becoming a certain color or developing a physical condition.",
+        "The pattern features a doubled final radical (shaddah on the last letter)."
+      ],
+      "keyPoints": [
+        "Past pattern: اِفْعَلَّ (e.g., اِحْمَرَّ)",
+        "Present pattern: يَفْعَلُّ (e.g., يَحْمَرُّ)",
+        "Used only for: colors and physical conditions",
+        "أَحْمَر (red) → اِحْمَرَّ (to become red)",
+        "أَصْفَر (yellow) → اِصْفَرَّ (to become yellow)"
+      ],
+      "examples": [
+        { "arabic": "اِحْمَرَّ وَجْهُهُ", "english": "His face turned red" },
+        { "arabic": "اِصْفَرَّتِ الْأَوْرَاقُ", "english": "The leaves turned yellow" },
+        { "arabic": "اِخْضَرَّ الْعُشْبُ", "english": "The grass turned green" },
+        { "arabic": "اِبْيَضَّ شَعْرُهُ", "english": "His hair turned white" }
+      ]
+    },
+    {
+      "title": "Color Verbs in Form IX",
+      "titleArabic": "أفعال الألوان في الباب التاسع",
+      "content": [
+        "Each color adjective has a corresponding Form IX verb."
+      ],
+      "keyPoints": [
+        "أَحْمَر (red) → اِحْمَرَّ (to become red)",
+        "أَصْفَر (yellow) → اِصْفَرَّ (to become yellow)",
+        "أَخْضَر (green) → اِخْضَرَّ (to become green)",
+        "أَبْيَض (white) → اِبْيَضَّ (to become white)",
+        "أَسْوَد (black) → اِسْوَدَّ (to become black)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l30-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ الوَرَقُ (اِصْفَرَّ)",
+      "answer": "اِصْفَرَّ",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "The leaves turned green",
+      "answer": "اِخْضَرَّتِ الأَوْرَاقُ",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ وَجْهُهُ مِنَ الخَجَلِ (اِحْمَرَّ)",
+      "answer": "اِحْمَرَّ",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex04",
+      "type": "word-to-meaning",
+      "prompt": "اِسْوَدَّ",
+      "answer": "to become black",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex05",
+      "type": "meaning-to-word",
+      "prompt": "to become yellow",
+      "answer": "اِصْفَرَّ",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "His face turned red",
+      "answer": "اِحْمَرَّ وَجْهُهُ",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex07",
+      "type": "fill-blank",
+      "prompt": "الشَّعْرُ _____ (يَبْيَضُّ)",
+      "answer": "يَبْيَضُّ",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex08",
+      "type": "word-to-meaning",
+      "prompt": "اِبْيَضَّ",
+      "answer": "to become white",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "The sky darkened",
+      "answer": "اِسْوَدَّتِ السَّمَاءُ",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ العُشْبُ فِي الرَّبِيعِ (اِخْضَرَّ)",
+      "answer": "اِخْضَرَّ",
+      "itemIds": [
+        "word-b2-156",
+        "word-b2-157"
+      ]
+    },
+    {
+      "id": "b2-l30-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The leaves turned yellow in autumn",
+      "answer": "اِصْفَرَّتِ الْأَوْرَاقُ فِي الْخَرِيفِ",
+      "itemIds": ["word-b2-156", "word-b2-157"]
+    },
+    {
+      "id": "b2-l30-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "His hair turned white with age",
+      "answer": "اِبْيَضَّ شَعْرُهُ مَعَ الْعُمْرِ",
+      "itemIds": ["word-b2-158", "word-050"]
+    }
+  ]
+}

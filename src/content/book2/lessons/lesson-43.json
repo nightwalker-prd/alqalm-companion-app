@@ -1,0 +1,141 @@
+{
+  "id": "b2-l43",
+  "book": 2,
+  "lesson": 43,
+  "title": "النِّسْبَة (١)",
+  "titleEn": "Relative Adjectives - Formation",
+  "description": "Learn how to form relative adjectives (النِّسْبَة) by adding يّ to nouns, creating attributive adjectives like مِصْرِيّ and عَرَبِيّ.",
+  "vocabulary": ["word-b2-335", "word-b2-336", "word-b2-337", "word-b2-338", "word-b2-339", "word-b2-340"],
+  "grammarPoints": ["gp-b2-053", "gp-b2-054"],
+  "notes": [
+    {
+      "title": "What is النسبة?",
+      "titleArabic": "تعريف النسبة",
+      "content": [
+        "النسبة is forming a relative adjective by adding يّ (shadda on ya) to a noun to show attribution or belonging.",
+        "For example: مِصْر → مِصْرِيّ (Egyptian), إِسْلَام → إِسْلَامِيّ (Islamic)."
+      ],
+      "keyPoints": [
+        "Add يّ to create attribution: مِصْر → مِصْرِيّ",
+        "Feminine adds ـة: مِصْرِيَّة",
+        "Used for nationalities, religions, affiliations",
+        "Common examples: عَرَبِيّ، إِنْجِلِيزِيّ، إِسْلَامِيّ"
+      ],
+      "examples": [
+        { "arabic": "هُوَ رَجُلٌ مِصْرِيٌّ", "english": "He is an Egyptian man" },
+        { "arabic": "هَذَا كِتَابٌ عَرَبِيٌّ", "english": "This is an Arabic book" },
+        { "arabic": "الْفِقْهُ الإِسْلَامِيُّ", "english": "Islamic jurisprudence" },
+        { "arabic": "اللُّغَةُ الْعَرَبِيَّةُ جَمِيلَةٌ", "english": "The Arabic language is beautiful" }
+      ]
+    },
+    {
+      "title": "Basic Formation Rules",
+      "titleArabic": "قواعد التكوين الأساسية",
+      "content": [
+        "When the noun ends in ة, drop it before adding يّ: مَكَّة → مَكِّيّ, مَدِينَة → مَدَنِيّ.",
+        "The kasra before يّ is part of the pattern: مِصْرِيّ (with kasra on ر)."
+      ],
+      "keyPoints": [
+        "Drop تاء مربوطة: مَكَّة → مَكِّيّ",
+        "Noun ending in ـِيّ already: no change needed",
+        "For cities: مَكَّة → مَكِّيّ، الْمَدِينَة → مَدَنِيّ",
+        "The word takes regular adjective agreement"
+      ],
+      "examples": [
+        { "arabic": "هُوَ مَكِّيٌّ", "english": "He is Meccan" },
+        { "arabic": "هِيَ مَدَنِيَّةٌ", "english": "She is Medinan" },
+        { "arabic": "الشَّايُ الصِّينِيُّ لَذِيذٌ", "english": "Chinese tea is delicious" },
+        { "arabic": "رَجُلٌ يَمَنِيٌّ", "english": "A Yemeni man" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l43-ex01",
+      "type": "fill-blank",
+      "prompt": "هُوَ طَالِبٌ _____",
+      "promptEn": "He is an _____ student",
+      "answer": "مِصْرِيٌّ",
+      "itemIds": ["word-b2-335"]
+    },
+    {
+      "id": "b2-l43-ex02",
+      "type": "fill-blank",
+      "prompt": "اللُّغَةُ _____ جَمِيلَةٌ",
+      "promptEn": "The _____ language is beautiful",
+      "answer": "الْعَرَبِيَّةُ",
+      "itemIds": ["word-b2-336"]
+    },
+    {
+      "id": "b2-l43-ex03",
+      "type": "fill-blank",
+      "prompt": "هَذَا مَسْجِدٌ _____",
+      "promptEn": "This is an _____ mosque",
+      "answer": "إِسْلَامِيٌّ",
+      "itemIds": ["word-b2-337"]
+    },
+    {
+      "id": "b2-l43-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "She is a Meccan woman",
+      "answer": "هِيَ امْرَأَةٌ مَكِّيَّةٌ",
+      "itemIds": ["word-b2-338"]
+    },
+    {
+      "id": "b2-l43-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "Chinese tea is delicious",
+      "answer": "الشَّايُ الصِّينِيُّ لَذِيذٌ",
+      "itemIds": ["word-b2-339", "word-b2-340"]
+    },
+    {
+      "id": "b2-l43-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "An Arabic book",
+      "answer": "كِتَابٌ عَرَبِيٌّ",
+      "itemIds": ["word-b2-336"]
+    },
+    {
+      "id": "b2-l43-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Islamic jurisprudence is important",
+      "answer": "الْفِقْهُ الإِسْلَامِيُّ مُهِمٌّ",
+      "itemIds": ["word-b2-337"]
+    },
+    {
+      "id": "b2-l43-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مِصْرِيٌّ",
+      "answer": "Egyptian",
+      "itemIds": ["word-b2-335"]
+    },
+    {
+      "id": "b2-l43-ex09",
+      "type": "word-to-meaning",
+      "prompt": "إِسْلَامِيٌّ",
+      "answer": "Islamic",
+      "itemIds": ["word-b2-337"]
+    },
+    {
+      "id": "b2-l43-ex10",
+      "type": "word-to-meaning",
+      "prompt": "صِينِيٌّ",
+      "answer": "Chinese",
+      "itemIds": ["word-b2-339"]
+    },
+    {
+      "id": "b2-l43-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Arabic (adj.)",
+      "answer": "عَرَبِيٌّ",
+      "itemIds": ["word-b2-336"]
+    },
+    {
+      "id": "b2-l43-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Meccan",
+      "answer": "مَكِّيٌّ",
+      "itemIds": ["word-b2-338"]
+    }
+  ]
+}

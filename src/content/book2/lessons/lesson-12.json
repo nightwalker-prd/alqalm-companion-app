@@ -1,0 +1,131 @@
+{
+  "id": "b2-l12",
+  "book": 2,
+  "lesson": 12,
+  "title": "الْمُضَارِعُ الْمَنْصُوب",
+  "titleEn": "Subjunctive Mood",
+  "description": "Learn subjunctive with أَنْ, لَنْ, كَيْ, لِـ: أَنْ يَذْهَبَ (that he go), لَنْ يَكْتُبَ (he will not write).",
+  "vocabulary": ["word-b2-066", "word-b2-067", "word-b2-068", "word-b2-069"],
+  "grammarPoints": ["gp-b2-012"],
+  "notes": [
+    {
+      "title": "The Subjunctive Mood (المضارع المنصوب)",
+      "titleArabic": "المضارع المنصوب",
+      "content": [
+        "The subjunctive mood (منصوب) is one of three moods of the present tense verb. It is triggered by certain particles and changes the final vowel from dammah to fathah.",
+        "The main particles that cause the subjunctive are: أَنْ (that/to), لَنْ (will not), كَيْ (in order to), and لِـ (for/to)."
+      ],
+      "keyPoints": [
+        "أَنْ - 'that' or 'to' (before verbs): أُرِيدُ أَنْ أَذْهَبَ (I want to go)",
+        "لَنْ - 'will not' (negates future): لَنْ يَكْتُبَ (He will not write)",
+        "كَيْ - 'in order to': جَاءَ كَيْ يَدْرُسَ (He came to study)",
+        "لِـ - 'in order to' / 'for': جَاءَ لِيَدْرُسَ (He came to study)",
+        "The verb ending changes: يَذْهَبُ → أَنْ يَذْهَبَ"
+      ],
+      "examples": [
+        { "arabic": "أُرِيدُ أَنْ أَذْهَبَ", "english": "I want to go" },
+        { "arabic": "لَنْ يَكْتُبَ", "english": "He will not write" },
+        { "arabic": "جَاءَ لِيَتَعَلَّمَ", "english": "He came to learn" }
+      ]
+    },
+    {
+      "title": "لَنْ for Future Negation",
+      "titleArabic": "لَنْ للنفي المستقبلي",
+      "content": [
+        "The particle لَنْ negates future actions emphatically. It is stronger than لَا for negation."
+      ],
+      "keyPoints": [
+        "لَنْ + مضارع منصوب = strong future negation",
+        "لَنْ أَنْسَى (I will never forget)",
+        "Different from لَا يَفْعَلُ which is weaker present negation"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l12-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I want to go",
+      "answer": "أُرِيدُ أَنْ أَذْهَبَ",
+      "itemIds": ["word-b2-066", "word-b2-067"]
+    },
+    {
+      "id": "b2-l12-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He will not write",
+      "answer": "لَنْ يَكْتُبَ",
+      "itemIds": ["word-115"]
+    },
+    {
+      "id": "b2-l12-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "In order to learn",
+      "answer": "لِيَتَعَلَّمَ",
+      "itemIds": ["word-b2-068"]
+    },
+    {
+      "id": "b2-l12-ex04",
+      "type": "fill-blank",
+      "prompt": "جَاءَ _____ يَدْرُسَ",
+      "promptEn": "He came _____ study",
+      "answer": "لِـ",
+      "itemIds": ["word-b2-068"]
+    },
+    {
+      "id": "b2-l12-ex05",
+      "type": "word-to-meaning",
+      "prompt": "أَنْ",
+      "answer": "to / that (subjunctive)",
+      "itemIds": ["word-b2-067"]
+    },
+    {
+      "id": "b2-l12-ex06",
+      "type": "word-to-meaning",
+      "prompt": "لَنْ",
+      "answer": "will not",
+      "itemIds": ["word-115"]
+    },
+    {
+      "id": "b2-l12-ex07",
+      "type": "word-to-meaning",
+      "prompt": "كَيْ",
+      "answer": "in order to",
+      "itemIds": ["word-b2-068"]
+    },
+    {
+      "id": "b2-l12-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أُرِيدُ",
+      "answer": "I want",
+      "itemIds": ["word-b2-066"]
+    },
+    {
+      "id": "b2-l12-ex09",
+      "type": "meaning-to-word",
+      "prompt": "he is able to",
+      "answer": "يَسْتَطِيعُ",
+      "itemIds": ["word-b2-069"]
+    },
+    {
+      "id": "b2-l12-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to (subjunctive particle)",
+      "answer": "أَنْ",
+      "itemIds": ["word-b2-067"]
+    },
+    {
+      "id": "b2-l12-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I want to read this book",
+      "answer": "أُرِيدُ أَنْ أَقْرَأَ هَذَا الْكِتَابَ",
+      "itemIds": ["word-b2-066", "word-b2-067", "word-070", "word-001", "word-002"]
+    },
+    {
+      "id": "b2-l12-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "He will never forget his teacher",
+      "answer": "لَنْ يَنْسَى مُعَلِّمَهُ",
+      "itemIds": ["word-115", "word-098", "word-004"]
+    }
+  ]
+}

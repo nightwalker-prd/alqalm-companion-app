@@ -1,0 +1,134 @@
+{
+  "id": "b3-l11",
+  "book": 3,
+  "lesson": 11,
+  "title": "الْفِعْلُ الْمِثَال",
+  "titleEn": "Assimilated Verbs (First Weak Letter)",
+  "description": "Learn verbs with weak first letter (و or ي): وَجَدَ (to find), وَصَلَ (to arrive), وَعَدَ (to promise).",
+  "vocabulary": ["word-b3-059", "word-b3-060", "word-b3-061", "word-b3-062", "word-b3-063"],
+  "grammarPoints": ["gp-b3-011"],
+  "notes": [
+    {
+      "title": "Nominal Sentences (المبتدأ والخبر)",
+      "titleArabic": "المبتدأ والخبر",
+      "content": [
+        "Nominal sentences consist of mubtada' (subject) and khabar (predicate). Understanding their types, word order, and when either can be omitted is essential for Arabic syntax."
+      ],
+      "keyPoints": [
+        "Mubtada' must be definite (with few exceptions)",
+        "Khabar can be a word, phrase, or sentence",
+        "Word order can be reversed for emphasis or necessity",
+        "Agreement in number and gender is required"
+      ],
+      "examples": [
+        { "arabic": "الْكِتَابُ جَدِيدٌ", "english": "The book is new" },
+        { "arabic": "الطُّلَّابُ فِي الْفَصْلِ", "english": "The students are in the classroom" }
+      ]
+    },
+    {
+      "title": "Assimilated Verbs (الفعل المثال)",
+      "titleArabic": "الفعل المثال",
+      "content": [
+        "Assimilated verbs have wāw or yā' as their first radical. The weak letter often drops in the present tense and imperative forms."
+      ],
+      "keyPoints": [
+        "First radical is wāw (most common) or yā'",
+        "Wāw usually drops in present tense: وَجَدَ → يَجِدُ",
+        "Pattern in māḍī remains regular",
+        "Common verbs: وَجَدَ, وَصَلَ, وَعَدَ, وَضَعَ, وَقَفَ"
+      ],
+      "examples": [
+        { "arabic": "وَجَدَ - يَجِدُ", "english": "to find (wāw drops)" },
+        { "arabic": "وَصَلَ - يَصِلُ", "english": "to arrive (wāw drops)" },
+        { "arabic": "وَعَدَ - يَعِدُ", "english": "to promise (wāw drops)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l11-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I found the key",
+      "answer": "وَجَدْتُ الْمِفْتَاحَ",
+      "itemIds": ["word-b3-059", "word-021"]
+    },
+    {
+      "id": "b3-l11-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She arrived home",
+      "answer": "وَصَلَتْ إِلَى الْبَيْتِ",
+      "itemIds": ["word-b3-060", "word-003"]
+    },
+    {
+      "id": "b3-l11-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ أَنْ أَحْضُرَ غَدًا",
+      "promptEn": "I promised to attend tomorrow",
+      "answer": "وَعَدْتُ",
+      "itemIds": ["word-b3-061"]
+    },
+    {
+      "id": "b3-l11-ex04",
+      "type": "word-to-meaning",
+      "prompt": "وَجَدَ",
+      "answer": "to find",
+      "itemIds": ["word-b3-059"]
+    },
+    {
+      "id": "b3-l11-ex05",
+      "type": "word-to-meaning",
+      "prompt": "وَصَلَ",
+      "answer": "to arrive",
+      "itemIds": ["word-b3-060"]
+    },
+    {
+      "id": "b3-l11-ex06",
+      "type": "word-to-meaning",
+      "prompt": "وَعَدَ",
+      "answer": "to promise",
+      "itemIds": ["word-b3-061"]
+    },
+    {
+      "id": "b3-l11-ex07",
+      "type": "word-to-meaning",
+      "prompt": "وَضَعَ",
+      "answer": "to put / place",
+      "itemIds": ["word-b3-062"]
+    },
+    {
+      "id": "b3-l11-ex08",
+      "type": "word-to-meaning",
+      "prompt": "وَقَفَ",
+      "answer": "to stand / stop",
+      "itemIds": ["word-b3-063"]
+    },
+    {
+      "id": "b3-l11-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to find (assimilated verb)",
+      "answer": "وَجَدَ",
+      "itemIds": ["word-b3-059"]
+    },
+    {
+      "id": "b3-l11-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to stand (assimilated verb)",
+      "answer": "وَقَفَ",
+      "itemIds": ["word-b3-063"]
+    },
+    {
+      "id": "b3-l11-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "He put the book on the table",
+      "answer": "وَضَعَ الْكِتَابَ عَلَى الطَّاوِلَةِ",
+      "itemIds": ["word-b3-062", "word-002"]
+    },
+    {
+      "id": "b3-l11-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The train arrived at the station on time",
+      "answer": "وَصَلَ الْقِطَارُ إِلَى الْمَحَطَّةِ فِي الْوَقْتِ",
+      "itemIds": ["word-b3-060"]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "b1-l35",
+  "book": 1,
+  "lesson": 35,
+  "title": "الْمَمْدُود",
+  "titleEn": "Extended Nouns (ending in hamza)",
+  "description": "Learn about nouns ending in alif followed by hamza like السَّمَاء and البِنَاء, and how the type of hamza affects their behavior.",
+  "vocabulary": ["word-287", "word-288", "word-289", "word-290", "word-291", "word-292"],
+  "grammarPoints": ["gp-057", "gp-058"],
+  "notes": [
+    {
+      "title": "What is الاسم الممدود?",
+      "titleArabic": "تعريف الاسم الممدود",
+      "content": [
+        "الاسم الممدود is a noun ending in alif followed by hamza (اء), like السَّمَاء (sky), الدُّعَاء (supplication), and الصَّحْرَاء (desert).",
+        "Unlike المقصور and المنقوص, the ممدود takes visible case endings on the hamza."
+      ],
+      "keyPoints": [
+        "Ends in اء (alif + hamza)",
+        "Takes visible case endings: السَّمَاءُ، السَّمَاءَ، السَّمَاءِ",
+        "Common examples: السَّمَاء، البِنَاء، الدُّعَاء، الصَّحْرَاء",
+        "Fully declines like regular nouns"
+      ],
+      "examples": [
+        { "arabic": "السَّمَاءُ زَرْقَاءُ", "english": "The sky is blue" },
+        { "arabic": "رَأَيْتُ السَّمَاءَ", "english": "I saw the sky" },
+        { "arabic": "نَظَرْتُ إِلَى السَّمَاءِ", "english": "I looked at the sky" },
+        { "arabic": "الدُّعَاءُ مُسْتَجَابٌ", "english": "The supplication is answered" }
+      ]
+    },
+    {
+      "title": "Types of Hamza in الممدود",
+      "titleArabic": "أنواع الهمزة في الممدود",
+      "content": [
+        "The hamza in الممدود can be original (أصلية), for feminization (للتأنيث), or transformed (منقلبة). This affects how the noun forms its dual and feminine.",
+        "Original hamza stays in all forms. Feminization hamza changes to و in dual (صَحْرَاوَانِ)."
+      ],
+      "keyPoints": [
+        "Original hamza (أصلية): stays as hamza - قُرَّاء → قُرَّاءَانِ",
+        "Feminization hamza (للتأنيث): changes to و - صَحْرَاء → صَحْرَاوَانِ",
+        "Transformed hamza (منقلبة): can stay or change - بِنَاء → بِنَاءَانِ/بِنَاوَانِ",
+        "Feminine form: add ة after dropping اء if for feminization"
+      ],
+      "examples": [
+        { "arabic": "صَحْرَاوَانِ وَاسِعَتَانِ", "english": "Two vast deserts" },
+        { "arabic": "الدُّعَاءُ سِلَاحُ الْمُؤْمِنِ", "english": "Supplication is the weapon of the believer" },
+        { "arabic": "الْبِنَاءُ عَالٍ", "english": "The building is tall" },
+        { "arabic": "الْعَدَاءُ مَمْنُوعٌ", "english": "Running is prohibited" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l35-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ زَرْقَاءُ",
+      "promptEn": "The _____ is blue",
+      "answer": "السَّمَاءُ",
+      "itemIds": ["word-287"]
+    },
+    {
+      "id": "b1-l35-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ سِلَاحُ الْمُؤْمِنِ",
+      "promptEn": "_____ is the weapon of the believer",
+      "answer": "الدُّعَاءُ",
+      "itemIds": ["word-288"]
+    },
+    {
+      "id": "b1-l35-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ وَاسِعَةٌ جِدًّا",
+      "promptEn": "The _____ is very vast",
+      "answer": "الصَّحْرَاءُ",
+      "itemIds": ["word-289"]
+    },
+    {
+      "id": "b1-l35-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "I looked at the sky",
+      "answer": "نَظَرْتُ إِلَى السَّمَاءِ",
+      "itemIds": ["word-287", "word-197"]
+    },
+    {
+      "id": "b1-l35-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "The building is tall",
+      "answer": "الْبِنَاءُ عَالٍ",
+      "itemIds": ["word-290", "word-291"]
+    },
+    {
+      "id": "b1-l35-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Two vast deserts",
+      "answer": "صَحْرَاوَانِ وَاسِعَتَانِ",
+      "itemIds": ["word-289", "word-292"]
+    },
+    {
+      "id": "b1-l35-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The supplication was accepted",
+      "answer": "الدُّعَاءُ مُسْتَجَابٌ",
+      "itemIds": ["word-288"]
+    },
+    {
+      "id": "b1-l35-ex08",
+      "type": "word-to-meaning",
+      "prompt": "السَّمَاء",
+      "answer": "the sky",
+      "itemIds": ["word-287"]
+    },
+    {
+      "id": "b1-l35-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الدُّعَاء",
+      "answer": "supplication / prayer",
+      "itemIds": ["word-288"]
+    },
+    {
+      "id": "b1-l35-ex10",
+      "type": "word-to-meaning",
+      "prompt": "الصَّحْرَاء",
+      "answer": "desert",
+      "itemIds": ["word-289"]
+    },
+    {
+      "id": "b1-l35-ex11",
+      "type": "meaning-to-word",
+      "prompt": "building / construction",
+      "answer": "بِنَاءٌ",
+      "itemIds": ["word-290"]
+    },
+    {
+      "id": "b1-l35-ex12",
+      "type": "meaning-to-word",
+      "prompt": "vast / wide",
+      "answer": "وَاسِعٌ",
+      "itemIds": ["word-292"]
+    }
+  ]
+}

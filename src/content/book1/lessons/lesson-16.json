@@ -1,0 +1,118 @@
+{
+  "id": "b1-l16",
+  "book": 1,
+  "lesson": 16,
+  "title": "جَمْعُ التَّكْسِير",
+  "titleEn": "Broken Plurals",
+  "description": "Learn irregular Arabic plurals that follow patterns: كُتُبٌ (books), بُيُوتٌ (houses).",
+  "vocabulary": ["word-096", "word-097", "word-098", "word-099", "word-100", "word-101"],
+  "grammarPoints": ["gp-021"],
+  "notes": [
+    {
+      "title": "Broken Plurals (جمع التكسير)",
+      "titleArabic": "جَمْعُ التَّكْسِير",
+      "content": [
+        "Broken plurals are irregular plurals formed by changing the internal pattern of the word, not by adding an ending. They are called 'broken' because the singular form is 'broken apart' and rearranged.",
+        "There are many broken plural patterns. The most common include: فُعُلٌ (كُتُبٌ), فُعُولٌ (بُيُوتٌ), أَفْعَالٌ (أَقْلَامٌ), and فِعَالٌ (رِجَالٌ). These must be memorized with each noun."
+      ],
+      "keyPoints": [
+        "كِتَابٌ → كُتُبٌ (books) - pattern فُعُلٌ",
+        "بَيْتٌ → بُيُوتٌ (houses) - pattern فُعُولٌ",
+        "قَلَمٌ → أَقْلَامٌ (pens) - pattern أَفْعَالٌ",
+        "رَجُلٌ → رِجَالٌ (men) - pattern فِعَالٌ"
+      ],
+      "examples": [
+        { "arabic": "كُتُبٌ", "english": "books" },
+        { "arabic": "بُيُوتٌ", "english": "houses" },
+        { "arabic": "أَقْلَامٌ", "english": "pens" },
+        { "arabic": "رِجَالٌ", "english": "men" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l16-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "books",
+      "answer": "كُتُبٌ",
+      "itemIds": ["word-096"]
+    },
+    {
+      "id": "b1-l16-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "houses",
+      "answer": "بُيُوتٌ",
+      "itemIds": ["word-097"]
+    },
+    {
+      "id": "b1-l16-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "pens",
+      "answer": "أَقْلَامٌ",
+      "itemIds": ["word-098"]
+    },
+    {
+      "id": "b1-l16-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "men",
+      "answer": "رِجَالٌ",
+      "itemIds": ["word-099"]
+    },
+    {
+      "id": "b1-l16-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كُتُبٌ",
+      "answer": "books",
+      "itemIds": ["word-096"]
+    },
+    {
+      "id": "b1-l16-ex06",
+      "type": "word-to-meaning",
+      "prompt": "بُيُوتٌ",
+      "answer": "houses",
+      "itemIds": ["word-097"]
+    },
+    {
+      "id": "b1-l16-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَقْلَامٌ",
+      "answer": "pens",
+      "itemIds": ["word-098"]
+    },
+    {
+      "id": "b1-l16-ex08",
+      "type": "word-to-meaning",
+      "prompt": "رِجَالٌ",
+      "answer": "men",
+      "itemIds": ["word-099"]
+    },
+    {
+      "id": "b1-l16-ex09",
+      "type": "meaning-to-word",
+      "prompt": "doors",
+      "answer": "أَبْوَابٌ",
+      "itemIds": ["word-100"]
+    },
+    {
+      "id": "b1-l16-ex10",
+      "type": "meaning-to-word",
+      "prompt": "children",
+      "answer": "أَوْلَادٌ",
+      "itemIds": ["word-101"]
+    },
+    {
+      "id": "b1-l16-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The books are on the table",
+      "answer": "الْكُتُبُ عَلَى الطَّاوِلَةِ",
+      "itemIds": ["word-096", "word-049", "word-033"]
+    },
+    {
+      "id": "b1-l16-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The men went to the houses",
+      "answer": "ذَهَبَ الرِّجَالُ إِلَى الْبُيُوتِ",
+      "itemIds": ["word-068", "word-099", "word-048", "word-097"]
+    }
+  ]
+}

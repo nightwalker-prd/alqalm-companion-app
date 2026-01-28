@@ -1,0 +1,224 @@
+{
+  "id": "b3-l76",
+  "book": 3,
+  "lesson": 76,
+  "title": "الإِلْغَاءُ وَالتَّعْلِيقُ",
+  "titleEn": "Cancellation and Suspension of Heart Verbs",
+  "description": "Learn about الإلغاء (canceling) and التعليق (suspending) - two phenomena that affect the governance of أفعال القلوب (verbs of the heart like ظَنَّ and عَلِمَ).",
+  "vocabulary": ["word-b3-508", "word-b3-509", "word-b3-510", "word-b3-511", "word-b3-512"],
+  "grammarPoints": ["gp-b3-114", "gp-b3-115"],
+  "notes": [
+    {
+      "title": "Review: Verbs of the Heart",
+      "titleArabic": "مُرَاجَعَةٌ: أَفْعَالُ الْقُلُوبِ",
+      "content": [
+        "أَفْعَالُ الْقُلُوبِ (verbs of the heart) are verbs expressing mental states: perception (ظَنَّ، حَسِبَ، خَالَ، زَعَمَ), certainty (عَلِمَ، وَجَدَ، رَأَى), and transformation (جَعَلَ، اِتَّخَذَ، صَيَّرَ). These verbs take two objects (مَفْعُولَيْنِ).",
+        "However, unlike regular verbs, the governance of أفعال القلوب can be canceled (الإلغاء) or suspended (التعليق) under certain conditions. Understanding these phenomena is essential for advanced grammar."
+      ],
+      "keyPoints": [
+        "أفعال القلوب: mental state verbs",
+        "Normally take مفعولين (two objects)",
+        "Governance can be affected by position or particles",
+        "Two phenomena: الإلغاء and التعليق"
+      ],
+      "examples": [
+        { "arabic": "ظَنَنْتُ زَيْدًا قَائِمًا (عَامِل)", "english": "I thought Zayd was standing (normal governance)" },
+        { "arabic": "عَلِمْتُ الْأَمْرَ سَهْلًا", "english": "I knew the matter was easy (two objects)" },
+        { "arabic": "حَسِبْتُهُ صَادِقًا", "english": "I considered him truthful" },
+        { "arabic": "خِلْتُ الْعَمَلَ صَعْبًا", "english": "I imagined the work was difficult" }
+      ]
+    },
+    {
+      "title": "What is الإلغاء (Cancellation)?",
+      "titleArabic": "مَا هُوَ الإِلْغَاءُ؟",
+      "content": [
+        "الإلغاء is the cancellation of the verb's governance when it comes AFTER its objects (مُتَأَخِّر). When a verb of the heart follows its logical objects, its governance is weakened and can be canceled.",
+        "In إلغاء, the first 'object' becomes a مُبْتَدَأ (nominative subject) and the second becomes its خَبَر (nominative predicate). The verb of the heart becomes like a parenthetical insertion with no grammatical governance."
+      ],
+      "keyPoints": [
+        "Occurs when verb comes AFTER objects",
+        "Verb's governance is canceled",
+        "First 'object' → مبتدأ مرفوع",
+        "Second 'object' → خبر مرفوع"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ قَائِمٌ ظَنَنْتُ", "english": "Zayd is standing, I thought (زَيْدٌ = مبتدأ، قَائِمٌ = خبر)" },
+        { "arabic": "الْأَمْرُ سَهْلٌ عَلِمْتُ", "english": "The matter is easy, I knew" },
+        { "arabic": "مُحَمَّدٌ صَادِقٌ حَسِبْتُ", "english": "Muhammad is truthful, I thought" },
+        { "arabic": "الْعَمَلُ صَعْبٌ خِلْتُ", "english": "The work is difficult, I imagined" }
+      ]
+    },
+    {
+      "title": "Conditions for الإلغاء",
+      "titleArabic": "شُرُوطُ الإِلْغَاءِ",
+      "content": [
+        "الإلغاء requires specific conditions: 1) The verb must be from أفعال القلوب, 2) The verb must come AFTER the two words it would normally govern, 3) The speaker chooses to treat the sentence as مبتدأ + خبر rather than giving the verb governance.",
+        "When the verb is in the middle (between the two words), إلغاء is also possible but less common. The choice between إعمال (governing) and إلغاء (canceling) is often stylistic."
+      ],
+      "keyPoints": [
+        "Verb must be from أفعال القلوب",
+        "Verb must come after its logical objects",
+        "Or verb is in the middle position",
+        "Choice between إعمال and إلغاء is stylistic"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ ظَنَنْتُ قَائِمٌ (الفعل متوسط)", "english": "Zayd, I thought, is standing (verb in middle)" },
+        { "arabic": "زَيْدٌ قَائِمٌ أَظُنُّ", "english": "Zayd is standing, I think (إلغاء)" },
+        { "arabic": "زَيْدًا قَائِمًا ظَنَنْتُ (إعمال)", "english": "Zayd standing I thought (still governing)" },
+        { "arabic": "الْحَقُّ وَاضِحٌ عَلِمْتُ", "english": "The truth is clear, I knew" }
+      ]
+    },
+    {
+      "title": "What is التعليق (Suspension)?",
+      "titleArabic": "مَا هُوَ التَّعْلِيقُ؟",
+      "content": [
+        "التعليق is the suspension of the verb's governance due to an intervening particle that has صدارة (priority/frontness) in the clause. These particles 'block' the verb from governing what follows.",
+        "The verb retains its meaning but cannot grammatically govern. The sentence after the particle functions as a complete sentence (جملة) that is 'in the position of' the two objects: في محل نصب سدّت مسدّ المفعولين."
+      ],
+      "keyPoints": [
+        "Caused by intervening particles with صدارة",
+        "Verb's governance is suspended (not canceled)",
+        "Sentence after = سدّت مسدّ المفعولين",
+        "Particles: ما، لا، إنّ، لام الابتداء، الاستفهام"
+      ],
+      "examples": [
+        { "arabic": "عَلِمْتُ لَزَيْدٌ قَائِمٌ", "english": "I knew that certainly Zayd is standing (لَ blocks governance)" },
+        { "arabic": "ظَنَنْتُ مَا زَيْدٌ قَائِمٌ", "english": "I thought Zayd was not standing (مَا blocks)" },
+        { "arabic": "حَسِبْتُ أَزَيْدٌ قَائِمٌ", "english": "I wondered: is Zayd standing? (استفهام blocks)" },
+        { "arabic": "عَلِمْتُ إِنَّ زَيْدًا قَائِمٌ", "english": "I knew that Zayd is standing (إِنَّ blocks)" }
+      ]
+    },
+    {
+      "title": "Particles that Cause التعليق",
+      "titleArabic": "الأَدَوَاتُ الَّتِي تُعَلِّقُ الْفِعْلَ",
+      "content": [
+        "Several particles cause التعليق because they must come at the start of their clause (صدارة): 1) لام الابتداء (إِنَّ زَيْدًا لَقَائِمٌ), 2) مَا النافية, 3) لَا النافية, 4) إِنْ النافية, 5) Interrogative particles (أ، هل، مَن، مَا، أَيّ, etc.).",
+        "When these particles appear after a verb of the heart, the verb cannot extend its governance past them. The entire clause becomes في محل نصب (in the accusative position) as a unit."
+      ],
+      "keyPoints": [
+        "لام الابتداء: emphasis lam",
+        "ما، لا، إن النافية: negation",
+        "أدوات الاستفهام: question words",
+        "All have صدارة: must be clause-initial"
+      ],
+      "examples": [
+        { "arabic": "عَلِمْتُ لَلْحَقُّ مَنْصُورٌ", "english": "I knew that the truth is certainly victorious" },
+        { "arabic": "ظَنَنْتُ مَا الْكَذِبُ نَافِعٌ", "english": "I thought lying was not beneficial" },
+        { "arabic": "حَسِبْتُ هَلْ زَيْدٌ مُسَافِرٌ", "english": "I wondered: is Zayd traveling?" },
+        { "arabic": "رَأَيْتُ أَيُّهُمْ أَفْضَلُ", "english": "I saw which of them was best" }
+      ]
+    },
+    {
+      "title": "Difference Between الإلغاء and التعليق",
+      "titleArabic": "الْفَرْقُ بَيْنَ الإِلْغَاءِ وَالتَّعْلِيقِ",
+      "content": [
+        "الإلغاء and التعليق both affect verb governance but differ fundamentally. In إلغاء, governance is CANCELED due to word order - there is no governance at all. In تعليق, governance is SUSPENDED - the verb still has an effect, but it applies to the whole sentence.",
+        "إلغاء: verb truly loses governance → مبتدأ + خبر. تعليق: verb governs the entire clause → الجملة في محل نصب. This distinction affects i'rab analysis significantly."
+      ],
+      "keyPoints": [
+        "إلغاء: governance canceled, مبتدأ + خبر",
+        "تعليق: governance suspended, جملة في محل نصب",
+        "إلغاء: due to word order (verb after)",
+        "تعليق: due to intervening particle"
+      ],
+      "examples": [
+        { "arabic": "زَيْدٌ قَائِمٌ ظَنَنْتُ (إلغاء)", "english": "Zayd is standing, I thought (no governance at all)" },
+        { "arabic": "ظَنَنْتُ لَزَيْدٌ قَائِمٌ (تعليق)", "english": "I thought that Zayd is certainly standing (جملة في محل نصب)" },
+        { "arabic": "الْعِلْمُ نُورٌ عَلِمْتُ (إلغاء)", "english": "Knowledge is light, I knew" },
+        { "arabic": "عَلِمْتُ مَا الْجَهْلُ نُورٌ (تعليق)", "english": "I knew that ignorance is not light" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l76-ex01",
+      "type": "fill-blank",
+      "prompt": "إِذَا جَاءَ فِعْلُ الْقَلْبِ بَعْدَ مَفْعُولَيْهِ يَجُوزُ _____ عَمَلِهِ",
+      "promptEn": "When a verb of the heart comes after its objects, its governance may be _____",
+      "answer": "إِلْغَاءُ",
+      "itemIds": ["word-b3-508"]
+    },
+    {
+      "id": "b3-l76-ex02",
+      "type": "fill-blank",
+      "prompt": "زَيْدٌ قَائِمٌ ظَنَنْتُ - زَيْدٌ هُنَا _____ مَرْفُوعٌ بِالإِلْغَاءِ",
+      "promptEn": "Zayd is standing, I thought - زَيْدٌ here is a _____ in nominative due to cancellation",
+      "answer": "مُبْتَدَأٌ",
+      "itemIds": ["word-b3-509"]
+    },
+    {
+      "id": "b3-l76-ex03",
+      "type": "fill-blank",
+      "prompt": "إِذَا جَاءَتْ أَدَاةٌ لَهَا الصَّدَارَةُ بَعْدَ فِعْلِ الْقَلْبِ يَحْدُثُ _____",
+      "promptEn": "When a particle with priority comes after a verb of the heart, _____ occurs",
+      "answer": "التَّعْلِيقُ",
+      "itemIds": ["word-b3-510"]
+    },
+    {
+      "id": "b3-l76-ex04",
+      "type": "fill-blank",
+      "prompt": "عَلِمْتُ لَزَيْدٌ قَائِمٌ - الْجُمْلَةُ بَعْدَ عَلِمْتُ فِي مَحَلِّ نَصْبٍ سَدَّتْ مَسَدَّ _____",
+      "promptEn": "I knew that Zayd is standing - the sentence is in accusative position, standing for the _____",
+      "answer": "الْمَفْعُولَيْنِ",
+      "itemIds": ["word-b3-511"]
+    },
+    {
+      "id": "b3-l76-ex05",
+      "type": "fill-blank",
+      "prompt": "مِنْ أَدَوَاتِ التَّعْلِيقِ: لَامُ الاِبْتِدَاءِ، مَا النَّافِيَةُ، وَأَدَوَاتُ _____",
+      "promptEn": "Among the particles of suspension: emphasis lam, negative ما, and _____ particles",
+      "answer": "الاِسْتِفْهَامِ",
+      "itemIds": ["word-b3-512"]
+    },
+    {
+      "id": "b3-l76-ex06",
+      "type": "fill-blank",
+      "prompt": "فِي الإِلْغَاءِ يُلْغَى الْعَمَلُ تَمَامًا، أَمَّا فِي التَّعْلِيقِ فَالْعَمَلُ _____",
+      "promptEn": "In cancellation, governance is completely canceled; in suspension, governance is _____",
+      "answer": "مُعَلَّقٌ",
+      "itemIds": ["word-b3-510"]
+    },
+    {
+      "id": "b3-l76-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الإِلْغَاءُ",
+      "answer": "Cancellation of verb governance (due to word order)",
+      "itemIds": ["word-b3-508"]
+    },
+    {
+      "id": "b3-l76-ex08",
+      "type": "word-to-meaning",
+      "prompt": "التَّعْلِيقُ",
+      "answer": "Suspension of verb governance (due to intervening particle)",
+      "itemIds": ["word-b3-510"]
+    },
+    {
+      "id": "b3-l76-ex09",
+      "type": "word-to-meaning",
+      "prompt": "سَدَّتْ مَسَدَّ الْمَفْعُولَيْنِ",
+      "answer": "Stood in place of the two objects (a clause replacing objects)",
+      "itemIds": ["word-b3-511"]
+    },
+    {
+      "id": "b3-l76-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The phenomenon where a verb of the heart loses its governance due to coming after its objects",
+      "answer": "الإِلْغَاءُ",
+      "itemIds": ["word-b3-508"]
+    },
+    {
+      "id": "b3-l76-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The phenomenon where an intervening particle blocks verb governance",
+      "answer": "التَّعْلِيقُ",
+      "itemIds": ["word-b3-510"]
+    },
+    {
+      "id": "b3-l76-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The property of certain particles that requires them to be clause-initial",
+      "answer": "الصَّدَارَةُ",
+      "itemIds": ["word-b3-512"]
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "b3-l94",
+  "book": 3,
+  "lesson": 94,
+  "title": "نُونُ الْوِقَايَةِ",
+  "titleEn": "The Protective Nun",
+  "description": "Learn about نون الوقاية - the nun added before ياء المتكلم to protect the verb or particle from having kasra on its final letter.",
+  "vocabulary": ["word-b3-598", "word-b3-599", "word-b3-600", "word-b3-601", "word-b3-602"],
+  "grammarPoints": ["gp-b3-150", "gp-b3-151"],
+  "notes": [
+    {
+      "title": "What is نون الوقاية?",
+      "titleArabic": "مَا هِيَ نُونُ الْوِقَايَةِ؟",
+      "content": [
+        "نُون الْوِقَايَة (the protective nun) is a نون added before يَاء الْمُتَكَلِّم (the first-person pronoun ي 'me/my') when attached to verbs. It 'protects' the verb from having kasra on its final letter.",
+        "The name comes from وَقَى / يَقِي (to protect). Without this nun, attaching ياء المتكلم would require changing the verb's ending to kasra, which is undesirable for verbs."
+      ],
+      "keyPoints": [
+        "نُون added before ياء المتكلم",
+        "Protects verb from kasra",
+        "Called الوِقَايَة (protection)",
+        "Essential with all verbs + ياء المتكلم"
+      ],
+      "examples": [
+        { "arabic": "أَكْرَمَنِي (أكرم + ن + ي)", "english": "He honored me (verb + nun + ya)" },
+        { "arabic": "يَسْأَلُنِي (يسأل + ن + ي)", "english": "He asks me" },
+        { "arabic": "عَلَّمَنِي (علّم + ن + ي)", "english": "He taught me" },
+        { "arabic": "سَاعِدْنِي (ساعد + ن + ي)", "english": "Help me!" }
+      ]
+    },
+    {
+      "title": "Why is it Needed?",
+      "titleArabic": "لِمَاذَا نَحْتَاجُهَا؟",
+      "content": [
+        "Arabic verbs don't naturally end in kasra (except in specific jussive forms). When ياء المتكلم attaches, it would require kasra before it. The نون acts as a buffer, taking the kasra itself: أَكْرَمَ + ـِي → أَكْرَمَنِي (not *أَكْرَمِي).",
+        "Compare with nouns: كِتَابِي (my book) - no نون needed because nouns can take kasra in إضافة. But أَكْرَمَنِي (he honored me) needs نون because verbs resist final kasra."
+      ],
+      "keyPoints": [
+        "Verbs resist final kasra",
+        "نون takes the kasra instead",
+        "Nouns don't need it (كِتَابِي)",
+        "Verbs always need it (أَكْرَمَنِي)"
+      ],
+      "examples": [
+        { "arabic": "كِتَابِي (اسم + ياء - بدون نون)", "english": "My book (noun + ya - no nun)" },
+        { "arabic": "أَكْرَمَنِي (فعل + نون + ياء)", "english": "He honored me (verb + nun + ya)" },
+        { "arabic": "بَيْتِي ← لا نون", "english": "My house ← no nun" },
+        { "arabic": "زَارَنِي ← نون واجبة", "english": "He visited me ← nun obligatory" }
+      ]
+    },
+    {
+      "title": "With Verbs (Obligatory)",
+      "titleArabic": "مَعَ الأَفْعَالِ (وَاجِبَة)",
+      "content": [
+        "نون الوقاية is وَاجِبَة (obligatory) with all verbs - past, present, and imperative. It appears whenever ياء المتكلم is the object of the verb.",
+        "Examples: ضَرَبَنِي (he hit me), يَضْرِبُنِي (he hits me), لَا تَضْرِبْنِي (don't hit me). The نون is constant regardless of verb form."
+      ],
+      "keyPoints": [
+        "Obligatory with ALL verbs",
+        "Past: ضَرَبَنِي",
+        "Present: يَضْرِبُنِي",
+        "Imperative: اضْرِبْنِي"
+      ],
+      "examples": [
+        { "arabic": "سَأَلَنِي / يَسْأَلُنِي / اسْأَلْنِي", "english": "He asked me / He asks me / Ask me!" },
+        { "arabic": "عَلَّمَنِي رَبِّي", "english": "My Lord taught me" },
+        { "arabic": "رَبِّ اغْفِرْ لِي وَارْحَمْنِي", "english": "Lord, forgive me and have mercy on me" },
+        { "arabic": "إِنَّهُ يَرَانِي", "english": "Indeed He sees me" }
+      ]
+    },
+    {
+      "title": "With Particles",
+      "titleArabic": "مَعَ الْحُرُوفِ",
+      "content": [
+        "نون الوقاية also appears with certain particles before ياء المتكلم: إِنَّ وَأَخَوَاتُهَا (إِنَّنِي، لَكِنَّنِي، كَأَنَّنِي، لَيْتَنِي، لَعَلَّنِي) and some others (مِنِّي، عَنِّي).",
+        "With إِنَّ group, the نون is جَائِزَة (permissible) - you can say إِنِّي or إِنَّنِي. But with verbs, it is وَاجِبَة (obligatory)."
+      ],
+      "keyPoints": [
+        "إِنَّ group: إِنَّنِي / إِنِّي (both allowed)",
+        "لَكِنَّنِي، كَأَنَّنِي، لَيْتَنِي، لَعَلَّنِي",
+        "مِنْ، عَنْ: مِنِّي، عَنِّي",
+        "With إِنَّ: نون جائزة"
+      ],
+      "examples": [
+        { "arabic": "إِنَّنِي / إِنِّي (كلاهما صحيح)", "english": "Indeed I (both forms correct)" },
+        { "arabic": "لَكِنَّنِي / لَكِنِّي مُسَافِرٌ", "english": "But I am traveling" },
+        { "arabic": "لَيْتَنِي كُنْتُ مَعَهُمْ", "english": "Would that I had been with them" },
+        { "arabic": "كَأَنَّنِي أَرَاهُ", "english": "As if I see him" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis",
+      "titleArabic": "الإِعْرَابُ",
+      "content": [
+        "نون الوقاية is حَرْف لَا مَحَلَّ لَهُ مِنَ الإِعْرَاب (a particle with no grammatical position). The ياء after it is the actual pronoun with a position (usually مَفْعُول بِهِ).",
+        "Full analysis of أَكْرَمَنِي: أَكْرَمَ (فعل ماض)، النون (نون الوقاية - حرف)، الياء (ضمير متصل في محل نصب مفعول به)."
+      ],
+      "keyPoints": [
+        "نون: حَرْف لَا مَحَلَّ لَهُ",
+        "يَاء: ضَمِير مُتَّصِل - مَفْعُول بِهِ",
+        "نون is just a buffer",
+        "يَاء carries the grammatical function"
+      ],
+      "examples": [
+        { "arabic": "أَكْرَمَ: فعل ماض مبني على الفتح", "english": "أَكْرَمَ: past verb, built on fatha" },
+        { "arabic": "النون: نون الوقاية، حرف لا محل له", "english": "النون: protective nun, no position" },
+        { "arabic": "الياء: ضمير متصل في محل نصب مفعول به", "english": "الياء: attached pronoun, accusative, object" },
+        { "arabic": "والفاعل ضمير مستتر تقديره هُوَ", "english": "Subject is hidden pronoun estimated as 'he'" }
+      ]
+    },
+    {
+      "title": "Quranic Examples",
+      "titleArabic": "أَمْثِلَةٌ قُرْآنِيَّةٌ",
+      "content": [
+        "نون الوقاية appears thousands of times in the Quran with verbs and particles. Recognizing it helps in proper recitation and understanding of Quranic Arabic.",
+        "Examples: رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ (Lord, enable me to be grateful), فَاطِرِ السَّمَاوَاتِ وَالأَرْضِ أَنْتَ وَلِيِّي (Creator of heavens and earth, You are my protector)."
+      ],
+      "keyPoints": [
+        "Thousands of occurrences",
+        "With verbs: أَوْزِعْنِي، اهْدِنِي",
+        "With إِنَّ: إِنَّنِي، إِنِّي",
+        "Essential for Quran study"
+      ],
+      "examples": [
+        { "arabic": "رَبِّ أَوْزِعْنِي أَنْ أَشْكُرَ نِعْمَتَكَ (النمل: ١٩)", "english": "Lord, enable me to be grateful for Your blessing (27:19)" },
+        { "arabic": "اهْدِنَا الصِّرَاطَ الْمُسْتَقِيمَ (الفاتحة: ٦)", "english": "Guide us to the straight path (1:6)" },
+        { "arabic": "إِنَّنِي أَنَا اللهُ (طه: ١٤)", "english": "Indeed, I am Allah (20:14)" },
+        { "arabic": "قَالَ رَبِّ إِنِّي وَهَنَ الْعَظْمُ مِنِّي (مريم: ٤)", "english": "He said: Lord, my bones have weakened (19:4)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l94-ex01",
+      "type": "fill-blank",
+      "prompt": "النُّونُ فِي 'أَكْرَمَنِي' تُسَمَّى: نُونَ _____",
+      "promptEn": "The nun in 'أَكْرَمَنِي' is called: the _____ nun",
+      "answer": "الْوِقَايَةِ",
+      "itemIds": ["word-b3-598"]
+    },
+    {
+      "id": "b3-l94-ex02",
+      "type": "fill-blank",
+      "prompt": "نُونُ الْوِقَايَةِ تَحْمِي الْفِعْلَ مِنَ _____ عَلَى آخِرِهِ",
+      "promptEn": "نون الوقاية protects the verb from having _____ on its final letter",
+      "answer": "الْكَسْرَةِ",
+      "itemIds": ["word-b3-599"]
+    },
+    {
+      "id": "b3-l94-ex03",
+      "type": "fill-blank",
+      "prompt": "نُونُ الْوِقَايَةِ مَعَ الأَفْعَالِ _____ (واجبة/جائزة)",
+      "promptEn": "نون الوقاية with verbs is _____ (obligatory/permissible)",
+      "answer": "وَاجِبَةٌ",
+      "itemIds": ["word-b3-600"]
+    },
+    {
+      "id": "b3-l94-ex04",
+      "type": "fill-blank",
+      "prompt": "كِتَابِي (بدون نون) لأن الأسماء تَقْبَلُ _____",
+      "promptEn": "كِتَابِي (without nun) because nouns accept _____",
+      "answer": "الْكَسْرَةَ",
+      "itemIds": ["word-b3-599"]
+    },
+    {
+      "id": "b3-l94-ex05",
+      "type": "fill-blank",
+      "prompt": "إِنَّنِي وَإِنِّي كِلَاهُمَا صَحِيحٌ لأن النون مع إِنَّ _____",
+      "promptEn": "إِنَّنِي and إِنِّي are both correct because the nun with إِنَّ is _____",
+      "answer": "جَائِزَةٌ",
+      "itemIds": ["word-b3-601"]
+    },
+    {
+      "id": "b3-l94-ex06",
+      "type": "fill-blank",
+      "prompt": "نُونُ الْوِقَايَةِ حَرْفٌ _____ مِنَ الإِعْرَابِ",
+      "promptEn": "نون الوقاية is a particle with no _____ in i'rab",
+      "answer": "لَا مَحَلَّ لَهُ",
+      "itemIds": ["word-b3-602"]
+    },
+    {
+      "id": "b3-l94-ex07",
+      "type": "word-to-meaning",
+      "prompt": "نُونُ الْوِقَايَةِ",
+      "answer": "The protective nun (added before ياء المتكلم with verbs)",
+      "itemIds": ["word-b3-598"]
+    },
+    {
+      "id": "b3-l94-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أَكْرَمَنِي",
+      "answer": "He honored me (verb with نون الوقاية)",
+      "itemIds": ["word-b3-598"]
+    },
+    {
+      "id": "b3-l94-ex09",
+      "type": "word-to-meaning",
+      "prompt": "إِنَّنِي / إِنِّي",
+      "answer": "Indeed I (both forms correct with/without نون)",
+      "itemIds": ["word-b3-601"]
+    },
+    {
+      "id": "b3-l94-ex10",
+      "type": "meaning-to-word",
+      "prompt": "The nun that protects verbs from kasra before ياء المتكلم",
+      "answer": "نُونُ الْوِقَايَةِ",
+      "itemIds": ["word-b3-598"]
+    },
+    {
+      "id": "b3-l94-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Say 'He taught me' in Arabic with نون الوقاية",
+      "answer": "عَلَّمَنِي",
+      "itemIds": ["word-b3-598"]
+    },
+    {
+      "id": "b3-l94-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The Quranic phrase 'Guide us' from Surah Al-Fatiha",
+      "answer": "اهْدِنَا",
+      "itemIds": ["word-b3-600"]
+    }
+  ]
+}

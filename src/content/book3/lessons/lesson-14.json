@@ -1,0 +1,134 @@
+{
+  "id": "b3-l14",
+  "book": 3,
+  "lesson": 14,
+  "title": "الْفِعْلُ الْمَهْمُوز",
+  "titleEn": "Hamzated Verbs",
+  "description": "Learn verbs with hamza: أَخَذَ (to take), أَكَلَ (to eat), سَأَلَ (to ask).",
+  "vocabulary": ["word-b3-076", "word-b3-077", "word-b3-078", "word-b3-079", "word-b3-080"],
+  "grammarPoints": ["gp-b3-014"],
+  "notes": [
+    {
+      "title": "Conditional Particles and Diminutives",
+      "titleArabic": "أدوات الشرط والتصغير",
+      "content": [
+        "Conditional particle إِذَا introduces conditions with past or future meaning. Ism al-fi'l (verbal nouns) can function like verbs. Diminutives express smallness or endearment."
+      ],
+      "keyPoints": [
+        "إِذَا with past verb expresses future condition",
+        "Ism al-fi'l: صَهْ (be quiet!), آمِين (amen)",
+        "Diminutive patterns: فُعَيْل, فُعَيْعِل",
+        "Diminutive for endearment: كُلَيْب (little dog)"
+      ],
+      "examples": [
+        { "arabic": "إِذَا جَاءَ فَأَكْرِمْهُ", "english": "If/when he comes, honor him" },
+        { "arabic": "كُتَيِّب", "english": "booklet (diminutive of كِتَاب)" }
+      ]
+    },
+    {
+      "title": "Hamzated Verbs (الفعل المهموز)",
+      "titleArabic": "الفعل المهموز",
+      "content": [
+        "Hamzated verbs contain hamza as one of their root letters. The hamza can be in any position and follows specific rules for writing depending on the surrounding vowels."
+      ],
+      "keyPoints": [
+        "Hamza can be first (أَخَذَ), middle (سَأَلَ), or final (قَرَأَ) radical",
+        "First-hamza verbs: imperative loses hamza in some dialects",
+        "Hamza spelling changes based on vowels",
+        "Common verbs: أَخَذَ, أَكَلَ, سَأَلَ, قَرَأَ, بَدَأَ"
+      ],
+      "examples": [
+        { "arabic": "أَخَذَ - يَأْخُذُ", "english": "to take (first-hamza)" },
+        { "arabic": "سَأَلَ - يَسْأَلُ", "english": "to ask (middle-hamza)" },
+        { "arabic": "قَرَأَ - يَقْرَأُ", "english": "to read (final-hamza)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l14-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He took the pen",
+      "answer": "أَخَذَ الْقَلَمَ",
+      "itemIds": ["word-b3-076", "word-001"]
+    },
+    {
+      "id": "b3-l14-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She ate the apple",
+      "answer": "أَكَلَتِ التُّفَّاحَةَ",
+      "itemIds": ["word-b3-077", "word-b3-081"]
+    },
+    {
+      "id": "b3-l14-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الطَّالِبُ الْمُدَرِّسَ",
+      "promptEn": "The student asked the teacher",
+      "answer": "سَأَلَ",
+      "itemIds": ["word-b3-078"]
+    },
+    {
+      "id": "b3-l14-ex04",
+      "type": "word-to-meaning",
+      "prompt": "أَخَذَ",
+      "answer": "to take",
+      "itemIds": ["word-b3-076"]
+    },
+    {
+      "id": "b3-l14-ex05",
+      "type": "word-to-meaning",
+      "prompt": "أَكَلَ",
+      "answer": "to eat",
+      "itemIds": ["word-b3-077"]
+    },
+    {
+      "id": "b3-l14-ex06",
+      "type": "word-to-meaning",
+      "prompt": "سَأَلَ",
+      "answer": "to ask",
+      "itemIds": ["word-b3-078"]
+    },
+    {
+      "id": "b3-l14-ex07",
+      "type": "word-to-meaning",
+      "prompt": "قَرَأَ",
+      "answer": "to read",
+      "itemIds": ["word-b3-079"]
+    },
+    {
+      "id": "b3-l14-ex08",
+      "type": "word-to-meaning",
+      "prompt": "بَدَأَ",
+      "answer": "to begin",
+      "itemIds": ["word-b3-080"]
+    },
+    {
+      "id": "b3-l14-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to take (hamzated verb)",
+      "answer": "أَخَذَ",
+      "itemIds": ["word-b3-076"]
+    },
+    {
+      "id": "b3-l14-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to begin (hamzated verb)",
+      "answer": "بَدَأَ",
+      "itemIds": ["word-b3-080"]
+    },
+    {
+      "id": "b3-l14-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student read the lesson carefully",
+      "answer": "قَرَأَ الطَّالِبُ الدَّرْسَ بِعِنَايَةٍ",
+      "itemIds": ["word-b3-079", "word-b2-019"]
+    },
+    {
+      "id": "b3-l14-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The class began at eight in the morning",
+      "answer": "بَدَأَ الْفَصْلُ فِي الثَّامِنَةِ صَبَاحًا",
+      "itemIds": ["word-b3-080"]
+    }
+  ]
+}

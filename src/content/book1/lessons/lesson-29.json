@@ -1,0 +1,143 @@
+{
+  "id": "b1-l29",
+  "book": 1,
+  "lesson": 29,
+  "title": "الْجَارُّ وَالْمَجْرُور",
+  "titleEn": "Preposition & Object",
+  "description": "Learn about prepositional phrases (الجار والمجرور) and their role in Arabic sentences.",
+  "vocabulary": ["word-251", "word-252", "word-253", "word-254", "word-255", "word-256"],
+  "grammarPoints": ["gp-045", "gp-046"],
+  "notes": [
+    {
+      "title": "Prepositions (حروف الجر)",
+      "titleArabic": "حروف الجر",
+      "content": [
+        "Prepositions (حروف الجر) connect nouns to verbs or other nouns, showing relationships.",
+        "The noun following a preposition is called مجرور and takes the genitive case."
+      ],
+      "keyPoints": [
+        "فِي - in, at (في البيت)",
+        "مِنْ - from (من المدرسة)",
+        "إِلَى - to, toward (إلى المسجد)",
+        "عَلَى - on, upon (على الطاولة)",
+        "عَنْ - about, from (عن الدرس)",
+        "بِـ - with, by (بالقلم)"
+      ],
+      "examples": [
+        { "arabic": "الْكِتَابُ عَلَى الطَّاوِلَةِ", "english": "The book is on the table" },
+        { "arabic": "ذَهَبَ إِلَى الْمَدْرَسَةِ", "english": "He went to the school" },
+        { "arabic": "خَرَجَ مِنَ الْبَيْتِ", "english": "He exited from the house" },
+        { "arabic": "كَتَبَ بِالْقَلَمِ", "english": "He wrote with the pen" }
+      ]
+    },
+    {
+      "title": "Genitive Case (حالة الجر)",
+      "titleArabic": "حالة الجر",
+      "content": [
+        "Nouns after prepositions take the genitive case (مجرور), shown by kasra.",
+        "The genitive is also used in possessive constructions (الإضافة)."
+      ],
+      "keyPoints": [
+        "Singular: kasra (ـِ) - في البيتِ",
+        "Sound masculine plural: ya (ـِينَ) - من المدرسِينَ",
+        "Sound feminine plural: kasra (ـَاتِ) - إلى الطالباتِ",
+        "Dual: ya (ـَيْنِ) - على الكتابَيْنِ"
+      ],
+      "examples": [
+        { "arabic": "فِي الْبَيْتِ", "english": "in the house" },
+        { "arabic": "مِنَ الْمُدَرِّسِينَ", "english": "from the teachers" },
+        { "arabic": "إِلَى الطَّالِبَاتِ", "english": "to the female students" },
+        { "arabic": "عَلَى الْكِتَابَيْنِ", "english": "on the two books" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l29-ex01",
+      "type": "fill-blank",
+      "prompt": "الْكِتَابُ _____ الطَّاوِلَةِ",
+      "promptEn": "The book is _____ the table",
+      "answer": "عَلَى",
+      "itemIds": ["word-049"]
+    },
+    {
+      "id": "b1-l29-ex02",
+      "type": "fill-blank",
+      "prompt": "ذَهَبَ _____ الْمَسْجِدِ",
+      "promptEn": "He went _____ the mosque",
+      "answer": "إِلَى",
+      "itemIds": ["word-048"]
+    },
+    {
+      "id": "b1-l29-ex03",
+      "type": "fill-blank",
+      "prompt": "خَرَجَ _____ الْبَيْتِ",
+      "promptEn": "He exited _____ the house",
+      "answer": "مِنَ",
+      "itemIds": ["word-047"]
+    },
+    {
+      "id": "b1-l29-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "in the mosque",
+      "answer": "فِي الْمَسْجِدِ",
+      "itemIds": ["word-046", "word-007"]
+    },
+    {
+      "id": "b1-l29-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "from the school",
+      "answer": "مِنَ الْمَدْرَسَةِ",
+      "itemIds": ["word-047", "word-035"]
+    },
+    {
+      "id": "b1-l29-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He wrote with the pen",
+      "answer": "كَتَبَ بِالْقَلَمِ",
+      "itemIds": ["word-069", "word-003"]
+    },
+    {
+      "id": "b1-l29-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The student is in the classroom",
+      "answer": "الطَّالِبُ فِي الْفَصْلِ",
+      "itemIds": ["word-005", "word-251"]
+    },
+    {
+      "id": "b1-l29-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مَجْرُور",
+      "answer": "genitive",
+      "itemIds": ["word-252"]
+    },
+    {
+      "id": "b1-l29-ex09",
+      "type": "word-to-meaning",
+      "prompt": "لِـ",
+      "answer": "for, to",
+      "itemIds": ["word-253"]
+    },
+    {
+      "id": "b1-l29-ex10",
+      "type": "word-to-meaning",
+      "prompt": "بَيْنَ",
+      "answer": "between",
+      "itemIds": ["word-254"]
+    },
+    {
+      "id": "b1-l29-ex11",
+      "type": "meaning-to-word",
+      "prompt": "under",
+      "answer": "تَحْتَ",
+      "itemIds": ["word-255"]
+    },
+    {
+      "id": "b1-l29-ex12",
+      "type": "meaning-to-word",
+      "prompt": "above",
+      "answer": "فَوْقَ",
+      "itemIds": ["word-256"]
+    }
+  ]
+}

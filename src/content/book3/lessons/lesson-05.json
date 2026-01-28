@@ -1,0 +1,133 @@
+{
+  "id": "b3-l05",
+  "book": 3,
+  "lesson": 5,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب تَفَعَّلَ",
+  "titleEn": "Derived Form V (تَفَعَّلَ)",
+  "description": "Learn Form V verbs (reflexive of Form II): تَعَلَّمَ (to learn), تَكَلَّمَ (to speak), تَذَكَّرَ (to remember).",
+  "vocabulary": ["word-b3-023", "word-b3-024", "word-b3-025", "word-b3-026", "word-b3-027"],
+  "grammarPoints": ["gp-b3-005"],
+  "notes": [
+    {
+      "title": "Passive from Hollow Verbs (Ajwaf)",
+      "titleArabic": "المبني للمجهول من الأجوف",
+      "content": [
+        "Hollow verbs (ajwaf) - those with wāw or yā' as middle radical - have special passive forms. The weak letter undergoes changes when forming the passive."
+      ],
+      "keyPoints": [
+        "Hollow verbs change their middle vowel in passive",
+        "قَالَ (to say) → قِيلَ (it was said)",
+        "Participles from hollow verbs follow special patterns"
+      ],
+      "examples": [
+        { "arabic": "قَالَ → قِيلَ", "english": "said → was said" },
+        { "arabic": "بَاعَ → بِيعَ", "english": "sold → was sold" }
+      ]
+    },
+    {
+      "title": "Form V Verbs (تَفَعَّلَ)",
+      "titleArabic": "باب تَفَعَّلَ",
+      "content": [
+        "Form V verbs are formed by prefixing تَ to Form II. This pattern often indicates the reflexive of Form II - doing something to oneself or undergoing the action of Form II."
+      ],
+      "keyPoints": [
+        "Pattern: تَفَعَّلَ (tafa''ala) - prefix tā' to Form II",
+        "Maṣdar pattern: تَفَعُّل (tafa''ul)",
+        "Reflexive of Form II: عَلَّمَ (to teach) → تَعَلَّمَ (to learn)",
+        "Indicates becoming or taking on a quality gradually"
+      ],
+      "examples": [
+        { "arabic": "تَعَلَّمَ", "english": "to learn (reflexive of 'to teach')" },
+        { "arabic": "تَكَلَّمَ", "english": "to speak" },
+        { "arabic": "تَذَكَّرَ", "english": "to remember" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l05-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "I learned Arabic",
+      "answer": "تَعَلَّمْتُ الْعَرَبِيَّةَ",
+      "itemIds": ["word-b3-023"]
+    },
+    {
+      "id": "b3-l05-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She spoke with the teacher",
+      "answer": "تَكَلَّمَتْ مَعَ الْمُدَرِّسِ",
+      "itemIds": ["word-b3-024", "word-004"]
+    },
+    {
+      "id": "b3-l05-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الدَّرْسَ جَيِّدًا",
+      "promptEn": "I remembered the lesson well",
+      "answer": "تَذَكَّرْتُ",
+      "itemIds": ["word-b3-025"]
+    },
+    {
+      "id": "b3-l05-ex04",
+      "type": "word-to-meaning",
+      "prompt": "تَعَلَّمَ",
+      "answer": "to learn",
+      "itemIds": ["word-b3-023"]
+    },
+    {
+      "id": "b3-l05-ex05",
+      "type": "word-to-meaning",
+      "prompt": "تَكَلَّمَ",
+      "answer": "to speak",
+      "itemIds": ["word-b3-024"]
+    },
+    {
+      "id": "b3-l05-ex06",
+      "type": "word-to-meaning",
+      "prompt": "تَذَكَّرَ",
+      "answer": "to remember",
+      "itemIds": ["word-b3-025"]
+    },
+    {
+      "id": "b3-l05-ex07",
+      "type": "word-to-meaning",
+      "prompt": "تَوَقَّفَ",
+      "answer": "to stop",
+      "itemIds": ["word-b3-026"]
+    },
+    {
+      "id": "b3-l05-ex08",
+      "type": "word-to-meaning",
+      "prompt": "تَغَيَّرَ",
+      "answer": "to change (intransitive)",
+      "itemIds": ["word-b3-027"]
+    },
+    {
+      "id": "b3-l05-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to learn (Form V)",
+      "answer": "تَعَلَّمَ",
+      "itemIds": ["word-b3-023"]
+    },
+    {
+      "id": "b3-l05-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to speak (Form V)",
+      "answer": "تَكَلَّمَ",
+      "itemIds": ["word-b3-024"]
+    },
+    {
+      "id": "b3-l05-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student learned the new lesson quickly",
+      "answer": "تَعَلَّمَ الطَّالِبُ الدَّرْسَ الْجَدِيدَ بِسُرْعَةٍ",
+      "itemIds": ["word-b3-023", "word-b2-019"]
+    },
+    {
+      "id": "b3-l05-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The weather changed after the rain",
+      "answer": "تَغَيَّرَ الطَّقْسُ بَعْدَ الْمَطَرِ",
+      "itemIds": ["word-b3-027"]
+    }
+  ]
+}

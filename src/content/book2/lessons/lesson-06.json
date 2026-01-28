@@ -1,0 +1,132 @@
+{
+  "id": "b2-l06",
+  "book": 2,
+  "lesson": 6,
+  "title": "النَّهْي",
+  "titleEn": "Prohibition (Negative Command)",
+  "description": "Learn negative commands using لَا + jussive: لَا تَذْهَبْ (don't go!), لَا تَكْتُبْ (don't write!).",
+  "vocabulary": ["word-b2-027", "word-b2-028", "word-b2-029", "word-b2-030"],
+  "grammarPoints": ["gp-b2-006"],
+  "notes": [
+    {
+      "title": "The Prohibitive (النهي)",
+      "titleArabic": "النهي",
+      "content": [
+        "The prohibitive form (النهي) is used to command someone NOT to do something. It is formed using لَا followed by the jussive (مجزوم) form of the mudāri' verb.",
+        "Unlike the regular imperative which uses a special form, the prohibitive uses the mudāri' with its final vowel removed or changed."
+      ],
+      "keyPoints": [
+        "Formula: لَا + مضارع مجزوم",
+        "The verb takes sukūn on its final letter (or drops the نون in five verbs)",
+        "لَا here is called 'lām nāhiyah' (لا الناهية) - the prohibitive لا",
+        "This لَا is different from لَا النافية (negating لا)"
+      ],
+      "examples": [
+        { "arabic": "لَا تَذْهَبْ", "english": "Don't go! (m.)" },
+        { "arabic": "لَا تَكْتُبْ", "english": "Don't write! (m.)" },
+        { "arabic": "لَا تَجْلِسِي", "english": "Don't sit! (f.)" },
+        { "arabic": "لَا تَخْرُجُوا", "english": "Don't exit! (pl.)" }
+      ]
+    },
+    {
+      "title": "Difference from Negative Statements",
+      "titleArabic": "الفرق بين النهي والنفي",
+      "content": [
+        "The prohibitive (لا الناهية) is different from negative statements (لا النافية). The prohibitive gives a command, while negation simply states a fact."
+      ],
+      "keyPoints": [
+        "Prohibitive: لَا تَذْهَبْ (Don't go! - a command)",
+        "Negation: لَا يَذْهَبُ (He doesn't go - a statement)",
+        "In prohibitive, the verb is مجزوم (jussive)",
+        "In negation, the verb stays مرفوع (indicative)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l06-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "Don't go! (to a male)",
+      "answer": "لَا تَذْهَبْ",
+      "itemIds": ["word-b2-027"]
+    },
+    {
+      "id": "b2-l06-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "Don't write! (to a male)",
+      "answer": "لَا تَكْتُبْ",
+      "itemIds": ["word-b2-028"]
+    },
+    {
+      "id": "b2-l06-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "Don't sit! (to a female)",
+      "answer": "لَا تَجْلِسِي",
+      "itemIds": ["word-b2-029"]
+    },
+    {
+      "id": "b2-l06-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ تَخْرُجْ مِنَ الْفَصْلِ",
+      "promptEn": "_____ exit from the classroom!",
+      "answer": "لَا",
+      "itemIds": ["word-112"]
+    },
+    {
+      "id": "b2-l06-ex05",
+      "type": "word-to-meaning",
+      "prompt": "لَا تَذْهَبْ",
+      "answer": "Don't go! (m.)",
+      "itemIds": ["word-b2-027"]
+    },
+    {
+      "id": "b2-l06-ex06",
+      "type": "word-to-meaning",
+      "prompt": "لَا تَكْتُبْ",
+      "answer": "Don't write! (m.)",
+      "itemIds": ["word-b2-028"]
+    },
+    {
+      "id": "b2-l06-ex07",
+      "type": "word-to-meaning",
+      "prompt": "لَا تَجْلِسْ",
+      "answer": "Don't sit! (m.)",
+      "itemIds": ["word-b2-029"]
+    },
+    {
+      "id": "b2-l06-ex08",
+      "type": "word-to-meaning",
+      "prompt": "لَا تَقْرَأْ",
+      "answer": "Don't read! (m.)",
+      "itemIds": ["word-b2-030"]
+    },
+    {
+      "id": "b2-l06-ex09",
+      "type": "meaning-to-word",
+      "prompt": "Don't enter! (m.)",
+      "answer": "لَا تَدْخُلْ",
+      "itemIds": ["word-b2-027"]
+    },
+    {
+      "id": "b2-l06-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Don't exit! (m.)",
+      "answer": "لَا تَخْرُجْ",
+      "itemIds": ["word-b2-027"]
+    },
+    {
+      "id": "b2-l06-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "Don't go to the market now!",
+      "answer": "لَا تَذْهَبْ إِلَى السُّوقِ الْآنَ",
+      "itemIds": ["word-b2-027", "word-048", "word-017", "word-094"]
+    },
+    {
+      "id": "b2-l06-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "Don't write on the blackboard!",
+      "answer": "لَا تَكْتُبْ عَلَى السَّبُّورَةِ",
+      "itemIds": ["word-b2-028", "word-047", "word-b2-002"]
+    }
+  ]
+}

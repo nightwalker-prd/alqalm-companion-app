@@ -1,0 +1,134 @@
+{
+  "id": "b3-l15",
+  "book": 3,
+  "lesson": 15,
+  "title": "الْفِعْلُ الْمُضَعَّف",
+  "titleEn": "Doubled Verbs",
+  "description": "Learn verbs with doubled second and third letters: مَرَّ (to pass), رَدَّ (to return/reply), ظَنَّ (to think).",
+  "vocabulary": ["word-b3-082", "word-b3-083", "word-b3-084", "word-b3-085", "word-b3-086"],
+  "grammarPoints": ["gp-b3-015"],
+  "notes": [
+    {
+      "title": "Conditional Particles Causing Jazm",
+      "titleArabic": "أدوات الشرط الجازمة",
+      "content": [
+        "Conditional particles that cause jazm include إِنْ (if), مَنْ (whoever), مَا (whatever), and others. Both the condition and response clauses are affected."
+      ],
+      "keyPoints": [
+        "إِنْ: if (general condition)",
+        "مَنْ: whoever (for people)",
+        "مَا: whatever (for things)",
+        "كَمْ interrogative and predicative forms"
+      ],
+      "examples": [
+        { "arabic": "إِنْ تَدْرُسْ تَنْجَحْ", "english": "If you study, you will succeed" },
+        { "arabic": "مَنْ يَعْمَلْ خَيْرًا يَجِدْهُ", "english": "Whoever does good will find it" }
+      ]
+    },
+    {
+      "title": "Doubled Verbs (الفعل المضعّف)",
+      "titleArabic": "الفعل المضعّف",
+      "content": [
+        "Doubled verbs have the same letter as both second and third radicals. When conjugated with sukūn-beginning suffixes, the doubled letters separate; otherwise they remain together."
+      ],
+      "keyPoints": [
+        "Second and third radicals are identical",
+        "Letters separate with sukūn suffix: مَرَرْتُ, رَدَدْتُ",
+        "Letters stay together otherwise: يَمُرُّ, يَرُدُّ",
+        "Common verbs: مَرَّ, رَدَّ, ظَنَّ, شَكَّ, حَلَّ"
+      ],
+      "examples": [
+        { "arabic": "مَرَّ - يَمُرُّ - مَرَرْتُ", "english": "to pass by" },
+        { "arabic": "رَدَّ - يَرُدُّ - رَدَدْتُ", "english": "to return/reply" },
+        { "arabic": "ظَنَّ - يَظُنُّ - ظَنَنْتُ", "english": "to think/suppose" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l15-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "He passed by the house",
+      "answer": "مَرَّ بِالْبَيْتِ",
+      "itemIds": ["word-b3-082", "word-003"]
+    },
+    {
+      "id": "b3-l15-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "She replied to the letter",
+      "answer": "رَدَّتْ عَلَى الرِّسَالَةِ",
+      "itemIds": ["word-b3-083", "word-b3-022"]
+    },
+    {
+      "id": "b3-l15-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ أَنَّهُ صَادِقٌ",
+      "promptEn": "I thought that he was truthful",
+      "answer": "ظَنَنْتُ",
+      "itemIds": ["word-b3-084"]
+    },
+    {
+      "id": "b3-l15-ex04",
+      "type": "word-to-meaning",
+      "prompt": "مَرَّ",
+      "answer": "to pass by",
+      "itemIds": ["word-b3-082"]
+    },
+    {
+      "id": "b3-l15-ex05",
+      "type": "word-to-meaning",
+      "prompt": "رَدَّ",
+      "answer": "to return / reply",
+      "itemIds": ["word-b3-083"]
+    },
+    {
+      "id": "b3-l15-ex06",
+      "type": "word-to-meaning",
+      "prompt": "ظَنَّ",
+      "answer": "to think / suppose",
+      "itemIds": ["word-b3-084"]
+    },
+    {
+      "id": "b3-l15-ex07",
+      "type": "word-to-meaning",
+      "prompt": "شَكَّ",
+      "answer": "to doubt",
+      "itemIds": ["word-b3-085"]
+    },
+    {
+      "id": "b3-l15-ex08",
+      "type": "word-to-meaning",
+      "prompt": "حَلَّ",
+      "answer": "to solve / untie",
+      "itemIds": ["word-b3-086"]
+    },
+    {
+      "id": "b3-l15-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to pass by (doubled verb)",
+      "answer": "مَرَّ",
+      "itemIds": ["word-b3-082"]
+    },
+    {
+      "id": "b3-l15-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to solve (doubled verb)",
+      "answer": "حَلَّ",
+      "itemIds": ["word-b3-086"]
+    },
+    {
+      "id": "b3-l15-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The student solved the difficult problem",
+      "answer": "حَلَّ الطَّالِبُ الْمَسْأَلَةَ الصَّعْبَةَ",
+      "itemIds": ["word-b3-086", "word-b2-019"]
+    },
+    {
+      "id": "b3-l15-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I doubted the news that I heard",
+      "answer": "شَكَكْتُ فِي الْخَبَرِ الَّذِي سَمِعْتُهُ",
+      "itemIds": ["word-b3-085"]
+    }
+  ]
+}

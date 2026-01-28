@@ -1,0 +1,141 @@
+{
+  "id": "b3-l46",
+  "book": 3,
+  "lesson": 46,
+  "title": "إِعْمَال الْمَصْدَر",
+  "titleEn": "The Masdar Acting as a Verb",
+  "description": "Learn how the masdar (verbal noun) can act like its verb, taking objects and completing verbal meaning.",
+  "vocabulary": ["word-b3-327", "word-b3-328", "word-b3-329", "word-b3-330", "word-b3-331", "word-b3-332"],
+  "grammarPoints": ["gp-b3-054", "gp-b3-055"],
+  "notes": [
+    {
+      "title": "The Masdar's Verbal Action",
+      "titleArabic": "عمل المصدر",
+      "content": [
+        "The masdar (verbal noun) can govern like its verb, taking a direct object in the accusative case.",
+        "For example: عَجِبْتُ مِنْ ضَرْبِكَ زَيْدًا (I was amazed at your hitting Zaid). Here ضَرْب takes زَيْدًا as its object."
+      ],
+      "keyPoints": [
+        "Masdar can take objects like its verb",
+        "Object takes accusative case",
+        "Often preceded by preposition: مِنْ ضَرْبِكَ زَيْدًا",
+        "The subject can be expressed through إضافة or ل"
+      ],
+      "examples": [
+        { "arabic": "عَجِبْتُ مِنْ ضَرْبِكَ زَيْدًا", "english": "I was amazed at your hitting Zaid" },
+        { "arabic": "سَرَّنِي قِرَاءَتُكَ الْقُرْآنَ", "english": "Your reading the Quran pleased me" },
+        { "arabic": "أَعْجَبَنِي حِفْظُهُ الدَّرْسَ", "english": "His memorizing the lesson impressed me" },
+        { "arabic": "فَرِحْتُ بِنَجَاحِكَ الاِمْتِحَانَ", "english": "I was happy at your passing the exam" }
+      ]
+    },
+    {
+      "title": "Structure with Subject and Object",
+      "titleArabic": "تركيب المصدر مع الفاعل والمفعول",
+      "content": [
+        "When the masdar has both a subject and object, the subject typically comes in إضافة, and the object takes accusative.",
+        "Alternative: Subject with ل and object in إضافة: سَرَّنِي قِرَاءَتُهُ لِلْكِتَابِ."
+      ],
+      "keyPoints": [
+        "Subject in إضافة + object accusative: قِرَاءَتُكَ الْكِتَابَ",
+        "Subject with لِـ + object in إضافة: قِرَاءَةُ الْكِتَابِ لَكَ",
+        "Both subject and object can be pronouns",
+        "Masdar retains meaning of its root verb"
+      ],
+      "examples": [
+        { "arabic": "سَرَّنِي إِكْرَامُكَ الضَّيْفَ", "english": "Your honoring the guest pleased me" },
+        { "arabic": "عَجِبْتُ مِنْ حُبِّهِ الْمَالَ", "english": "I was amazed at his love of money" },
+        { "arabic": "يَسُرُّنِي تَعَلُّمُكَ الْعَرَبِيَّةَ", "english": "Your learning Arabic pleases me" },
+        { "arabic": "نَدِمْتُ عَلَى تَرْكِي الصَّلَاةَ", "english": "I regretted my abandoning the prayer" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l46-ex01",
+      "type": "fill-blank",
+      "prompt": "عَجِبْتُ مِنْ _____ زَيْدًا",
+      "promptEn": "I was amazed at your _____ Zaid",
+      "answer": "ضَرْبِكَ",
+      "itemIds": ["word-b3-327"]
+    },
+    {
+      "id": "b3-l46-ex02",
+      "type": "fill-blank",
+      "prompt": "سَرَّنِي _____ الْقُرْآنَ",
+      "promptEn": "Your _____ the Quran pleased me",
+      "answer": "قِرَاءَتُكَ",
+      "itemIds": ["word-b3-328"]
+    },
+    {
+      "id": "b3-l46-ex03",
+      "type": "fill-blank",
+      "prompt": "أَعْجَبَنِي _____ الدَّرْسَ",
+      "promptEn": "His _____ the lesson impressed me",
+      "answer": "حِفْظُهُ",
+      "itemIds": ["word-b3-329"]
+    },
+    {
+      "id": "b3-l46-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "Your learning Arabic pleases me",
+      "answer": "يَسُرُّنِي تَعَلُّمُكَ الْعَرَبِيَّةَ",
+      "itemIds": ["word-b3-330"]
+    },
+    {
+      "id": "b3-l46-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I regretted my leaving early",
+      "answer": "نَدِمْتُ عَلَى خُرُوجِي مُبَكِّرًا",
+      "itemIds": ["word-b3-331"]
+    },
+    {
+      "id": "b3-l46-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Your honoring the guest pleased me",
+      "answer": "سَرَّنِي إِكْرَامُكَ الضَّيْفَ",
+      "itemIds": ["word-b3-332"]
+    },
+    {
+      "id": "b3-l46-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "I was happy at your passing the exam",
+      "answer": "فَرِحْتُ بِنَجَاحِكَ الاِمْتِحَانَ",
+      "itemIds": ["word-b3-329"]
+    },
+    {
+      "id": "b3-l46-ex08",
+      "type": "word-to-meaning",
+      "prompt": "ضَرْبٌ",
+      "answer": "hitting / striking",
+      "itemIds": ["word-b3-327"]
+    },
+    {
+      "id": "b3-l46-ex09",
+      "type": "word-to-meaning",
+      "prompt": "قِرَاءَة",
+      "answer": "reading",
+      "itemIds": ["word-b3-328"]
+    },
+    {
+      "id": "b3-l46-ex10",
+      "type": "word-to-meaning",
+      "prompt": "حِفْظ",
+      "answer": "memorization / preservation",
+      "itemIds": ["word-b3-329"]
+    },
+    {
+      "id": "b3-l46-ex11",
+      "type": "meaning-to-word",
+      "prompt": "learning",
+      "answer": "تَعَلُّمٌ",
+      "itemIds": ["word-b3-330"]
+    },
+    {
+      "id": "b3-l46-ex12",
+      "type": "meaning-to-word",
+      "prompt": "honoring",
+      "answer": "إِكْرَامٌ",
+      "itemIds": ["word-b3-332"]
+    }
+  ]
+}

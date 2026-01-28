@@ -1,0 +1,187 @@
+{
+  "id": "b2-l55",
+  "book": 2,
+  "lesson": 55,
+  "title": "كَمْ الاسْتِفْهَامِيَّة وَالخَبَرِيَّة",
+  "titleEn": "Interrogative and Informative Kam",
+  "description": "Learn about the two types of كَمْ in Arabic: كَمْ الاستفهامية (interrogative - How many?) and كَمْ الخبرية (informative - so many!), including their different grammatical rules for تمييز.",
+  "vocabulary": ["word-b2-405", "word-b2-406", "word-b2-407", "word-b2-408", "word-b2-409", "word-b2-410"],
+  "grammarPoints": ["gp-b2-077", "gp-b2-078"],
+  "notes": [
+    {
+      "title": "Introduction to كَمْ",
+      "titleArabic": "مُقَدِّمَة عَنْ كَمْ",
+      "content": [
+        "كَمْ is an indeclinable noun (اسْمٌ مَبْنِيٌّ) that indicates quantity. It has two distinct usages in Arabic: interrogative (استفهامية) asking about quantity, and informative/exclamatory (خبرية) expressing abundance.",
+        "Both types of كَمْ require a تمييز (specifier noun) after them, but the grammatical case of this تمييز differs significantly between the two types.",
+        "Understanding the difference between these two types is essential for correct Arabic grammar and proper interpretation of classical texts including the Quran."
+      ],
+      "keyPoints": [
+        "كَمْ is an indeclinable noun (مَبْنِيٌّ عَلَى السُّكُونِ)",
+        "It always requires a تمييز (specifier) after it",
+        "Two types: استفهامية (interrogative) and خبرية (informative)",
+        "The grammatical case of تمييز differs between the two types"
+      ],
+      "examples": [
+        { "arabic": "كَمْ كِتَابًا قَرَأْتَ؟", "english": "How many books did you read? (interrogative)" },
+        { "arabic": "كَمْ كِتَابٍ قَرَأْتُ!", "english": "So many books I have read! (informative)" },
+        { "arabic": "كَمْ طَالِبًا فِي الْفَصْلِ؟", "english": "How many students are in the classroom?" },
+        { "arabic": "كَمْ مِنْ نِعْمَةٍ لِلَّهِ عَلَيْنَا!", "english": "How many blessings Allah has bestowed upon us!" }
+      ]
+    },
+    {
+      "title": "Interrogative كَمْ",
+      "titleArabic": "كَمْ الاسْتِفْهَامِيَّة",
+      "content": [
+        "كَمْ الاستفهامية is used to ask questions about quantity or number. It is equivalent to 'How many?' or 'How much?' in English.",
+        "The تمييز (specifier) after كَمْ الاستفهامية must be singular (مُفْرَد) and in the accusative case (مَنْصُوب). This is similar to the numbers 11-99 in Arabic.",
+        "The answer to a question with كَمْ الاستفهامية should include a specific number."
+      ],
+      "keyPoints": [
+        "Used to ask about quantity: 'How many?'",
+        "تمييز is always singular (مُفْرَد)",
+        "تمييز is always accusative (مَنْصُوب)",
+        "Requires a question mark in modern punctuation"
+      ],
+      "examples": [
+        { "arabic": "كَمْ يَوْمًا صُمْتَ؟", "english": "How many days did you fast?" },
+        { "arabic": "كَمْ سَاعَةً دَرَسْتَ؟", "english": "How many hours did you study?" },
+        { "arabic": "كَمْ رِيَالًا دَفَعْتَ؟", "english": "How many riyals did you pay?" },
+        { "arabic": "كَمْ مَرَّةً زُرْتَ مَكَّةَ؟", "english": "How many times did you visit Mecca?" }
+      ]
+    },
+    {
+      "title": "Informative/Exclamatory كَمْ",
+      "titleArabic": "كَمْ الخَبَرِيَّة",
+      "content": [
+        "كَمْ الخبرية is used to express abundance or large quantity without asking a question. It conveys meaning similar to 'So many!' or 'How many!' (exclamatory) in English.",
+        "The تمييز after كَمْ الخبرية is in the genitive case (مَجْرُور). It can be singular or plural, though singular is more common.",
+        "Often, the particle مِنْ is inserted between كَمْ الخبرية and its تمييز, especially when the تمييز is plural. This مِنْ is زائدة (additional/emphatic)."
+      ],
+      "keyPoints": [
+        "Expresses abundance: 'So many!' (not a question)",
+        "تمييز is genitive (مَجْرُور)",
+        "تمييز can be singular or plural",
+        "مِنْ may be added: كَمْ مِنْ كِتَابٍ"
+      ],
+      "examples": [
+        { "arabic": "كَمْ كِتَابٍ قَرَأْتُ!", "english": "So many books I have read!" },
+        { "arabic": "كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً", "english": "How many small groups have overcome large groups!" },
+        { "arabic": "كَمْ نِعْمَةٍ لِلَّهِ عَلَيْكَ!", "english": "How many blessings of Allah are upon you!" },
+        { "arabic": "كَمْ مِنْ قَرْيَةٍ أَهْلَكْنَاهَا", "english": "How many a town We have destroyed! (Quran)" }
+      ]
+    },
+    {
+      "title": "كَمْ in the Quran",
+      "titleArabic": "كَمْ فِي الْقُرْآنِ الْكَرِيمِ",
+      "content": [
+        "كَمْ appears in the Quran in both its interrogative and informative forms, providing excellent examples of classical Arabic usage.",
+        "The Quranic usage demonstrates the informative كَمْ particularly well, often with the particle مِنْ to emphasize the abundance or multitude being described.",
+        "Studying these Quranic examples helps learners understand the rhetorical power of كَمْ الخبرية in expressing Allah's power and the lessons of history."
+      ],
+      "keyPoints": [
+        "Both types appear in the Quran",
+        "كَمْ الخبرية is often used for historical examples",
+        "مِنْ is commonly used with كَمْ الخبرية in Quran",
+        "Context determines if كَمْ is interrogative or informative"
+      ],
+      "examples": [
+        { "arabic": "كَمْ مِنْ فِئَةٍ قَلِيلَةٍ غَلَبَتْ فِئَةً كَثِيرَةً بِإِذْنِ اللَّهِ", "english": "How many a small group has overcome a large group by the permission of Allah (2:249)" },
+        { "arabic": "وَكَمْ أَهْلَكْنَا مِنْ قَرْيَةٍ بَطِرَتْ مَعِيشَتَهَا", "english": "And how many a city have We destroyed that was insolent in its living (28:58)" },
+        { "arabic": "وَكَمْ أَهْلَكْنَا قَبْلَهُمْ مِنْ قَرْنٍ", "english": "And how many a generation We destroyed before them (19:74)" },
+        { "arabic": "كَمْ تَرَكُوا مِنْ جَنَّاتٍ وَعُيُونٍ", "english": "How much they left behind of gardens and springs (44:25)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l55-ex01",
+      "type": "fill-blank",
+      "prompt": "كَمْ _____ قَرَأْتَ؟ (book - accusative)",
+      "promptEn": "How many _____ did you read?",
+      "answer": "كِتَابًا",
+      "itemIds": ["word-b2-405"]
+    },
+    {
+      "id": "b2-l55-ex02",
+      "type": "fill-blank",
+      "prompt": "كَمْ _____ فِي الشَّهْرِ؟ (day - accusative)",
+      "promptEn": "How many _____ are in the month?",
+      "answer": "يَوْمًا",
+      "itemIds": ["word-b2-406"]
+    },
+    {
+      "id": "b2-l55-ex03",
+      "type": "fill-blank",
+      "prompt": "كَمْ مِنْ _____ أَهْلَكَ اللهُ! (town - genitive)",
+      "promptEn": "How many a _____ Allah has destroyed!",
+      "answer": "قَرْيَةٍ",
+      "itemIds": ["word-b2-407"]
+    },
+    {
+      "id": "b2-l55-ex04",
+      "type": "fill-blank",
+      "prompt": "كَمْ _____ لِلَّهِ عَلَيْنَا! (blessing - genitive)",
+      "promptEn": "How many _____ of Allah are upon us!",
+      "answer": "نِعْمَةٍ",
+      "itemIds": ["word-b2-408"]
+    },
+    {
+      "id": "b2-l55-ex05",
+      "type": "fill-blank",
+      "prompt": "كَمْ _____ دَرَسْتَ الْيَوْمَ؟ (hour - accusative)",
+      "promptEn": "How many _____ did you study today?",
+      "answer": "سَاعَةً",
+      "itemIds": ["word-b2-409"]
+    },
+    {
+      "id": "b2-l55-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "How many students are in the class?",
+      "answer": "كَمْ طَالِبًا فِي الْفَصْلِ؟",
+      "itemIds": ["word-b2-405", "word-b2-406"]
+    },
+    {
+      "id": "b2-l55-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "How many times did you visit the mosque?",
+      "answer": "كَمْ مَرَّةً زُرْتَ الْمَسْجِدَ؟",
+      "itemIds": ["word-b2-410"]
+    },
+    {
+      "id": "b2-l55-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "So many blessings Allah has given us!",
+      "answer": "كَمْ نِعْمَةٍ أَعْطَانَا اللهُ!",
+      "itemIds": ["word-b2-408"]
+    },
+    {
+      "id": "b2-l55-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "How many books are on the shelf?",
+      "answer": "كَمْ كِتَابًا عَلَى الرَّفِّ؟",
+      "itemIds": ["word-b2-405"]
+    },
+    {
+      "id": "b2-l55-ex10",
+      "type": "word-to-meaning",
+      "prompt": "كَمْ الاسْتِفْهَامِيَّة",
+      "answer": "interrogative kam (How many? - question)",
+      "itemIds": ["word-b2-405"]
+    },
+    {
+      "id": "b2-l55-ex11",
+      "type": "word-to-meaning",
+      "prompt": "كَمْ الخَبَرِيَّة",
+      "answer": "informative kam (So many! - exclamation)",
+      "itemIds": ["word-b2-407"]
+    },
+    {
+      "id": "b2-l55-ex12",
+      "type": "meaning-to-word",
+      "prompt": "specifier noun (after numbers/kam)",
+      "answer": "تَمْيِيز",
+      "itemIds": ["word-b2-406"]
+    }
+  ]
+}

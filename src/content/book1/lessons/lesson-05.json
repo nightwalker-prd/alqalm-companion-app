@@ -1,0 +1,143 @@
+{
+  "id": "b1-l05",
+  "book": 1,
+  "lesson": 5,
+  "title": "هَذِهِ / هِيَ",
+  "titleEn": "This (fem.) / She",
+  "description": "Learn the feminine demonstrative هَذِهِ (this) and pronoun هِيَ (she), and practice with feminine nouns ending in taa marbuta (ة).",
+  "vocabulary": ["word-027", "word-028", "word-029", "word-030", "word-031", "word-032", "word-033"],
+  "grammarPoints": ["gp-007", "gp-008"],
+  "notes": [
+    {
+      "title": "Feminine Demonstrative and Pronoun",
+      "titleArabic": "اسم الإشارة والضمير للمؤنث",
+      "content": [
+        "هَذِهِ (hādhihi) is the feminine equivalent of هَذَا, meaning 'this' for feminine nouns. هِيَ (hiya) means 'she/it' for feminine nouns.",
+        "Many feminine nouns end with ة (taa marbuta), which is pronounced as 'a' or 'at' depending on the grammatical context. This ending is a key marker of feminine gender."
+      ],
+      "keyPoints": [
+        "هَذِهِ is 'this' for feminine nouns",
+        "هِيَ is 'she/it' for feminine nouns",
+        "Most nouns ending in ة (taa marbuta) are feminine",
+        "Some family words have distinct feminine forms: أَخٌ (brother) → أُخْتٌ (sister)"
+      ],
+      "examples": [
+        { "arabic": "هَذِهِ سَيَّارَةٌ", "english": "This is a car" },
+        { "arabic": "هِيَ أُخْتٌ", "english": "She is a sister" },
+        { "arabic": "هَذِهِ طَاوِلَةٌ", "english": "This is a table" },
+        { "arabic": "مَنْ هِيَ؟ هِيَ أُمٌّ", "english": "Who is she? She is a mother" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l05-ex01",
+      "type": "fill-blank",
+      "prompt": "_____ سَيَّارَةٌ",
+      "promptEn": "_____ is a car",
+      "answer": "هَذِهِ",
+      "itemIds": ["word-027", "word-032"]
+    },
+    {
+      "id": "b1-l05-ex02",
+      "type": "fill-blank",
+      "prompt": "_____ طَاوِلَةٌ",
+      "promptEn": "_____ is a table",
+      "answer": "هَذِهِ",
+      "itemIds": ["word-027", "word-033"]
+    },
+    {
+      "id": "b1-l05-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ أُخْتٌ",
+      "promptEn": "_____ is a sister",
+      "answer": "هِيَ",
+      "itemIds": ["word-028", "word-029"]
+    },
+    {
+      "id": "b1-l05-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ أُمٌّ",
+      "promptEn": "_____ is a mother",
+      "answer": "هِيَ",
+      "itemIds": ["word-028", "word-031"]
+    },
+    {
+      "id": "b1-l05-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "This is a car",
+      "answer": "هَذِهِ سَيَّارَةٌ",
+      "itemIds": ["word-027", "word-032"]
+    },
+    {
+      "id": "b1-l05-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "She is a sister",
+      "answer": "هِيَ أُخْتٌ",
+      "itemIds": ["word-028", "word-029"]
+    },
+    {
+      "id": "b1-l05-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "This is a girl",
+      "answer": "هَذِهِ بِنْتٌ",
+      "itemIds": ["word-027", "word-030"]
+    },
+    {
+      "id": "b1-l05-ex08",
+      "type": "word-to-meaning",
+      "prompt": "أُخْتٌ",
+      "answer": "sister",
+      "itemIds": ["word-029"]
+    },
+    {
+      "id": "b1-l05-ex09",
+      "type": "word-to-meaning",
+      "prompt": "بِنْتٌ",
+      "answer": "girl",
+      "itemIds": ["word-030"]
+    },
+    {
+      "id": "b1-l05-ex10",
+      "type": "word-to-meaning",
+      "prompt": "سَيَّارَةٌ",
+      "answer": "car",
+      "itemIds": ["word-032"]
+    },
+    {
+      "id": "b1-l05-ex11",
+      "type": "meaning-to-word",
+      "prompt": "she",
+      "answer": "هِيَ",
+      "itemIds": ["word-028"]
+    },
+    {
+      "id": "b1-l05-ex12",
+      "type": "meaning-to-word",
+      "prompt": "mother",
+      "answer": "أُمٌّ",
+      "itemIds": ["word-031"]
+    },
+    {
+      "id": "b1-l05-ex13",
+      "type": "meaning-to-word",
+      "prompt": "table",
+      "answer": "طَاوِلَةٌ",
+      "itemIds": ["word-033"]
+    },
+    {
+      "id": "b1-l05-ex14",
+      "type": "translate-to-arabic",
+      "prompt": "This is a car and this is a table",
+      "answer": "هَذِهِ سَيَّارَةٌ وَهَذِهِ طَاوِلَةٌ",
+      "itemIds": ["word-027", "word-032", "word-033"]
+    },
+    {
+      "id": "b1-l05-ex15",
+      "type": "translate-to-arabic",
+      "prompt": "Who is she? She is a mother",
+      "answer": "مَنْ هِيَ؟ هِيَ أُمٌّ",
+      "itemIds": ["word-016", "word-028", "word-031"]
+    }
+  ]
+}

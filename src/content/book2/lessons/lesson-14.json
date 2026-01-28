@@ -1,0 +1,131 @@
+{
+  "id": "b2-l14",
+  "book": 2,
+  "lesson": 14,
+  "title": "الشَّرْط",
+  "titleEn": "Conditional Sentences",
+  "description": "Learn conditional structures with إِنْ, إِذَا, لَوْ: إِنْ تَدْرُسْ تَنْجَحْ (if you study, you will succeed).",
+  "vocabulary": ["word-b2-074", "word-b2-075", "word-b2-076", "word-b2-077", "word-b2-078", "word-b2-079"],
+  "grammarPoints": ["gp-b2-014"],
+  "notes": [
+    {
+      "title": "Conditional Sentences (الشرط)",
+      "titleArabic": "أسلوب الشرط",
+      "content": [
+        "Conditional sentences in Arabic consist of a condition (شرط) and a result (جواب الشرط). Different particles are used for different types of conditions.",
+        "The main conditional particles are: إِنْ (if), إِذَا (when/if), and لَوْ (if - hypothetical)."
+      ],
+      "keyPoints": [
+        "إِنْ - 'if' (jussive): Both verbs become مجزوم",
+        "إِذَا - 'when/if' (past tense): Used with past tense verbs",
+        "لَوْ - 'if' (hypothetical/unreal): For impossible or past conditions",
+        "Structure: particle + condition + result"
+      ],
+      "examples": [
+        { "arabic": "إِنْ تَدْرُسْ تَنْجَحْ", "english": "If you study, you will succeed" },
+        { "arabic": "إِذَا جَاءَ أَذْهَبُ", "english": "When he comes, I will go" },
+        { "arabic": "لَوْ دَرَسَ لَنَجَحَ", "english": "If he had studied, he would have succeeded" }
+      ]
+    },
+    {
+      "title": "Types of Conditional Particles",
+      "titleArabic": "أنواع أدوات الشرط",
+      "content": [
+        "إِنْ and إِذَا are used for real conditions (possible), while لَوْ is used for unreal/hypothetical conditions."
+      ],
+      "keyPoints": [
+        "إِنْ - general condition, both verbs in jussive",
+        "إِذَا - certainty implied, often with past verbs",
+        "لَوْ - past hypothetical, result often has لَـ prefix",
+        "لَوْ دَرَسَ لَنَجَحَ (If he had studied, he would have succeeded)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l14-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "If you study, you will succeed",
+      "answer": "إِنْ تَدْرُسْ تَنْجَحْ",
+      "itemIds": ["word-b2-074", "word-b2-077", "word-b2-078"]
+    },
+    {
+      "id": "b2-l14-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "When he comes, I will go",
+      "answer": "إِذَا جَاءَ أَذْهَبُ",
+      "itemIds": ["word-b2-075", "word-b2-079"]
+    },
+    {
+      "id": "b2-l14-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "If he had studied, he would have succeeded",
+      "answer": "لَوْ دَرَسَ لَنَجَحَ",
+      "itemIds": ["word-b2-076", "word-b2-077", "word-b2-078"]
+    },
+    {
+      "id": "b2-l14-ex04",
+      "type": "fill-blank",
+      "prompt": "_____ تَعْمَلْ تَرْبَحْ",
+      "promptEn": "_____ you work, you will profit",
+      "answer": "إِنْ",
+      "itemIds": ["word-b2-074"]
+    },
+    {
+      "id": "b2-l14-ex05",
+      "type": "word-to-meaning",
+      "prompt": "إِنْ",
+      "answer": "if (conditional)",
+      "itemIds": ["word-b2-074"]
+    },
+    {
+      "id": "b2-l14-ex06",
+      "type": "word-to-meaning",
+      "prompt": "إِذَا",
+      "answer": "when / if",
+      "itemIds": ["word-b2-075"]
+    },
+    {
+      "id": "b2-l14-ex07",
+      "type": "word-to-meaning",
+      "prompt": "لَوْ",
+      "answer": "if (hypothetical/past)",
+      "itemIds": ["word-b2-076"]
+    },
+    {
+      "id": "b2-l14-ex08",
+      "type": "word-to-meaning",
+      "prompt": "نَجَحَ",
+      "answer": "he succeeded",
+      "itemIds": ["word-b2-078"]
+    },
+    {
+      "id": "b2-l14-ex09",
+      "type": "meaning-to-word",
+      "prompt": "he studied",
+      "answer": "دَرَسَ",
+      "itemIds": ["word-b2-077"]
+    },
+    {
+      "id": "b2-l14-ex10",
+      "type": "meaning-to-word",
+      "prompt": "he came",
+      "answer": "جَاءَ",
+      "itemIds": ["word-b2-079"]
+    },
+    {
+      "id": "b2-l14-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "If you read, you will understand",
+      "answer": "إِنْ تَقْرَأْ تَفْهَمْ",
+      "itemIds": ["word-b2-074", "word-070", "word-b2-072"]
+    },
+    {
+      "id": "b2-l14-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "When the teacher comes, tell me",
+      "answer": "إِذَا جَاءَ الْمُدَرِّسُ أَخْبِرْنِي",
+      "itemIds": ["word-b2-075", "word-b2-079", "word-004"]
+    }
+  ]
+}

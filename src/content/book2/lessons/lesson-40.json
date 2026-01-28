@@ -1,0 +1,141 @@
+{
+  "id": "b2-l40",
+  "book": 2,
+  "lesson": 40,
+  "title": "مُرَاجَعَة الْكِتَاب الثَّانِي",
+  "titleEn": "Book 2 Review",
+  "description": "Review the key concepts learned in Book 2: derived forms, weak verbs, participles, and morphological patterns.",
+  "vocabulary": ["word-b2-317", "word-b2-318", "word-b2-319", "word-b2-320", "word-b2-321", "word-b2-322"],
+  "grammarPoints": ["gp-b2-047", "gp-b2-048"],
+  "notes": [
+    {
+      "title": "Review of Derived Patterns",
+      "titleArabic": "مراجعة الأوزان المشتقة",
+      "content": [
+        "Book 2 covered important derived patterns including active/passive participles and nouns of time/place/instrument.",
+        "These patterns are essential for understanding Arabic word formation."
+      ],
+      "keyPoints": [
+        "اسم الفاعل (فَاعِل): كَاتِب (writer), قَارِئ (reader)",
+        "اسم المفعول (مَفْعُول): مَكْتُوب (written), مَفْتُوح (opened)",
+        "اسم الزمان والمكان: مَكْتَب (office), مَوْعِد (appointment)",
+        "اسم الآلة: مِفْتَاح (key), مِكْنَسَة (broom)"
+      ],
+      "examples": [
+        { "arabic": "هُوَ كَاتِبٌ مَشْهُورٌ", "english": "He is a famous writer" },
+        { "arabic": "الْبَابُ مَفْتُوحٌ", "english": "The door is opened" },
+        { "arabic": "الْمَكْتَبُ فِي الْجَامِعَةِ", "english": "The office is in the university" },
+        { "arabic": "الْمِفْتَاحُ عَلَى الطَّاوِلَةِ", "english": "The key is on the table" }
+      ]
+    },
+    {
+      "title": "Review of Verb Types",
+      "titleArabic": "مراجعة أنواع الأفعال",
+      "content": [
+        "Book 2 covered various weak verb types and their conjugation patterns.",
+        "Understanding these patterns is crucial for proper verb usage."
+      ],
+      "keyPoints": [
+        "الفعل الصحيح: كَتَبَ، قَرَأَ، جَلَسَ",
+        "الفعل المهموز: أَخَذَ، سَأَلَ، قَرَأَ",
+        "الفعل الأجوف: قَالَ، زَارَ، نَامَ",
+        "الفعل الناقص: دَعَا، مَشَى، رَمَى"
+      ],
+      "examples": [
+        { "arabic": "كَتَبَ الدَّرْسَ", "english": "He wrote the lesson (sound verb)" },
+        { "arabic": "سَأَلَ الْمُدَرِّسَ", "english": "He asked the teacher (hamzated)" },
+        { "arabic": "قَالَ الْحَقَّ", "english": "He said the truth (hollow)" },
+        { "arabic": "دَعَا رَبَّهُ", "english": "He called upon his Lord (defective)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l40-ex01",
+      "type": "fill-blank",
+      "prompt": "هُوَ _____ مَشْهُورٌ",
+      "promptEn": "He is a famous _____",
+      "answer": "كَاتِبٌ",
+      "itemIds": ["word-b2-317"]
+    },
+    {
+      "id": "b2-l40-ex02",
+      "type": "fill-blank",
+      "prompt": "الْبَابُ _____",
+      "promptEn": "The door is _____",
+      "answer": "مَفْتُوحٌ",
+      "itemIds": ["word-b2-318"]
+    },
+    {
+      "id": "b2-l40-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْمُدَرِّسَ سُؤَالًا",
+      "promptEn": "He _____ the teacher a question",
+      "answer": "سَأَلَ",
+      "itemIds": ["word-b2-007"]
+    },
+    {
+      "id": "b2-l40-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "The book is written in Arabic",
+      "answer": "الْكِتَابُ مَكْتُوبٌ بِالْعَرَبِيَّةِ",
+      "itemIds": ["word-b2-319"]
+    },
+    {
+      "id": "b2-l40-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "I visited my friend",
+      "answer": "زُرْتُ صَدِيقِي",
+      "itemIds": ["word-025"]
+    },
+    {
+      "id": "b2-l40-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "They gathered in the mosque",
+      "answer": "اِجْتَمَعُوا فِي الْمَسْجِدِ",
+      "itemIds": ["word-b2-320"]
+    },
+    {
+      "id": "b2-l40-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "The students succeeded",
+      "answer": "نَجَحَ الطُّلَّابُ",
+      "itemIds": ["word-b2-321"]
+    },
+    {
+      "id": "b2-l40-ex08",
+      "type": "word-to-meaning",
+      "prompt": "مُرَاجَعَة",
+      "answer": "review",
+      "itemIds": ["word-b2-317"]
+    },
+    {
+      "id": "b2-l40-ex09",
+      "type": "word-to-meaning",
+      "prompt": "اِجْتَمَعَ",
+      "answer": "gathered / met",
+      "itemIds": ["word-b2-320"]
+    },
+    {
+      "id": "b2-l40-ex10",
+      "type": "word-to-meaning",
+      "prompt": "نَجَحَ",
+      "answer": "succeeded / passed",
+      "itemIds": ["word-b2-321"]
+    },
+    {
+      "id": "b2-l40-ex11",
+      "type": "meaning-to-word",
+      "prompt": "written",
+      "answer": "مَكْتُوب",
+      "itemIds": ["word-b2-319"]
+    },
+    {
+      "id": "b2-l40-ex12",
+      "type": "meaning-to-word",
+      "prompt": "benefit / advantage",
+      "answer": "فَائِدَة",
+      "itemIds": ["word-b2-322"]
+    }
+  ]
+}

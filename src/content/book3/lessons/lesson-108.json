@@ -1,0 +1,224 @@
+{
+  "id": "b3-l108",
+  "book": 3,
+  "lesson": 108,
+  "title": "التَّقْدِيمُ وَالتَّأْخِيرُ",
+  "titleEn": "Word Order - Fronting and Delaying",
+  "description": "Learn about التقديم والتأخير (fronting and delaying) in Arabic - when word order changes are obligatory, prohibited, or optional, and the rhetorical effects of word order.",
+  "vocabulary": ["word-b3-668", "word-b3-669", "word-b3-670", "word-b3-671", "word-b3-672"],
+  "grammarPoints": ["gp-b3-178", "gp-b3-179"],
+  "notes": [
+    {
+      "title": "Introduction to Word Order",
+      "titleArabic": "مُقَدِّمَةٌ عَنْ تَرْتِيبِ الْكَلِمَاتِ",
+      "content": [
+        "Arabic has relatively flexible word order compared to English. The basic order in verbal sentences is فِعْل + فَاعِل + مَفْعُول, and in nominal sentences مُبْتَدَأ + خَبَر.",
+        "However, elements can be fronted (تَقْدِيم) or delayed (تَأْخِير) for various grammatical or rhetorical reasons. Some changes are obligatory (وَاجِب), some prohibited (مَمْنُوع), and some optional (جَائِز)."
+      ],
+      "keyPoints": [
+        "Basic: فعل + فاعل + مفعول",
+        "Basic: مبتدأ + خبر",
+        "تقديم = fronting",
+        "تأخير = delaying"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبَ زَيْدٌ عَمْرًا (الأصل)", "english": "Zayd hit Amr (basic order)" },
+        { "arabic": "عَمْرًا ضَرَبَ زَيْدٌ (تقديم المفعول)", "english": "Amr, Zayd hit (object fronted)" },
+        { "arabic": "زَيْدٌ قَائِمٌ (الأصل)", "english": "Zayd is standing (basic order)" },
+        { "arabic": "قَائِمٌ زَيْدٌ (تقديم الخبر)", "english": "Standing is Zayd (predicate fronted)" }
+      ]
+    },
+    {
+      "title": "Obligatory Fronting of Predicate",
+      "titleArabic": "تَقْدِيمُ الْخَبَرِ وُجُوبًا",
+      "content": [
+        "The خَبَر must be fronted before the مُبْتَدَأ in several cases: 1) When the predicate is an interrogative word. 2) When the mubtada' is indefinite and the predicate is a prepositional phrase.",
+        "3) When the mubtada' has a pronoun referring to part of the predicate. These rules prevent ambiguity and ensure grammatical clarity."
+      ],
+      "keyPoints": [
+        "Interrogative predicate: أَيْنَ زَيْدٌ",
+        "Indefinite mubtada': فِي الدَّارِ رَجُلٌ",
+        "Pronoun reference: عِنْدَ زَيْدٍ أَبُوهُ",
+        "Fronting obligatory (وجوب)"
+      ],
+      "examples": [
+        { "arabic": "أَيْنَ الْكِتَابُ؟ (الخبر استفهام)", "english": "Where is the book? (predicate is question word)" },
+        { "arabic": "فِي الْبَيْتِ رَجُلٌ (مبتدأ نكرة)", "english": "In the house is a man (indefinite mubtada')" },
+        { "arabic": "لِلرَّجُلِ ابْنٌ (مبتدأ نكرة)", "english": "The man has a son (lit: to the man is a son)" },
+        { "arabic": "فِي الدَّارِ صَاحِبُهَا (ضمير)", "english": "In the house is its owner (pronoun refers to الدار)" }
+      ]
+    },
+    {
+      "title": "Obligatory Fronting of Object",
+      "titleArabic": "تَقْدِيمُ الْمَفْعُولِ وُجُوبًا",
+      "content": [
+        "The مَفْعُول بِهِ must be fronted before the فِعْل in certain cases: 1) When the object is an interrogative word (مَنْ، مَا، أَيّ). 2) When the object is كَمْ الخبرية or الاستفهامية.",
+        "3) When the object is restricted with إِنَّمَا or إِلَّا. In these cases, fronting is required by the grammar of Arabic."
+      ],
+      "keyPoints": [
+        "Interrogative object: مَنْ رَأَيْتَ",
+        "كَمْ object: كَمْ كِتَابًا قَرَأْتَ",
+        "Restriction: إِيَّاكَ نَعْبُدُ",
+        "Fronting obligatory"
+      ],
+      "examples": [
+        { "arabic": "مَنْ رَأَيْتَ؟", "english": "Whom did you see? (interrogative must front)" },
+        { "arabic": "مَا صَنَعْتَ؟", "english": "What did you make?" },
+        { "arabic": "كَمْ كِتَابًا قَرَأْتَ؟", "english": "How many books did you read?" },
+        { "arabic": "إِيَّاكَ نَعْبُدُ وَإِيَّاكَ نَسْتَعِينُ", "english": "You alone we worship... (Quran 1:5)" }
+      ]
+    },
+    {
+      "title": "Prohibited Fronting",
+      "titleArabic": "التَّقْدِيمُ الْمَمْنُوعُ",
+      "content": [
+        "Fronting is prohibited (مَمْنُوع) in certain cases: 1) The فَاعِل cannot be fronted before its verb (*زَيْدٌ ضَرَبَ عَمْرًا is wrong). 2) The مُبْتَدَأ cannot be fronted when the خَبَر is restricted.",
+        "3) When fronting would create ambiguity that cannot be resolved. Grammar must maintain clarity of meaning."
+      ],
+      "keyPoints": [
+        "فاعل cannot precede verb",
+        "If fronted → مبتدأ not فاعل",
+        "Restricted خبر stays after",
+        "إِنَّمَا زَيْدٌ قَائِمٌ (قائم = restricted)"
+      ],
+      "examples": [
+        { "arabic": "ضَرَبَ زَيْدٌ عَمْرًا ✓", "english": "Zayd hit Amr (correct)" },
+        { "arabic": "زَيْدٌ ضَرَبَ عَمْرًا (مبتدأ لا فاعل)", "english": "Zayd - he hit Amr (زيد = mubtada')" },
+        { "arabic": "إِنَّمَا قَائِمٌ زَيْدٌ ✗", "english": "Incorrect (restricted خبر can't front)" },
+        { "arabic": "إِنَّمَا زَيْدٌ قَائِمٌ ✓", "english": "Zayd is only standing (correct)" }
+      ]
+    },
+    {
+      "title": "Optional Fronting",
+      "titleArabic": "التَّقْدِيمُ الْجَائِزُ",
+      "content": [
+        "When fronting is neither obligatory nor prohibited, it is optional (جَائِز). This optional fronting often carries rhetorical significance - emphasis, focus, or stylistic variation.",
+        "Fronting the object emphasizes it: أَنْتَ أَكْرَمْتُ (You - I honored). Fronting adverbs adds emphasis on time/place: غَدًا أَسَافِرُ (Tomorrow I travel)."
+      ],
+      "keyPoints": [
+        "Neither obligatory nor prohibited",
+        "For emphasis/focus",
+        "Object fronting: emphasis on object",
+        "Adverb fronting: emphasis on time/place"
+      ],
+      "examples": [
+        { "arabic": "زَيْدًا أَكْرَمْتُ (تقديم للاهتمام)", "english": "Zayd - I honored (emphasis on Zayd)" },
+        { "arabic": "غَدًا أَسَافِرُ (تقديم للتأكيد)", "english": "Tomorrow I travel (emphasis on tomorrow)" },
+        { "arabic": "فِي الْمَسْجِدِ صَلَّيْتُ", "english": "In the mosque I prayed (emphasis on location)" },
+        { "arabic": "إِيَّاهُ قَصَدْتُ", "english": "Him I intended (strong emphasis)" }
+      ]
+    },
+    {
+      "title": "Rhetorical Effects",
+      "titleArabic": "الأَثَرُ الْبَلَاغِيُّ",
+      "content": [
+        "Word order changes in Arabic are a key tool of بَلَاغَة (rhetoric). Fronting can indicate: emphasis (اهْتِمَام), restriction (حَصْر), surprise (تَعَجُّب), or contrast (مُقَابَلَة).",
+        "The Quran extensively uses word order for meaning. إِيَّاكَ نَعْبُدُ emphasizes exclusive worship of Allah by fronting the object."
+      ],
+      "keyPoints": [
+        "اهتمام = emphasis/care",
+        "حصر = restriction",
+        "تعجب = surprise",
+        "Quranic style uses order"
+      ],
+      "examples": [
+        { "arabic": "إِيَّاكَ نَعْبُدُ (حصر العبادة لله)", "english": "You alone we worship (restriction)" },
+        { "arabic": "وَلِلهِ الْمَشْرِقُ وَالْمَغْرِبُ (تعظيم)", "english": "To Allah belongs East and West (glorification)" },
+        { "arabic": "أَنَا فَعَلْتُ (تأكيد الفاعل)", "english": "I did it (emphasis on doer)" },
+        { "arabic": "الْحَمْدُ لِلهِ (تقديم للتعظيم)", "english": "Praise is to Allah (glorification by fronting)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l108-ex01",
+      "type": "fill-blank",
+      "prompt": "التَّقْدِيمُ يَعْنِي وَضْعَ الْكَلِمَةِ _____ مَوْضِعِهَا الأَصْلِيِّ",
+      "promptEn": "Fronting means placing a word _____ its original position",
+      "answer": "قَبْلَ",
+      "itemIds": ["word-b3-668"]
+    },
+    {
+      "id": "b3-l108-ex02",
+      "type": "fill-blank",
+      "prompt": "تَقْدِيمُ الْخَبَرِ _____ إِذَا كَانَ اسْتِفْهَامًا",
+      "promptEn": "Fronting the predicate is _____ if it's an interrogative",
+      "answer": "وَاجِبٌ",
+      "itemIds": ["word-b3-669"]
+    },
+    {
+      "id": "b3-l108-ex03",
+      "type": "fill-blank",
+      "prompt": "مَنْ رَأَيْتَ؟ - تَقْدِيمُ الْمَفْعُولِ هُنَا _____",
+      "promptEn": "مَنْ رَأَيْتَ؟ - fronting the object here is _____",
+      "answer": "وَاجِبٌ",
+      "itemIds": ["word-b3-670"]
+    },
+    {
+      "id": "b3-l108-ex04",
+      "type": "fill-blank",
+      "prompt": "تَقْدِيمُ الْفَاعِلِ عَلَى فِعْلِهِ _____",
+      "promptEn": "Fronting the subject before its verb is _____",
+      "answer": "مَمْنُوعٌ",
+      "itemIds": ["word-b3-671"]
+    },
+    {
+      "id": "b3-l108-ex05",
+      "type": "fill-blank",
+      "prompt": "إِيَّاكَ نَعْبُدُ - تَقْدِيمُ الْمَفْعُولِ هُنَا يُفِيدُ _____",
+      "promptEn": "إيّاك نعبد - fronting the object here indicates _____",
+      "answer": "الْحَصْرَ",
+      "itemIds": ["word-b3-672"]
+    },
+    {
+      "id": "b3-l108-ex06",
+      "type": "fill-blank",
+      "prompt": "فِي الدَّارِ رَجُلٌ - تَقْدِيمُ الْخَبَرِ وَاجِبٌ لِأَنَّ الْمُبْتَدَأَ _____",
+      "promptEn": "في الدار رجلٌ - fronting is obligatory because mubtada' is _____",
+      "answer": "نَكِرَةٌ",
+      "itemIds": ["word-b3-668"]
+    },
+    {
+      "id": "b3-l108-ex07",
+      "type": "word-to-meaning",
+      "prompt": "التَّقْدِيمُ",
+      "answer": "Fronting (placing before original position)",
+      "itemIds": ["word-b3-668"]
+    },
+    {
+      "id": "b3-l108-ex08",
+      "type": "word-to-meaning",
+      "prompt": "التَّأْخِيرُ",
+      "answer": "Delaying (placing after original position)",
+      "itemIds": ["word-b3-669"]
+    },
+    {
+      "id": "b3-l108-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْحَصْرُ",
+      "answer": "Restriction/exclusivity (limiting meaning to one thing)",
+      "itemIds": ["word-b3-672"]
+    },
+    {
+      "id": "b3-l108-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Obligatory (must be done)",
+      "answer": "وَاجِبٌ",
+      "itemIds": ["word-b3-669"]
+    },
+    {
+      "id": "b3-l108-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Prohibited (cannot be done)",
+      "answer": "مَمْنُوعٌ",
+      "itemIds": ["word-b3-671"]
+    },
+    {
+      "id": "b3-l108-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Permissible/optional (may be done)",
+      "answer": "جَائِزٌ",
+      "itemIds": ["word-b3-670"]
+    }
+  ]
+}

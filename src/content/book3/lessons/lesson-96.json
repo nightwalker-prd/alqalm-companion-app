@@ -1,0 +1,224 @@
+{
+  "id": "b3-l96",
+  "book": 3,
+  "lesson": 96,
+  "title": "الضَّمِيرُ الْمُسْتَتِرُ",
+  "titleEn": "The Hidden Pronoun",
+  "description": "Learn about الضمير المستتر - pronouns implied in verbs that are not written but understood. Covers واجب الاستتار vs جائز الاستتار.",
+  "vocabulary": ["word-b3-608", "word-b3-609", "word-b3-610", "word-b3-611", "word-b3-612"],
+  "grammarPoints": ["gp-b3-154", "gp-b3-155"],
+  "notes": [
+    {
+      "title": "What is الضمير المستتر?",
+      "titleArabic": "مَا هُوَ الضَّمِيرُ الْمُسْتَتِرُ؟",
+      "content": [
+        "الضَّمِير الْمُسْتَتِر (hidden/concealed pronoun) is a pronoun that is not visibly attached to the verb but is understood as the subject (فاعل). Every verb needs a فاعل - if none is visible, a hidden pronoun is estimated.",
+        "Example: كَتَبَ (he wrote) - no visible subject, but the pronoun هُوَ is مُسْتَتِر (hidden). In i'rab: الْفَاعِلُ ضَمِيرٌ مُسْتَتِرٌ تَقْدِيرُهُ هُوَ."
+      ],
+      "keyPoints": [
+        "Pronoun understood but not written",
+        "Functions as فَاعِل (subject)",
+        "Every verb needs a subject",
+        "تَقْدِيرُهُ: estimated as..."
+      ],
+      "examples": [
+        { "arabic": "كَتَبَ: الفاعل ضمير مستتر تقديره هُوَ", "english": "He wrote: subject is hidden pronoun estimated as 'he'" },
+        { "arabic": "أَكْتُبُ: الفاعل ضمير مستتر تقديره أَنَا", "english": "I write: subject is hidden pronoun estimated as 'I'" },
+        { "arabic": "نَكْتُبُ: الفاعل ضمير مستتر تقديره نَحْنُ", "english": "We write: subject is hidden pronoun estimated as 'we'" },
+        { "arabic": "اكْتُبْ: الفاعل ضمير مستتر تقديره أَنْتَ", "english": "Write!: subject is hidden pronoun estimated as 'you'" }
+      ]
+    },
+    {
+      "title": "Obligatory Hiding (واجب الاستتار)",
+      "titleArabic": "وَاجِبُ الاسْتِتَارِ",
+      "content": [
+        "In certain verb forms, the pronoun MUST be hidden - it cannot be replaced with a visible noun. This is called وَاجِب الاسْتِتَار (obligatory concealment). These forms are: first-person (أَنَا، نَحْنُ), and second-person singular masculine (أَنْتَ) in present tense and imperative.",
+        "Examples: أَكْتُبُ (I write) - cannot say *أَكْتُبُ أَنَا with أَنَا as فاعل. نَكْتُبُ (we write). تَكْتُبُ (you write - masc. sing.). اكْتُبْ (write! - masc. sing.)."
+      ],
+      "keyPoints": [
+        "Cannot replace with visible noun",
+        "أَنَا: أَفْعَلُ form",
+        "نَحْنُ: نَفْعَلُ form",
+        "أَنْتَ: تَفْعَلُ and افْعَلْ forms"
+      ],
+      "examples": [
+        { "arabic": "أَذْهَبُ: الضمير أَنَا واجب الاستتار", "english": "أَذْهَبُ: pronoun أَنَا obligatorily hidden" },
+        { "arabic": "نَذْهَبُ: الضمير نَحْنُ واجب الاستتار", "english": "نَذْهَبُ: pronoun نَحْنُ obligatorily hidden" },
+        { "arabic": "تَذْهَبُ (للمخاطب المفرد): واجب الاستتار", "english": "تَذْهَبُ (you masc.): obligatorily hidden" },
+        { "arabic": "اذْهَبْ: الضمير أَنْتَ واجب الاستتار", "english": "اذْهَبْ: pronoun أَنْتَ obligatorily hidden" }
+      ]
+    },
+    {
+      "title": "Permissible Hiding (جائز الاستتار)",
+      "titleArabic": "جَائِزُ الاسْتِتَارِ",
+      "content": [
+        "In other verb forms, the pronoun CAN be hidden but can also be replaced with a visible noun (ظاهر). This is جَائِز الاسْتِتَار (permissible concealment). These are third-person forms: هُوَ، هِيَ.",
+        "Examples: كَتَبَ - the فاعل could be hidden (هُوَ) or visible (كَتَبَ زَيْدٌ). يَكْتُبُ - could be hidden (هُوَ) or visible (يَكْتُبُ زَيْدٌ). تَكْتُبُ هِيَ - could be hidden (هِيَ) or visible (تَكْتُبُ فَاطِمَةُ)."
+      ],
+      "keyPoints": [
+        "Can replace with visible noun",
+        "هُوَ: in third-person masc. forms",
+        "هِيَ: in third-person fem. forms",
+        "جَائِز not وَاجِب"
+      ],
+      "examples": [
+        { "arabic": "ذَهَبَ: ضمير هُوَ جائز الاستتار (أو: ذَهَبَ زَيْدٌ)", "english": "ذَهَبَ: هُوَ permissibly hidden (or: ذَهَبَ زَيْدٌ)" },
+        { "arabic": "يَذْهَبُ: ضمير هُوَ جائز (أو: يَذْهَبُ الطَّالِبُ)", "english": "يَذْهَبُ: هُوَ permissible (or: يَذْهَبُ الطَّالِبُ)" },
+        { "arabic": "ذَهَبَتْ: ضمير هِيَ جائز (أو: ذَهَبَتْ هِنْدٌ)", "english": "ذَهَبَتْ: هِيَ permissible (or: ذَهَبَتْ هِنْدٌ)" },
+        { "arabic": "تَذْهَبُ (للغائبة): جائز الاستتار", "english": "تَذْهَبُ (she): permissibly hidden" }
+      ]
+    },
+    {
+      "title": "Summary Table",
+      "titleArabic": "جَدْوَلٌ مُلَخَّصٌ",
+      "content": [
+        "واجب الاستتار: 1) أَفْعَلُ (أَنَا), 2) نَفْعَلُ (نَحْنُ), 3) تَفْعَلُ - مُخَاطَب مُذَكَّر (أَنْتَ), 4) افْعَلْ - أَمْر (أَنْتَ).",
+        "جائز الاستتار: 1) فَعَلَ/يَفْعَلُ - غَائِب (هُوَ), 2) فَعَلَتْ/تَفْعَلُ - غَائِبَة (هِيَ). These can have visible subjects replace the hidden pronoun."
+      ],
+      "keyPoints": [
+        "واجب: أَنَا، نَحْنُ، أَنْتَ only",
+        "جائز: هُوَ، هِيَ (third-person)",
+        "Memorize which forms are which",
+        "Essential for proper i'rab"
+      ],
+      "examples": [
+        { "arabic": "أَكْتُبُ / نَكْتُبُ / تَكْتُبُ / اكْتُبْ: واجب", "english": "أَكْتُبُ / نَكْتُبُ / تَكْتُبُ / اكْتُبْ: obligatory" },
+        { "arabic": "كَتَبَ / يَكْتُبُ / كَتَبَتْ / تَكْتُبُ (هي): جائز", "english": "كَتَبَ / يَكْتُبُ / كَتَبَتْ / تَكْتُبُ (she): permissible" },
+        { "arabic": "تَكْتُبَانِ / تَكْتُبُونَ / يَكْتُبْنَ: ضمائر بارزة", "english": "تَكْتُبَانِ / تَكْتُبُونَ / يَكْتُبْنَ: visible pronouns" },
+        { "arabic": "الأفعال الخمسة فاعلها ضمير بارز", "english": "The five verbs have visible pronoun subjects" }
+      ]
+    },
+    {
+      "title": "Grammatical Analysis",
+      "titleArabic": "الإِعْرَابُ",
+      "content": [
+        "When analyzing hidden pronouns, we say: الْفَاعِلُ ضَمِيرٌ مُسْتَتِرٌ [وُجُوبًا/جَوَازًا] تَقْدِيرُهُ [الضمير]. The full formula specifies whether hiding is obligatory or permissible.",
+        "Example: يَكْتُبُ → يَكْتُبُ: فِعْلٌ مُضَارِعٌ مَرْفُوعٌ، وَالْفَاعِلُ ضَمِيرٌ مُسْتَتِرٌ جَوَازًا تَقْدِيرُهُ هُوَ."
+      ],
+      "keyPoints": [
+        "State: مُسْتَتِر وُجُوبًا or جَوَازًا",
+        "State: تَقْدِيرُهُ + the pronoun",
+        "Always in محل رفع فاعل",
+        "Or محل رفع نائب فاعل (passive)"
+      ],
+      "examples": [
+        { "arabic": "أَذْهَبُ: الفاعل ضمير مستتر وجوبًا تقديره أَنَا", "english": "أَذْهَبُ: subject hidden obligatorily, estimated as أَنَا" },
+        { "arabic": "يَذْهَبُ: الفاعل ضمير مستتر جوازًا تقديره هُوَ", "english": "يَذْهَبُ: subject hidden permissibly, estimated as هُوَ" },
+        { "arabic": "الضمير في محل رفع فاعل", "english": "The pronoun is in nominative position as subject" },
+        { "arabic": "يُكْرَمُ: نائب الفاعل ضمير مستتر جوازًا تقديره هُوَ", "english": "يُكْرَمُ: deputy subject hidden permissibly" }
+      ]
+    },
+    {
+      "title": "Hidden Pronouns vs. Visible Pronouns",
+      "titleArabic": "الضَّمِيرُ الْمُسْتَتِرُ vs الْبَارِزُ",
+      "content": [
+        "Arabic has ضَمَائِر بَارِزَة (visible/apparent pronouns) and ضَمَائِر مُسْتَتِرَة (hidden pronouns). Visible pronouns are written: تُ، نَا، ا (ألف الاثنين)، وَاو الجَمَاعَة، نُون النِّسْوَة, etc.",
+        "Hidden pronouns are not written but understood. Example: كَتَبْتُ - التاء is بَارِز (visible). كَتَبَ - الضمير هُوَ is مُسْتَتِر (hidden). Both function as فَاعِل."
+      ],
+      "keyPoints": [
+        "بَارِز: written, attached to verb",
+        "مُسْتَتِر: understood, not written",
+        "Both can be فَاعِل",
+        "تُ، نَا، ا، و، نَ: visible"
+      ],
+      "examples": [
+        { "arabic": "كَتَبْتُ: التاء ضمير بارز في محل رفع فاعل", "english": "كَتَبْتُ: تُ is visible pronoun, subject" },
+        { "arabic": "كَتَبْنَا: نَا ضمير بارز فاعل", "english": "كَتَبْنَا: نَا is visible pronoun, subject" },
+        { "arabic": "كَتَبَا: ألف الاثنين ضمير بارز فاعل", "english": "كَتَبَا: alif al-ithnayn is visible pronoun" },
+        { "arabic": "كَتَبُوا: واو الجماعة ضمير بارز فاعل", "english": "كَتَبُوا: waw al-jama'a is visible pronoun" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l96-ex01",
+      "type": "fill-blank",
+      "prompt": "أَذْهَبُ - الْفَاعِلُ ضَمِيرٌ _____ تَقْدِيرُهُ أَنَا",
+      "promptEn": "أَذْهَبُ - the subject is a _____ pronoun estimated as أَنَا",
+      "answer": "مُسْتَتِرٌ",
+      "itemIds": ["word-b3-608"]
+    },
+    {
+      "id": "b3-l96-ex02",
+      "type": "fill-blank",
+      "prompt": "أَكْتُبُ / نَكْتُبُ / اكْتُبْ - الضَّمِيرُ هُنَا _____ الاسْتِتَارِ",
+      "promptEn": "أَكْتُبُ / نَكْتُبُ / اكْتُبْ - the pronoun here is _____ of hiding",
+      "answer": "وَاجِبُ",
+      "itemIds": ["word-b3-609"]
+    },
+    {
+      "id": "b3-l96-ex03",
+      "type": "fill-blank",
+      "prompt": "يَذْهَبُ / ذَهَبَتْ - الضَّمِيرُ هُنَا _____ الاسْتِتَارِ",
+      "promptEn": "يَذْهَبُ / ذَهَبَتْ - the pronoun here is _____ of hiding",
+      "answer": "جَائِزُ",
+      "itemIds": ["word-b3-610"]
+    },
+    {
+      "id": "b3-l96-ex04",
+      "type": "fill-blank",
+      "prompt": "يَكْتُبُ: الْفَاعِلُ ضَمِيرٌ مُسْتَتِرٌ جَوَازًا تَقْدِيرُهُ _____",
+      "promptEn": "يَكْتُبُ: the subject is hidden permissibly, estimated as _____",
+      "answer": "هُوَ",
+      "itemIds": ["word-b3-611"]
+    },
+    {
+      "id": "b3-l96-ex05",
+      "type": "fill-blank",
+      "prompt": "كَتَبْتُ - التَّاءُ ضَمِيرٌ _____ (مستتر/بارز)",
+      "promptEn": "كَتَبْتُ - the تَاء is a _____ pronoun (hidden/visible)",
+      "answer": "بَارِزٌ",
+      "itemIds": ["word-b3-612"]
+    },
+    {
+      "id": "b3-l96-ex06",
+      "type": "fill-blank",
+      "prompt": "تَذْهَبُ (لِلْغَائِبَةِ): الضَّمِيرُ جَائِزُ الاسْتِتَارِ تَقْدِيرُهُ _____",
+      "promptEn": "تَذْهَبُ (for absent female): the pronoun is permissibly hidden, estimated as _____",
+      "answer": "هِيَ",
+      "itemIds": ["word-b3-611"]
+    },
+    {
+      "id": "b3-l96-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الضَّمِيرُ الْمُسْتَتِرُ",
+      "answer": "The hidden pronoun (understood but not written)",
+      "itemIds": ["word-b3-608"]
+    },
+    {
+      "id": "b3-l96-ex08",
+      "type": "word-to-meaning",
+      "prompt": "وَاجِبُ الاسْتِتَارِ",
+      "answer": "Obligatory hiding (pronoun cannot be replaced with visible noun)",
+      "itemIds": ["word-b3-609"]
+    },
+    {
+      "id": "b3-l96-ex09",
+      "type": "word-to-meaning",
+      "prompt": "جَائِزُ الاسْتِتَارِ",
+      "answer": "Permissible hiding (pronoun can be replaced with visible noun)",
+      "itemIds": ["word-b3-610"]
+    },
+    {
+      "id": "b3-l96-ex10",
+      "type": "meaning-to-word",
+      "prompt": "A pronoun that is not written but understood as the verb's subject",
+      "answer": "الضَّمِيرُ الْمُسْتَتِرُ",
+      "itemIds": ["word-b3-608"]
+    },
+    {
+      "id": "b3-l96-ex11",
+      "type": "meaning-to-word",
+      "prompt": "The type of hiding for pronouns أَنَا، نَحْنُ، أَنْتَ in their verb forms",
+      "answer": "وَاجِبُ الاسْتِتَارِ",
+      "itemIds": ["word-b3-609"]
+    },
+    {
+      "id": "b3-l96-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The type of hiding for pronouns هُوَ، هِيَ in third-person verbs",
+      "answer": "جَائِزُ الاسْتِتَارِ",
+      "itemIds": ["word-b3-610"]
+    }
+  ]
+}

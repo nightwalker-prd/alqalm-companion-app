@@ -1,0 +1,224 @@
+{
+  "id": "b3-l81",
+  "book": 3,
+  "lesson": 81,
+  "title": "أَسْمَاءُ الْأَصْوَاتِ",
+  "titleEn": "Names of Sounds (Sound Words)",
+  "description": "Learn about أسماء الأصوات - words that represent sounds, including animal calls, human non-verbal sounds, and their grammatical treatment in classical Arabic.",
+  "vocabulary": ["word-b3-533", "word-b3-534", "word-b3-535", "word-b3-536", "word-b3-537"],
+  "grammarPoints": ["gp-b3-124", "gp-b3-125"],
+  "notes": [
+    {
+      "title": "What are أسماء الأصوات?",
+      "titleArabic": "مَا هِيَ أَسْمَاءُ الْأَصْوَاتِ؟",
+      "content": [
+        "أَسْمَاءُ الْأَصْوَاتِ (names of sounds) are words that represent or imitate sounds - animal sounds, human non-verbal sounds, or sounds used to call or drive away animals. They are also called حِكَايَةُ الصَّوْتِ (imitation of sounds).",
+        "These words are considered أَسْمَاءٌ مَبْنِيَّةٌ (indeclinable nouns) - they don't change for grammatical case. They occupy a unique grammatical category between nouns and interjections."
+      ],
+      "keyPoints": [
+        "أسماء الأصوات = sound words/onomatopoeia",
+        "Represent animal calls, human sounds",
+        "مَبْنِيَّة: indeclinable (don't change)",
+        "Special grammatical category"
+      ],
+      "examples": [
+        { "arabic": "غَاقِ غَاقِ (صَوْتُ الْغُرَابِ)", "english": "Caw caw (sound of a crow)" },
+        { "arabic": "مَاءَ مَاءَ (صَوْتُ الْقِطَّةِ)", "english": "Meow meow (sound of a cat)" },
+        { "arabic": "هَيْهَاتَ (صَوْتُ الْبُعْدِ)", "english": "Far be it / how far! (expressing remoteness)" },
+        { "arabic": "آهِ (صَوْتُ التَّوَجُّعِ)", "english": "Aah (sound of pain)" }
+      ]
+    },
+    {
+      "title": "Types of Sound Words",
+      "titleArabic": "أَنْوَاعُ أَسْمَاءِ الْأَصْوَاتِ",
+      "content": [
+        "Sound words fall into two main categories: 1) أَصْوَاتُ الْحَيَوَانِ (animal sounds) - words imitating animal calls, 2) أَصْوَاتٌ بَشَرِيَّةٌ (human sounds) - words for calling, driving away, or non-verbal expressions.",
+        "Some grammarians add a third category: أَصْوَاتُ الْجَمَادِ (sounds of objects) - like onomatopoeia for natural phenomena (thunder, water, etc.)."
+      ],
+      "keyPoints": [
+        "أصوات الحيوان: animal sounds",
+        "أصوات بشرية: human non-verbal sounds",
+        "أصوات الجماد: sounds of objects",
+        "All are مَبْنِيَّة (indeclinable)"
+      ],
+      "examples": [
+        { "arabic": "عَوْعَوْ (صَوْتُ الْكَلْبِ)", "english": "Woof woof (dog sound)" },
+        { "arabic": "هِسْ هِسْ (لِزَجْرِ الْقِطَّةِ)", "english": "Shoo (driving away a cat)" },
+        { "arabic": "صَهْ (لِلسُّكُوتِ)", "english": "Hush / Be quiet!" },
+        { "arabic": "طَقْ طَقْ (صَوْتُ الطَّرْقِ)", "english": "Knock knock (knocking sound)" }
+      ]
+    },
+    {
+      "title": "Words for Calling Animals (أسماء زجر الحيوان)",
+      "titleArabic": "أَسْمَاءُ زَجْرِ الْحَيَوَانِ",
+      "content": [
+        "Arabic has specific words for calling or driving animals. These include: words to call animals closer (إِقْبَال), words to drive animals away (زَجْر), and words to make animals move or stop (سَوْق).",
+        "Examples: هَلَا (to urge a horse), سَأْ سَأْ (to call a camel to drink), جِئْ جِئْ (to call sheep), كُخْ كُخْ (to stop a camel). These words are rarely used in modern Arabic but appear in classical texts."
+      ],
+      "keyPoints": [
+        "زَجْر: driving away animals",
+        "دُعَاء: calling animals",
+        "سَوْق: urging animals to move",
+        "Classical vocabulary, rare in modern use"
+      ],
+      "examples": [
+        { "arabic": "هَلَا (لِإِسْرَاعِ الْفَرَسِ)", "english": "Giddyup! (urging a horse)" },
+        { "arabic": "عَدَسْ (لِزَجْرِ الْبَغْلِ)", "english": "Word to drive a mule" },
+        { "arabic": "هَجْهَجْ (لِزَجْرِ السَّبُعِ)", "english": "Word to drive away a predator" },
+        { "arabic": "نَخْ نَخْ (لِإِبْرَاكِ الْجَمَلِ)", "english": "Word to make a camel kneel" }
+      ]
+    },
+    {
+      "title": "Human Non-Verbal Sounds",
+      "titleArabic": "الْأَصْوَاتُ الْبَشَرِيَّةُ غَيْرُ اللَّفْظِيَّةِ",
+      "content": [
+        "Arabic has words for human non-verbal sounds and expressions: آهِ/آهٍ (pain), أُفٍّ (disgust), وَاهًا (wonder), هَيْهَاتَ (remoteness/impossibility). These convey emotions without being full words.",
+        "These expressions appear in the Quran and classical literature. For example, أُفٍّ appears in وَلَا تَقُلْ لَهُمَا أُفٍّ (don't say 'uff' to them - Quran 17:23)."
+      ],
+      "keyPoints": [
+        "آهِ/آهٍ: expressing pain",
+        "أُفٍّ: expressing disgust/annoyance",
+        "وَاهًا: expressing wonder",
+        "هَيْهَاتَ: far be it / impossible"
+      ],
+      "examples": [
+        { "arabic": "أُفٍّ لَكُمْ (تَضَجُّر)", "english": "Uff to you (expressing annoyance)" },
+        { "arabic": "آهِ مِنَ الْأَلَمِ", "english": "Aah from pain (expressing pain)" },
+        { "arabic": "هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ", "english": "Far, far away is what you are promised (Quran 23:36)" },
+        { "arabic": "وَاهًا لَهُ مِنْ عَجَبٍ!", "english": "What wonder! (expressing amazement)" }
+      ]
+    },
+    {
+      "title": "Grammar of Sound Words",
+      "titleArabic": "إِعْرَابُ أَسْمَاءِ الْأَصْوَاتِ",
+      "content": [
+        "أَسْمَاءُ الْأَصْوَاتِ are مَبْنِيَّة (indeclinable) - they stay in one form regardless of grammatical position. They are typically في مَحَلّ (in the position of) whatever function they serve.",
+        "When used as subjects or objects, they are في محل رفع/نصب. Some grammarians consider them outside the i'rab system entirely - لَا مَحَلَّ لَهَا مِنَ الإِعْرَابِ (having no grammatical position)."
+      ],
+      "keyPoints": [
+        "مَبْنِيَّة: don't change form",
+        "في محل: 'in the position of' their function",
+        "Some say: لا محل لها من الإعراب",
+        "Unique grammatical category"
+      ],
+      "examples": [
+        { "arabic": "سَمِعْتُ غَاقِ: غَاقِ مفعول به في محل نصب", "english": "I heard 'caw': غَاقِ = object in accusative position" },
+        { "arabic": "قَالَ آهِ: آهِ مقول القول", "english": "He said 'aah': آهِ = quoted speech" },
+        { "arabic": "هَيْهَاتَ: اسم فعل ماض مبني", "english": "هَيْهَاتَ: indeclinable noun-verb (past meaning)" },
+        { "arabic": "أُفٍّ: اسم صوت مبني على الكسر", "english": "أُفٍّ: sound word built on kasra" }
+      ]
+    },
+    {
+      "title": "Sound Words in Literature",
+      "titleArabic": "أَسْمَاءُ الْأَصْوَاتِ فِي الْأَدَبِ",
+      "content": [
+        "Sound words appear throughout Arabic literature for vivid description and dramatic effect. Poets use them to imitate nature sounds, and narrators use them in stories.",
+        "Understanding these words enriches comprehension of classical texts, poetry, and the Quran. While many are archaic, they remain part of the grammatical tradition."
+      ],
+      "keyPoints": [
+        "Used for vivid description in literature",
+        "Common in classical poetry",
+        "Some appear in Quran (أُفٍّ، هَيْهَاتَ)",
+        "Essential for classical text comprehension"
+      ],
+      "examples": [
+        { "arabic": "«فَلَا تَقُلْ لَهُمَا أُفٍّ» (القرآن)", "english": "Do not say 'uff' to them (Quran 17:23)" },
+        { "arabic": "«هَيْهَاتَ هَيْهَاتَ لِمَا تُوعَدُونَ» (القرآن)", "english": "Far, far is what you are promised (Quran 23:36)" },
+        { "arabic": "وَسَمِعْتُ صَرِيرَ الْبَابِ: قَرْقَرْ قَرْقَرْ", "english": "I heard the door creak: creak creak" },
+        { "arabic": "فَقَالَتِ الْحَمَامَةُ: كُوكُو كُوكُو", "english": "The dove said: coo coo" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l81-ex01",
+      "type": "fill-blank",
+      "prompt": "الْكَلِمَاتُ الَّتِي تُمَثِّلُ الْأَصْوَاتَ تُسَمَّى أَسْمَاءَ _____",
+      "promptEn": "Words that represent sounds are called names of _____",
+      "answer": "الْأَصْوَاتِ",
+      "itemIds": ["word-b3-533"]
+    },
+    {
+      "id": "b3-l81-ex02",
+      "type": "fill-blank",
+      "prompt": "أَسْمَاءُ الْأَصْوَاتِ أَسْمَاءٌ _____ لَا تَتَغَيَّرُ بِالإِعْرَابِ",
+      "promptEn": "Sound names are _____ nouns that don't change with i'rab",
+      "answer": "مَبْنِيَّةٌ",
+      "itemIds": ["word-b3-534"]
+    },
+    {
+      "id": "b3-l81-ex03",
+      "type": "fill-blank",
+      "prompt": "كَلِمَةُ أُفٍّ فِي الْقُرْآنِ تَدُلُّ عَلَى _____",
+      "promptEn": "The word أُفٍّ in the Quran indicates _____",
+      "answer": "التَّضَجُّرِ",
+      "itemIds": ["word-b3-535"]
+    },
+    {
+      "id": "b3-l81-ex04",
+      "type": "fill-blank",
+      "prompt": "كَلِمَةُ هَيْهَاتَ تَدُلُّ عَلَى الْبُعْدِ وَ_____",
+      "promptEn": "The word هَيْهَاتَ indicates remoteness and _____",
+      "answer": "الاِسْتِبْعَادِ",
+      "itemIds": ["word-b3-536"]
+    },
+    {
+      "id": "b3-l81-ex05",
+      "type": "fill-blank",
+      "prompt": "الْكَلِمَاتُ الْمُسْتَعْمَلَةُ لِدَفْعِ الْحَيَوَانِ تُسَمَّى أَسْمَاءَ _____ الْحَيَوَانِ",
+      "promptEn": "Words used to drive away animals are called names of _____ animals",
+      "answer": "زَجْرِ",
+      "itemIds": ["word-b3-537"]
+    },
+    {
+      "id": "b3-l81-ex06",
+      "type": "fill-blank",
+      "prompt": "كَلِمَةُ آهِ تُعَبِّرُ عَنْ _____",
+      "promptEn": "The word آهِ expresses _____",
+      "answer": "الْأَلَمِ",
+      "itemIds": ["word-b3-535"]
+    },
+    {
+      "id": "b3-l81-ex07",
+      "type": "word-to-meaning",
+      "prompt": "أَسْمَاءُ الْأَصْوَاتِ",
+      "answer": "Names of sounds / onomatopoeia",
+      "itemIds": ["word-b3-533"]
+    },
+    {
+      "id": "b3-l81-ex08",
+      "type": "word-to-meaning",
+      "prompt": "هَيْهَاتَ",
+      "answer": "Far be it / how far / impossible (expressing remoteness)",
+      "itemIds": ["word-b3-536"]
+    },
+    {
+      "id": "b3-l81-ex09",
+      "type": "word-to-meaning",
+      "prompt": "أُفٍّ",
+      "answer": "Ugh / uff (expressing disgust or annoyance)",
+      "itemIds": ["word-b3-535"]
+    },
+    {
+      "id": "b3-l81-ex10",
+      "type": "meaning-to-word",
+      "prompt": "A sound word expressing pain or discomfort",
+      "answer": "آهِ",
+      "itemIds": ["word-b3-535"]
+    },
+    {
+      "id": "b3-l81-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Words used to call animals or urge them to move",
+      "answer": "أَسْمَاءُ زَجْرِ الْحَيَوَانِ",
+      "itemIds": ["word-b3-537"]
+    },
+    {
+      "id": "b3-l81-ex12",
+      "type": "meaning-to-word",
+      "prompt": "The grammatical term for words that don't change with case",
+      "answer": "مَبْنِيَّةٌ",
+      "itemIds": ["word-b3-534"]
+    }
+  ]
+}

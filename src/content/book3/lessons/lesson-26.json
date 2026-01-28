@@ -1,0 +1,169 @@
+{
+  "id": "b3-l26",
+  "book": 3,
+  "lesson": 26,
+  "title": "المَفْعُول فِيهِ",
+  "titleEn": "Adverb of Time and Place (Dharf)",
+  "notes": [
+    {
+      "title": "Quadriliteral Verb Forms",
+      "titleArabic": "أوزان الفعل الرباعي",
+      "content": [
+        "Quadriliteral verbs have four root letters. Besides the basic form فَعْلَلَ, there are three augmented (mazīd) patterns that add meaning modifications."
+      ],
+      "keyPoints": [
+        "Basic: فَعْلَلَ - تَرْجَمَ (to translate)",
+        "Augmented 1: تَفَعْلَلَ (reflexive) - تَدَحْرَجَ (to roll)",
+        "Augmented 2: اِفْعَنْلَلَ - اِطْمَأَنَّ (to be at peace)",
+        "Augmented 3: اِفْعَلَلَّ - اِقْشَعَرَّ (to shiver)"
+      ],
+      "examples": [
+        { "arabic": "تَرْجَمَ الْكِتَابَ", "english": "He translated the book" },
+        { "arabic": "تَدَحْرَجَتِ الْكُرَةُ", "english": "The ball rolled" }
+      ]
+    },
+    {
+      "title": "Adverb of Time and Place (الظرف)",
+      "titleArabic": "المفعول فيه / الظرف",
+      "content": [
+        "The ẓarf (adverb) indicates the time or place of an action. It is a type of maf'ūl fīhi and is always in the accusative case."
+      ],
+      "keyPoints": [
+        "Time adverbs: صَبَاحًا, مَسَاءً, يَوْمًا, لَيْلًا",
+        "Place adverbs: أَمَامَ, خَلْفَ, فَوْقَ, تَحْتَ",
+        "Some are indeclinable (mabnī): إِذْ, حَيْثُ, أَمْسِ",
+        "Always manṣūb when declinable"
+      ],
+      "examples": [
+        { "arabic": "جَلَسْتُ تَحْتَ الشَّجَرَةِ", "english": "I sat under the tree" },
+        { "arabic": "سَافَرَ صَبَاحًا", "english": "He traveled in the morning" }
+      ]
+    }
+  ],
+  "vocabulary": [
+    "word-b3-138",
+    "word-b3-139",
+    "word-b3-140",
+    "word-b3-141",
+    "word-b3-142"
+  ],
+  "grammarPoints": [
+    "gp-b3-026"
+  ],
+  "exercises": [
+    {
+      "id": "b3-l26-ex01",
+      "type": "fill-blank",
+      "prompt": "جَلَسْتُ _____ الشَّجَرَةِ (تَحْتَ)",
+      "answer": "تَحْتَ",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I prayed at night",
+      "answer": "صَلَّيْتُ لَيْلاً",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex03",
+      "type": "fill-blank",
+      "prompt": "سَافَرَ _____ (صَبَاحًا)",
+      "answer": "صَبَاحًا",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex04",
+      "type": "word-to-meaning",
+      "prompt": "يَمِينًا وَشِمَالاً",
+      "answer": "right and left",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex05",
+      "type": "meaning-to-word",
+      "prompt": "north",
+      "answer": "شَمَالاً",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "He stood in front of the house",
+      "answer": "وَقَفَ أَمَامَ البَيْتِ",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex07",
+      "type": "fill-blank",
+      "prompt": "عَمِلَ _____ كَامِلاً (يَوْمًا)",
+      "answer": "يَوْمًا",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex08",
+      "type": "word-to-meaning",
+      "prompt": "شَرْقًا وَغَرْبًا",
+      "answer": "east and west",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "He traveled for a month",
+      "answer": "سَافَرَ شَهْرًا",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex10",
+      "type": "fill-blank",
+      "prompt": "جَلَسَ _____ المَسْجِدِ (خَلْفَ)",
+      "answer": "خَلْفَ",
+      "itemIds": [
+        "word-b3-138",
+        "word-b3-139"
+      ]
+    },
+    {
+      "id": "b3-l26-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "I studied for two hours in the morning",
+      "answer": "دَرَسْتُ سَاعَتَيْنِ صَبَاحًا",
+      "itemIds": ["word-b3-138", "word-b3-139"]
+    },
+    {
+      "id": "b3-l26-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "The bird flew above the trees in the evening",
+      "answer": "طَارَ الطَّائِرُ فَوْقَ الْأَشْجَارِ مَسَاءً",
+      "itemIds": ["word-b3-138", "word-b3-139"]
+    }
+  ]
+}

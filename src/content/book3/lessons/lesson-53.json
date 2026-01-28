@@ -1,0 +1,182 @@
+{
+  "id": "b3-l53",
+  "book": 3,
+  "lesson": 53,
+  "title": "لَوْلَا وَلَوْمَا",
+  "titleEn": "Counterfactual Particles لولا and لوما",
+  "description": "Learn about لولا and لوما, particles meaning 'if not for' or 'were it not for', used to express that something prevented an action from occurring.",
+  "vocabulary": ["word-b3-369", "word-b3-370", "word-b3-371", "word-b3-372", "word-b3-373", "word-b3-374"],
+  "grammarPoints": ["gp-b3-068", "gp-b3-069"],
+  "notes": [
+    {
+      "title": "What are لولا and لوما?",
+      "titleArabic": "تعريف لولا ولوما",
+      "content": [
+        "لولا and لوما are particles meaning 'if not for' or 'were it not for'. They indicate that something (the مبتدأ) prevented the action in the response from happening.",
+        "They are called حرف امتناع لوجود: the result was absent because of the presence of something. لَوْلَا الْمَطَرُ لَذَهَبْتُ (Were it not for the rain, I would have gone)."
+      ],
+      "keyPoints": [
+        "لولا/لوما: 'if not for', 'were it not for'",
+        "Result didn't happen because of something's presence",
+        "Followed by a noun in nominative (مبتدأ)",
+        "The خبر is obligatorily deleted (محذوف وجوبًا)"
+      ],
+      "examples": [
+        { "arabic": "لَوْلَا الْمَطَرُ لَذَهَبْتُ", "english": "Were it not for the rain, I would have gone" },
+        { "arabic": "لَوْلَا اللهُ لَهَلَكْنَا", "english": "Were it not for Allah, we would have perished" },
+        { "arabic": "لَوْلَا الْعِلْمُ لَضَاعَ النَّاسُ", "english": "Were it not for knowledge, people would be lost" },
+        { "arabic": "لَوْمَا أَنْتَ لَمَا نَجَحْتُ", "english": "Were it not for you, I wouldn't have succeeded" }
+      ]
+    },
+    {
+      "title": "Structure of لولا Sentences",
+      "titleArabic": "تركيب جملة لولا",
+      "content": [
+        "After لولا comes a noun (اسم) in the nominative case. This noun is the مبتدأ, and its خبر is understood to be 'موجود' (present/existing) but is always omitted.",
+        "The response (جواب) typically uses a past tense verb, often preceded by لَ: لَوْلَا زَيْدٌ لَأَكْرَمْتُكَ."
+      ],
+      "keyPoints": [
+        "لَوْلَا + اسم مرفوع (مبتدأ)",
+        "الخبر محذوف وجوبًا تقديره: موجود",
+        "جواب لولا: usually past tense with لَ",
+        "لَوْلَا زَيْدٌ = لَوْلَا زَيْدٌ مَوْجُودٌ"
+      ],
+      "examples": [
+        { "arabic": "لَوْلَا الْأَمَلُ لَمَاتَ الْقَلْبُ", "english": "Were it not for hope, the heart would die" },
+        { "arabic": "لَوْلَا مُسَاعَدَتُكَ لَفَشِلْتُ", "english": "Were it not for your help, I would have failed" },
+        { "arabic": "لَوْلَا الشَّمْسُ لَمَا كَانَتِ الْحَيَاةُ", "english": "Were it not for the sun, there would be no life" },
+        { "arabic": "لَوْلَا الْمَاءُ لَهَلَكَتِ الزِّرَاعَةُ", "english": "Were it not for water, agriculture would perish" }
+      ]
+    },
+    {
+      "title": "لولا with Pronouns",
+      "titleArabic": "لولا مع الضمائر",
+      "content": [
+        "When لولا is followed by a pronoun, it takes the separate (منفصل) form, not attached: لَوْلَا أَنْتَ (not لَوْلَاكَ in classical grammar, though لولاك is used in modern Arabic).",
+        "Examples: لَوْلَا أَنَا، لَوْلَا أَنْتَ، لَوْلَا هُوَ."
+      ],
+      "keyPoints": [
+        "Classical: لَوْلَا + ضمير منفصل (separate pronoun)",
+        "لَوْلَا أَنْتَ لَهَلَكْتُ (Were it not for you, I would have perished)",
+        "Modern usage allows attached: لَوْلَاكَ، لَوْلَاهُ",
+        "Quranic: لَوْلَا أَنْتُمْ لَكُنَّا مُؤْمِنِينَ"
+      ],
+      "examples": [
+        { "arabic": "لَوْلَا أَنْتَ لَمَا عَرَفْتُ الطَّرِيقَ", "english": "Were it not for you, I wouldn't have known the way" },
+        { "arabic": "لَوْلَا هُوَ لَضَلَلْنَا", "english": "Were it not for him, we would have gone astray" },
+        { "arabic": "لَوْلَا أَنَا لَمَا تَمَّ الْعَمَلُ", "english": "Were it not for me, the work wouldn't have been completed" },
+        { "arabic": "لَوْلَاكَ لَكُنْتُ فِي وَرْطَةٍ", "english": "Were it not for you, I would be in trouble (modern)" }
+      ]
+    },
+    {
+      "title": "لولا for Reproach (التحضيض)",
+      "titleArabic": "لولا للتحضيض",
+      "content": [
+        "لولا can also be used for التحضيض (urging/reproaching), meaning 'why don't you?' or 'you should have'. In this usage, it's followed by a verb, not a noun.",
+        "لَوْلَا تَسْتَغْفِرُونَ اللهَ (Why don't you seek forgiveness from Allah?). This is different from the conditional usage."
+      ],
+      "keyPoints": [
+        "لولا + فعل مضارع = why don't you? (urging)",
+        "لولا + فعل ماضي = you should have (reproach)",
+        "Not conditional - expresses urging or blame",
+        "Common in Quran: لَوْلَا جَاءُوا عَلَيْهِ بِأَرْبَعَةِ شُهَدَاءَ"
+      ],
+      "examples": [
+        { "arabic": "لَوْلَا تَسْتَغْفِرُونَ اللهَ", "english": "Why don't you seek Allah's forgiveness?" },
+        { "arabic": "لَوْلَا جِئْتَنِي أَمْسِ", "english": "You should have come to me yesterday" },
+        { "arabic": "لَوْلَا أَخْبَرْتَنِي!", "english": "You should have told me!" },
+        { "arabic": "لَوْلَا تَصْدُقُونَ!", "english": "Why don't you speak the truth!" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l53-ex01",
+      "type": "fill-blank",
+      "prompt": "لَوْلَا _____ لَذَهَبْتُ",
+      "promptEn": "Were it not for the _____, I would have gone",
+      "answer": "الْمَطَرُ",
+      "itemIds": ["word-b3-369"]
+    },
+    {
+      "id": "b3-l53-ex02",
+      "type": "fill-blank",
+      "prompt": "لَوْلَا اللهُ _____",
+      "promptEn": "Were it not for Allah, we would have _____",
+      "answer": "لَهَلَكْنَا",
+      "itemIds": ["word-b3-370"]
+    },
+    {
+      "id": "b3-l53-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ مُسَاعَدَتُكَ لَفَشِلْتُ",
+      "promptEn": "_____ your help, I would have failed",
+      "answer": "لَوْلَا",
+      "itemIds": ["word-b3-371"]
+    },
+    {
+      "id": "b3-l53-ex04",
+      "type": "fill-blank",
+      "prompt": "لَوْلَا _____ لَمَا عَرَفْتُ الطَّرِيقَ",
+      "promptEn": "Were it not for _____, I wouldn't have known the way",
+      "answer": "أَنْتَ",
+      "itemIds": ["word-b3-372"]
+    },
+    {
+      "id": "b3-l53-ex05",
+      "type": "translate-to-arabic",
+      "prompt": "Were it not for hope, the heart would die",
+      "answer": "لَوْلَا الْأَمَلُ لَمَاتَ الْقَلْبُ",
+      "itemIds": ["word-b3-369"]
+    },
+    {
+      "id": "b3-l53-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "Were it not for water, agriculture would perish",
+      "answer": "لَوْلَا الْمَاءُ لَهَلَكَتِ الزِّرَاعَةُ",
+      "itemIds": ["word-b3-370"]
+    },
+    {
+      "id": "b3-l53-ex07",
+      "type": "translate-to-arabic",
+      "prompt": "Were it not for him, we would have gone astray",
+      "answer": "لَوْلَا هُوَ لَضَلَلْنَا",
+      "itemIds": ["word-b3-373"]
+    },
+    {
+      "id": "b3-l53-ex08",
+      "type": "translate-to-arabic",
+      "prompt": "You should have told me!",
+      "answer": "لَوْلَا أَخْبَرْتَنِي!",
+      "itemIds": ["word-b3-374"]
+    },
+    {
+      "id": "b3-l53-ex09",
+      "type": "word-to-meaning",
+      "prompt": "لَوْلَا",
+      "answer": "were it not for / if not for",
+      "itemIds": ["word-b3-369"]
+    },
+    {
+      "id": "b3-l53-ex10",
+      "type": "word-to-meaning",
+      "prompt": "امتناع لوجود",
+      "answer": "absence due to presence",
+      "itemIds": ["word-b3-371"]
+    },
+    {
+      "id": "b3-l53-ex11",
+      "type": "word-to-meaning",
+      "prompt": "التحضيض",
+      "answer": "urging / reproaching",
+      "itemIds": ["word-b3-374"]
+    },
+    {
+      "id": "b3-l53-ex12",
+      "type": "meaning-to-word",
+      "prompt": "the predicate is obligatorily deleted",
+      "answer": "الخَبَر مَحْذُوف وُجُوبًا",
+      "itemIds": ["word-b3-372"]
+    }
+  ]
+}

@@ -1,0 +1,166 @@
+{
+  "id": "b2-l23",
+  "book": 2,
+  "lesson": 23,
+  "title": "جَمْع المُذَكَّر السَّالِم",
+  "titleEn": "Sound Masculine Plural",
+  "vocabulary": [
+    "word-b2-121",
+    "word-b2-122",
+    "word-b2-123",
+    "word-b2-124",
+    "word-b2-125"
+  ],
+  "grammarPoints": ["gp-b2-023"],
+  "notes": [
+    {
+      "title": "Sound Masculine Plural (جمع المذكر السالم)",
+      "titleArabic": "جمع المذكر السالم",
+      "content": [
+        "The sound masculine plural (جمع المذكر السالم) is formed by adding ون (nominative) or ين (accusative/genitive) to masculine nouns referring to rational beings.",
+        "This plural is called 'sound' because the original word remains intact (the letters are preserved)."
+      ],
+      "keyPoints": [
+        "Nominative (مرفوع): ـونَ (e.g., مُعَلِّمُونَ)",
+        "Accusative/Genitive (منصوب/مجرور): ـينَ (e.g., مُعَلِّمِينَ)",
+        "Only for masculine, rational beings",
+        "The original noun's ending (tanwīn or ة) is removed before adding the suffix",
+        "Numbers 20-90 (العقود) follow the same pattern"
+      ],
+      "examples": [
+        { "arabic": "جَاءَ الْمُعَلِّمُونَ", "english": "The teachers came (nominative)" },
+        { "arabic": "رَأَيْتُ الْمُهَنْدِسِينَ", "english": "I saw the engineers (accusative)" },
+        { "arabic": "سَلَّمْتُ عَلَى الْمُسْلِمِينَ", "english": "I greeted the Muslims (genitive)" }
+      ]
+    },
+    {
+      "title": "Numbers 20-90 as Sound Masculine Plural",
+      "titleArabic": "العقود كجمع المذكر السالم",
+      "content": [
+        "The tens (عِشْرُونَ، ثَلَاثُونَ، etc.) follow the sound masculine plural pattern in their declension."
+      ],
+      "keyPoints": [
+        "Nominative: عِشْرُونَ، ثَلَاثُونَ، أَرْبَعُونَ",
+        "Accusative/Genitive: عِشْرِينَ، ثَلَاثِينَ، أَرْبَعِينَ",
+        "عِشْرُونَ طَالِبًا (twenty students - nominative)",
+        "رَأَيْتُ عِشْرِينَ طَالِبًا (I saw twenty students - accusative)"
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b2-l23-ex01",
+      "type": "fill-blank",
+      "prompt": "جَاءَ _____ (المُعَلِّمُونَ)",
+      "answer": "المُعَلِّمُونَ",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "I saw the engineers",
+      "answer": "رَأَيْتُ المُهَنْدِسِينَ",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex03",
+      "type": "fill-blank",
+      "prompt": "سَلَّمْتُ عَلَى _____ (المُسْلِمِينَ)",
+      "answer": "المُسْلِمِينَ",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex04",
+      "type": "word-to-meaning",
+      "prompt": "مُؤْمِنُونَ",
+      "answer": "believers (nom.)",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex05",
+      "type": "meaning-to-word",
+      "prompt": "workers (nom.)",
+      "answer": "عَامِلُونَ",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex06",
+      "type": "translate-to-arabic",
+      "prompt": "The teachers came",
+      "answer": "جَاءَ المُعَلِّمُونَ",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex07",
+      "type": "fill-blank",
+      "prompt": "هَؤُلاَءِ _____ مُجْتَهِدُونَ (الطَّالِبُونَ)",
+      "answer": "الطَّالِبُونَ",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex08",
+      "type": "word-to-meaning",
+      "prompt": "صَالِحِينَ",
+      "answer": "righteous (acc./gen.)",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex09",
+      "type": "translate-to-arabic",
+      "prompt": "Thirty students",
+      "answer": "ثَلاَثُونَ طَالِبًا",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex10",
+      "type": "fill-blank",
+      "prompt": "_____ أُسْتَاذًا فِي الجَامِعَةِ (عِشْرُونَ)",
+      "answer": "عِشْرُونَ",
+      "itemIds": [
+        "word-b2-121",
+        "word-b2-122"
+      ]
+    },
+    {
+      "id": "b2-l23-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The teachers went to the meeting",
+      "answer": "ذَهَبَ الْمُعَلِّمُونَ إِلَى الاِجْتِمَاعِ",
+      "itemIds": ["word-068", "word-b2-121", "word-048"]
+    },
+    {
+      "id": "b2-l23-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "I greeted the believers in the mosque",
+      "answer": "سَلَّمْتُ عَلَى الْمُؤْمِنِينَ فِي الْمَسْجِدِ",
+      "itemIds": ["word-b2-123", "word-047", "word-046", "word-007"]
+    }
+  ]
+}

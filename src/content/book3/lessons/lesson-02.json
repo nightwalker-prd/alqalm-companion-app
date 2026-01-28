@@ -1,0 +1,134 @@
+{
+  "id": "b3-l02",
+  "book": 3,
+  "lesson": 2,
+  "title": "الْفِعْلُ الْمَزِيد - بَاب فَعَّلَ",
+  "titleEn": "Derived Form II (فَعَّلَ)",
+  "description": "Learn Form II verbs with doubled middle letter: عَلَّمَ (to teach), كَسَّرَ (to shatter), فَرَّحَ (to make happy).",
+  "vocabulary": ["word-b3-005", "word-b3-006", "word-b3-007", "word-b3-008", "word-b3-009"],
+  "grammarPoints": ["gp-b3-002"],
+  "notes": [
+    {
+      "title": "The Letter Wāw (و)",
+      "titleArabic": "حرف الواو",
+      "content": [
+        "The letter wāw has multiple uses in Arabic. It can be a letter within a word, a conjunction meaning 'and', a preposition for oaths meaning 'by', or wāw al-ḥāl prefixed to a nominal sentence describing circumstances."
+      ],
+      "keyPoints": [
+        "As a letter: وَلَدٌ (walad - boy)",
+        "As conjunction (حرف العطف): خرج الزبير وحامد (Zubair and Hamid went out)",
+        "As oath preposition: واللهِ ما رأيته (By Allah, I did not see him)",
+        "As wāw al-ḥāl: دخلت المسجد والإمام يركع (I entered the mosque while the imam was bowing)"
+      ],
+      "examples": [
+        { "arabic": "خرج الزبير وحامد", "english": "Zubair and Hamid went out" },
+        { "arabic": "دخلت المسجد والإمام يركع", "english": "I entered the mosque while the imam was bowing" }
+      ]
+    },
+    {
+      "title": "Form II Verbs (فَعَّلَ)",
+      "titleArabic": "باب فَعَّلَ",
+      "content": [
+        "Form II verbs are formed by doubling the middle radical of a triliteral verb. This pattern often indicates intensive or causative action - making someone do something or doing something extensively."
+      ],
+      "keyPoints": [
+        "Pattern: فَعَّلَ (fa''ala) with doubled middle letter",
+        "Often causative: عَلِمَ (to know) → عَلَّمَ (to teach/make know)",
+        "Can be intensive: كَسَرَ (to break) → كَسَّرَ (to shatter/break into pieces)",
+        "Maṣdar pattern: تَفْعِيل (taf'īl)"
+      ],
+      "examples": [
+        { "arabic": "عَلَّمَ", "english": "to teach (causative of 'to know')" },
+        { "arabic": "كَسَّرَ", "english": "to shatter (intensive of 'to break')" },
+        { "arabic": "فَرَّحَ", "english": "to make happy (causative)" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l02-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher taught the students",
+      "answer": "عَلَّمَ الْمُدَرِّسُ الطُّلَّابَ",
+      "itemIds": ["word-b3-005", "word-004", "word-b2-019"]
+    },
+    {
+      "id": "b3-l02-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "He broke the glass",
+      "answer": "كَسَّرَ الزُّجَاجَ",
+      "itemIds": ["word-b3-006", "word-b3-010"]
+    },
+    {
+      "id": "b3-l02-ex03",
+      "type": "fill-blank",
+      "prompt": "_____ الْأُمُّ ابْنَهَا",
+      "promptEn": "The mother made her son happy",
+      "answer": "فَرَّحَتْ",
+      "itemIds": ["word-b3-007"]
+    },
+    {
+      "id": "b3-l02-ex04",
+      "type": "word-to-meaning",
+      "prompt": "عَلَّمَ",
+      "answer": "to teach",
+      "itemIds": ["word-b3-005"]
+    },
+    {
+      "id": "b3-l02-ex05",
+      "type": "word-to-meaning",
+      "prompt": "كَسَّرَ",
+      "answer": "to shatter / break into pieces",
+      "itemIds": ["word-b3-006"]
+    },
+    {
+      "id": "b3-l02-ex06",
+      "type": "word-to-meaning",
+      "prompt": "فَرَّحَ",
+      "answer": "to make happy",
+      "itemIds": ["word-b3-007"]
+    },
+    {
+      "id": "b3-l02-ex07",
+      "type": "word-to-meaning",
+      "prompt": "نَظَّفَ",
+      "answer": "to clean",
+      "itemIds": ["word-b3-008"]
+    },
+    {
+      "id": "b3-l02-ex08",
+      "type": "word-to-meaning",
+      "prompt": "قَدَّمَ",
+      "answer": "to present / offer",
+      "itemIds": ["word-b3-009"]
+    },
+    {
+      "id": "b3-l02-ex09",
+      "type": "meaning-to-word",
+      "prompt": "to teach (Form II)",
+      "answer": "عَلَّمَ",
+      "itemIds": ["word-b3-005"]
+    },
+    {
+      "id": "b3-l02-ex10",
+      "type": "meaning-to-word",
+      "prompt": "to clean (Form II)",
+      "answer": "نَظَّفَ",
+      "itemIds": ["word-b3-008"]
+    },
+    {
+      "id": "b3-l02-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "The teacher taught the students Arabic in the classroom",
+      "answer": "عَلَّمَ الْمُدَرِّسُ الطُّلَّابَ الْعَرَبِيَّةَ فِي الْفَصْلِ",
+      "itemIds": ["word-b3-005", "word-004", "word-b2-019", "word-019", "word-046", "word-b2-001"]
+    },
+    {
+      "id": "b3-l02-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "She cleaned the room before the guests arrived",
+      "answer": "نَظَّفَتِ الْغُرْفَةَ قَبْلَ وُصُولِ الضُّيُوفِ",
+      "itemIds": ["word-b3-008", "word-b2-090"]
+    }
+  ]
+}

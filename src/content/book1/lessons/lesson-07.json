@@ -1,0 +1,125 @@
+{
+  "id": "b1-l07",
+  "book": 1,
+  "lesson": 7,
+  "title": "الإِضَافَة",
+  "titleEn": "Possessive Construction",
+  "description": "Learn how Arabic expresses possession by placing two nouns together (idaafa). 'بَيْتُ الرَّجُلِ' means 'the man's house'.",
+  "vocabulary": ["word-040", "word-041", "word-042", "word-043", "word-044", "word-045"],
+  "grammarPoints": ["gp-011", "gp-012"],
+  "notes": [
+    {
+      "title": "The Possessive Construction (Idafa)",
+      "titleArabic": "الإِضَافَة",
+      "content": [
+        "Arabic expresses possession by placing two nouns together. The first noun (mudāf) is the thing possessed, and the second (mudāf ilayhi) is the possessor.",
+        "In an idafa construction, the first noun loses its tanwīn and takes a simple damma, while the second noun takes kasra (genitive case). The first noun is made definite by its relationship to the second."
+      ],
+      "keyPoints": [
+        "The possessor comes after the possessed: بَيْتُ الرَّجُلِ (the man's house)",
+        "The first noun (mudāf) never takes ال or tanwīn",
+        "The second noun (mudāf ilayhi) is in the genitive case (-i ending)",
+        "The entire phrase is definite if the second noun is definite"
+      ],
+      "examples": [
+        { "arabic": "بَيْتُ الرَّجُلِ", "english": "the man's house" },
+        { "arabic": "كِتَابُ الْمُدَرِّسِ", "english": "the teacher's book" },
+        { "arabic": "بَابُ الْمَسْجِدِ", "english": "the door of the mosque" },
+        { "arabic": "مِفْتَاحُ السَّيَّارَةِ", "english": "the car's key" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b1-l07-ex01",
+      "type": "translate-to-arabic",
+      "prompt": "the man's house",
+      "answer": "بَيْتُ الرَّجُلِ",
+      "itemIds": ["word-006", "word-024"]
+    },
+    {
+      "id": "b1-l07-ex02",
+      "type": "translate-to-arabic",
+      "prompt": "the teacher's book",
+      "answer": "كِتَابُ الْمُدَرِّسِ",
+      "itemIds": ["word-002", "word-018"]
+    },
+    {
+      "id": "b1-l07-ex03",
+      "type": "translate-to-arabic",
+      "prompt": "the student's pen",
+      "answer": "قَلَمُ الطَّالِبِ",
+      "itemIds": ["word-003", "word-017"]
+    },
+    {
+      "id": "b1-l07-ex04",
+      "type": "translate-to-arabic",
+      "prompt": "the door of the mosque",
+      "answer": "بَابُ الْمَسْجِدِ",
+      "itemIds": ["word-005", "word-007"]
+    },
+    {
+      "id": "b1-l07-ex05",
+      "type": "word-to-meaning",
+      "prompt": "اِبْنٌ",
+      "answer": "son",
+      "itemIds": ["word-040"]
+    },
+    {
+      "id": "b1-l07-ex06",
+      "type": "word-to-meaning",
+      "prompt": "أَبٌ",
+      "answer": "father",
+      "itemIds": ["word-041"]
+    },
+    {
+      "id": "b1-l07-ex07",
+      "type": "word-to-meaning",
+      "prompt": "اِسْمٌ",
+      "answer": "name",
+      "itemIds": ["word-042"]
+    },
+    {
+      "id": "b1-l07-ex08",
+      "type": "meaning-to-word",
+      "prompt": "son",
+      "answer": "اِبْنٌ",
+      "itemIds": ["word-040"]
+    },
+    {
+      "id": "b1-l07-ex09",
+      "type": "meaning-to-word",
+      "prompt": "father",
+      "answer": "أَبٌ",
+      "itemIds": ["word-041"]
+    },
+    {
+      "id": "b1-l07-ex10",
+      "type": "meaning-to-word",
+      "prompt": "friend",
+      "answer": "صَدِيقٌ",
+      "itemIds": ["word-044"]
+    },
+    {
+      "id": "b1-l07-ex11",
+      "type": "translate-to-arabic",
+      "prompt": "This is the student's book",
+      "answer": "هَذَا كِتَابُ الطَّالِبِ",
+      "itemIds": ["word-001", "word-002", "word-005"]
+    },
+    {
+      "id": "b1-l07-ex12",
+      "type": "translate-to-arabic",
+      "prompt": "That is the door of the house",
+      "answer": "ذَلِكَ بَابُ الْبَيْتِ",
+      "itemIds": ["word-010", "word-044", "word-006"]
+    },
+    {
+      "id": "b1-l07-ex13",
+      "type": "translate-to-arabic",
+      "prompt": "This is the key of the car",
+      "answer": "هَذَا مِفْتَاحُ السَّيَّارَةِ",
+      "itemIds": ["word-001", "word-045", "word-032"]
+    }
+  ]
+}

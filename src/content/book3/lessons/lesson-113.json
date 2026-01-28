@@ -1,0 +1,224 @@
+{
+  "id": "b3-l113",
+  "book": 3,
+  "lesson": 113,
+  "title": "الْوَقْف وَالابْتِدَاء",
+  "titleEn": "Pause and Continuation (الوقف والابتداء)",
+  "description": "Learn about الوقف والابتداء - the rules of pausing and starting in Arabic recitation, including هاء السكت and types of وقف.",
+  "vocabulary": ["word-b3-693", "word-b3-694", "word-b3-695", "word-b3-696", "word-b3-697"],
+  "grammarPoints": ["gp-b3-188", "gp-b3-189"],
+  "notes": [
+    {
+      "title": "What is الوقف?",
+      "titleArabic": "مَا هُوَ الْوَقْفُ؟",
+      "content": [
+        "الوَقْف is pausing or stopping during recitation or speech. In Arabic, certain changes occur at the pause: tanween becomes sukoon, final vowels may drop, and هاء السكت may be added.",
+        "Understanding وقف is essential for proper Quranic recitation and classical Arabic pronunciation."
+      ],
+      "keyPoints": [
+        "Pausing in recitation",
+        "Changes occur at pause",
+        "Tanween → sukoon",
+        "Essential for Quran"
+      ],
+      "examples": [
+        { "arabic": "كِتَابٌ → كِتَابْ (في الوقف)", "english": "kitaabun → kitaab (when pausing)" },
+        { "arabic": "رَأَيْتُ زَيْدًا → رَأَيْتُ زَيْدَا / زَيْدْ", "english": "Zayd changes at pause" },
+        { "arabic": "الْحَمْدُ لِلَّهِ → الْحَمْدُ لِلَّهْ (في الوقف)", "english": "lillahi → lillah (pause)" },
+        { "arabic": "الْوَقْفُ سُكُونٌ", "english": "Pause is sukoon" }
+      ]
+    },
+    {
+      "title": "أنواع الوقف",
+      "titleArabic": "أَنْوَاعُ الْوَقْفِ",
+      "content": [
+        "الوقف is divided into: وَقْف تَامّ (complete - meaning is complete), وَقْف كَافٍ (sufficient - meaning is mostly complete), وَقْف حَسَن (good - grammatically sound), وَقْف قَبِيح (ugly - breaks meaning).",
+        "These categories help reciters know where they can pause without distorting meaning."
+      ],
+      "keyPoints": [
+        "وقف تام: complete meaning",
+        "وقف كافٍ: mostly complete",
+        "وقف حسن: grammatically sound",
+        "وقف قبيح: breaks meaning"
+      ],
+      "examples": [
+        { "arabic": "الْحَمْدُ لِلَّهِ رَبِّ الْعَالَمِينَ ○ (تام)", "english": "End of verse (complete pause)" },
+        { "arabic": "بِسْمِ اللهِ (كافٍ)", "english": "In the name of Allah (sufficient)" },
+        { "arabic": "إِيَّاكَ (حسن إن كان مضطراً)", "english": "You alone (good if necessary)" },
+        { "arabic": "بِسْمِ × (قبيح - لا يُوقف)", "english": "In the name of × (don't pause here)" }
+      ]
+    },
+    {
+      "title": "هاء السكت",
+      "titleArabic": "هَاءُ السَّكْتِ",
+      "content": [
+        "هَاء السَّكْت is a هاء added at the end of certain words when pausing to preserve the vowel sound. It's added to words ending in a vowel that would be lost.",
+        "Common with: مَا الاستفهامية المجرورة (عَمَّهْ، لِمَهْ، بِمَهْ), الأمر من الناقص (قِهْ، عِهْ), and some other forms."
+      ],
+      "keyPoints": [
+        "هاء added at pause",
+        "Preserves final vowel",
+        "عَمَّ → عَمَّهْ",
+        "قِ → قِهْ"
+      ],
+      "examples": [
+        { "arabic": "عَمَّ يَتَسَاءَلُونَ → عَمَّهْ (في الوقف)", "english": "'amma → 'ammah (with ha' al-sakt)" },
+        { "arabic": "فِيمَ أَنْتَ → فِيمَهْ", "english": "feema → feemah" },
+        { "arabic": "لِمَ فَعَلْتَ → لِمَهْ", "english": "lima → limah" },
+        { "arabic": "قِ نَفْسَكَ → قِهْ", "english": "qi (protect) → qih" }
+      ]
+    },
+    {
+      "title": "الابتداء",
+      "titleArabic": "الابْتِدَاءُ",
+      "content": [
+        "الابتِدَاء is starting or resuming speech/recitation. One should start from a place that gives complete meaning. Starting from middle of a phrase can distort meaning.",
+        "In Quranic recitation, one should not start from a word that gives wrong meaning if taken alone."
+      ],
+      "keyPoints": [
+        "Starting/resuming speech",
+        "Start from complete meaning",
+        "Don't distort meaning",
+        "Important for Quran"
+      ],
+      "examples": [
+        { "arabic": "لَا تَبْدَأْ بِـ«لَا إِلَهَ» ثُمَّ تَقِفْ", "english": "Don't start with 'no god' then stop" },
+        { "arabic": "ابْتَدِئْ: «لَا إِلَهَ إِلَّا اللهُ»", "english": "Start: 'There is no god but Allah'" },
+        { "arabic": "لَا تَبْتَدِئْ بِـ«إِنَّ اللهَ فَقِيرٌ»", "english": "Don't start with 'Allah is poor' (out of context)" },
+        { "arabic": "الابْتِدَاءُ يَحْتَاجُ إِلَى تَمَامِ الْمَعْنَى", "english": "Starting needs complete meaning" }
+      ]
+    },
+    {
+      "title": "رموز الوقف في المصحف",
+      "titleArabic": "رُمُوزُ الْوَقْفِ فِي الْمُصْحَفِ",
+      "content": [
+        "The mushaf contains symbols indicating pause types: ⁠م (وقف لازم - obligatory), ج (وقف جائز - permissible), صلى (الوصل أولى - connection preferred), قلى (الوقف أولى - pause preferred), لا (لا تقف - don't pause).",
+        "These help reciters pause at appropriate places."
+      ],
+      "keyPoints": [
+        "م = وقف لازم",
+        "ج = جائز",
+        "صلى = الوصل أولى",
+        "لا = لا تقف"
+      ],
+      "examples": [
+        { "arabic": "م: يَجِبُ الْوَقْفُ", "english": "م: obligatory pause" },
+        { "arabic": "ج: يَجُوزُ الْوَقْفُ وَالْوَصْلُ", "english": "ج: pause or continue allowed" },
+        { "arabic": "صلى: الْوَصْلُ أَفْضَلُ", "english": "صلى: better to continue" },
+        { "arabic": "لا: لَا تَقِفْ هُنَا", "english": "لا: don't pause here" }
+      ]
+    },
+    {
+      "title": "الوقف في التجويد",
+      "titleArabic": "الْوَقْفُ فِي التَّجْوِيدِ",
+      "content": [
+        "In tajweed, الوقف has specific rules: إِسْكَان (making sukoon), الرَّوْم (slight vowel), الإِشْمَام (lip rounding for dammah). These affect how the final sound is pronounced.",
+        "الإسكان is the standard; الروم and الإشمام are optional refinements used by some reciters."
+      ],
+      "keyPoints": [
+        "الإسكان: full sukoon (default)",
+        "الروم: slight vowel hint",
+        "الإشمام: lip rounding",
+        "Tajweed refinements"
+      ],
+      "examples": [
+        { "arabic": "نَسْتَعِينُ → نَسْتَعِينْ (إسكان)", "english": "nasta'een → nasta'een (sukoon)" },
+        { "arabic": "نَسْتَعِينُ → نَسْتَعِينُـ (روم)", "english": "With slight 'u' hint (rawm)" },
+        { "arabic": "نَسْتَعِينُ → نَسْتَعِينْ° (إشمام)", "english": "With lip rounding (ishmaam)" },
+        { "arabic": "الرَّوْمُ لَا يَكُونُ فِي الْفَتْحَةِ", "english": "Rawm is not for fathah" }
+      ]
+    }
+  ],
+  "exercises": [
+    {
+      "id": "b3-l113-ex01",
+      "type": "fill-blank",
+      "prompt": "الْوَقْفُ هُوَ _____ عِنْدَ الْقِرَاءَةِ",
+      "promptEn": "الوقف is _____ during recitation",
+      "answer": "السُّكُوتُ / التَّوَقُّفُ",
+      "itemIds": ["word-b3-693"]
+    },
+    {
+      "id": "b3-l113-ex02",
+      "type": "fill-blank",
+      "prompt": "الْوَقْفُ الَّذِي يَتِمُّ فِيهِ الْمَعْنَى يُسَمَّى الْوَقْفَ _____",
+      "promptEn": "A pause where the meaning is complete is called وقف _____",
+      "answer": "التَّامَّ / الْكَامِلَ",
+      "itemIds": ["word-b3-694"]
+    },
+    {
+      "id": "b3-l113-ex03",
+      "type": "fill-blank",
+      "prompt": "هَاءُ _____ تُضَافُ فِي آخِرِ بَعْضِ الْكَلِمَاتِ عِنْدَ الْوَقْفِ",
+      "promptEn": "هاء _____ is added at the end of some words when pausing",
+      "answer": "السَّكْتِ",
+      "itemIds": ["word-b3-695"]
+    },
+    {
+      "id": "b3-l113-ex04",
+      "type": "fill-blank",
+      "prompt": "«عَمَّ» تَصِيرُ «عَمَّهْ» بِإِضَافَةِ هَاءِ _____",
+      "promptEn": "'amma' becomes 'ammah' by adding هاء _____",
+      "answer": "السَّكْتِ",
+      "itemIds": ["word-b3-695"]
+    },
+    {
+      "id": "b3-l113-ex05",
+      "type": "fill-blank",
+      "prompt": "رَمْزُ «م» فِي الْمُصْحَفِ يَعْنِي الْوَقْفَ _____",
+      "promptEn": "The symbol 'م' in the mushaf means _____ pause",
+      "answer": "اللَّازِمَ / الْوَاجِبَ",
+      "itemIds": ["word-b3-696"]
+    },
+    {
+      "id": "b3-l113-ex06",
+      "type": "fill-blank",
+      "prompt": "_____ هُوَ الْبَدْءُ بِالْقِرَاءَةِ بَعْدَ الْوَقْفِ",
+      "promptEn": "_____ is starting to read after a pause",
+      "answer": "الابْتِدَاءُ",
+      "itemIds": ["word-b3-697"]
+    },
+    {
+      "id": "b3-l113-ex07",
+      "type": "word-to-meaning",
+      "prompt": "الْوَقْفُ التَّامُّ",
+      "answer": "Complete pause (meaning is complete)",
+      "itemIds": ["word-b3-694"]
+    },
+    {
+      "id": "b3-l113-ex08",
+      "type": "word-to-meaning",
+      "prompt": "هَاءُ السَّكْتِ",
+      "answer": "Pause-marking ha (added at end when pausing)",
+      "itemIds": ["word-b3-695"]
+    },
+    {
+      "id": "b3-l113-ex09",
+      "type": "word-to-meaning",
+      "prompt": "الْوَقْفُ الْقَبِيحُ",
+      "answer": "Ugly pause (distorts meaning, should be avoided)",
+      "itemIds": ["word-b3-693"]
+    },
+    {
+      "id": "b3-l113-ex10",
+      "type": "meaning-to-word",
+      "prompt": "Starting or resuming recitation",
+      "answer": "الابْتِدَاءُ",
+      "itemIds": ["word-b3-697"]
+    },
+    {
+      "id": "b3-l113-ex11",
+      "type": "meaning-to-word",
+      "prompt": "Pause where meaning is mostly complete",
+      "answer": "الْوَقْفُ الْكَافِي",
+      "itemIds": ["word-b3-694"]
+    },
+    {
+      "id": "b3-l113-ex12",
+      "type": "meaning-to-word",
+      "prompt": "Slight vowel hint when pausing (tajweed)",
+      "answer": "الرَّوْمُ",
+      "itemIds": ["word-b3-696"]
+    }
+  ]
+}
